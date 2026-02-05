@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Aanmelden GS</title>
+    <title>Kennismaken</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -27,6 +27,15 @@
             </div>
             
             <div class="custom-controls">
+                <button id="controlPlayBtn" class="control-btn">
+                    <svg class="play-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                    </svg>
+                    <svg class="pause-icon hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <rect x="6" y="4" width="4" height="16"></rect>
+                        <rect x="14" y="4" width="4" height="16"></rect>
+                    </svg>
+                </button>
                 <button id="muteButton" class="control-btn">
                     <svg class="sound-on" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
@@ -60,18 +69,17 @@
         
         <div class="card callback-form hidden" id="callbackForm">
             <h2>Laat je nummer achter</h2>
-            <p class="form-subtitle">Ik bel je zo snel mogelijk terug</p>
+            <p class="form-subtitle">Ik bel je zo snel mogelijk op</p>
             <form id="registrationForm">
                 <div class="form-group">
                     <input type="tel" id="phone" name="phone" placeholder="+32 4XX XX XX XX" title="Voer een geldig Belgisch GSM nummer in (bv. +32 470 08 98 88 of 0470089888)" required>
                 </div>
                 
-                <button type="submit" class="btn-submit">Bel me terug</button>
+                <button type="submit" class="btn-submit">Bel me op</button>
             </form>
             
             <div id="message" class="message hidden"></div>
         </div>
-        
     </div>
     
     <script src="script.js"></script>

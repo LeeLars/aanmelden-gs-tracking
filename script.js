@@ -335,54 +335,40 @@ class AnalyticsTracker {
 }
 
 let tracker = null;
-
-const heroVideo = document.getElementById('heroVideo');
 const playButton = document.getElementById('playButton');
 const muteButton = document.getElementById('muteButton');
 const progressBar = document.querySelector('.progress-bar');
-const progressFill = document.getElementById('progress');
-const playIcon = document.querySelector('.play-icon');
-const pauseIcon = document.querySelector('.pause-icon');
-const soundOn = document.querySelector('.sound-on');
-const soundOff = document.querySelector('.sound-off');
+const progress = document.getElementById('progress');
 const videoOverlay = document.querySelector('.video-overlay');
 const customControls = document.querySelector('.custom-controls');
+const playIcons = document.querySelectorAll('.play-icon');
+const pauseIcons = document.querySelectorAll('.pause-icon');
+const soundOn = document.querySelector('.sound-on');
+const soundOff = document.querySelector('.sound-off');
+const controlPlayBtn = document.getElementById('controlPlayBtn');
 
-const registrationForm = document.getElementById('registrationForm');
-const messageDiv = document.getElementById('message');
-const registrationList = document.getElementById('registrationList');
-
-let registrations = [];
 let isPlaying = false;
+let controlsTimeout;
 
-function togglePlay() {
+function togglePlay(e) {
+    if (e) e.stopPropagation();
+    
     if (isPlaying) {
         heroVideo.pause();
-        playIcon.classList.remove('hidden');
-        pauseIcon.classList.add('hidden');
+        isPlaying = false;
+        playIcons.forEach(icon => icon.classList.remove('hidden'));
+        pauseIcons.forEach(icon => icon.classList.add('hidden'));
         videoOverlay.classList.remove('hide');
-        customControls.classList.remove('hide');
+        if (tracker) tracker.trackVideoEvent('pause', heroVideo);
     } else {
         heroVideo.play();
-        playIcon.classList.add('hidden');
-        pauseIcon.classList.remove('hidden');
+        isPlaying = true;
+        playIcons.forEach(icon => icon.classList.add('hidden'));
+        pauseIcons.forEach(icon => icon.classList.remove('hidden'));
         videoOverlay.classList.add('hide');
-        customControls.classList.add('hide');
+        if (tracker) tracker.trackVideoEvent('play', heroVideo);
     }
-    isPlaying = !isPlaying;
 }
-
-heroVideo.addEventListener('play', () => {
-    if (tracker) tracker.trackVideoEvent('play', heroVideo);
-});
-
-heroVideo.addEventListener('pause', () => {
-    if (tracker) tracker.trackVideoEvent('pause', heroVideo);
-});
-
-heroVideo.addEventListener('timeupdate', () => {
-    if (tracker) tracker.updateVideoWatchTime(heroVideo);
-});
 
 function toggleMute() {
     heroVideo.muted = !heroVideo.muted;
@@ -395,22 +381,10 @@ function toggleMute() {
     }
 }
 
-function showControls() {
-    if (isPlaying) {
-        videoOverlay.classList.remove('hide');
-        customControls.classList.remove('hide');
-        setTimeout(() => {
-            if (isPlaying) {
-                videoOverlay.classList.add('hide');
-                customControls.classList.add('hide');
-            }
-        }, 3000);
-    }
-}
-
 function updateProgress() {
-    const progress = (heroVideo.currentTime / heroVideo.duration) * 100;
-    progressFill.style.width = progress + '%';
+    const percentage = (heroVideo.currentTime / heroVideo.duration) * 100;
+    progress.style.width = percentage + '%';
+    if (tracker) tracker.updateVideoWatchTime(heroVideo);
 }
 
 function seekVideo(e) {
@@ -419,7 +393,18 @@ function seekVideo(e) {
     heroVideo.currentTime = pos * heroVideo.duration;
 }
 
+function showControls() {
+    customControls.classList.remove('hide');
+    clearTimeout(controlsTimeout);
+    controlsTimeout = setTimeout(() => {
+        if (isPlaying) {
+            customControls.classList.add('hide');
+        }
+    }, 3000);
+}
+
 playButton.addEventListener('click', togglePlay);
+if (controlPlayBtn) controlPlayBtn.addEventListener('click', togglePlay);
 muteButton.addEventListener('click', toggleMute);
 heroVideo.addEventListener('timeupdate', updateProgress);
 progressBar.addEventListener('click', seekVideo);
@@ -429,8 +414,8 @@ document.querySelector('.video-header').addEventListener('touchstart', showContr
 
 heroVideo.addEventListener('ended', () => {
     isPlaying = false;
-    playIcon.classList.remove('hidden');
-    pauseIcon.classList.add('hidden');
+    playIcons.forEach(icon => icon.classList.remove('hidden'));
+    pauseIcons.forEach(icon => icon.classList.add('hidden'));
     videoOverlay.classList.remove('hide');
     customControls.classList.remove('hide');
     if (tracker) tracker.trackVideoEvent('ended', heroVideo);
@@ -439,8 +424,8 @@ heroVideo.addEventListener('ended', () => {
 window.addEventListener('load', () => {
     // Video starts muted due to autoplay attribute
     isPlaying = true;
-    playIcon.classList.add('hidden');
-    pauseIcon.classList.remove('hidden');
+    playIcons.forEach(icon => icon.classList.add('hidden'));
+    pauseIcons.forEach(icon => icon.classList.remove('hidden'));
     videoOverlay.classList.add('hide');
     
     // Try to unmute immediately

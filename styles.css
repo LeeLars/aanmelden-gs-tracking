@@ -155,20 +155,19 @@
 
 /* Primary Action - WhatsApp */
 .primary-cta {
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     gap: 12px;
-    width: 100%;
-    padding: 18px 24px;
-    background-color: #2dd5a4;
-    color: #fff;
+    background-color: #25D366;
+    color: white;
+    padding: 18px 32px;
+    border-radius: 16px;
     text-decoration: none;
     border-radius: 12px;
     font-weight: 600;
     font-size: 1.1rem;
     transition: background-color 0.2s ease, transform 0.1s ease;
-    border: none;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Neutral shadow */
 }
 
