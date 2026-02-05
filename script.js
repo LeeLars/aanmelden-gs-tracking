@@ -1,7 +1,7 @@
 class AnalyticsTracker {
     constructor() {
         this.sessionId = this.getOrCreateSessionId();
-        this.apiUrl = window.ANALYTICS_API_URL || (window.location.hostname === 'localhost' ? 'http://localhost:3000/api/track' : null);
+        this.apiUrl = window.ANALYTICS_API_URL || (window.location.hostname === 'localhost' ? 'http://localhost:3000/api/track' : 'https://aanmelden-gs-tracking-production.up.railway.app/api/track');
         this.startTime = Date.now();
         this.videoWatchTime = 0;
         this.videoStartTime = null;
