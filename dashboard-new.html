@@ -481,14 +481,55 @@
         </header>
 
         <div class="tabs">
-            <button class="tab active" data-tab="phones">Opbelverzoeken <span class="badge" id="phoneBadge">0</span></button>
-            <button class="tab" data-tab="overview">Overzicht</button>
+            <button class="tab active" data-tab="global">Globaal Overzicht</button>
+            <button class="tab" data-tab="phones">Opbelverzoeken <span class="badge" id="phoneBadge">0</span></button>
+            <button class="tab" data-tab="overview">Detail Overzicht</button>
             <button class="tab" data-tab="visitors">Bezoekers</button>
             <button class="tab" data-tab="video">Video</button>
         </div>
 
+        <!-- GLOBAAL OVERZICHT TAB -->
+        <div id="global" class="tab-content active">
+            <div class="section-header">
+                <h2>Globaal Overzicht</h2>
+                <p>In één oogopslag zien hoe alles presteert</p>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-card highlight">
+                    <div class="label">Totaal Acties</div>
+                    <div class="value" id="globalTotalActions">0</div>
+                    <div class="hint">Opbelverzoeken + WhatsApp</div>
+                </div>
+                <div class="stat-card">
+                    <div class="label">Conversie</div>
+                    <div class="value" id="globalConversion">0%</div>
+                    <div class="hint">Van bezoeker naar lead</div>
+                </div>
+                <div class="stat-card">
+                    <div class="label">Bezoekers Vandaag</div>
+                    <div class="value" id="globalVisitorsToday">0</div>
+                    <div class="hint">Nieuwe bezoekers sinds middernacht</div>
+                </div>
+                <div class="stat-card">
+                    <div class="label">Kwaliteit Bezoek</div>
+                    <div class="value" id="globalQualityScore">-</div>
+                    <div class="hint">Score o.b.v. tijd & interactie</div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>Recente Activiteit</h3>
+                <div id="globalActivityList" class="journey-list">
+                    <div class="empty-state">
+                        <div class="icon">Laden...</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <!-- OPBELVERZOEKEN TAB -->
-        <div id="phones" class="tab-content active">
+        <div id="phones" class="tab-content">
             <div class="section-header">
                 <h2>Opbelverzoeken</h2>
                 <p>Mensen die hun nummer hebben achtergelaten om opgebeld te worden</p>
@@ -711,6 +752,7 @@
         async loadAllData() {
             try {
                 await Promise.all([
+                    this.loadGlobalOverview(),
                     this.loadPhones(),
                     this.loadOverview(),
                     this.loadSessions(),
@@ -720,6 +762,94 @@
             } catch (error) {
                 console.error('Error loading data:', error);
             }
+        }
+
+        async loadGlobalOverview() {
+            try {
+                const [overviewRes, sessionsRes, submissionsRes] = await Promise.all([
+                    fetch(`${this.apiUrl}/overview`),
+                    fetch(`${this.apiUrl}/sessions`),
+                    fetch(`${this.apiUrl}/form-submissions`)
+                ]);
+
+                const overviewData = await overviewRes.json();
+                const sessionsData = await sessionsRes.json();
+                const submissionsData = await submissionsRes.json();
+
+                // Calculate total actions
+                const whatsappClicks = overviewData.clicksByType.find(c => c.button_type === 'whatsapp');
+                const whatsappCount = whatsappClicks ? whatsappClicks.count : 0;
+                const totalActions = (overviewData.totalForms || 0) + whatsappCount;
+                
+                document.getElementById('globalTotalActions').textContent = totalActions;
+
+                // Calculate conversion
+                const conversionRate = overviewData.totalSessions > 0 
+                    ? ((totalActions / overviewData.totalSessions) * 100).toFixed(1) 
+                    : 0;
+                document.getElementById('globalConversion').textContent = `${conversionRate}%`;
+
+                // Visitors today
+                const today = new Date().toDateString();
+                const visitorsToday = sessionsData.filter(s => new Date(s.timestamp).toDateString() === today).length;
+                document.getElementById('globalVisitorsToday').textContent = visitorsToday;
+
+                // Quality Score (simple algorithm)
+                const avgTime = overviewData.avgActiveTime || 0;
+                const scrollDepth = overviewData.avgScrollDepth || 0;
+                let qualityScore = 'Laag';
+                
+                if (avgTime > 60 && scrollDepth > 70) qualityScore = 'Hoog';
+                else if (avgTime > 30 || scrollDepth > 50) qualityScore = 'Gemiddeld';
+                
+                const scoreElement = document.getElementById('globalQualityScore');
+                scoreElement.textContent = qualityScore;
+                scoreElement.style.color = qualityScore === 'Hoog' ? '#2dd5a4' : (qualityScore === 'Gemiddeld' ? '#f59e0b' : '#ef4444');
+
+                // Render Activity Feed
+                this.renderGlobalActivity(sessionsData, submissionsData);
+
+            } catch (error) {
+                console.error('Error loading global overview:', error);
+            }
+        }
+
+        renderGlobalActivity(sessions, submissions) {
+            const container = document.getElementById('globalActivityList');
+            const activities = [];
+
+            // Add sessions
+            sessions.slice(0, 5).forEach(s => {
+                activities.push({
+                    type: 'visit',
+                    timestamp: new Date(s.timestamp),
+                    details: `${this.parseDevice(s.user_agent)} bezocht de pagina`,
+                    icon: '👀'
+                });
+            });
+
+            // Add submissions
+            submissions.slice(0, 5).forEach(s => {
+                activities.push({
+                    type: 'submission',
+                    timestamp: new Date(s.timestamp),
+                    details: `Nieuw opbelverzoek: ${s.phone}`,
+                    icon: '📞'
+                });
+            });
+
+            // Sort by time desc
+            activities.sort((a, b) => b.timestamp - a.timestamp);
+
+            container.innerHTML = activities.slice(0, 8).map(a => `
+                <div class="journey-item">
+                    <div style="font-size: 1.5rem; margin-right: 15px;">${a.icon}</div>
+                    <div class="journey-content">
+                        <div class="journey-action">${a.details}</div>
+                        <div class="journey-time">${a.timestamp.toLocaleString('nl-NL')}</div>
+                    </div>
+                </div>
+            `).join('');
         }
         
         async loadPhones() {
