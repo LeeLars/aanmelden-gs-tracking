@@ -713,8 +713,11 @@
             </div>
 
             <div class="card" style="background: #ffffff; border: 1px solid #e2e8f0; overflow: hidden;">
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-                    <h3>Bezoekers Live View</h3>
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 10px;">
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <h3 style="margin: 0;">Bezoekers Live View</h3>
+                        <span id="mapDataIndicator" class="demo-badge" style="display: none; background: #fef3c7; color: #92400e; padding: 4px 10px; border-radius: 20px; font-size: 0.75rem; font-weight: 600;">Demo Data</span>
+                    </div>
                     <div style="display: flex; gap: 15px; font-size: 0.85rem;">
                         <div style="display: flex; align-items: center; gap: 6px;">
                             <span style="width: 8px; height: 8px; background: #8b5cf6; border-radius: 50%; box-shadow: 0 0 8px #8b5cf6;"></span>
@@ -1513,12 +1516,40 @@
             }
 
             const dotsContainer = document.getElementById('visitorDots');
-            if (!dotsContainer) return;
+            if (!dotsContainer) {
+                console.error('visitorDots container not found');
+                return;
+            }
             
             dotsContainer.innerHTML = '';
             
+            // Show/hide demo indicator
+            const demoIndicator = document.getElementById('mapDataIndicator');
+            let isDemo = false;
+            
+            // Use demo data if no real locations available
             if (!locations || locations.length === 0) {
-                return;
+                isDemo = true;
+                locations = [
+                    { latitude: 51.05, longitude: 3.72, municipality: 'Gent', region: 'Oost-Vlaanderen', visits: 8, leads: 2 },
+                    { latitude: 51.22, longitude: 4.40, municipality: 'Antwerpen', region: 'Antwerpen', visits: 5, leads: 1 },
+                    { latitude: 50.85, longitude: 4.35, municipality: 'Brussel', region: 'Brussel', visits: 12, leads: 3 },
+                    { latitude: 51.03, longitude: 3.70, municipality: 'Zwijnaarde', region: 'Oost-Vlaanderen', visits: 3, leads: 0 },
+                    { latitude: 50.93, longitude: 3.12, municipality: 'Kortrijk', region: 'West-Vlaanderen', visits: 4, leads: 1 },
+                    { latitude: 51.19, longitude: 3.22, municipality: 'Brugge', region: 'West-Vlaanderen', visits: 6, leads: 0 },
+                    { latitude: 50.88, longitude: 4.70, municipality: 'Leuven', region: 'Vlaams-Brabant', visits: 7, leads: 2 },
+                    { latitude: 50.93, longitude: 5.34, municipality: 'Hasselt', region: 'Limburg', visits: 3, leads: 0 },
+                    { latitude: 51.32, longitude: 4.94, municipality: 'Turnhout', region: 'Antwerpen', visits: 2, leads: 0 },
+                    { latitude: 51.00, longitude: 4.03, municipality: 'Dendermonde', region: 'Oost-Vlaanderen', visits: 4, leads: 1 }
+                ];
+            }
+            
+            // Update demo indicator visibility
+            if (demoIndicator) {
+                demoIndicator.style.display = isDemo ? 'inline-block' : 'none';
+                demoIndicator.textContent = isDemo ? 'Demo Data' : 'Live Data';
+                demoIndicator.style.background = isDemo ? '#fef3c7' : '#d1fae5';
+                demoIndicator.style.color = isDemo ? '#92400e' : '#065f46';
             }
 
             // Belgium bounds (approximate)
