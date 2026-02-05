@@ -462,14 +462,16 @@ app.get('/api/analytics/regions', (req, res) => {
 
 app.get('/api/analytics/locations', (req, res) => {
     const sql = `SELECT 
-                    latitude, 
-                    longitude, 
-                    municipality,
-                    region,
-                    COUNT(*) as visits
-                 FROM sessions 
-                 WHERE latitude IS NOT NULL AND longitude IS NOT NULL
-                 GROUP BY ROUND(latitude, 2), ROUND(longitude, 2)
+                    s.latitude, 
+                    s.longitude, 
+                    s.municipality,
+                    s.region,
+                    COUNT(*) as visits,
+                    COUNT(fs.id) as leads
+                 FROM sessions s
+                 LEFT JOIN form_submissions fs ON s.session_id = fs.session_id
+                 WHERE s.latitude IS NOT NULL AND s.longitude IS NOT NULL
+                 GROUP BY ROUND(s.latitude, 2), ROUND(s.longitude, 2)
                  ORDER BY visits DESC`;
     
     db.all(sql, [], (err, rows) => {

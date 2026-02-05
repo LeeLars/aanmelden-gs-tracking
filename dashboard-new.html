@@ -667,11 +667,11 @@
                     <h3>Bezoekers Live View</h3>
                     <div style="display: flex; gap: 15px; font-size: 0.85rem;">
                         <div style="display: flex; align-items: center; gap: 6px;">
-                            <span style="width: 8px; height: 8px; background: #3b82f6; border-radius: 50%; box-shadow: 0 0 8px #3b82f6;"></span>
+                            <span style="width: 8px; height: 8px; background: #8b5cf6; border-radius: 50%; box-shadow: 0 0 8px #8b5cf6;"></span>
                             <span>Bezoeker</span>
                         </div>
                         <div style="display: flex; align-items: center; gap: 6px;">
-                            <span style="width: 8px; height: 8px; background: #10b981; border-radius: 50%; box-shadow: 0 0 8px #10b981;"></span>
+                            <span style="width: 8px; height: 8px; background: #3b82f6; border-radius: 50%; box-shadow: 0 0 8px #3b82f6;"></span>
                             <span>Opbelverzoek</span>
                         </div>
                     </div>
@@ -1360,14 +1360,18 @@
                 // Skip if outside Belgium bounds (add some buffer)
                 if (x < -20 || x > svgWidth + 20 || y < -20 || y > svgHeight + 20) return;
 
+                // Determine if this location has leads
+                const hasLeads = location.leads && location.leads > 0;
+                
                 // Calculate dot size
                 const visits = location.visits || 1;
-                const minRadius = 3; // Smaller, sharper dots
-                const maxRadius = 10;
+                const minRadius = 3; 
+                const maxRadius = 12;
                 const radius = minRadius + ((visits / maxVisits) * (maxRadius - minRadius));
                 
-                // Live view style colors
-                const color = visits > 5 ? '#3b82f6' : '#60a5fa'; // Blue shades
+                // Color scheme based on Shopify Live View
+                // Leads = Blue (#3b82f6), Visitors = Purple (#8b5cf6)
+                const color = hasLeads ? '#3b82f6' : '#8b5cf6'; 
                 
                 // Create dot group
                 const group = document.createElementNS('http://www.w3.org/2000/svg', 'g');
@@ -1387,7 +1391,7 @@
                 circle.setAttribute('r', radius);
                 circle.setAttribute('fill', color);
                 circle.setAttribute('stroke', '#ffffff');
-                circle.setAttribute('stroke-width', '1');
+                circle.setAttribute('stroke-width', '1.5');
                 circle.setAttribute('filter', 'url(#glow)'); // Add glow effect
                 
                 // Pulse effect (vertical beam for Shopify style)
@@ -1403,30 +1407,36 @@
                 beam.innerHTML = `<animate attributeName="height" values="0;${beamHeight};0" dur="${2 + Math.random()}s" repeatCount="indefinite" />
                                 <animate attributeName="opacity" values="0;0.8;0" dur="${2 + Math.random()}s" repeatCount="indefinite" />`;
 
-                // Pulse ring
-                const pulse = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-                pulse.setAttribute('cx', x);
-                pulse.setAttribute('cy', y);
-                pulse.setAttribute('r', radius);
-                pulse.setAttribute('fill', 'none');
-                pulse.setAttribute('stroke', color);
-                pulse.setAttribute('stroke-width', '0.5');
-                pulse.innerHTML = `<animate attributeName="r" from="${radius}" to="${radius + 15}" dur="3s" repeatCount="indefinite" />
-                                 <animate attributeName="opacity" from="0.6" to="0" dur="3s" repeatCount="indefinite" />`;
+                // Pulse ring (only for significant locations)
+                if (visits > 2 || hasLeads) {
+                    const pulse = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+                    pulse.setAttribute('cx', x);
+                    pulse.setAttribute('cy', y);
+                    pulse.setAttribute('r', radius);
+                    pulse.setAttribute('fill', 'none');
+                    pulse.setAttribute('stroke', color);
+                    pulse.setAttribute('stroke-width', '0.5');
+                    pulse.innerHTML = `<animate attributeName="r" from="${radius}" to="${radius + 15}" dur="3s" repeatCount="indefinite" />
+                                     <animate attributeName="opacity" from="0.6" to="0" dur="3s" repeatCount="indefinite" />`;
+                    group.appendChild(pulse);
+                }
 
                 group.appendChild(beam); // Add beam first
-                group.appendChild(pulse);
-                group.appendChild(hitArea);
+                group.appendChild(hitArea); // Hit area before visible elements
                 group.appendChild(circle);
 
                 // Tooltip interaction
                 const container = document.getElementById('belgiumMapContainer');
                 const showTooltip = (e) => {
                     const label = location.municipality || location.region || 'Onbekend';
+                    const leadText = hasLeads ? `<br><span style="color: #3b82f6;">●</span> ${location.leads} opbelverzoek${location.leads > 1 ? 'en' : ''}` : '';
                     
                     tooltip.innerHTML = `
                         <div style="font-weight: 600; margin-bottom: 2px; color: #0f172a;">${label}</div>
-                        <div style="font-size: 0.8em; color: #64748b;">${visits} bezoeker${visits > 1 ? 's' : ''}</div>
+                        <div style="font-size: 0.8em; color: #64748b;">
+                            <span style="color: #8b5cf6;">●</span> ${visits} bezoeker${visits > 1 ? 's' : ''}
+                            ${leadText}
+                        </div>
                     `;
                     
                     tooltip.classList.add('visible');
