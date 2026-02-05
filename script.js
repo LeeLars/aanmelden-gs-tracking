@@ -130,7 +130,7 @@ class AnalyticsTracker {
             background: white;
             border-radius: 20px;
             padding: 30px;
-            max-width: 340px;
+            max-width: 380px;
             margin: 20px;
             text-align: center;
             box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
@@ -138,10 +138,10 @@ class AnalyticsTracker {
         `;
 
         popup.innerHTML = `
-            <div style="font-size: 48px; margin-bottom: 15px;">📍</div>
-            <h3 style="color: #0F3B79; font-size: 1.3rem; margin-bottom: 10px;">Deel je locatie</h3>
+            <div style="font-size: 48px; margin-bottom: 15px;">🍪</div>
+            <h3 style="color: #0F3B79; font-size: 1.3rem; margin-bottom: 10px;">Cookies & Statistieken</h3>
             <p style="color: #64748b; font-size: 0.95rem; margin-bottom: 20px; line-height: 1.5;">
-                Zo kan ik je beter helpen met lokale diensten en sneller reageren op je aanvraag.
+                We gebruiken cookies om statistieken bij te houden en onze dienstverlening te verbeteren. Hiermee kunnen we zien welke regio's we bedienen en hoe bezoekers onze site gebruiken.
             </p>
             <button id="allowLocationBtn" style="
                 width: 100%;
@@ -155,7 +155,7 @@ class AnalyticsTracker {
                 cursor: pointer;
                 margin-bottom: 10px;
                 transition: background 0.2s;
-            ">Ja, deel mijn locatie</button>
+            ">Accepteer cookies</button>
             <button id="denyLocationBtn" style="
                 width: 100%;
                 padding: 12px;
@@ -164,7 +164,7 @@ class AnalyticsTracker {
                 border: none;
                 font-size: 0.9rem;
                 cursor: pointer;
-            ">Nee, bedankt</button>
+            ">Alleen noodzakelijke</button>
         `;
 
         // Add animation styles
