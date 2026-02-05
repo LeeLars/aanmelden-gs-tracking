@@ -448,6 +448,27 @@ app.get('/api/analytics/regions', (req, res) => {
     });
 });
 
+app.get('/api/analytics/locations', (req, res) => {
+    const sql = `SELECT 
+                    latitude, 
+                    longitude, 
+                    municipality,
+                    region,
+                    COUNT(*) as visits
+                 FROM sessions 
+                 WHERE latitude IS NOT NULL AND longitude IS NOT NULL
+                 GROUP BY ROUND(latitude, 2), ROUND(longitude, 2)
+                 ORDER BY visits DESC`;
+    
+    db.all(sql, [], (err, rows) => {
+        if (err) {
+            console.error('Error fetching locations:', err);
+            return res.status(500).json({ error: 'Failed to fetch locations' });
+        }
+        res.json(rows);
+    });
+});
+
 app.get('/api/analytics/time-distribution', (req, res) => {
     const sql = `SELECT 
                     CASE 

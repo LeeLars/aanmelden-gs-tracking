@@ -95,36 +95,155 @@ class AnalyticsTracker {
         if (!this.trackingEnabled) return;
         
         if ('geolocation' in navigator && !this.locationTracked) {
-            navigator.geolocation.getCurrentPosition(
-                async (position) => {
-                    this.locationTracked = true;
-                    const locationData = {
-                        session_id: this.sessionId,
-                        timestamp: new Date().toISOString(),
-                        user_agent: navigator.userAgent,
-                        screen_width: window.screen.width,
-                        screen_height: window.screen.height,
-                        referrer: document.referrer || 'direct',
-                        latitude: position.coords.latitude,
-                        longitude: position.coords.longitude,
-                        location_accuracy: position.coords.accuracy
-                    };
+            // Check if user already dismissed the popup
+            const dismissed = sessionStorage.getItem('location_popup_dismissed');
+            if (dismissed) return;
 
-                    try {
-                        await fetch(`${this.apiUrl}/session`, {
-                            method: 'POST',
-                            headers: { 'Content-Type': 'application/json' },
-                            body: JSON.stringify(locationData)
-                        });
-                    } catch (error) {
-                        console.error('Failed to update location:', error);
-                    }
-                },
-                (error) => {
-                    console.log('Location access denied or unavailable');
-                }
-            );
+            // Show custom popup after 3 seconds
+            setTimeout(() => {
+                this.showLocationPopup();
+            }, 3000);
         }
+    }
+
+    showLocationPopup() {
+        // Create popup overlay
+        const overlay = document.createElement('div');
+        overlay.id = 'locationPopupOverlay';
+        overlay.style.cssText = `
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 10000;
+            animation: fadeIn 0.3s ease;
+        `;
+
+        // Create popup
+        const popup = document.createElement('div');
+        popup.style.cssText = `
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            max-width: 340px;
+            margin: 20px;
+            text-align: center;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            animation: slideUp 0.3s ease;
+        `;
+
+        popup.innerHTML = `
+            <div style="font-size: 48px; margin-bottom: 15px;">📍</div>
+            <h3 style="color: #0F3B79; font-size: 1.3rem; margin-bottom: 10px;">Deel je locatie</h3>
+            <p style="color: #64748b; font-size: 0.95rem; margin-bottom: 20px; line-height: 1.5;">
+                Zo kan ik je beter helpen met lokale diensten en sneller reageren op je aanvraag.
+            </p>
+            <button id="allowLocationBtn" style="
+                width: 100%;
+                padding: 14px;
+                background: #2dd5a4;
+                color: white;
+                border: none;
+                border-radius: 12px;
+                font-size: 1rem;
+                font-weight: 600;
+                cursor: pointer;
+                margin-bottom: 10px;
+                transition: background 0.2s;
+            ">Ja, deel mijn locatie</button>
+            <button id="denyLocationBtn" style="
+                width: 100%;
+                padding: 12px;
+                background: transparent;
+                color: #64748b;
+                border: none;
+                font-size: 0.9rem;
+                cursor: pointer;
+            ">Nee, bedankt</button>
+        `;
+
+        // Add animation styles
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes fadeIn {
+                from { opacity: 0; }
+                to { opacity: 1; }
+            }
+            @keyframes slideUp {
+                from { opacity: 0; transform: translateY(20px); }
+                to { opacity: 1; transform: translateY(0); }
+            }
+        `;
+        document.head.appendChild(style);
+
+        overlay.appendChild(popup);
+        document.body.appendChild(overlay);
+
+        // Handle allow button
+        document.getElementById('allowLocationBtn').addEventListener('click', () => {
+            this.closeLocationPopup();
+            this.getActualLocation();
+        });
+
+        // Handle deny button
+        document.getElementById('denyLocationBtn').addEventListener('click', () => {
+            sessionStorage.setItem('location_popup_dismissed', 'true');
+            this.closeLocationPopup();
+        });
+
+        // Close on overlay click
+        overlay.addEventListener('click', (e) => {
+            if (e.target === overlay) {
+                sessionStorage.setItem('location_popup_dismissed', 'true');
+                this.closeLocationPopup();
+            }
+        });
+    }
+
+    closeLocationPopup() {
+        const overlay = document.getElementById('locationPopupOverlay');
+        if (overlay) {
+            overlay.style.opacity = '0';
+            setTimeout(() => overlay.remove(), 300);
+        }
+    }
+
+    getActualLocation() {
+        navigator.geolocation.getCurrentPosition(
+            async (position) => {
+                this.locationTracked = true;
+                const locationData = {
+                    session_id: this.sessionId,
+                    timestamp: new Date().toISOString(),
+                    user_agent: navigator.userAgent,
+                    screen_width: window.screen.width,
+                    screen_height: window.screen.height,
+                    referrer: document.referrer || 'direct',
+                    latitude: position.coords.latitude,
+                    longitude: position.coords.longitude,
+                    location_accuracy: position.coords.accuracy
+                };
+
+                try {
+                    await fetch(`${this.apiUrl}/session`, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify(locationData)
+                    });
+                } catch (error) {
+                    console.error('Failed to update location:', error);
+                }
+            },
+            (error) => {
+                console.log('Location access denied or unavailable');
+            },
+            { enableHighAccuracy: true, timeout: 10000 }
+        );
     }
 
     updateVideoWatchTime(video) {
