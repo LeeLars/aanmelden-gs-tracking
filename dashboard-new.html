@@ -680,21 +680,32 @@
                 <div id="belgiumMapContainer" class="map-container" style="background: radial-gradient(circle at 50% 50%, #f8fafc 0%, #e2e8f0 100%); height: 500px; padding: 0;">
                     <svg id="belgiumMap" viewBox="0 0 500 500" style="width: 100%; height: 100%;">
                         <defs>
-                            <!-- Globe Gradient -->
+                            <!-- Globe Gradient (Mint/Cyan) -->
                             <radialGradient id="globeGradient" cx="50%" cy="50%" r="50%" fx="30%" fy="30%">
                                 <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-                                <stop offset="80%" style="stop-color:#f1f5f9;stop-opacity:1" />
-                                <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+                                <stop offset="70%" style="stop-color:#f0fdf4;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#ccfbf1;stop-opacity:1" />
                             </radialGradient>
                             
-                            <!-- Dot Pattern for Map -->
+                            <!-- Beam Gradients -->
+                            <linearGradient id="beamGradientPurple" x1="0%" y1="0%" x2="0%" y2="100%">
+                                <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:0" />
+                                <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:0.8" />
+                            </linearGradient>
+                            
+                            <linearGradient id="beamGradientBlue" x1="0%" y1="0%" x2="0%" y2="100%">
+                                <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:0" />
+                                <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:0.8" />
+                            </linearGradient>
+                            
+                            <!-- Dot Pattern for Map (Teal) -->
                             <pattern id="dotPattern" x="0" y="0" width="4" height="4" patternUnits="userSpaceOnUse">
-                                <circle cx="2" cy="2" r="1" fill="#94a3b8" fill-opacity="0.3"/>
+                                <circle cx="2" cy="2" r="1.2" fill="#2dd4bf" fill-opacity="0.4"/>
                             </pattern>
                             
                             <!-- Glow Filter -->
                             <filter id="glow">
-                                <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+                                <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
                                 <feMerge>
                                     <feMergeNode in="coloredBlur"/>
                                     <feMergeNode in="SourceGraphic"/>
@@ -703,13 +714,13 @@
                         </defs>
                         
                         <!-- Atmosphere/Glow behind globe -->
-                        <circle cx="250" cy="250" r="220" fill="#f8fafc" filter="url(#glow)" opacity="0.5"/>
+                        <circle cx="250" cy="250" r="220" fill="#f0fdf4" filter="url(#glow)" opacity="0.4"/>
                         
                         <!-- Globe Base -->
-                        <circle cx="250" cy="250" r="200" fill="url(#globeGradient)" stroke="#e2e8f0" stroke-width="1"/>
+                        <circle cx="250" cy="250" r="200" fill="url(#globeGradient)" stroke="#ccfbf1" stroke-width="0.5"/>
                         
                         <!-- Grid Lines (Longitude/Latitude) -->
-                        <g stroke="#cbd5e1" stroke-width="0.5" fill="none" opacity="0.4">
+                        <g stroke="#99f6e4" stroke-width="0.5" fill="none" opacity="0.4">
                             <ellipse cx="250" cy="250" rx="200" ry="200"/>
                             <ellipse cx="250" cy="250" rx="200" ry="100"/>
                             <ellipse cx="250" cy="250" rx="100" ry="200"/>
@@ -1369,9 +1380,16 @@
                 const maxRadius = 12;
                 const radius = minRadius + ((visits / maxVisits) * (maxRadius - minRadius));
                 
-                // Color scheme based on Shopify Live View
-                // Leads = Blue (#3b82f6), Visitors = Purple (#8b5cf6)
-                const color = hasLeads ? '#3b82f6' : '#8b5cf6'; 
+                // Live view style colors & gradients
+                let color, beamGradient;
+                
+                if (hasLeads) {
+                    color = '#3b82f6'; // Blue for leads (Orders)
+                    beamGradient = 'url(#beamGradientBlue)';
+                } else {
+                    color = '#8b5cf6'; // Purple for visitors
+                    beamGradient = 'url(#beamGradientPurple)';
+                }
                 
                 // Create dot group
                 const group = document.createElementNS('http://www.w3.org/2000/svg', 'g');
@@ -1396,18 +1414,18 @@
                 
                 // Pulse effect (vertical beam for Shopify style)
                 const beam = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-                const beamHeight = 20 + (visits * 2);
-                beam.setAttribute('x', x - 0.5);
+                // Leads get taller beams
+                const beamHeight = hasLeads ? (30 + (visits * 3)) : (15 + (visits * 2));
+                beam.setAttribute('x', x - 1); // Slightly wider beam
                 beam.setAttribute('y', y - beamHeight);
-                beam.setAttribute('width', '1');
+                beam.setAttribute('width', '2');
                 beam.setAttribute('height', beamHeight);
-                beam.setAttribute('fill', 'url(#globeGradient)'); // Reuse gradient for fade
-                beam.setAttribute('fill-opacity', '0.5');
+                beam.setAttribute('fill', beamGradient); // Use specific gradient
                 beam.style.transformOrigin = `${x}px ${y}px`;
-                beam.innerHTML = `<animate attributeName="height" values="0;${beamHeight};0" dur="${2 + Math.random()}s" repeatCount="indefinite" />
-                                <animate attributeName="opacity" values="0;0.8;0" dur="${2 + Math.random()}s" repeatCount="indefinite" />`;
+                beam.innerHTML = `<animate attributeName="height" values="0;${beamHeight};0" dur="${3 + Math.random()}s" repeatCount="indefinite" />
+                                <animate attributeName="opacity" values="0;1;0" dur="${3 + Math.random()}s" repeatCount="indefinite" />`;
 
-                // Pulse ring (only for significant locations)
+                // Pulse ring (only for significant locations or leads)
                 if (visits > 2 || hasLeads) {
                     const pulse = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
                     pulse.setAttribute('cx', x);
@@ -1416,7 +1434,7 @@
                     pulse.setAttribute('fill', 'none');
                     pulse.setAttribute('stroke', color);
                     pulse.setAttribute('stroke-width', '0.5');
-                    pulse.innerHTML = `<animate attributeName="r" from="${radius}" to="${radius + 15}" dur="3s" repeatCount="indefinite" />
+                    pulse.innerHTML = `<animate attributeName="r" from="${radius}" to="${radius + 20}" dur="3s" repeatCount="indefinite" />
                                      <animate attributeName="opacity" from="0.6" to="0" dur="3s" repeatCount="indefinite" />`;
                     group.appendChild(pulse);
                 }
