@@ -442,6 +442,68 @@
             min-width: 200px;
         }
         
+        /* Map Styles */
+        .map-container {
+            background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+            border-radius: 16px;
+            padding: 20px;
+            position: relative;
+        }
+        
+        .map-province {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            cursor: pointer;
+            vector-effect: non-scaling-stroke;
+        }
+        
+        .map-province:hover {
+            filter: drop-shadow(0 4px 8px rgba(15, 59, 121, 0.15));
+            transform: translateY(-1px);
+            z-index: 2;
+        }
+        
+        .visitor-dot {
+            animation: pulse-dot 2s infinite;
+            transform-origin: center;
+            transition: all 0.3s ease;
+        }
+        
+        .visitor-dot:hover {
+            animation: none;
+            transform: scale(1.5);
+            filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+            z-index: 10;
+        }
+        
+        @keyframes pulse-dot {
+            0% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.3); opacity: 0.8; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+        
+        .custom-tooltip {
+            position: fixed;
+            background: rgba(15, 59, 121, 0.95);
+            color: white;
+            padding: 8px 14px;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s, transform 0.2s;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            backdrop-filter: blur(4px);
+            font-weight: 500;
+            transform: translateY(10px);
+            white-space: nowrap;
+        }
+        
+        .custom-tooltip.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        
         /* Responsive */
         @media (max-width: 768px) {
             .header {
@@ -621,18 +683,18 @@
                     </svg>
                     
                     <!-- Map Legend -->
-                    <div style="display: flex; gap: 20px; justify-content: center; margin-top: 15px; font-size: 0.8rem; color: #64748b;">
-                        <div style="display: flex; align-items: center; gap: 5px;">
-                            <span style="width: 8px; height: 8px; background: rgba(45, 213, 164, 0.4); border-radius: 50%;"></span>
-                            <span>1-2 bezoekers</span>
+                    <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px; font-size: 0.85rem; color: #64748b; background: rgba(255,255,255,0.5); padding: 10px; border-radius: 12px; backdrop-filter: blur(4px);">
+                        <div style="display: flex; align-items: center; gap: 6px;">
+                            <span style="width: 8px; height: 8px; background: #2dd5a4; opacity: 0.6; border-radius: 50%;"></span>
+                            <span>Weinig bezoekers</span>
                         </div>
-                        <div style="display: flex; align-items: center; gap: 5px;">
-                            <span style="width: 12px; height: 12px; background: rgba(45, 213, 164, 0.7); border-radius: 50%;"></span>
-                            <span>3-5 bezoekers</span>
+                        <div style="display: flex; align-items: center; gap: 6px;">
+                            <span style="width: 12px; height: 12px; background: #2dd5a4; opacity: 1; border-radius: 50%; box-shadow: 0 0 0 2px rgba(45, 213, 164, 0.2);"></span>
+                            <span>Gemiddeld</span>
                         </div>
-                        <div style="display: flex; align-items: center; gap: 5px;">
-                            <span style="width: 16px; height: 16px; background: rgba(45, 213, 164, 1); border-radius: 50%;"></span>
-                            <span>6+ bezoekers</span>
+                        <div style="display: flex; align-items: center; gap: 6px;">
+                            <span style="width: 14px; height: 14px; background: #0F3B79; border-radius: 50%; border: 1px solid white; box-shadow: 0 0 0 2px rgba(15, 59, 121, 0.2);"></span>
+                            <span>Veel bezoekers</span>
                         </div>
                     </div>
                 </div>
@@ -1041,10 +1103,58 @@
         }
 
         renderBelgiumMap(locations) {
+            const container = document.getElementById('belgiumMapContainer');
+            if (!container) return;
+
+            // Add map container styling
+            container.className = 'map-container';
+            
+            // Setup tooltip
+            let tooltip = document.getElementById('mapTooltip');
+            if (!tooltip) {
+                tooltip = document.createElement('div');
+                tooltip.id = 'mapTooltip';
+                tooltip.className = 'custom-tooltip';
+                document.body.appendChild(tooltip);
+            }
+
             const dotsContainer = document.getElementById('visitorDots');
             if (!dotsContainer) return;
             
             dotsContainer.innerHTML = '';
+            
+            // Add subtle grid background to SVG
+            const svg = document.getElementById('belgiumMap');
+            if (svg) {
+                // Check if grid already exists
+                if (!svg.querySelector('#mapGrid')) {
+                    const defs = svg.querySelector('defs') || document.createElementNS('http://www.w3.org/2000/svg', 'defs');
+                    if (!svg.querySelector('defs')) svg.insertBefore(defs, svg.firstChild);
+                    
+                    const pattern = document.createElementNS('http://www.w3.org/2000/svg', 'pattern');
+                    pattern.id = 'mapGrid';
+                    pattern.setAttribute('width', '20');
+                    pattern.setAttribute('height', '20');
+                    pattern.setAttribute('patternUnits', 'userSpaceOnUse');
+                    
+                    const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+                    path.setAttribute('d', 'M 20 0 L 0 0 0 20');
+                    path.setAttribute('fill', 'none');
+                    path.setAttribute('stroke', '#e2e8f0');
+                    path.setAttribute('stroke-width', '0.5');
+                    
+                    pattern.appendChild(path);
+                    defs.appendChild(pattern);
+                    
+                    const rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+                    rect.setAttribute('width', '100%');
+                    rect.setAttribute('height', '100%');
+                    rect.setAttribute('fill', 'url(#mapGrid)');
+                    rect.style.pointerEvents = 'none';
+                    
+                    svg.insertBefore(rect, svg.firstChild);
+                }
+            }
             
             if (!locations || locations.length === 0) {
                 return;
@@ -1082,30 +1192,81 @@
 
                 // Calculate dot size and opacity based on visits
                 const visits = location.visits || 1;
-                const minRadius = 4;
-                const maxRadius = 16;
+                const minRadius = 5;
+                const maxRadius = 18;
                 const radius = minRadius + ((visits / maxVisits) * (maxRadius - minRadius));
                 
-                const minOpacity = 0.4;
-                const maxOpacity = 1;
-                const opacity = minOpacity + ((visits / maxVisits) * (maxOpacity - minOpacity));
+                // Color scale from light green to dark teal
+                const opacity = 0.6 + ((visits / maxVisits) * 0.4);
 
-                // Create dot
+                // Create dot group for better hit area
+                const group = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+                group.setAttribute('class', 'visitor-dot');
+                group.style.cursor = 'pointer';
+
+                // Hit area (invisible larger circle)
+                const hitArea = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+                hitArea.setAttribute('cx', x);
+                hitArea.setAttribute('cy', y);
+                hitArea.setAttribute('r', radius + 10);
+                hitArea.setAttribute('fill', 'transparent');
+                
+                // Visible dot
                 const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
                 circle.setAttribute('cx', x);
                 circle.setAttribute('cy', y);
                 circle.setAttribute('r', radius);
-                circle.setAttribute('fill', `rgba(45, 213, 164, ${opacity})`);
-                circle.setAttribute('stroke', '#0F3B79');
-                circle.setAttribute('stroke-width', '1');
-                circle.style.cursor = 'pointer';
+                circle.setAttribute('fill', visits > 5 ? '#0F3B79' : '#2dd5a4'); // Dark blue for high traffic, green for normal
+                circle.setAttribute('fill-opacity', opacity);
+                circle.setAttribute('stroke', '#ffffff');
+                circle.setAttribute('stroke-width', '1.5');
                 
-                // Add tooltip on hover
-                const title = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-                title.textContent = `${location.municipality || location.region || 'Onbekend'}: ${visits} bezoeker${visits > 1 ? 's' : ''}`;
-                circle.appendChild(title);
+                // Add pulse effect for active regions
+                if (visits > 2) {
+                    const pulse = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+                    pulse.setAttribute('cx', x);
+                    pulse.setAttribute('cy', y);
+                    pulse.setAttribute('r', radius);
+                    pulse.setAttribute('fill', 'none');
+                    pulse.setAttribute('stroke', visits > 5 ? '#0F3B79' : '#2dd5a4');
+                    pulse.setAttribute('stroke-width', '1');
+                    pulse.innerHTML = `<animate attributeName="r" from="${radius}" to="${radius + 10}" dur="2s" repeatCount="indefinite" />
+                                     <animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite" />`;
+                    group.appendChild(pulse);
+                }
 
-                dotsContainer.appendChild(circle);
+                group.appendChild(hitArea);
+                group.appendChild(circle);
+
+                // Tooltip interaction
+                const showTooltip = (e) => {
+                    const rect = container.getBoundingClientRect();
+                    const label = location.municipality || location.region || 'Onbekend';
+                    
+                    tooltip.innerHTML = `
+                        <div style="font-weight: 600; margin-bottom: 2px;">${label}</div>
+                        <div style="font-size: 0.8em; opacity: 0.9;">${visits} bezoeker${visits > 1 ? 's' : ''}</div>
+                    `;
+                    
+                    tooltip.classList.add('visible');
+                    
+                    // Position tooltip
+                    const tooltipX = e.clientX;
+                    const tooltipY = e.clientY - 40;
+                    tooltip.style.left = `${tooltipX}px`;
+                    tooltip.style.top = `${tooltipY}px`;
+                    tooltip.style.transform = 'translate(-50%, -100%)';
+                };
+
+                const hideTooltip = () => {
+                    tooltip.classList.remove('visible');
+                };
+
+                group.addEventListener('mouseenter', showTooltip);
+                group.addEventListener('mousemove', showTooltip);
+                group.addEventListener('mouseleave', hideTooltip);
+
+                dotsContainer.appendChild(group);
             });
         }
 
