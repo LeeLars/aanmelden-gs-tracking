@@ -1,6 +1,6 @@
 class AnalyticsDashboard {
     constructor() {
-        this.apiUrl = window.ANALYTICS_API_URL ? window.ANALYTICS_API_URL.replace('/track', '/analytics') : 'http://localhost:3000/api/analytics';
+        this.apiUrl = window.ANALYTICS_API_URL ? window.ANALYTICS_API_URL.replace('/track', '/analytics') : 'https://aanmelden-gs-tracking-production.up.railway.app/api/analytics';
         this.refreshInterval = null;
         this.init();
     }
