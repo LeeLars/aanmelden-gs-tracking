@@ -335,6 +335,7 @@ class AnalyticsTracker {
 }
 
 let tracker = null;
+const heroVideo = document.getElementById('heroVideo');
 const playButton = document.getElementById('playButton');
 const muteButton = document.getElementById('muteButton');
 const progressBar = document.querySelector('.progress-bar');
@@ -513,89 +514,29 @@ if (toggleFormBtn) {
     });
 }
 
-function showMessage(text, type) {
-    messageDiv.textContent = text;
-    messageDiv.className = `message ${type}`;
-    
-    setTimeout(() => {
-        messageDiv.className = 'message hidden';
-    }, 3000);
-}
+const registrationForm = document.getElementById('registrationForm');
+const messageDiv = document.getElementById('message');
 
-function updateRegistrationList() {
-    registrationList.innerHTML = '';
-    
-    if (registrations.length === 0) {
-        const emptyItem = document.createElement('li');
-        emptyItem.className = 'empty';
-        emptyItem.textContent = 'Nog geen aanmeldingen';
-        registrationList.appendChild(emptyItem);
-        return;
-    }
-    
-    registrations.forEach((registration, index) => {
-        const listItem = document.createElement('li');
-        listItem.innerHTML = `
-            <strong>Callback verzoek</strong><br>
-            Tel: ${registration.phone}<br>
-            <small>${new Date(registration.timestamp).toLocaleString('nl-NL')}</small>
-        `;
-        registrationList.appendChild(listItem);
+if (registrationForm) {
+    registrationForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        
+        const formData = new FormData(registrationForm);
+        
+        if (tracker) {
+            await tracker.trackFormSubmission(formData);
+        }
+        
+        messageDiv.textContent = 'Bedankt! Ik bel je zo snel mogelijk op.';
+        messageDiv.className = 'message success';
+        
+        registrationForm.reset();
+        
+        setTimeout(() => {
+            messageDiv.className = 'message hidden';
+            callbackForm.classList.add('hidden');
+        }, 3000);
     });
 }
 
-function handleSubmit(e) {
-    e.preventDefault();
-    
-    const formData = new FormData(registrationForm);
-    const phone = formData.get('phone');
-    
-    const registration = {
-        phone: phone,
-        timestamp: new Date().toISOString()
-    };
-    
-    registrations.push(registration);
-    
-    if (tracker) {
-        const formDataForTracking = new FormData();
-        formDataForTracking.append('phone', phone);
-        formDataForTracking.append('name', '');
-        formDataForTracking.append('email', '');
-        tracker.trackFormSubmission(formDataForTracking);
-    }
-    
-    showMessage('Bedankt! We bellen je zo snel mogelijk terug.', 'success');
-    
-    registrationForm.reset();
-    
-    setTimeout(() => {
-        callbackForm.classList.add('hidden');
-    }, 2000);
-    
-    updateRegistrationList();
-    
-    localStorage.setItem('registrations', JSON.stringify(registrations));
-}
-
-function loadRegistrations() {
-    const stored = localStorage.getItem('registrations');
-    if (stored) {
-        registrations = JSON.parse(stored);
-        updateRegistrationList();
-    } else {
-        updateRegistrationList();
-    }
-}
-
-registrationForm.addEventListener('submit', handleSubmit);
-
-loadRegistrations();
-
-if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', () => {
-        tracker = new AnalyticsTracker();
-    });
-} else {
-    tracker = new AnalyticsTracker();
-}
+tracker = new AnalyticsTracker();
