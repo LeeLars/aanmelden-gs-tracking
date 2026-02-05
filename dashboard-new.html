@@ -481,24 +481,24 @@
         </header>
 
         <div class="tabs">
-            <button class="tab active" data-tab="phones">Terugbelverzoeken <span class="badge" id="phoneBadge">0</span></button>
+            <button class="tab active" data-tab="phones">Opbelverzoeken <span class="badge" id="phoneBadge">0</span></button>
             <button class="tab" data-tab="overview">Overzicht</button>
             <button class="tab" data-tab="visitors">Bezoekers</button>
             <button class="tab" data-tab="video">Video</button>
         </div>
 
-        <!-- TERUGBELVERZOEKEN TAB -->
+        <!-- OPBELVERZOEKEN TAB -->
         <div id="phones" class="tab-content active">
             <div class="section-header">
-                <h2>Terugbelverzoeken</h2>
-                <p>Mensen die hun nummer hebben achtergelaten om teruggebeld te worden</p>
+                <h2>Opbelverzoeken</h2>
+                <p>Mensen die hun nummer hebben achtergelaten om opgebeld te worden</p>
             </div>
             
             <div class="stats-grid">
                 <div class="stat-card highlight">
                     <div class="label">Totaal Verzoeken</div>
                     <div class="value" id="totalPhones">0</div>
-                    <div class="hint">Mensen die teruggebeld willen worden</div>
+                    <div class="hint">Mensen die opgebeld willen worden</div>
                 </div>
                 <div class="stat-card">
                     <div class="label">WhatsApp Clicks</div>
@@ -513,7 +513,7 @@
             </div>
             
             <div class="card">
-                <h3>Alle Terugbelverzoeken</h3>
+                <h3>Alle Opbelverzoeken</h3>
                 <div id="phonesList" class="phone-list">
                     <div class="empty-state">
                         <div class="icon">Laden...</div>
@@ -536,7 +536,7 @@
                     <div class="hint">Unieke mensen die de pagina bezochten</div>
                 </div>
                 <div class="stat-card">
-                    <div class="label">Terugbelverzoeken</div>
+                    <div class="label">Opbelverzoeken</div>
                     <div class="value" id="totalForms">0</div>
                     <div class="hint">Lieten hun nummer achter</div>
                 </div>
@@ -566,7 +566,7 @@
                 <h3>Wat betekenen deze cijfers?</h3>
                 <div style="color: #666; line-height: 1.8;">
                     <p><strong>Bezoekers:</strong> Het aantal unieke mensen dat je pagina heeft bezocht.</p>
-                    <p><strong>Terugbelverzoeken:</strong> Mensen die hun telefoonnummer hebben ingevuld om teruggebeld te worden. Dit zijn warme leads!</p>
+                    <p><strong>Opbelverzoeken:</strong> Mensen die hun telefoonnummer hebben ingevuld om opgebeld te worden. Dit zijn warme leads!</p>
                     <p><strong>WhatsApp Clicks:</strong> Mensen die op de WhatsApp knop klikten. Ze openden WhatsApp met een vooringevuld bericht.</p>
                     <p><strong>Kijktijd Video:</strong> Gemiddeld hoe lang bezoekers naar je video keken. Langere kijktijd = meer interesse.</p>
                 </div>
@@ -743,7 +743,7 @@
                 container.innerHTML = `
                     <div class="empty-state">
                         <div class="icon">Geen verzoeken</div>
-                        <h3>Nog geen terugbelverzoeken</h3>
+                        <h3>Nog geen opbelverzoeken</h3>
                         <p>Zodra iemand zijn nummer achterlaat, verschijnt het hier.</p>
                     </div>
                 `;
@@ -850,7 +850,7 @@
                 
                 let action = '-';
                 if (session.has_form) {
-                    action = '<span class="badge badge-success">Terugbelverzoek</span>';
+                    action = '<span class="badge badge-success">Opbelverzoek</span>';
                 } else if (session.has_whatsapp) {
                     action = '<span class="badge badge-info">WhatsApp</span>';
                 }
