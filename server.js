@@ -136,6 +136,10 @@ app.post('/api/track/session', async (req, res) => {
         language, platform, connection_type, downlink, rtt, page_load_time, timezone
     } = req.body;
     
+    if (!session_id || !timestamp) {
+        return res.status(400).json({ error: 'session_id and timestamp are required' });
+    }
+    
     let locationData = null;
     if (latitude && longitude) {
         locationData = await reverseGeocode(latitude, longitude);
@@ -192,6 +196,10 @@ app.post('/api/track/session', async (req, res) => {
 app.post('/api/track/video', (req, res) => {
     const { session_id, event_type, timestamp, video_time, total_watch_time, percentage_watched } = req.body;
     
+    if (!session_id || !event_type || !timestamp) {
+        return res.status(400).json({ error: 'session_id, event_type, and timestamp are required' });
+    }
+    
     const sql = `INSERT INTO video_events 
                  (session_id, event_type, timestamp, video_time, total_watch_time, percentage_watched) 
                  VALUES (?, ?, ?, ?, ?, ?)`;
@@ -208,6 +216,10 @@ app.post('/api/track/video', (req, res) => {
 app.post('/api/track/click', (req, res) => {
     const { session_id, button_type, timestamp } = req.body;
     
+    if (!session_id || !button_type || !timestamp) {
+        return res.status(400).json({ error: 'session_id, button_type, and timestamp are required' });
+    }
+    
     const sql = `INSERT INTO button_clicks (session_id, button_type, timestamp) VALUES (?, ?, ?)`;
     
     db.run(sql, [session_id, button_type, timestamp], function(err) {
@@ -221,6 +233,10 @@ app.post('/api/track/click', (req, res) => {
 
 app.post('/api/track/form', (req, res) => {
     const { session_id, name, email, phone, timestamp } = req.body;
+    
+    if (!session_id || !timestamp) {
+        return res.status(400).json({ error: 'session_id and timestamp are required' });
+    }
     
     const sql = `INSERT INTO form_submissions (session_id, name, email, phone, timestamp) VALUES (?, ?, ?, ?, ?)`;
     
@@ -236,6 +252,10 @@ app.post('/api/track/form', (req, res) => {
 app.put('/api/track/session/:session_id', (req, res) => {
     const { session_id } = req.params;
     const { time_on_page, scroll_depth, active_time } = req.body;
+    
+    if (!session_id) {
+        return res.status(400).json({ error: 'session_id is required' });
+    }
     
     const sql = `UPDATE sessions SET time_on_page = ?, scroll_depth = ?, active_time = ? WHERE session_id = ?`;
     
@@ -262,55 +282,31 @@ app.post('/api/track/interaction', (req, res) => {
     });
 });
 
-app.get('/api/analytics/overview', (req, res) => {
-    const queries = {
-        totalSessions: `SELECT COUNT(*) as count FROM sessions`,
-        avgVideoTime: `SELECT AVG(total_watch_time) as avg_time FROM video_events WHERE event_type = 'ended' OR event_type = 'pause'`,
-        totalClicks: `SELECT button_type, COUNT(*) as count FROM button_clicks GROUP BY button_type`,
-        totalForms: `SELECT COUNT(*) as count FROM form_submissions`,
-        avgTimeOnPage: `SELECT AVG(time_on_page) as avg_time FROM sessions WHERE time_on_page > 0`,
-        avgActiveTime: `SELECT AVG(active_time) as avg_time FROM sessions WHERE active_time > 0`,
-        avgScrollDepth: `SELECT AVG(scroll_depth) as avg_depth FROM sessions WHERE scroll_depth > 0`
-    };
+app.get('/api/analytics/overview', async (req, res) => {
+    try {
+        const [totalSessions, avgVideoTime, clicksByType, totalForms, avgTimeOnPage, avgActiveTime, avgScrollDepth] = await Promise.all([
+            new Promise((resolve, reject) => db.get(`SELECT COUNT(*) as count FROM sessions`, [], (err, row) => err ? reject(err) : resolve(row.count))),
+            new Promise((resolve, reject) => db.get(`SELECT AVG(total_watch_time) as avg_time FROM video_events WHERE event_type = 'ended' OR event_type = 'pause'`, [], (err, row) => err ? reject(err) : resolve(row.avg_time || 0))),
+            new Promise((resolve, reject) => db.all(`SELECT button_type, COUNT(*) as count FROM button_clicks GROUP BY button_type`, [], (err, rows) => err ? reject(err) : resolve(rows))),
+            new Promise((resolve, reject) => db.get(`SELECT COUNT(*) as count FROM form_submissions`, [], (err, row) => err ? reject(err) : resolve(row.count))),
+            new Promise((resolve, reject) => db.get(`SELECT AVG(time_on_page) as avg_time FROM sessions WHERE time_on_page > 0`, [], (err, row) => err ? reject(err) : resolve(row.avg_time || 0))),
+            new Promise((resolve, reject) => db.get(`SELECT AVG(active_time) as avg_time FROM sessions WHERE active_time > 0`, [], (err, row) => err ? reject(err) : resolve(row.avg_time || 0))),
+            new Promise((resolve, reject) => db.get(`SELECT AVG(scroll_depth) as avg_depth FROM sessions WHERE scroll_depth > 0`, [], (err, row) => err ? reject(err) : resolve(row.avg_depth || 0)))
+        ]);
 
-    const results = {};
-
-    db.get(queries.totalSessions, [], (err, row) => {
-        if (err) return res.status(500).json({ error: err.message });
-        results.totalSessions = row.count;
-
-        db.get(queries.avgVideoTime, [], (err, row) => {
-            if (err) return res.status(500).json({ error: err.message });
-            results.avgVideoTime = row.avg_time || 0;
-
-            db.all(queries.totalClicks, [], (err, rows) => {
-                if (err) return res.status(500).json({ error: err.message });
-                results.clicksByType = rows;
-
-                db.get(queries.totalForms, [], (err, row) => {
-                    if (err) return res.status(500).json({ error: err.message });
-                    results.totalForms = row.count;
-
-                    db.get(queries.avgTimeOnPage, [], (err, row) => {
-                        if (err) return res.status(500).json({ error: err.message });
-                        results.avgTimeOnPage = row.avg_time || 0;
-
-                        db.get(queries.avgActiveTime, [], (err, row) => {
-                            if (err) return res.status(500).json({ error: err.message });
-                            results.avgActiveTime = row.avg_time || 0;
-
-                            db.get(queries.avgScrollDepth, [], (err, row) => {
-                                if (err) return res.status(500).json({ error: err.message });
-                                results.avgScrollDepth = row.avg_depth || 0;
-
-                                res.json(results);
-                            });
-                        });
-                    });
-                });
-            });
+        res.json({
+            totalSessions,
+            avgVideoTime,
+            clicksByType,
+            totalForms,
+            avgTimeOnPage,
+            avgActiveTime,
+            avgScrollDepth
         });
-    });
+    } catch (error) {
+        console.error('Error fetching overview:', error);
+        res.status(500).json({ error: 'Failed to fetch overview data' });
+    }
 });
 
 app.get('/api/analytics/interactions', (req, res) => {
@@ -325,37 +321,20 @@ app.get('/api/analytics/interactions', (req, res) => {
     });
 });
 
-app.get('/api/analytics/technical', (req, res) => {
-    const queries = {
-        avgLoadTime: `SELECT AVG(page_load_time) as avg_time FROM sessions WHERE page_load_time > 0`,
-        mobileCount: `SELECT COUNT(*) as count FROM sessions WHERE user_agent LIKE '%Mobile%' OR user_agent LIKE '%Android%' OR user_agent LIKE '%iPhone%'`,
-        desktopCount: `SELECT COUNT(*) as count FROM sessions WHERE user_agent NOT LIKE '%Mobile%' AND user_agent NOT LIKE '%Android%' AND user_agent NOT LIKE '%iPhone%'`,
-        withLocation: `SELECT COUNT(*) as count FROM sessions WHERE latitude IS NOT NULL AND longitude IS NOT NULL`
-    };
+app.get('/api/analytics/technical', async (req, res) => {
+    try {
+        const [avgLoadTime, mobileCount, desktopCount, withLocation] = await Promise.all([
+            new Promise((resolve, reject) => db.get(`SELECT AVG(page_load_time) as avg_time FROM sessions WHERE page_load_time > 0`, [], (err, row) => err ? reject(err) : resolve(row.avg_time || 0))),
+            new Promise((resolve, reject) => db.get(`SELECT COUNT(*) as count FROM sessions WHERE user_agent LIKE '%Mobile%' OR user_agent LIKE '%Android%' OR user_agent LIKE '%iPhone%'`, [], (err, row) => err ? reject(err) : resolve(row.count))),
+            new Promise((resolve, reject) => db.get(`SELECT COUNT(*) as count FROM sessions WHERE user_agent NOT LIKE '%Mobile%' AND user_agent NOT LIKE '%Android%' AND user_agent NOT LIKE '%iPhone%'`, [], (err, row) => err ? reject(err) : resolve(row.count))),
+            new Promise((resolve, reject) => db.get(`SELECT COUNT(*) as count FROM sessions WHERE latitude IS NOT NULL AND longitude IS NOT NULL`, [], (err, row) => err ? reject(err) : resolve(row.count)))
+        ]);
 
-    const results = {};
-
-    db.get(queries.avgLoadTime, [], (err, row) => {
-        if (err) return res.status(500).json({ error: err.message });
-        results.avgLoadTime = row.avg_time || 0;
-
-        db.get(queries.mobileCount, [], (err, row) => {
-            if (err) return res.status(500).json({ error: err.message });
-            results.mobileCount = row.count;
-
-            db.get(queries.desktopCount, [], (err, row) => {
-                if (err) return res.status(500).json({ error: err.message });
-                results.desktopCount = row.count;
-
-                db.get(queries.withLocation, [], (err, row) => {
-                    if (err) return res.status(500).json({ error: err.message });
-                    results.withLocation = row.count;
-
-                    res.json(results);
-                });
-            });
-        });
-    });
+        res.json({ avgLoadTime, mobileCount, desktopCount, withLocation });
+    } catch (error) {
+        console.error('Error fetching technical data:', error);
+        res.status(500).json({ error: 'Failed to fetch technical data' });
+    }
 });
 
 app.get('/api/analytics/sessions', (req, res) => {
