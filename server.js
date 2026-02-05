@@ -413,6 +413,18 @@ app.get('/api/analytics/video-stats', (req, res) => {
     });
 });
 
+app.get('/api/analytics/clicks', (req, res) => {
+    const sql = `SELECT * FROM button_clicks ORDER BY timestamp DESC`;
+    
+    db.all(sql, [], (err, rows) => {
+        if (err) {
+            console.error('Error fetching clicks:', err);
+            return res.status(500).json({ error: 'Failed to fetch clicks' });
+        }
+        res.json(rows);
+    });
+});
+
 app.get('/api/analytics/clicks-timeline', (req, res) => {
     const sql = `SELECT 
                     DATE(timestamp) as date,

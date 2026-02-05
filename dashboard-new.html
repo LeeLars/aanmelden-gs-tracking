@@ -503,6 +503,48 @@
             opacity: 1;
             transform: translateY(0);
         }
+
+        /* Period Filter */
+        .period-filter {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 12px 20px;
+            background: white;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            flex-wrap: wrap;
+        }
+        
+        .period-label {
+            font-weight: 600;
+            color: #64748b;
+            font-size: 0.9rem;
+            margin-right: 8px;
+        }
+        
+        .period-btn {
+            padding: 8px 16px;
+            border: 1px solid #e5e7eb;
+            background: white;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            color: #64748b;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        
+        .period-btn:hover {
+            border-color: #0F3B79;
+            color: #0F3B79;
+        }
+        
+        .period-btn.active {
+            background: #0F3B79;
+            color: white;
+            border-color: #0F3B79;
+        }
         
         /* Responsive */
         @media (max-width: 768px) {
@@ -549,6 +591,14 @@
             <button class="tab" data-tab="overview">Detail Overzicht</button>
             <button class="tab" data-tab="visitors">Bezoekers</button>
             <button class="tab" data-tab="video">Video</button>
+        </div>
+
+        <div class="period-filter">
+            <span class="period-label">Periode:</span>
+            <button class="period-btn active" data-period="all">Alles</button>
+            <button class="period-btn" data-period="30d">30 dagen</button>
+            <button class="period-btn" data-period="week">Deze week</button>
+            <button class="period-btn" data-period="today">Vandaag</button>
         </div>
 
         <!-- GLOBAAL OVERZICHT TAB -->
@@ -903,11 +953,13 @@
         constructor() {
             this.apiUrl = 'https://aanmelden-gs-tracking-production.up.railway.app/api/analytics';
             this.charts = {};
+            this.currentPeriod = 'all';
             this.init();
         }
         
         async init() {
             this.setupTabs();
+            this.setupPeriodFilter();
             this.setupEventListeners();
             await this.loadAllData();
             this.startAutoRefresh();
@@ -922,6 +974,51 @@
                     tab.classList.add('active');
                     document.getElementById(targetTab).classList.add('active');
                 });
+            });
+        }
+
+        setupPeriodFilter() {
+            document.querySelectorAll('.period-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('.period-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    this.currentPeriod = btn.dataset.period;
+                    this.loadAllData();
+                });
+            });
+        }
+
+        getDateFilter() {
+            const now = new Date();
+            let startDate = null;
+            
+            switch(this.currentPeriod) {
+                case 'today':
+                    startDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+                    break;
+                case 'week':
+                    const dayOfWeek = now.getDay();
+                    const diff = now.getDate() - dayOfWeek + (dayOfWeek === 0 ? -6 : 1);
+                    startDate = new Date(now.setDate(diff));
+                    startDate.setHours(0, 0, 0, 0);
+                    break;
+                case '30d':
+                    startDate = new Date(now.getTime() - (30 * 24 * 60 * 60 * 1000));
+                    break;
+                default:
+                    return null;
+            }
+            
+            return startDate ? startDate.toISOString() : null;
+        }
+
+        filterDataByPeriod(data) {
+            const startDate = this.getDateFilter();
+            if (!startDate) return data;
+            
+            return data.filter(item => {
+                const itemDate = new Date(item.timestamp);
+                return itemDate >= new Date(startDate);
             });
         }
         
@@ -949,43 +1046,71 @@
 
         async loadGlobalOverview() {
             try {
-                const [overviewRes, sessionsRes, submissionsRes, regionsRes, timeRes, locationsRes] = await Promise.all([
+                const [overviewRes, sessionsRes, submissionsRes, regionsRes, timeRes, locationsRes, clicksRes] = await Promise.all([
                     fetch(`${this.apiUrl}/overview`),
                     fetch(`${this.apiUrl}/sessions`),
                     fetch(`${this.apiUrl}/form-submissions`),
                     fetch(`${this.apiUrl}/regions`),
                     fetch(`${this.apiUrl}/time-distribution`),
-                    fetch(`${this.apiUrl}/locations`)
+                    fetch(`${this.apiUrl}/locations`),
+                    fetch(`${this.apiUrl}/clicks`)
                 ]);
 
                 const overviewData = await overviewRes.json();
-                const sessionsData = await sessionsRes.json();
-                const submissionsData = await submissionsRes.json();
+                let sessionsData = await sessionsRes.json();
+                let submissionsData = await submissionsRes.json();
                 const regionsData = await regionsRes.json();
                 const timeData = await timeRes.json();
-                const locationsData = await locationsRes.json();
+                let locationsData = await locationsRes.json();
+                let clicksData = await clicksRes.json();
 
-                // Calculate total actions
-                const whatsappClicks = overviewData.clicksByType.find(c => c.button_type === 'whatsapp');
-                const whatsappCount = whatsappClicks ? whatsappClicks.count : 0;
-                const totalActions = (overviewData.totalForms || 0) + whatsappCount;
+                // Apply period filter to data
+                sessionsData = this.filterDataByPeriod(sessionsData);
+                submissionsData = this.filterDataByPeriod(submissionsData);
+                clicksData = this.filterDataByPeriod(clicksData);
+
+                // Calculate stats based on filtered data
+                const whatsappCount = clicksData.filter(c => c.button_type === 'whatsapp').length;
+                const totalActions = submissionsData.length + whatsappCount;
                 
                 document.getElementById('globalTotalActions').textContent = totalActions;
 
-                // Calculate conversion
-                const conversionRate = overviewData.totalSessions > 0 
-                    ? ((totalActions / overviewData.totalSessions) * 100).toFixed(1) 
+                // Calculate conversion based on filtered sessions
+                const conversionRate = sessionsData.length > 0 
+                    ? ((totalActions / sessionsData.length) * 100).toFixed(1) 
                     : 0;
                 document.getElementById('globalConversion').textContent = `${conversionRate}%`;
 
-                // Visitors today
-                const today = new Date().toDateString();
-                const visitorsToday = sessionsData.filter(s => new Date(s.timestamp).toDateString() === today).length;
-                document.getElementById('globalVisitorsToday').textContent = visitorsToday;
+                // Visitors in period (show count for selected period)
+                const periodLabel = document.querySelector('.stat-card:nth-child(3) .label');
+                const periodHint = document.querySelector('.stat-card:nth-child(3) .hint');
+                
+                switch(this.currentPeriod) {
+                    case 'today':
+                        periodLabel.textContent = 'Bezoekers Vandaag';
+                        periodHint.textContent = 'Nieuwe bezoekers sinds middernacht';
+                        break;
+                    case 'week':
+                        periodLabel.textContent = 'Bezoekers Deze Week';
+                        periodHint.textContent = 'Bezoekers sinds maandag';
+                        break;
+                    case '30d':
+                        periodLabel.textContent = 'Bezoekers (30 dagen)';
+                        periodHint.textContent = 'Bezoekers afgelopen 30 dagen';
+                        break;
+                    default:
+                        periodLabel.textContent = 'Totaal Bezoekers';
+                        periodHint.textContent = 'Alle bezoekers ooit';
+                }
+                document.getElementById('globalVisitorsToday').textContent = sessionsData.length;
 
-                // Quality Score
-                const avgTime = overviewData.avgActiveTime || 0;
-                const scrollDepth = overviewData.avgScrollDepth || 0;
+                // Quality Score based on filtered data
+                const avgTime = sessionsData.length > 0 
+                    ? sessionsData.reduce((sum, s) => sum + (s.active_time || 0), 0) / sessionsData.length 
+                    : 0;
+                const scrollDepth = sessionsData.length > 0 
+                    ? sessionsData.reduce((sum, s) => sum + (s.scroll_depth || 0), 0) / sessionsData.length 
+                    : 0;
                 let qualityScore = 'Laag';
                 
                 if (avgTime > 60 && scrollDepth > 70) qualityScore = 'Hoog';
@@ -995,8 +1120,8 @@
                 scoreElement.textContent = qualityScore;
                 scoreElement.style.color = qualityScore === 'Hoog' ? '#2dd5a4' : (qualityScore === 'Gemiddeld' ? '#f59e0b' : '#ef4444');
 
-                // Render Charts
-                this.renderCharts(overviewData, regionsData, timeData, sessionsData);
+                // Render Charts with filtered data
+                this.renderChartsFiltered(sessionsData, submissionsData, clicksData);
 
                 // Render Belgium Map with visitor locations
                 this.renderBelgiumMap(locationsData);
@@ -1007,6 +1132,78 @@
             } catch (error) {
                 console.error('Error loading global overview:', error);
             }
+        }
+
+        renderChartsFiltered(sessionsData, submissionsData, clicksData) {
+            // 1. Contact Preference Chart (Pie) - based on filtered data
+            const whatsappCount = clicksData.filter(c => c.button_type === 'whatsapp').length;
+            const formCount = submissionsData.length;
+
+            this.createChart('preferenceChart', 'doughnut', {
+                labels: ['Opbellen', 'WhatsApp'],
+                datasets: [{
+                    data: [formCount, whatsappCount],
+                    backgroundColor: ['#0F3B79', '#25D366'],
+                    borderWidth: 0
+                }]
+            });
+
+            // 2. Regions Chart (Bar) - calculate from filtered sessions
+            const regionCounts = {};
+            sessionsData.forEach(s => {
+                const region = s.region || 'Onbekend';
+                regionCounts[region] = (regionCounts[region] || 0) + 1;
+            });
+            const topRegions = Object.entries(regionCounts)
+                .map(([region, count]) => ({ region, count }))
+                .sort((a, b) => b.count - a.count)
+                .slice(0, 5);
+
+            this.createChart('regionChart', 'bar', {
+                labels: topRegions.map(r => r.region),
+                datasets: [{
+                    label: 'Bezoekers',
+                    data: topRegions.map(r => r.count),
+                    backgroundColor: '#2dd5a4',
+                    borderRadius: 4
+                }]
+            });
+
+            // 3. Time on Page Chart (Bar) - calculate from filtered sessions
+            const timeBuckets = { '0-10s': 0, '10-30s': 0, '30-60s': 0, '1-3m': 0, '3m+': 0 };
+            sessionsData.forEach(s => {
+                const time = s.time_on_page || 0;
+                if (time < 10) timeBuckets['0-10s']++;
+                else if (time < 30) timeBuckets['10-30s']++;
+                else if (time < 60) timeBuckets['30-60s']++;
+                else if (time < 180) timeBuckets['1-3m']++;
+                else timeBuckets['3m+']++;
+            });
+
+            this.createChart('timeChart', 'bar', {
+                labels: Object.keys(timeBuckets),
+                datasets: [{
+                    label: 'Aantal Bezoekers',
+                    data: Object.values(timeBuckets),
+                    backgroundColor: '#0F3B79',
+                    borderRadius: 4
+                }]
+            });
+
+            // 4. Device Chart (Doughnut)
+            const deviceStats = {
+                'Mobile': sessionsData.filter(s => s.user_agent && (s.user_agent.includes('Mobile') || s.user_agent.includes('Android') || s.user_agent.includes('iPhone'))).length,
+                'Desktop': sessionsData.filter(s => s.user_agent && !s.user_agent.includes('Mobile') && !s.user_agent.includes('Android') && !s.user_agent.includes('iPhone')).length
+            };
+
+            this.createChart('deviceChart', 'doughnut', {
+                labels: ['Mobile', 'Desktop'],
+                datasets: [{
+                    data: [deviceStats.Mobile, deviceStats.Desktop],
+                    backgroundColor: ['#2dd5a4', '#0F3B79'],
+                    borderWidth: 0
+                }]
+            });
         }
 
         renderCharts(overviewData, regionsData, timeData, sessionsData) {
