@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard - Grafix Studio</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         * {
             margin: 0;
@@ -518,6 +519,36 @@
                 </div>
             </div>
 
+            <div class="stats-grid" style="grid-template-columns: repeat(2, 1fr);">
+                <div class="card">
+                    <h3>Contact Voorkeur</h3>
+                    <div style="height: 250px; display: flex; justify-content: center;">
+                        <canvas id="preferenceChart"></canvas>
+                    </div>
+                </div>
+                <div class="card">
+                    <h3>Regio's</h3>
+                    <div style="height: 250px; display: flex; justify-content: center;">
+                        <canvas id="regionChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <div class="stats-grid" style="grid-template-columns: repeat(2, 1fr);">
+                <div class="card">
+                    <h3>Tijd op Pagina</h3>
+                    <div style="height: 250px; display: flex; justify-content: center;">
+                        <canvas id="timeChart"></canvas>
+                    </div>
+                </div>
+                <div class="card">
+                    <h3>Devices</h3>
+                    <div style="height: 250px; display: flex; justify-content: center;">
+                        <canvas id="deviceChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
             <div class="card">
                 <h3>Recente Activiteit</h3>
                 <div id="globalActivityList" class="journey-list">
@@ -720,6 +751,7 @@
     class Dashboard {
         constructor() {
             this.apiUrl = 'https://aanmelden-gs-tracking-production.up.railway.app/api/analytics';
+            this.charts = {};
             this.init();
         }
         
@@ -766,15 +798,19 @@
 
         async loadGlobalOverview() {
             try {
-                const [overviewRes, sessionsRes, submissionsRes] = await Promise.all([
+                const [overviewRes, sessionsRes, submissionsRes, regionsRes, timeRes] = await Promise.all([
                     fetch(`${this.apiUrl}/overview`),
                     fetch(`${this.apiUrl}/sessions`),
-                    fetch(`${this.apiUrl}/form-submissions`)
+                    fetch(`${this.apiUrl}/form-submissions`),
+                    fetch(`${this.apiUrl}/regions`),
+                    fetch(`${this.apiUrl}/time-distribution`)
                 ]);
 
                 const overviewData = await overviewRes.json();
                 const sessionsData = await sessionsRes.json();
                 const submissionsData = await submissionsRes.json();
+                const regionsData = await regionsRes.json();
+                const timeData = await timeRes.json();
 
                 // Calculate total actions
                 const whatsappClicks = overviewData.clicksByType.find(c => c.button_type === 'whatsapp');
@@ -794,7 +830,7 @@
                 const visitorsToday = sessionsData.filter(s => new Date(s.timestamp).toDateString() === today).length;
                 document.getElementById('globalVisitorsToday').textContent = visitorsToday;
 
-                // Quality Score (simple algorithm)
+                // Quality Score
                 const avgTime = overviewData.avgActiveTime || 0;
                 const scrollDepth = overviewData.avgScrollDepth || 0;
                 let qualityScore = 'Laag';
@@ -806,12 +842,108 @@
                 scoreElement.textContent = qualityScore;
                 scoreElement.style.color = qualityScore === 'Hoog' ? '#2dd5a4' : (qualityScore === 'Gemiddeld' ? '#f59e0b' : '#ef4444');
 
+                // Render Charts
+                this.renderCharts(overviewData, regionsData, timeData, sessionsData);
+
                 // Render Activity Feed
                 this.renderGlobalActivity(sessionsData, submissionsData);
 
             } catch (error) {
                 console.error('Error loading global overview:', error);
             }
+        }
+
+        renderCharts(overviewData, regionsData, timeData, sessionsData) {
+            // 1. Contact Preference Chart (Pie)
+            const whatsappClicks = overviewData.clicksByType.find(c => c.button_type === 'whatsapp');
+            const whatsappCount = whatsappClicks ? whatsappClicks.count : 0;
+            const formCount = overviewData.totalForms || 0;
+
+            this.createChart('preferenceChart', 'doughnut', {
+                labels: ['Opbellen', 'WhatsApp'],
+                datasets: [{
+                    data: [formCount, whatsappCount],
+                    backgroundColor: ['#0F3B79', '#25D366'],
+                    borderWidth: 0
+                }]
+            });
+
+            // 2. Regions Chart (Bar)
+            const topRegions = regionsData.slice(0, 5);
+            this.createChart('regionChart', 'bar', {
+                labels: topRegions.map(r => r.region),
+                datasets: [{
+                    label: 'Bezoekers',
+                    data: topRegions.map(r => r.count),
+                    backgroundColor: '#2dd5a4',
+                    borderRadius: 4
+                }]
+            });
+
+            // 3. Time on Page Chart (Bar)
+            this.createChart('timeChart', 'bar', {
+                labels: timeData.map(t => t.duration_bucket),
+                datasets: [{
+                    label: 'Aantal Bezoekers',
+                    data: timeData.map(t => t.count),
+                    backgroundColor: '#0F3B79',
+                    borderRadius: 4
+                }]
+            });
+
+            // 4. Device Chart (Doughnut)
+            const deviceStats = {
+                'Mobile': sessionsData.filter(s => s.user_agent.includes('Mobile') || s.user_agent.includes('Android') || s.user_agent.includes('iPhone')).length,
+                'Desktop': sessionsData.filter(s => !s.user_agent.includes('Mobile') && !s.user_agent.includes('Android') && !s.user_agent.includes('iPhone')).length
+            };
+
+            this.createChart('deviceChart', 'doughnut', {
+                labels: ['Mobile', 'Desktop'],
+                datasets: [{
+                    data: [deviceStats.Mobile, deviceStats.Desktop],
+                    backgroundColor: ['#2dd5a4', '#0F3B79'],
+                    borderWidth: 0
+                }]
+            });
+        }
+
+        createChart(canvasId, type, data) {
+            const ctx = document.getElementById(canvasId).getContext('2d');
+            
+            if (this.charts[canvasId]) {
+                this.charts[canvasId].destroy();
+            }
+
+            this.charts[canvasId] = new Chart(ctx, {
+                type: type,
+                data: data,
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                usePointStyle: true,
+                                padding: 20
+                            }
+                        }
+                    },
+                    scales: type === 'bar' ? {
+                        y: {
+                            beginAtZero: true,
+                            grid: {
+                                display: false
+                            }
+                        },
+                        x: {
+                            grid: {
+                                display: false
+                            }
+                        }
+                    } : {}
+                }
+            });
         }
 
         renderGlobalActivity(sessions, submissions) {

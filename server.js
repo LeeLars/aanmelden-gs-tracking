@@ -431,6 +431,46 @@ app.get('/api/analytics/clicks-timeline', (req, res) => {
     });
 });
 
+app.get('/api/analytics/regions', (req, res) => {
+    const sql = `SELECT 
+                    COALESCE(region, 'Onbekend') as region,
+                    COUNT(*) as count
+                 FROM sessions 
+                 GROUP BY region 
+                 ORDER BY count DESC`;
+    
+    db.all(sql, [], (err, rows) => {
+        if (err) {
+            console.error('Error fetching regions:', err);
+            return res.status(500).json({ error: 'Failed to fetch regions' });
+        }
+        res.json(rows);
+    });
+});
+
+app.get('/api/analytics/time-distribution', (req, res) => {
+    const sql = `SELECT 
+                    CASE 
+                        WHEN time_on_page < 10 THEN '0-10s'
+                        WHEN time_on_page < 30 THEN '10-30s'
+                        WHEN time_on_page < 60 THEN '30-60s'
+                        WHEN time_on_page < 180 THEN '1-3m'
+                        ELSE '3m+'
+                    END as duration_bucket,
+                    COUNT(*) as count
+                 FROM sessions 
+                 WHERE time_on_page > 0
+                 GROUP BY duration_bucket`;
+    
+    db.all(sql, [], (err, rows) => {
+        if (err) {
+            console.error('Error fetching time distribution:', err);
+            return res.status(500).json({ error: 'Failed to fetch time distribution' });
+        }
+        res.json(rows);
+    });
+});
+
 app.get('/api/analytics/export', (req, res) => {
     const sql = `SELECT 
                     s.*,
