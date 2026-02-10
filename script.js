@@ -623,17 +623,26 @@ if (phoneInput) {
 }
 
 if (toggleFormBtn) {
-    toggleFormBtn.addEventListener('click', () => {
-        callbackForm.classList.toggle('hidden');
-        if (!callbackForm.classList.contains('hidden')) {
-            callbackForm.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            setTimeout(() => {
-                if (companyInput) companyInput.focus();
-                else if (phoneInput) phoneInput.focus();
-            }, 300);
-            if (tracker) tracker.trackInteractionEvent('form_toggle', { action: 'opened' });
+    toggleFormBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        console.log('Toggle form button clicked');
+        if (callbackForm) {
+            callbackForm.classList.toggle('hidden');
+            console.log('Form hidden class toggled:', callbackForm.classList.contains('hidden'));
+            if (!callbackForm.classList.contains('hidden')) {
+                callbackForm.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                setTimeout(() => {
+                    if (companyInput) companyInput.focus();
+                    else if (phoneInput) phoneInput.focus();
+                }, 300);
+                if (tracker) tracker.trackInteractionEvent('form_toggle', { action: 'opened' });
+            }
+        } else {
+            console.error('callbackForm element not found');
         }
     });
+} else {
+    console.error('toggleFormBtn element not found');
 }
 
 const registrationForm = document.getElementById('registrationForm');
