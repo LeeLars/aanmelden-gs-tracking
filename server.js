@@ -532,6 +532,36 @@ function convertToCSV(data) {
     return [headers, ...rows].join('\n');
 }
 
+app.post('/api/admin/delete-session', (req, res) => {
+    const { admin_key, session_id } = req.body;
+    
+    if (admin_key !== 'gs-admin-2024') {
+        return res.status(403).json({ error: 'Ongeldige admin sleutel' });
+    }
+
+    if (!session_id) {
+        return res.status(400).json({ error: 'session_id is vereist' });
+    }
+
+    const tables = ['interaction_events', 'video_events', 'button_clicks', 'form_submissions', 'sessions'];
+    let completed = 0;
+    let hasError = false;
+
+    tables.forEach(table => {
+        db.run(`DELETE FROM ${table} WHERE session_id = ?`, [session_id], (err) => {
+            if (err && !hasError) {
+                hasError = true;
+                console.error(`Error deleting from ${table}:`, err);
+                return res.status(500).json({ error: `Fout bij het verwijderen uit ${table}` });
+            }
+            completed++;
+            if (completed === tables.length && !hasError) {
+                res.json({ success: true, message: `Sessie ${session_id} is verwijderd` });
+            }
+        });
+    });
+});
+
 app.post('/api/admin/reset', (req, res) => {
     const { admin_key } = req.body;
     
