@@ -3,6 +3,8 @@ class AnalyticsTracker {
         this.sessionId = this.getOrCreateSessionId();
         this.apiUrl = window.ANALYTICS_API_URL || (window.location.hostname === 'localhost' ? 'http://localhost:3000/api/track' : 'https://aanmelden-gs-tracking-production.up.railway.app/api/track');
         this.startTime = Date.now();
+        this.videoWatchTime = 0;
+        this.videoStartTime = null;
         this.maxScrollDepth = 0;
         this.locationTracked = false;
         this.activeTime = 0;
@@ -244,6 +246,51 @@ class AnalyticsTracker {
         );
     }
 
+    updateVideoWatchTime(video) {
+        if (!video.paused && this.videoStartTime) {
+            const currentTime = Date.now();
+            this.videoWatchTime += (currentTime - this.videoStartTime) / 1000;
+            this.videoStartTime = currentTime;
+        } else if (!video.paused && !this.videoStartTime) {
+            this.videoStartTime = Date.now();
+        }
+    }
+
+    async trackVideoEvent(eventType, video) {
+        if (eventType === 'play') {
+            this.videoStartTime = Date.now();
+        } else if (eventType === 'pause' || eventType === 'ended') {
+            if (this.videoStartTime) {
+                const currentTime = Date.now();
+                this.videoWatchTime += (currentTime - this.videoStartTime) / 1000;
+                this.videoStartTime = null;
+            }
+        }
+
+        if (!this.trackingEnabled) return;
+
+        const percentageWatched = video.duration ? (video.currentTime / video.duration) * 100 : 0;
+
+        const eventData = {
+            session_id: this.sessionId,
+            event_type: eventType,
+            timestamp: new Date().toISOString(),
+            video_time: video.currentTime,
+            total_watch_time: this.videoWatchTime,
+            percentage_watched: percentageWatched
+        };
+
+        try {
+            await fetch(`${this.apiUrl}/video`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(eventData)
+            });
+        } catch (error) {
+            console.error('Failed to track video event:', error);
+        }
+    }
+
     async trackButtonClick(buttonType) {
         if (!this.trackingEnabled) return;
         
@@ -408,11 +455,121 @@ class AnalyticsTracker {
 }
 
 let tracker = null;
+const heroVideo = document.getElementById('heroVideo');
+const playButton = document.getElementById('playButton');
+const muteButton = document.getElementById('muteButton');
+const progressBar = document.querySelector('.progress-bar');
+const progress = document.getElementById('progress');
+const videoOverlay = document.querySelector('.video-overlay');
+const customControls = document.querySelector('.custom-controls');
+const playIcons = document.querySelectorAll('.play-icon');
+const pauseIcons = document.querySelectorAll('.pause-icon');
+const soundOn = document.querySelector('.sound-on');
+const soundOff = document.querySelector('.sound-off');
+const controlPlayBtn = document.getElementById('controlPlayBtn');
+
+let isPlaying = false;
+let controlsTimeout;
+
+function togglePlay(e) {
+    if (e) e.stopPropagation();
+    
+    if (isPlaying) {
+        heroVideo.pause();
+        isPlaying = false;
+        playIcons.forEach(icon => icon.classList.remove('hidden'));
+        pauseIcons.forEach(icon => icon.classList.add('hidden'));
+        videoOverlay.classList.remove('hide');
+        if (tracker) tracker.trackVideoEvent('pause', heroVideo);
+    } else {
+        heroVideo.play();
+        isPlaying = true;
+        playIcons.forEach(icon => icon.classList.add('hidden'));
+        pauseIcons.forEach(icon => icon.classList.remove('hidden'));
+        videoOverlay.classList.add('hide');
+        if (tracker) tracker.trackVideoEvent('play', heroVideo);
+    }
+}
+
+function toggleMute() {
+    heroVideo.muted = !heroVideo.muted;
+    if (heroVideo.muted) {
+        soundOn.classList.add('hidden');
+        soundOff.classList.remove('hidden');
+    } else {
+        soundOn.classList.remove('hidden');
+        soundOff.classList.add('hidden');
+    }
+}
+
+function updateProgress() {
+    const percentage = (heroVideo.currentTime / heroVideo.duration) * 100;
+    progress.style.width = percentage + '%';
+    if (tracker) tracker.updateVideoWatchTime(heroVideo);
+}
+
+function seekVideo(e) {
+    const rect = progressBar.getBoundingClientRect();
+    const pos = (e.clientX - rect.left) / rect.width;
+    heroVideo.currentTime = pos * heroVideo.duration;
+}
+
+function showControls() {
+    customControls.classList.remove('hide');
+    clearTimeout(controlsTimeout);
+    controlsTimeout = setTimeout(() => {
+        if (isPlaying) {
+            customControls.classList.add('hide');
+        }
+    }, 3000);
+}
+
+playButton.addEventListener('click', togglePlay);
+if (controlPlayBtn) controlPlayBtn.addEventListener('click', togglePlay);
+muteButton.addEventListener('click', toggleMute);
+heroVideo.addEventListener('timeupdate', updateProgress);
+progressBar.addEventListener('click', seekVideo);
+
+document.querySelector('.video-header').addEventListener('mousemove', showControls);
+document.querySelector('.video-header').addEventListener('touchstart', showControls);
+
+heroVideo.addEventListener('ended', () => {
+    isPlaying = false;
+    playIcons.forEach(icon => icon.classList.remove('hidden'));
+    pauseIcons.forEach(icon => icon.classList.add('hidden'));
+    videoOverlay.classList.remove('hide');
+    customControls.classList.remove('hide');
+    if (tracker) tracker.trackVideoEvent('ended', heroVideo);
+});
+
+window.addEventListener('load', () => {
+    // Video starts muted due to autoplay attribute
+    isPlaying = true;
+    playIcons.forEach(icon => icon.classList.add('hidden'));
+    pauseIcons.forEach(icon => icon.classList.remove('hidden'));
+    videoOverlay.classList.add('hide');
+    
+    // Try to unmute immediately
+    heroVideo.muted = false;
+    soundOn.classList.remove('hidden');
+    soundOff.classList.add('hidden');
+    
+    // If unmute fails, wait for user interaction
+    heroVideo.play().catch(() => {
+        // Autoplay with sound blocked, keep muted
+        heroVideo.muted = true;
+        soundOn.classList.add('hidden');
+        soundOff.classList.remove('hidden');
+    });
+    
+    if (tracker) tracker.trackVideoEvent('play', heroVideo);
+});
 
 const whatsappBtn = document.getElementById('whatsappBtn');
 const smsBtn = document.getElementById('smsBtn');
 const toggleFormBtn = document.getElementById('toggleFormBtn');
 const callbackForm = document.getElementById('callbackForm');
+const companyInput = document.getElementById('company');
 const phoneInput = document.getElementById('phone');
 
 whatsappBtn.addEventListener('click', () => {
@@ -471,7 +628,8 @@ if (toggleFormBtn) {
         if (!callbackForm.classList.contains('hidden')) {
             callbackForm.scrollIntoView({ behavior: 'smooth', block: 'center' });
             setTimeout(() => {
-                phoneInput.focus();
+                if (companyInput) companyInput.focus();
+                else if (phoneInput) phoneInput.focus();
             }, 300);
             if (tracker) tracker.trackInteractionEvent('form_toggle', { action: 'opened' });
         }

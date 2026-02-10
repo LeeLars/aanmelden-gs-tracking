@@ -90,6 +90,10 @@ function initDatabase() {
             FOREIGN KEY (session_id) REFERENCES sessions(session_id)
         )`);
 
+        db.run(`ALTER TABLE form_submissions ADD COLUMN company TEXT`, (err) => {
+            // Ignore error if column already exists
+        });
+
         db.run(`CREATE TABLE IF NOT EXISTS interaction_events (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             session_id TEXT NOT NULL,
