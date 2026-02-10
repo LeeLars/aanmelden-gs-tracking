@@ -633,6 +633,7 @@
             <div class="header-actions">
                 <button id="refreshBtn" class="btn btn-primary">Ververs</button>
                 <button id="exportBtn" class="btn btn-secondary">Exporteer</button>
+                <button id="resetBtn" class="btn btn-secondary" style="background: #fee2e2; color: #dc2626; border-color: #fecaca;">Reset Data</button>
             </div>
         </header>
 
@@ -1259,6 +1260,7 @@
         setupEventListeners() {
             document.getElementById('refreshBtn').addEventListener('click', () => this.loadAllData());
             document.getElementById('exportBtn').addEventListener('click', () => this.exportData());
+            document.getElementById('resetBtn').addEventListener('click', () => this.resetData());
             document.getElementById('searchInput').addEventListener('input', (e) => this.filterSessions(e.target.value));
             document.getElementById('filterSelect').addEventListener('change', (e) => this.filterByType(e.target.value));
         }
@@ -2287,6 +2289,34 @@
         
         exportData() {
             window.open(`${this.apiUrl}/export`, '_blank');
+        }
+        
+        async resetData() {
+            if (!confirm('Weet je zeker dat je ALLE data wilt wissen? Dit kan niet ongedaan worden.')) {
+                return;
+            }
+            
+            const adminKey = prompt('Voer de admin sleutel in:');
+            if (!adminKey) return;
+
+            try {
+                const response = await fetch(`${this.apiUrl.replace('/analytics', '/admin/reset')}`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ admin_key: adminKey })
+                });
+                
+                const result = await response.json();
+                
+                if (response.ok) {
+                    alert('Alle data is gewist. Dashboard wordt herladen.');
+                    this.loadAllData();
+                } else {
+                    alert(result.error || 'Er ging iets mis.');
+                }
+            } catch (error) {
+                alert('Kon geen verbinding maken met de server.');
+            }
         }
         
         formatTime(seconds) {

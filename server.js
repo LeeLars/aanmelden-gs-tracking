@@ -532,6 +532,32 @@ function convertToCSV(data) {
     return [headers, ...rows].join('\n');
 }
 
+app.post('/api/admin/reset', (req, res) => {
+    const { admin_key } = req.body;
+    
+    if (admin_key !== 'gs-admin-2024') {
+        return res.status(403).json({ error: 'Ongeldige admin sleutel' });
+    }
+
+    const tables = ['interaction_events', 'video_events', 'button_clicks', 'form_submissions', 'sessions'];
+    let completed = 0;
+    let hasError = false;
+
+    tables.forEach(table => {
+        db.run(`DELETE FROM ${table}`, [], (err) => {
+            if (err && !hasError) {
+                hasError = true;
+                console.error(`Error clearing ${table}:`, err);
+                return res.status(500).json({ error: `Fout bij het wissen van ${table}` });
+            }
+            completed++;
+            if (completed === tables.length && !hasError) {
+                res.json({ success: true, message: 'Alle data is gewist' });
+            }
+        });
+    });
+});
+
 app.listen(PORT, () => {
     console.log(`Analytics server running on http://localhost:${PORT}`);
     console.log(`Dashboard available at http://localhost:${PORT}/dashboard.html`);
