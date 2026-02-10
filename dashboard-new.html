@@ -692,17 +692,34 @@
 
             <div class="stats-grid" style="grid-template-columns: repeat(2, 1fr);">
                 <div class="card">
+                    <h3>Verkeersbronnen</h3>
+                    <p style="color: #666; font-size: 0.85rem; margin-top: -15px; margin-bottom: 15px;">Via welk kanaal vinden bezoekers je pagina? (Google, Facebook, direct, ...)</p>
+                    <div style="height: 250px; display: flex; justify-content: center;">
+                        <canvas id="trafficSourceChart"></canvas>
+                    </div>
+                </div>
+                <div class="card">
                     <h3>Contact Voorkeur</h3>
                     <p style="color: #666; font-size: 0.85rem; margin-top: -15px; margin-bottom: 15px;">Hoe nemen bezoekers het liefst contact op?</p>
                     <div style="height: 250px; display: flex; justify-content: center;">
                         <canvas id="preferenceChart"></canvas>
                     </div>
                 </div>
+            </div>
+
+            <div class="stats-grid" style="grid-template-columns: repeat(2, 1fr);">
                 <div class="card">
                     <h3>Top Regio's</h3>
                     <p style="color: #666; font-size: 0.85rem; margin-top: -15px; margin-bottom: 15px;">Uit welke regio's komen je bezoekers?</p>
                     <div style="height: 250px; display: flex; justify-content: center;">
                         <canvas id="regionChart"></canvas>
+                    </div>
+                </div>
+                <div class="card">
+                    <h3>Apparaat</h3>
+                    <p style="color: #666; font-size: 0.85rem; margin-top: -15px; margin-bottom: 15px;">Bekijken ze je pagina op telefoon of computer?</p>
+                    <div style="height: 250px; display: flex; justify-content: center;">
+                        <canvas id="deviceChart"></canvas>
                     </div>
                 </div>
             </div>
@@ -716,11 +733,9 @@
                     </div>
                 </div>
                 <div class="card">
-                    <h3>Apparaat</h3>
-                    <p style="color: #666; font-size: 0.85rem; margin-top: -15px; margin-bottom: 15px;">Bekijken ze je pagina op telefoon of computer?</p>
-                    <div style="height: 250px; display: flex; justify-content: center;">
-                        <canvas id="deviceChart"></canvas>
-                    </div>
+                    <h3>Verkeersbronnen Detail</h3>
+                    <p style="color: #666; font-size: 0.85rem; margin-top: -15px; margin-bottom: 15px;">Overzicht per bron: hoeveel bezoekers en hoeveel daarvan werden leads.</p>
+                    <div id="trafficSourceTable" style="max-height: 250px; overflow-y: auto;"></div>
                 </div>
             </div>
 
@@ -1342,6 +1357,9 @@
                 // Render Visitors Timeline
                 this.renderVisitorsTimeline(sessionsData);
 
+                // Render Traffic Sources
+                this.renderTrafficSources(sessionsData, submissionsData);
+
                 // Render Charts with filtered data
                 this.renderChartsFiltered(sessionsData, submissionsData, clicksData);
 
@@ -1354,6 +1372,128 @@
             } catch (error) {
                 console.error('Error loading global overview:', error);
             }
+        }
+
+        parseTrafficSource(referrer) {
+            if (!referrer || referrer === 'direct' || referrer === '') {
+                return { name: 'Direct', color: '#6366f1' };
+            }
+            const r = referrer.toLowerCase();
+            if (r.includes('google')) return { name: 'Google', color: '#4285F4' };
+            if (r.includes('facebook') || r.includes('fb.com') || r.includes('fbclid')) return { name: 'Facebook', color: '#1877F2' };
+            if (r.includes('instagram')) return { name: 'Instagram', color: '#E4405F' };
+            if (r.includes('linkedin')) return { name: 'LinkedIn', color: '#0A66C2' };
+            if (r.includes('tiktok')) return { name: 'TikTok', color: '#000000' };
+            if (r.includes('youtube')) return { name: 'YouTube', color: '#FF0000' };
+            if (r.includes('twitter') || r.includes('x.com') || r.includes('t.co')) return { name: 'X / Twitter', color: '#1DA1F2' };
+            if (r.includes('bing')) return { name: 'Bing', color: '#008373' };
+            if (r.includes('pinterest')) return { name: 'Pinterest', color: '#BD081C' };
+            if (r.includes('whatsapp') || r.includes('wa.me')) return { name: 'WhatsApp', color: '#25D366' };
+            if (r.includes('mail') || r.includes('outlook') || r.includes('gmail')) return { name: 'E-mail', color: '#EA4335' };
+            // Extract domain name for unknown sources
+            try {
+                const url = new URL(referrer);
+                return { name: url.hostname.replace('www.', ''), color: '#94a3b8' };
+            } catch {
+                return { name: referrer.substring(0, 30), color: '#94a3b8' };
+            }
+        }
+
+        renderTrafficSources(sessionsData, submissionsData) {
+            // Build a set of session_ids that have form submissions (= leads)
+            const leadSessionIds = new Set(submissionsData.map(s => s.session_id));
+
+            // Count sources
+            const sourceCounts = {};
+            const sourceLeads = {};
+
+            sessionsData.forEach(s => {
+                const source = this.parseTrafficSource(s.referrer);
+                sourceCounts[source.name] = (sourceCounts[source.name] || 0) + 1;
+                if (leadSessionIds.has(s.session_id)) {
+                    sourceLeads[source.name] = (sourceLeads[source.name] || 0) + 1;
+                }
+            });
+
+            // Sort by count descending
+            const sorted = Object.entries(sourceCounts)
+                .map(([name, count]) => ({
+                    name,
+                    count,
+                    leads: sourceLeads[name] || 0,
+                    color: this.parseTrafficSource(name === 'Direct' ? 'direct' : name).color
+                }))
+                .sort((a, b) => b.count - a.count);
+
+            // Doughnut chart
+            const colors = sorted.map(s => {
+                const src = this.parseTrafficSource(s.name === 'Direct' ? 'direct' : s.name);
+                return src.color;
+            });
+
+            this.createChart('trafficSourceChart', 'doughnut', {
+                labels: sorted.map(s => s.name),
+                datasets: [{
+                    data: sorted.map(s => s.count),
+                    backgroundColor: colors,
+                    borderWidth: 2,
+                    borderColor: 'white'
+                }]
+            });
+
+            // Detail table
+            const tableContainer = document.getElementById('trafficSourceTable');
+            if (!tableContainer) return;
+
+            const totalVisitors = sessionsData.length;
+
+            if (sorted.length === 0) {
+                tableContainer.innerHTML = '<p style="color: #999; text-align: center; padding: 20px;">Nog geen data beschikbaar</p>';
+                return;
+            }
+
+            tableContainer.innerHTML = `
+                <table style="width: 100%; border-collapse: collapse; font-size: 0.875rem;">
+                    <thead>
+                        <tr style="border-bottom: 2px solid #e2e8f0;">
+                            <th style="text-align: left; padding: 8px 12px; color: #666; font-weight: 600;">Bron</th>
+                            <th style="text-align: right; padding: 8px 12px; color: #666; font-weight: 600;">Bezoekers</th>
+                            <th style="text-align: right; padding: 8px 12px; color: #666; font-weight: 600;">%</th>
+                            <th style="text-align: right; padding: 8px 12px; color: #666; font-weight: 600;">Leads</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${sorted.map(s => {
+                            const pct = totalVisitors > 0 ? ((s.count / totalVisitors) * 100).toFixed(1) : 0;
+                            const barWidth = totalVisitors > 0 ? ((s.count / totalVisitors) * 100) : 0;
+                            return `
+                                <tr style="border-bottom: 1px solid #f1f5f9;">
+                                    <td style="padding: 10px 12px;">
+                                        <div style="display: flex; align-items: center; gap: 8px;">
+                                            <span style="width: 10px; height: 10px; border-radius: 50%; background: ${s.color}; flex-shrink: 0;"></span>
+                                            <strong>${s.name}</strong>
+                                        </div>
+                                    </td>
+                                    <td style="text-align: right; padding: 10px 12px; font-weight: 600; color: #0F3B79;">${s.count}</td>
+                                    <td style="text-align: right; padding: 10px 12px;">
+                                        <div style="display: flex; align-items: center; justify-content: flex-end; gap: 8px;">
+                                            <div style="width: 60px; height: 6px; background: #f1f5f9; border-radius: 3px; overflow: hidden;">
+                                                <div style="width: ${barWidth}%; height: 100%; background: ${s.color}; border-radius: 3px;"></div>
+                                            </div>
+                                            <span style="min-width: 40px;">${pct}%</span>
+                                        </div>
+                                    </td>
+                                    <td style="text-align: right; padding: 10px 12px;">
+                                        ${s.leads > 0 
+                                            ? `<span style="background: #d1fae5; color: #065f46; padding: 2px 8px; border-radius: 10px; font-weight: 600; font-size: 0.8rem;">${s.leads}</span>` 
+                                            : '<span style="color: #ccc;">-</span>'}
+                                    </td>
+                                </tr>
+                            `;
+                        }).join('')}
+                    </tbody>
+                </table>
+            `;
         }
 
         renderVisitorsTimeline(sessionsData) {
