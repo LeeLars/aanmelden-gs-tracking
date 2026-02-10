@@ -1759,11 +1759,13 @@
                 const device = this.parseDevice(phone.user_agent || '');
                 const phoneNumber = phone.phone || 'Geen nummer';
                 const cleanPhone = phoneNumber.replace(/\s/g, '');
+                const companyName = phone.company || 'Geen bedrijfsnaam';
                 
                 return `
                     <div class="phone-item ${isNew ? 'new' : ''}">
                         <div class="phone-icon">Tel</div>
                         <div class="phone-details">
+                            <div class="phone-company" style="font-weight: 600; color: #0F3B79; margin-bottom: 4px;">${companyName}</div>
                             <div class="phone-number">${phoneNumber}</div>
                             <div class="phone-meta">
                                 <span>${timestamp}</span>

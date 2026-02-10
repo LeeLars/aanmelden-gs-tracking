@@ -316,6 +316,7 @@ class AnalyticsTracker {
         
         const submissionData = {
             session_id: this.sessionId,
+            company: formData.get('company'),
             name: formData.get('name'),
             email: formData.get('email'),
             phone: formData.get('phone'),

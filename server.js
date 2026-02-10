@@ -82,6 +82,7 @@ function initDatabase() {
         db.run(`CREATE TABLE IF NOT EXISTS form_submissions (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             session_id TEXT NOT NULL,
+            company TEXT,
             name TEXT,
             email TEXT,
             phone TEXT,
@@ -232,15 +233,15 @@ app.post('/api/track/click', (req, res) => {
 });
 
 app.post('/api/track/form', (req, res) => {
-    const { session_id, name, email, phone, timestamp } = req.body;
+    const { session_id, company, name, email, phone, timestamp } = req.body;
     
     if (!session_id || !timestamp) {
         return res.status(400).json({ error: 'session_id and timestamp are required' });
     }
     
-    const sql = `INSERT INTO form_submissions (session_id, name, email, phone, timestamp) VALUES (?, ?, ?, ?, ?)`;
+    const sql = `INSERT INTO form_submissions (session_id, company, name, email, phone, timestamp) VALUES (?, ?, ?, ?, ?, ?)`;
     
-    db.run(sql, [session_id, name, email, phone, timestamp], function(err) {
+    db.run(sql, [session_id, company, name, email, phone, timestamp], function(err) {
         if (err) {
             console.error('Error inserting form submission:', err);
             return res.status(500).json({ error: 'Failed to track form submission' });
