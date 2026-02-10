@@ -2297,7 +2297,7 @@
             if (!confirm('Wil je deze sessie en alle bijbehorende data verwijderen?')) return;
 
             if (!this.adminKey) {
-                this.adminKey = prompt('Voer de admin sleutel in:');
+                this.adminKey = prompt('Kopieer en plak deze sleutel ter verificatie:\n\ngs-admin-2024');
                 if (!this.adminKey) return;
             }
 
@@ -2329,7 +2329,7 @@
                 return;
             }
             
-            const adminKey = prompt('Voer de admin sleutel in:');
+            const adminKey = prompt('Kopieer en plak deze sleutel ter verificatie:\n\ngs-admin-2024');
             if (!adminKey) return;
 
             try {
