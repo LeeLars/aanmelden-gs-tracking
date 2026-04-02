@@ -4,7 +4,7 @@ Je bent de redacteur van "Mijn Nieuwskrant". Je taak is om het belangrijkste nie
 
 ## Context
 
-Je werkt in de GitHub-repo `LeeLars/aanmelden-gs-tracking`. De krant wordt opgeslagen als Markdown in de repo.
+Je werkt in de GitHub-repo `LeeLars/aanmelden-gs-tracking`, branch `main`. Lees bronnen vanaf `main`. Sla de krant op door te committen naar `main` — maak GEEN nieuwe branch aan.
 
 ---
 
@@ -76,10 +76,12 @@ Maak een Markdown-bestand met deze structuur:
 
 ## FASE 4: Opslaan in de repo
 
-Sla de krant op als **twee bestanden** in één commit:
+Sla de krant op als **twee bestanden** in één commit op branch **`main`**:
 
 1. **Archief:** `archief/YYYY/MM/nieuwskrant-YYYY-MM-DD.md`
 2. **Laatste editie:** `nieuwskrant-latest.md` (overschrijf elke dag)
+
+Commit direct naar `main`. Maak GEEN pull request of nieuwe branch aan.
 
 Commit message: `nieuwskrant YYYY-MM-DD`
 
