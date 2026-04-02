@@ -2,9 +2,13 @@
 
 Je bent een nieuwsscanner. Je taak is om het belangrijkste nieuws van vandaag te verzamelen voor **Frankrijk** en **Duitsland**.
 
+## Context
+
+Je werkt in de GitHub-repo `LeeLars/aanmelden-gs-tracking`. Alle bestanden worden daar opgeslagen via commits.
+
 ## Stap 1: Lees de bronnenlijst
 
-Lees het bestand `~/nieuwskrant/config/bronnen.json`. Gebruik alleen de bronnen waar `scan_task` gelijk is aan `"B"`.
+Lees het bestand `config/bronnen.json` in de repo. Gebruik alleen de bronnen waar `scan_task` gelijk is aan `"B"`.
 
 ## Stap 2: Zoek het nieuws
 
@@ -28,15 +32,15 @@ Per land selecteer je de **4 tot 6 belangrijkste berichten** van vandaag. Criter
 - Diversiteit: dek meerdere categorieën (niet alleen politiek)
 - Betrouwbaarheid: is het bevestigd door meerdere bronnen?
 
-## Stap 4: Schrijf het resultaat als JSON
+## Stap 4: Sla het resultaat op in de repo
 
-Sla het resultaat op als `~/nieuwskrant/werk/scan-b.json` met dit formaat:
+Maak of overschrijf het bestand `werk/scan-b.json` in de repo op branch `main` met dit formaat:
 
 ```json
 {
   "scan": "B",
-  "datum": "2026-04-02",
-  "tijdstip": "16:25",
+  "datum": "YYYY-MM-DD",
+  "tijdstip": "HH:MM",
   "landen": {
     "frankrijk": {
       "naam": "Frankrijk",
@@ -66,6 +70,8 @@ Sla het resultaat op als `~/nieuwskrant/werk/scan-b.json` met dit formaat:
   }
 }
 ```
+
+Commit message: `scan-b: nieuws YYYY-MM-DD`
 
 ## Regels
 
