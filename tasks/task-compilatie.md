@@ -142,8 +142,26 @@ Verwijder de werkbestanden in een tweede commit:
 
 Commit message: `opruimen werk YYYY-MM-DD`
 
+## Stap 5: Verstuur naar Telegram
+
+Na het opslaan in de repo, verstuur de krant naar het Telegram-kanaal.
+
+Gebruik dit bash-commando om de krant als document te versturen:
+
+```bash
+curl -s -F "chat_id=TELEGRAM_CHAT_ID" \
+  -F "document=@nieuwskrant-latest.md" \
+  -F "caption=📰 Nieuwskrant YYYY-MM-DD" \
+  "https://api.telegram.org/botTELEGRAM_BOT_TOKEN/sendDocument"
+```
+
+**Let op:** Vervang `TELEGRAM_BOT_TOKEN` en `TELEGRAM_CHAT_ID` door de echte waarden wanneer je deze instructies in de scheduled task plakt. Zet NOOIT de echte token in een Git-bestand.
+
+Als de Telegram-verzending mislukt, ga gewoon door — de krant staat al veilig in de repo.
+
 ## Regels
 
 - Als een scan ontbreekt, maak de krant met wat er is — vermeld wat ontbreekt
 - Als beide scans ontbreken, commit NIETS en meld de fout
 - Commit direct naar `main`. GEEN nieuwe branch, GEEN pull request.
+- Verstuur ALTIJD naar Telegram na succesvolle opslag.
