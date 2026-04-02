@@ -1,5 +1,5 @@
 # Cloud Task: Nieuwskrant Deel 1 — Europa West
-# Planning: 06:00 (Belgische tijd) | Frequentie: Dagelijks
+# Planning: 05:00 (Belgische tijd) | Frequentie: Dagelijks
 # Naam in scheduler: "Nieuwskrant Deel 1 — Europa West"
 
 ---
