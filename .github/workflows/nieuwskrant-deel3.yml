@@ -1,0 +1,253 @@
+name: "Nieuwskrant Deel 3 — Azië + Samenvoegen + Telegram"
+
+on:
+  schedule:
+    # 17:50 CEST (UTC+2) = 15:50 UTC
+    - cron: "50 15 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  nieuwskrant-deel3:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Pull latest changes
+        run: git pull origin ${{ github.ref_name }} || true
+
+      - name: Run Claude Code — Nieuwskrant Deel 3
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Je bent mijn persoonlijke nieuwsanalist. Maak DEEL 3 van mijn nieuwskrant, voeg alles samen, en verstuur naar Telegram.
+
+            ## Stap 0: Haal het nieuwste op en bepaal datum
+
+            1. Voer `git pull` uit.
+            2. Bepaal vandaag's datum (YYYY-MM-DD), jaar (YYYY) en maand (MM).
+            3. Lees deze bestanden als ze bestaan:
+               - `nieuwskrant/[YYYY]/[MM]/nieuwskrant-deel1-[YYYY-MM-DD].md`
+               - `nieuwskrant/[YYYY]/[MM]/nieuwskrant-deel2-[YYYY-MM-DD].md`
+            4. Als een bestand niet bestaat, sla dat deel over in de samenvoeging.
+
+            ## Stap 1: Marktdata updaten
+
+            Haal opnieuw de ACTUELE koersen op (het is nu ~17:50, markten kunnen veranderd zijn):
+            - **Bitcoin (BTC)** in USD
+            - **Goud (XAU)** in USD per troy ounce
+            - **Zilver (XAG)** in USD per troy ounce
+            - **S&P 500** index in USD
+
+            Gebruik de meest recente koersen. Vergelijk met de koersen uit deel 1 (als beschikbaar) en noteer eventuele veranderingen sinds 17:00.
+
+            Zoek ook jaarperformance als die niet in deel 1 stond.
+
+            ## Stap 2: Schrijf de Azië-landen
+
+            🇮🇳 India — bronnen: thehindu.com, economictimes.indiatimes.com, ndtv.com, livemint.com
+            🇨🇳 China — bronnen: scmp.com, caixinglobal.com, globaltimes.cn, english.news.cn, asia.nikkei.com
+            🇯🇵 Japan — bronnen: japantimes.co.jp, www3.nhk.or.jp/nhkworld, asia.nikkei.com, english.kyodonews.net, mainichi.jp/english
+
+            ### Werkwijze per land
+
+            1. Zoek breed: "[land] news today [datum] politics economy"
+            2. Zoek 2-3 belangrijkste bronnen apart op via web search
+            3. Vergelijk wat meerdere bronnen schrijven over dezelfde onderwerpen
+            4. Schrijf per land 3-5 nieuwsitems als SYNTHESE van meerdere bronnen
+
+            ### KRITISCH: Alleen nieuws van VANDAAG
+
+            - Elk artikel MOET gepubliceerd zijn op de datum van vandaag.
+            - Check altijd de publicatiedatum.
+            - Voeg bij ELKE zoekopdracht de datum van vandaag toe.
+            - Let op: voor Aziatische bronnen is "vandaag" mogelijk al "morgen" in hun tijdzone — accepteer artikelen van zowel vandaag als gisteren lokale tijd als ze over actueel nieuws gaan.
+
+            ### Regels
+
+            - ALLEEN politiek, economisch en zakelijk nieuws — GEEN sport, entertainment, lifestyle
+            - Per item: 2-4 zinnen synthese met context en achtergrond
+            - **Vetgedrukt** voor belangrijke namen, bedragen, beslissingen
+            - Alles in het Nederlands
+
+            ### Bronvermelding per item — VERPLICHT FORMAT
+
+            📰 **Bronnaam** — publicatiedatum, publicatietijd | **Bronnaam** — publicatiedatum, publicatietijd
+            🔗 [titel artikel](url)
+
+            ### Zoekstrategie
+
+            - 2 brede zoekopdrachten per land
+            - 1-2 gerichte zoekopdrachten voor belangrijke verhalen
+            - Fetch maximaal 2-3 artikelen per land
+            - Totaal: ~12-15 zoekopdrachten voor 3 landen
+
+            ## Stap 3: Schrijf "De Grote Lijnen"
+
+            Lees de inhoud van deel 1, deel 2 en je eigen Azië-deel. Schrijf dan:
+
+            🌍 **De Grote Lijnen** — 5-8 zinnen vloeiende tekst (geen bullets):
+            - Welke thema's komen in meerdere landen terug?
+            - Welke ontwikkelingen hangen samen?
+            - Hoe belichten verschillende landen hetzelfde onderwerp?
+            - Vooruitblik: wat moeten we de komende dagen in de gaten houden?
+
+            ## Stap 4: Voeg alles samen tot definitief bestand
+
+            Combineer alles tot één bestand. Gebruik de GEÜPDATETE marktdata (van Stap 1).
+
+            Sla op als:
+            ```
+            nieuwskrant/[YYYY]/[MM]/nieuwskrant-[YYYY-MM-DD].md
+            ```
+
+            ### Bestandsformat
+
+            ```markdown
+            # 📰 MIJN NIEUWSKRANT
+            ### 📅 [dag] [datum] [maand] [jaar]
+            ### 🕐 Samengesteld om [tijdstip]
+
+            ---
+
+            ## 📊 Marktoverzicht — [tijdstip]
+
+            | Markt | Koers (USD) | Vandaag | 12 maanden |
+            |-------|-------------|---------|------------|
+            | ₿ Bitcoin | $XX,XXX | +X.X% | +XX.X% |
+            | 🥇 Goud | $X,XXX/oz | +X.X% | +XX.X% |
+            | 🥈 Zilver | $XX.XX/oz | +X.X% | +XX.X% |
+            | 📈 S&P 500 | X,XXX | +X.X% | +XX.X% |
+
+            > 📊 **Jaaroverzicht:** Bitcoin stond een jaar geleden op $XX,XXX (nu $XX,XXX). Goud steeg van $X,XXX naar $X,XXX. De S&P 500 ging van X,XXX naar X,XXX.
+
+            ---
+
+            ## 🇧🇪 België
+            [uit deel 1]
+
+            ---
+
+            ## 🇳🇱 Nederland
+            [uit deel 1]
+
+            ---
+
+            ## 🇫🇷 Frankrijk
+            [uit deel 1]
+
+            ---
+
+            ## 🇩🇪 Duitsland
+            [uit deel 1]
+
+            ---
+
+            ## 🇬🇧 Verenigd Koninkrijk
+            [uit deel 2]
+
+            ---
+
+            ## 🇺🇸 Verenigde Staten
+            [uit deel 2]
+
+            ---
+
+            ## 🇹🇷 Turkije
+            [uit deel 2]
+
+            ---
+
+            ## 🇷🇺 Rusland
+            [uit deel 2]
+
+            ---
+
+            ## 🇮🇳 India
+            [nieuw geschreven]
+
+            ---
+
+            ## 🇨🇳 China
+            [nieuw geschreven]
+
+            ---
+
+            ## 🇯🇵 Japan
+            [nieuw geschreven]
+
+            ---
+
+            ## 🌍 De Grote Lijnen
+            [nieuw geschreven synthese]
+            ```
+
+            ## Stap 5: Opruimen
+
+            Verwijder de tussenbestanden:
+            ```
+            rm nieuwskrant/[YYYY]/[MM]/nieuwskrant-deel1-[YYYY-MM-DD].md
+            rm nieuwskrant/[YYYY]/[MM]/nieuwskrant-deel2-[YYYY-MM-DD].md
+            ```
+
+            Het definitieve bestand `nieuwskrant-[YYYY-MM-DD].md` blijft staan.
+
+            ## Stap 6: Telegram versturen (optioneel)
+
+            Als de environment variables TELEGRAM_BOT_TOKEN en TELEGRAM_CHAT_ID beschikbaar zijn, verstuur dan een samenvatting naar Telegram.
+
+            Maak eerst een Telegram-versie van de krant (max 4096 tekens per bericht). Stuur meerdere berichten als het niet past.
+
+            Bericht 1 — Marktdata + overzicht:
+            ```
+            📰 NIEUWSKRANT — [datum]
+
+            📊 Markten:
+            ₿ BTC: $XX,XXX (+X.X%)
+            🥇 Goud: $X,XXX (+X.X%)
+            🥈 Zilver: $XX.XX (+X.X%)
+            📈 S&P: X,XXX (+X.X%)
+
+            🌍 De Grote Lijnen:
+            [verkorte versie, 3-4 zinnen]
+            ```
+
+            Bericht 2-4 — Per regio (verkort, max 3 items per land, 1 zin per item):
+            ```
+            🇧🇪🇳🇱🇫🇷🇩🇪 Europa West:
+            • BE: [kop 1]
+            • BE: [kop 2]
+            • NL: [kop 1]
+            ...
+            ```
+
+            Verstuur via:
+            ```bash
+            curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+              -d chat_id="${TELEGRAM_CHAT_ID}" \
+              -d parse_mode="Markdown" \
+              -d text="[BERICHT TEKST]"
+            ```
+
+            Als de environment variables niet bestaan, sla deze stap over zonder foutmelding.
+
+            ## Stap 7: Committen en pushen
+
+            Commit alle wijzigingen (definitief bestand + verwijderde tussenbestanden):
+            ```
+            git add -A
+            git commit -m "chore: nieuwskrant compleet - [YYYY-MM-DD]"
+            git push
+            ```
+          direct_prompt: true
+          allowed_tools: "web_search,web_fetch,bash,read,write,edit,glob,grep"

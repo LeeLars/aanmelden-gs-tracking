@@ -1,0 +1,166 @@
+name: "Nieuwskrant Deel 1 — Europa West + Marktdata"
+
+on:
+  schedule:
+    # 17:00 CEST (UTC+2) = 15:00 UTC
+    - cron: "0 15 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  nieuwskrant-deel1:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Run Claude Code — Nieuwskrant Deel 1
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Je bent mijn persoonlijke nieuwsanalist. Maak DEEL 1 van mijn dagelijkse nieuwskrant.
+
+            ## Stap 0: Bepaal datum en mappenstructuur
+
+            1. Bepaal vandaag's datum in YYYY-MM-DD formaat. Sla deze op als variabele.
+            2. Bepaal het jaar (YYYY) en de maand (MM) apart.
+            3. Maak de mappenstructuur aan als die nog niet bestaat:
+               ```
+               mkdir -p nieuwskrant/[YYYY]/[MM]
+               ```
+               Voorbeeld: `mkdir -p nieuwskrant/2026/04`
+
+            ## Stap 1: Marktdata ophalen
+
+            Zoek via web search de ACTUELE koersen op (realtime of slotkoers van vandaag):
+            - **Bitcoin (BTC)** in USD
+            - **Goud (XAU)** in USD per troy ounce
+            - **Zilver (XAG)** in USD per troy ounce
+            - **S&P 500** index in USD
+
+            Zoekstrategie voor marktdata:
+            - "bitcoin price today USD"
+            - "gold silver price today USD"
+            - "S&P 500 index today"
+
+            Noteer bij elke koers:
+            - De exacte prijs
+            - Het percentage verandering vandaag (+/- %)
+            - Bron en tijdstip van de koers
+
+            Zoek ook naar de **jaarperformance** van elk:
+            - "bitcoin price 1 year chart data"
+            - "gold price 1 year performance"
+            - "S&P 500 1 year performance"
+
+            Noteer de koers van 1 jaar geleden en bereken het rendement over 12 maanden.
+
+            ## Stap 2: Nieuwsitems per land
+
+            ### Jouw landen voor deze taak
+
+            🇧🇪 België — bronnen: standaard.be, tijd.be, vrt.be/vrtnws, hln.be, knack.be
+            🇳🇱 Nederland — bronnen: nos.nl, volkskrant.nl, nrc.nl, fd.nl, rtlnieuws.nl
+            🇫🇷 Frankrijk — bronnen: lemonde.fr, lefigaro.fr, lesechos.fr, france24.com, bfmtv.com
+            🇩🇪 Duitsland — bronnen: spiegel.de, zeit.de, handelsblatt.com, tagesschau.de, faz.net
+
+            ### Werkwijze per land
+
+            1. Zoek breed: "[land] nieuws vandaag [datum in lokaal formaat]"
+            2. Zoek 2-3 belangrijkste bronnen apart op via web search
+            3. Vergelijk wat meerdere bronnen schrijven over dezelfde onderwerpen
+            4. Schrijf per land 3-5 nieuwsitems als SYNTHESE van meerdere bronnen
+
+            ### KRITISCH: Alleen nieuws van VANDAAG
+
+            - Elk artikel dat je gebruikt MOET gepubliceerd zijn op de datum van vandaag.
+            - Check altijd de publicatiedatum in de URL, de metadata, of de pagina zelf.
+            - Als een artikel van gisteren of eerder is: GEBRUIK HET NIET.
+            - Voeg bij ELKE zoekopdracht de datum van vandaag toe, of gebruik "today" / "vandaag".
+
+            ### Regels
+
+            - ALLEEN politiek, economisch en zakelijk nieuws — GEEN sport, entertainment, lifestyle
+            - Elk land wordt UITSLUITEND samengevat op basis van bronnen UIT DAT LAND ZELF
+            - Per item: 2-4 zinnen synthese met context en achtergrond
+            - **Vetgedrukt** voor belangrijke namen, bedragen, beslissingen
+            - Alles in het Nederlands
+            - Als een land geen relevant nieuws heeft vandaag: "Rustige nieuwsdag — geen opvallende ontwikkelingen."
+
+            ### Bronvermelding per item — VERPLICHT FORMAT
+
+            Bij elk nieuwsitem vermeld je ALLE gebruikte bronnen in dit exacte format:
+
+            📰 **Bronnaam** — publicatiedatum, publicatietijd | **Bronnaam** — publicatiedatum, publicatietijd
+            🔗 [titel artikel](url)
+
+            ### Zoekstrategie — BELANGRIJK
+
+            - 2 brede zoekopdrachten per land (altijd met datum van vandaag)
+            - 1-2 gerichte zoekopdrachten als je een belangrijk verhaal tegenkomt
+            - Fetch maximaal 2-3 artikelen per land voor meer detail
+            - Totaal: ~4-5 zoekopdrachten per land, ~16-20 voor alle 4 landen
+
+            ## Stap 3: Output opslaan, committen en pushen
+
+            Sla het resultaat op als:
+            ```
+            nieuwskrant/[YYYY]/[MM]/nieuwskrant-deel1-[YYYY-MM-DD].md
+            ```
+
+            Commit met message: `chore: nieuwskrant deel 1 - [YYYY-MM-DD]`
+            Push naar de huidige branch.
+
+            ## Bestandsformat
+
+            ```markdown
+            # 📰 MIJN NIEUWSKRANT — DEEL 1
+            ### 📅 [dag] [datum] [maand] [jaar]
+
+            ---
+
+            ## 📊 Marktoverzicht — [tijdstip van ophalen]
+
+            | Markt | Koers (USD) | Vandaag | 12 maanden |
+            |-------|-------------|---------|------------|
+            | ₿ Bitcoin | $XX,XXX | +X.X% | +XX.X% |
+            | 🥇 Goud | $X,XXX/oz | +X.X% | +XX.X% |
+            | 🥈 Zilver | $XX.XX/oz | +X.X% | +XX.X% |
+            | 📈 S&P 500 | X,XXX | +X.X% | +XX.X% |
+
+            > 📊 **Jaaroverzicht:** Bitcoin stond een jaar geleden op $XX,XXX (nu $XX,XXX). Goud steeg van $X,XXX naar $X,XXX. De S&P 500 ging van X,XXX naar X,XXX.
+
+            ---
+
+            ## 🇧🇪 België
+
+            **[Korte landensamenvatting in 1-2 zinnen]**
+
+            - **[Kop]**
+              [2-4 zinnen synthese]
+              📰 **Bronnaam** — datum, tijd | **Bronnaam** — datum, tijd
+              🔗 [titel](url)
+
+            ---
+
+            ## 🇳🇱 Nederland
+            [zelfde structuur]
+
+            ---
+
+            ## 🇫🇷 Frankrijk
+            [zelfde structuur]
+
+            ---
+
+            ## 🇩🇪 Duitsland
+            [zelfde structuur]
+            ```
+          direct_prompt: true
+          allowed_tools: "web_search,web_fetch,bash,read,write,edit,glob,grep"

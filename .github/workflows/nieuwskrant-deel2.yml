@@ -1,0 +1,129 @@
+name: "Nieuwskrant Deel 2 — VK VS TR RU"
+
+on:
+  schedule:
+    # 17:30 CEST (UTC+2) = 15:30 UTC
+    - cron: "30 15 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  nieuwskrant-deel2:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Pull latest changes
+        run: git pull origin ${{ github.ref_name }} || true
+
+      - name: Run Claude Code — Nieuwskrant Deel 2
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Je bent mijn persoonlijke nieuwsanalist. Maak DEEL 2 van mijn dagelijkse nieuwskrant.
+
+            ## Stap 0: Haal het nieuwste op en bepaal datum
+
+            1. Voer `git pull` uit.
+            2. Bepaal vandaag's datum (YYYY-MM-DD), jaar (YYYY) en maand (MM).
+            3. Controleer of `nieuwskrant/[YYYY]/[MM]/nieuwskrant-deel1-[YYYY-MM-DD].md` bestaat.
+            4. Als het bestaat: lees het zodat je weet welk nieuws al behandeld is. Vermijd dubbele onderwerpen.
+            5. Als het niet bestaat: ga gewoon door.
+
+            ## Jouw landen voor deze taak
+
+            🇬🇧 VK — bronnen: bbc.co.uk/news, theguardian.com, ft.com, telegraph.co.uk, reuters.com
+            🇺🇸 VS — bronnen: nytimes.com, washingtonpost.com, wsj.com, apnews.com, bloomberg.com
+            🇹🇷 Turkije — bronnen: dailysabah.com, hurriyetdailynews.com, ahvalnews.com, trtworld.com
+            🇷🇺 Rusland — bronnen: tass.com, themoscowtimes.com, rt.com, meduza.io, kommersant.com
+
+            ## Werkwijze per land
+
+            1. Zoek breed: "[land] news today [datum] politics economy"
+            2. Zoek 2-3 belangrijkste bronnen apart op via web search
+            3. Vergelijk wat meerdere bronnen schrijven over dezelfde onderwerpen
+            4. Schrijf per land 3-5 nieuwsitems als SYNTHESE van meerdere bronnen
+
+            ## KRITISCH: Alleen nieuws van VANDAAG
+
+            - Elk artikel dat je gebruikt MOET gepubliceerd zijn op de datum van vandaag.
+            - Check altijd de publicatiedatum in de URL, metadata, of de pagina zelf.
+            - Als een artikel van gisteren of eerder is: GEBRUIK HET NIET.
+            - Voeg bij ELKE zoekopdracht de datum van vandaag toe, of gebruik "today".
+
+            ## Regels
+
+            - ALLEEN politiek, economisch en zakelijk nieuws — GEEN sport, entertainment, lifestyle
+            - Elk land wordt UITSLUITEND samengevat op basis van bronnen UIT DAT LAND ZELF
+            - Per item: 2-4 zinnen synthese met context en achtergrond
+            - **Vetgedrukt** voor belangrijke namen, bedragen, beslissingen
+            - Alles in het Nederlands
+            - Als een land geen relevant nieuws heeft vandaag: "Rustige nieuwsdag — geen opvallende ontwikkelingen."
+
+            ## Bronvermelding per item — VERPLICHT FORMAT
+
+            Bij elk nieuwsitem vermeld je ALLE gebruikte bronnen in dit exacte format:
+
+            📰 **Bronnaam** — publicatiedatum, publicatietijd | **Bronnaam** — publicatiedatum, publicatietijd
+            🔗 [titel artikel](url)
+
+            De publicatietijd is CRUCIAAL — het bewijst dat het nieuws van vandaag is.
+
+            ## Zoekstrategie — BELANGRIJK
+
+            - 2 brede zoekopdrachten per land (altijd met datum van vandaag)
+            - 1-2 gerichte zoekopdrachten als je een belangrijk verhaal tegenkomt
+            - Fetch maximaal 2-3 artikelen per land
+            - Totaal: ~4-5 zoekopdrachten per land, ~16-20 voor alle 4 landen
+
+            ## Output opslaan, committen en pushen
+
+            Sla het resultaat op als:
+            ```
+            nieuwskrant/[YYYY]/[MM]/nieuwskrant-deel2-[YYYY-MM-DD].md
+            ```
+
+            Commit met message: `chore: nieuwskrant deel 2 - [YYYY-MM-DD]`
+            Push naar de huidige branch.
+
+            ## Bestandsformat
+
+            ```markdown
+            # 📰 MIJN NIEUWSKRANT — DEEL 2
+            ### 📅 [dag] [datum] [maand] [jaar]
+
+            ---
+
+            ## 🇬🇧 Verenigd Koninkrijk
+
+            **[Korte landensamenvatting in 1-2 zinnen]**
+
+            - **[Kop]**
+              [2-4 zinnen synthese]
+              📰 **Bronnaam** — datum, tijd | **Bronnaam** — datum, tijd
+              🔗 [titel](url)
+
+            ---
+
+            ## 🇺🇸 Verenigde Staten
+            [zelfde structuur]
+
+            ---
+
+            ## 🇹🇷 Turkije
+            [zelfde structuur]
+
+            ---
+
+            ## 🇷🇺 Rusland
+            [zelfde structuur]
+            ```
+          direct_prompt: true
+          allowed_tools: "web_search,web_fetch,bash,read,write,edit,glob,grep"
