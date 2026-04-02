@@ -1,5 +1,5 @@
 # Cloud Task: Nieuwskrant Deel 2 — VK VS TR RU
-# Planning: 07:00 (Belgische tijd) | Frequentie: Dagelijks
+# Planning: 05:30 (Belgische tijd) | Frequentie: Dagelijks
 # Naam in scheduler: "Nieuwskrant Deel 2 — VK VS TR RU"
 
 ---
