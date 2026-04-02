@@ -1,0 +1,89 @@
+# MIJN NIEUWSKRANT
+### Donderdag 2 april 2026
+
+---
+
+> **Let op:** De scan voor België en Nederland (scan-a.json) was niet beschikbaar. Deze editie bevat alleen nieuws uit Frankrijk en Duitsland.
+
+---
+
+## 🇫🇷 Frankrijk
+
+**Frankrijk kampt met brandstoftekorten nu 16% van de tankstations geheel of gedeeltelijk droogstaat door de oliecrisis rond de Straat van Hormuz, terwijl de overheid de eigen bijdrage voor beroepsopleidingen via het CPF verhoogt naar €150 en een historisch akkoord van €500 miljoen sluit met de verpleegkundigen.**
+
+- **Brandstoftekorten treffen 16% van de Franse tankstations**
+  Op donderdag 2 april kampt circa **16%** van de Franse tankstations met een volledige of gedeeltelijke brandstoftekort. In totaal zijn zo'n **1.200 stations** getroffen, waarvan **80%** van de dieseltekorten bij **TotalEnergies**-stations. De tekorten zijn het gevolg van hamstergedrag nadat TotalEnergies een prijsplafond instelde tot minstens 7 april, gecombineerd met de stijgende olieprijzen door de blokkade van de **Straat van Hormuz**. Diesel bereikte een gemiddelde recordprijs van **€2,25 per liter**.
+  📰 Connexion France — 2 april 2026
+  🔗 https://www.connexionfrance.com/practical/16-of-petrol-stations-in-france-face-shortages/781799
+  📰 Bloomberg — 1 april 2026
+  🔗 https://www.bloomberg.com/news/articles/2026-04-01/some-french-gas-stations-run-dry-as-price-caps-spur-rush-to-fill
+
+- **Eigen bijdrage CPF-opleidingen stijgt naar €150**
+  Vanaf **2 april 2026** stijgt de verplichte eigen bijdrage voor beroepsopleidingen via het Compte Personnel de Formation (CPF) van **€103,20** naar **€150**, op grond van decreet nr. **2026-234** van 30 maart 2026. Werkzoekenden ingeschreven bij **France Travail** zijn vrijgesteld. Daarnaast gelden sinds februari nieuwe plafonds: maximaal **€1.500** voor taalcursussen en IT-certificeringen, en **€900** voor het rijbewijs. De overheid beoogt hiermee **€250 miljoen** te besparen.
+  📰 Éditions Tissot — 2 april 2026
+  🔗 https://www.editions-tissot.fr/actualite/droit-du-travail/cpf-le-reste-a-charge-passe-a-150-euros-a-compter-du-2-avril-2026
+  📰 Aladom — 2 april 2026
+  🔗 https://www.aladom.fr/actualites/secteur-service/11092/cpf-ce-qui-change-au-2-avril-2026-hausse-du-reste-a-charge-et-nouveaux-plafonds/
+
+- **Historisch akkoord van €500 miljoen voor verpleegkundigen**
+  Op **1 april 2026** ondertekenden de **Assurance Maladie** en de vakbonden van zelfstandige verpleegkundigen een historisch akkoord ter waarde van **€503 miljoen** over de periode 2026-2029. De vergoeding per verpleegkundige handeling (AMI), sinds **2009** bevroren op **€3,15**, stijgt in twee stappen naar **€3,45**. Er worden nieuwe verpleegkundige consulten gecreëerd à **€20**, onder meer voor diabeteszorg. Gemiddeld levert het akkoord elke verpleegkundige **€360 per maand** extra omzet op.
+  📰 Assurance Maladie — 31 maart 2026
+  🔗 https://www.assurance-maladie.ameli.fr/presse/2026-03-31-cp-avenant-11-idel
+  📰 Aladom — 1 april 2026
+  🔗 https://www.aladom.fr/actualites/secteur-service/11089/infirmiers-liberaux-un-accord-historique-de-500-millions-deuros-pour-transformer-la-profession/
+
+- **Artemis II gelanceerd: eerste bemande vlucht naar de Maan in 54 jaar**
+  De **Artemis II**-missie is succesvol gelanceerd, waarmee voor het eerst in **54 jaar** weer astronauten richting de Maan vliegen. Het is de opvolger van het **Apollo-programma** en markeert een mijlpaal in de ruimtevaart. De lancering wordt in Frankrijk breed uitgemeten in het nieuws als een historisch moment voor de internationale wetenschap en ruimteverkenning.
+  📰 Franceinfo — 2 april 2026
+  🔗 https://www.franceinfo.fr/
+
+- **Vrachtwagenchauffeurs blokkeren wegen uit protest tegen brandstofprijzen**
+  Franse vrachtwagenchauffeurs voeren wegblokkades uit op meerdere locaties in het land uit protest tegen de historisch hoge brandstofprijzen. De blokkades bemoeilijken het verkeer in aanloop naar het paasweekend, terwijl **Bison Futé** al waarschuwde voor druk verkeer op **3, 4, 5 en 6 april**. De acties worden gevoed door dieselprijzen die boven de **€2,25 per liter** uitkomen, het hoogste niveau ooit.
+  📰 Connexion France — 1 april 2026
+  🔗 https://www.connexionfrance.com/practical/where-to-expect-lorry-driver-road-blockades-in-france-this-week/781177
+
+---
+
+## 🇩🇪 Duitsland
+
+**Duitsland worstelt met een inflatie die opliep tot 2,7% en recordhoge brandstofprijzen door de Midden-Oostencrisis, terwijl kanselier Merz onder vuur ligt na zijn uitspraak dat 80% van de Syrische vluchtelingen binnen drie jaar moet terugkeren en de Bundestag tankstations verplicht prijzen nog maar één keer per dag te verhogen.**
+
+- **Inflatie springt naar 2,7% door exploderende energieprijzen**
+  De Duitse inflatie steeg in maart naar **2,7%** op jaarbasis, het hoogste niveau sinds **januari 2024**, tegenover **1,9%** in februari. De stijging wordt volledig verklaard door een energieprijsstijging van **7,2%**, de eerste jaarlijkse stijging sinds december 2023. De kerninflatie (exclusief voedsel en energie) bleef op **2,5%**. Econoom **Dirk Schumacher** van de **KfW** noemt de blokkade van de Straat van Hormuz de directe oorzaak. De **ECB** overweegt een renteverhoging van **25 basispunten** eind april.
+  📰 Destatis — 31 maart 2026
+  🔗 https://www.destatis.de/EN/Press/2026/03/PE26_108_611.html
+  📰 Newsworm — 31 maart 2026
+  🔗 https://www.newsworm.de/news/inflation-in-germany-jumps-to-2-7-percent-as-energy-costs-spike
+
+- **Merz onder vuur na uitspraak over terugkeer 80% Syrische vluchtelingen**
+  Kanselier **Friedrich Merz** zei na een ontmoeting met de Syrische president **Ahmed al-Sharaa** in Berlijn dat **80%** van de ruim **900.000** Syrische vluchtelingen in Duitsland binnen **drie jaar** moet terugkeren. Dat zou neerkomen op **720.000 mensen**, ofwel **666 per dag**. De uitspraak leidde tot brede kritiek, ook vanuit zijn eigen **CDU**. Buitenlandwoordvoerder **Roderich Kiesewetter** noemde het "politiek onverstandig". Merz nam de opmerking deels terug en stelde dat het cijfer afkomstig was van de Syrische president.
+  📰 France 24 — 30 maart 2026
+  🔗 https://www.france24.com/en/europe/20260330-germany-s-merz-says-80-percent-of-syrian-immigrants-should-return-home
+  📰 Brussels Signal — 1 april 2026
+  🔗 https://brusselssignal.eu/2026/04/not-happening-merz-reverses-talk-of-80-per-cent-of-syrians-returning-home/
+  📰 InfoMigrants — 31 maart 2026
+  🔗 https://www.infomigrants.net/en/post/70660/germany-chancellor-merz-attracts-sharp-criticism-over-80-percent-syria-returns-comment
+
+- **Dieselprijs bereikt recordhoogte van €2,33 per liter**
+  De dieselprijs in Duitsland bereikte een recordhoogte van **€2,33 per liter**, gelijk aan het vorige record uit **maart 2022**. Super E10-benzine steeg naar **€2,08 per liter**. De stijging wordt veroorzaakt door de oorlog met Iran en de blokkade van de Straat van Hormuz, waardoor de ruwe olieprijs steeg van circa **$72** naar bijna **$117** per vat. De CO₂-heffing draagt nog eens circa **19 cent per liter** diesel bij. Duitsland ligt **16,9%** boven het EU-gemiddelde voor diesel.
+  📰 Motorcycles News — 1 april 2026
+  🔗 https://www.motorcycles.news/en/fuel-prices-2026-gasoline-record-high-season-start/
+  📰 GlobalPetrolPrices — 30 maart 2026
+  🔗 https://www.globalpetrolprices.com/Germany/diesel_prices/
+
+- **Bundestag beperkt brandstofprijsverhogingen tot één keer per dag**
+  De **Bundestag** heeft besloten dat tankstations hun brandstofprijzen nog maar **één keer per dag** mogen verhogen, namelijk om **12:00 uur 's middags**. Prijsverlagingen blijven op elk moment toegestaan. Het model is gebaseerd op het **Oostenrijkse systeem**, dat daar sinds **2011** geldt. Overtredingen kunnen bestraft worden met boetes tot **€100.000**. De maatregel gaat in per **1 april 2026** en is bedoeld om consumenten te beschermen tegen de sterk gestegen benzine- en dieselprijzen.
+  📰 The Local Germany — 2 april 2026
+  🔗 https://www.thelocal.de/20260402/today-in-germany-a-roundup-of-the-latest-news-on-thursday-113
+
+- **CDU wint deelstaatverkiezing Rijnland-Palts na 35 jaar oppositie**
+  De **CDU** won op **22 maart** de deelstaatverkiezing in **Rijnland-Palts** met **31,0%** van de stemmen, waarmee een einde komt aan **35 jaar SPD-heerschappij** in de deelstaat. **Gordon Schnieder** wordt de nieuwe minister-president. De **SPD** zakte naar een historisch dieptepunt van **25,9%** (−9,8 punten), terwijl de **AfD** verdubbelde naar **19,5%** — een recordresultaat in het westen van Duitsland. De opkomst steeg naar **68,5%**. Een CDU-SPD-coalitie is het meest waarschijnlijk.
+  📰 Euronews — 22 maart 2026
+  🔗 https://www.euronews.com/2026/03/22/election-in-rhineland-palatinate-afd-achieves-record-result-in-western-germany
+  📰 Konrad-Adenauer-Stiftung — maart 2026
+  🔗 https://www.kas.de/en/election-and-social-research-monitor/detail/-/content/wahlanalyse-der-landtagswahl-in-rheinland-pfalz-am-22-maerz-2026
+
+- **Bijna 925.000 ambtenaren krijgen 2,8% salarisverhoging**
+  Per **1 april 2026** ontvangen bijna **925.000** ambtenaren in **15 deelstaten** een loonsverhoging van **2,8%**, met een minimum van **€100 extra per maand**. De verhoging geldt voor medewerkers in de publieke sector op deelstaatniveau. De maatregel komt op een moment dat de koopkracht onder druk staat door de stijgende inflatie en energieprijzen. Het is de tweede stap in een eerder afgesproken loonakkoord.
+  📰 Newsworm — 1 april 2026
+  🔗 https://www.newsworm.de/news/april-2026-in-germany-important-changes-you-need-to-know
