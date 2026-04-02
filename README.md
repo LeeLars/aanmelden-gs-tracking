@@ -1,15 +1,20 @@
 # Nieuwskrant
 
-Dagelijks automatisch een nieuwskrant samenstellen via een Claude Code scheduled task.
+Dagelijks automatisch een persoonlijke nieuwskrant samenstellen via 3 Claude Code scheduled tasks.
 
 ## Hoe werkt het?
 
-Eén scheduled task draait dagelijks om 16:00. Die:
-1. Scant het nieuws voor 11 landen (BE, NL, TR, RU, FR, DE, UK, US, IN, CN, JP) via web search
-2. Synthetiseert per land 3-5 items op basis van meerdere lokale bronnen
-3. Voegt een marktoverzicht toe (BTC, goud, olie, beurzen, valuta)
-4. Sluit af met "De Grote Lijnen" — rode draden en dwarsverbanden
-5. Slaat op in het archief en overschrijft `nieuwskrant-latest.md`
+Drie tasks draaien dagelijks en communiceren via `main`:
+
+| Task | Tijd | Wat | Output |
+|------|------|-----|--------|
+| Scan Europa | 16:00 | BE, NL, TR, RU, FR, DE | `werk/scan-europa.json` |
+| Scan Wereld | 16:00 | UK, US, IN, CN, JP + marktdata | `werk/scan-wereld.json` |
+| Compilatie | 16:30 | Combineert scans tot krant | `nieuwskrant-latest.md` + archief |
+
+Per land: synthese van meerdere lokale bronnen (cross-referentie, geen copy-paste).
+Marktoverzicht: BTC, ETH, goud, zilver, olie, valuta, beurzen.
+Afsluiter: "De Grote Lijnen" met rode draden en dwarsverbanden.
 
 ## Repostructuur
 
@@ -17,28 +22,30 @@ Eén scheduled task draait dagelijks om 16:00. Die:
 .gitignore
 README.md
 config/
-  bronnen.json              ← nieuwsbronnen per land
+  bronnen.json                ← bronnen per land + marktdata-items
 tasks/
-  task-nieuwskrant.md       ← instructies voor de scheduled task
+  task-scan-europa.md         ← instructies scan Europa
+  task-scan-wereld.md         ← instructies scan Wereld + marktdata
+  task-compilatie.md          ← instructies compilatie krant
+werk/                         ← tijdelijk, wordt opgeruimd door compilatie
 archief/
-  2026/
-    04/
-      nieuwskrant-2026-04-02.md
-      nieuwskrant-2026-04-03.md
-      ...
-nieuwskrant-latest.md       ← altijd de meest recente krant
+  YYYY/
+    MM/
+      nieuwskrant-YYYY-MM-DD.md
+nieuwskrant-latest.md         ← altijd de meest recente krant
 ```
 
 ## Setup
 
-1. Ga naar **claude.ai** → **Code** → **Scheduled** → **New scheduled task**
-2. Koppel de repo `LeeLars/aanmelden-gs-tracking`
-3. Kopieer de inhoud van `tasks/task-nieuwskrant.md` als instructies
-4. Zet schedule op **Daily** om **16:00**
-5. Bij **Permissions**: zet "Allow unrestricted branch pushes" AAN
+Per task op **claude.ai → Code → Scheduled → New scheduled task**:
+
+1. Koppel repo `LeeLars/aanmelden-gs-tracking`
+2. Kopieer instructies uit het bijbehorende bestand in `tasks/` (via Raw op GitHub)
+3. Stel de tijd in (zie tabel)
+4. Bij **Permissions**: zet "Allow unrestricted branch pushes" AAN
 
 ## Aanpassen
 
 - **Bronnen wijzigen:** Pas `config/bronnen.json` aan
-- **Tijd wijzigen:** Ga naar claude.ai → Code → Scheduled, pas het schema aan
-- **Landen toevoegen:** Voeg toe in `config/bronnen.json` en update `tasks/task-nieuwskrant.md`
+- **Landen toevoegen:** Voeg toe in `bronnen.json` en in de juiste scan-task
+- **Tijden wijzigen:** Pas aan op claude.ai → Code → Scheduled
