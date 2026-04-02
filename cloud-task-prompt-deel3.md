@@ -1,5 +1,5 @@
 # Cloud Task: Nieuwskrant Deel 3 — Azië + Samenvoegen
-# Planning: 08:00 (Belgische tijd) | Frequentie: Dagelijks
+# Planning: 05:55 (Belgische tijd) | Frequentie: Dagelijks
 # Naam in scheduler: "Nieuwskrant Deel 3 — Azië + Samenvoegen"
 
 ---
