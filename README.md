@@ -5,9 +5,11 @@ Dagelijks automatisch een nieuwskrant samenstellen via een Claude Code scheduled
 ## Hoe werkt het?
 
 Eén scheduled task draait dagelijks om 16:00. Die:
-1. Scant het nieuws voor België, Nederland, Frankrijk en Duitsland via web search
-2. Stelt een Nederlandstalige krant samen in Markdown
-3. Slaat op in het archief en overschrijft `nieuwskrant-latest.md`
+1. Scant het nieuws voor 11 landen (BE, NL, TR, RU, FR, DE, UK, US, IN, CN, JP) via web search
+2. Synthetiseert per land 3-5 items op basis van meerdere lokale bronnen
+3. Voegt een marktoverzicht toe (BTC, goud, olie, beurzen, valuta)
+4. Sluit af met "De Grote Lijnen" — rode draden en dwarsverbanden
+5. Slaat op in het archief en overschrijft `nieuwskrant-latest.md`
 
 ## Repostructuur
 
