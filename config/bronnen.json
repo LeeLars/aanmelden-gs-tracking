@@ -1,0 +1,172 @@
+{
+  "versie": "1.0",
+  "bijgewerkt": "2026-04-02",
+  "instructies": "Pas dit bestand aan om bronnen toe te voegen of te verwijderen. De scan-tasks lezen dit bestand elke keer opnieuw.",
+
+  "landen": {
+    "belgie": {
+      "naam": "België",
+      "emoji": "🇧🇪",
+      "taal": "nl",
+      "scan_task": "A",
+      "bronnen": [
+        {
+          "naam": "VRT NWS",
+          "url": "https://www.vrt.be/vrtnws/nl/",
+          "type": "mainstream",
+          "taal": "nl"
+        },
+        {
+          "naam": "VRT NWS English",
+          "url": "https://www.vrt.be/vrtnws/en/",
+          "type": "mainstream",
+          "taal": "en"
+        },
+        {
+          "naam": "De Standaard",
+          "url": "https://www.standaard.be/",
+          "type": "mainstream",
+          "taal": "nl"
+        },
+        {
+          "naam": "BRUZZ",
+          "url": "https://www.bruzz.be/",
+          "type": "regionaal",
+          "taal": "nl"
+        },
+        {
+          "naam": "Knack",
+          "url": "https://www.knack.be/",
+          "type": "weekblad",
+          "taal": "nl"
+        },
+        {
+          "naam": "Le Soir",
+          "url": "https://www.lesoir.be/",
+          "type": "mainstream",
+          "taal": "fr"
+        }
+      ]
+    },
+    "nederland": {
+      "naam": "Nederland",
+      "emoji": "🇳🇱",
+      "taal": "nl",
+      "scan_task": "A",
+      "bronnen": [
+        {
+          "naam": "NOS",
+          "url": "https://nos.nl/nieuws",
+          "type": "mainstream",
+          "taal": "nl"
+        },
+        {
+          "naam": "NRC",
+          "url": "https://www.nrc.nl/",
+          "type": "mainstream",
+          "taal": "nl"
+        },
+        {
+          "naam": "de Volkskrant",
+          "url": "https://www.volkskrant.nl/",
+          "type": "mainstream",
+          "taal": "nl"
+        },
+        {
+          "naam": "DutchNews.nl",
+          "url": "https://www.dutchnews.nl/",
+          "type": "mainstream",
+          "taal": "en"
+        },
+        {
+          "naam": "Rijksoverheid.nl",
+          "url": "https://www.rijksoverheid.nl/actueel",
+          "type": "overheid",
+          "taal": "nl"
+        },
+        {
+          "naam": "FD",
+          "url": "https://fd.nl/",
+          "type": "financieel",
+          "taal": "nl"
+        }
+      ]
+    },
+    "frankrijk": {
+      "naam": "Frankrijk",
+      "emoji": "🇫🇷",
+      "taal": "fr",
+      "scan_task": "B",
+      "bronnen": [
+        {
+          "naam": "France 24",
+          "url": "https://www.france24.com/en/france/",
+          "type": "mainstream",
+          "taal": "en"
+        },
+        {
+          "naam": "France 24 FR",
+          "url": "https://www.france24.com/fr/france/",
+          "type": "mainstream",
+          "taal": "fr"
+        },
+        {
+          "naam": "Le Monde",
+          "url": "https://www.lemonde.fr/",
+          "type": "mainstream",
+          "taal": "fr"
+        },
+        {
+          "naam": "Euronews",
+          "url": "https://www.euronews.com/tag/france",
+          "type": "internationaal",
+          "taal": "en"
+        },
+        {
+          "naam": "Connexion France",
+          "url": "https://www.connexionfrance.com/",
+          "type": "expat",
+          "taal": "en"
+        }
+      ]
+    },
+    "duitsland": {
+      "naam": "Duitsland",
+      "emoji": "🇩🇪",
+      "taal": "de",
+      "scan_task": "B",
+      "bronnen": [
+        {
+          "naam": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/",
+          "type": "financieel",
+          "taal": "de"
+        },
+        {
+          "naam": "DW News",
+          "url": "https://www.dw.com/en/germany/s-1432",
+          "type": "mainstream",
+          "taal": "en"
+        },
+        {
+          "naam": "Tagesschau",
+          "url": "https://www.tagesschau.de/",
+          "type": "mainstream",
+          "taal": "de"
+        },
+        {
+          "naam": "Clean Energy Wire",
+          "url": "https://www.cleanenergywire.org/news",
+          "type": "thematisch",
+          "taal": "en"
+        },
+        {
+          "naam": "Deutschland.de",
+          "url": "https://www.deutschland.de/en/news",
+          "type": "overheid",
+          "taal": "en"
+        }
+      ]
+    }
+  }
+}
