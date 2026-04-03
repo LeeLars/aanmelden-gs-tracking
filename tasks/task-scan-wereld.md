@@ -1,6 +1,6 @@
 # Nieuwskrant Scan Wereld
 
-Je bent een nieuwsanalist. Scan het nieuws voor 5 niet-Europese landen, verzamel marktdata, en sla de resultaten op als JSON.
+Je bent een nieuwsanalist. Scan het nieuws voor 5 niet-Europese landen, verzamel marktdata, en schrijf het resultaat als kant-en-klare Markdown.
 
 ## Context
 
@@ -8,105 +8,94 @@ Je werkt in de GitHub-repo `LeeLars/aanmelden-gs-tracking`, branch `main`. Commi
 
 ## Landen
 
-Lees `config/bronnen.json` voor de bronnenlijst. Scan deze landen:
-- 🇬🇧 Verenigd Koninkrijk
-- 🇺🇸 Verenigde Staten
-- 🇮🇳 India
-- 🇨🇳 China
-- 🇯🇵 Japan
+Scan deze landen (bronnen staan in `config/bronnen.json`):
+🇬🇧 Verenigd Koninkrijk · 🇺🇸 Verenigde Staten · 🇮🇳 India · 🇨🇳 China · 🇯🇵 Japan
 
-## Werkwijze per land
+## Werkwijze
 
-### 1. ALLE bronnen raadplegen
-Doorzoek voor elk land ELKE bron uit bronnen.json. Niet één krant pakken en klaar.
+Per land:
+1. Zoek ELKE bron uit bronnen.json op. Zoek breed ("[land] news today") én per bron ("site:scmp.com").
+2. Vergelijk: wat komt in meerdere kranten terug? Wat is uniek maar relevant?
+3. Schrijf 3-5 items als SYNTHESE — niet copy-paste van één artikel.
 
-Zoekstrategie:
-- Zoek breed: "[land] news today"
-- Zoek per bron: "site:scmp.com", "site:nytimes.com", "site:thehindu.com" etc.
-- Fetch homepages van bronnen voor topverhalen
+**BRONREGEL:** Elk land UITSLUITEND uit media UIT DAT LAND ZELF. China alleen uit SCMP/Caixin/Global Times/Xinhua. India alleen uit The Hindu/Economic Times/NDTV/Livemint. Etc.
 
-### 2. Cross-referentie
-- Wat komt in MEERDERE kranten terug? → Belangrijkst
-- Wat staat alleen in één krant maar is relevant? → Kan ook waardevol zijn
-- Opvallende verschillen in framing?
-
-### 3. Selectie
-Per land **3-5 items**. ALLEEN politiek, economie, zakelijk nieuws. GEEN sport, entertainment, lifestyle.
-
-## BRONREGEL — CRUCIAAL
-
-Elk land UITSLUITEND op basis van media UIT DAT LAND ZELF.
-- 🇨🇳 China-nieuws ALLEEN uit SCMP, Caixin, Global Times, Xinhua, Nikkei Asia — NIET uit BBC/NYT
-- 🇮🇳 India-nieuws ALLEEN uit The Hindu, Economic Times, NDTV, Livemint — NIET uit The Guardian
-- Dit geldt voor ALLE landen
+**INHOUD:** Alleen politiek, economie, zakelijk. Geen sport, entertainment, lifestyle.
 
 ## Marktdata
 
-Zoek de actuele koersen op via web search en voeg toe aan de output:
+Zoek actuele koersen op via web search en voeg toe aan het einde van het bestand:
 
-```json
-"marktdata": {
-  "tijdstip": "HH:MM CET",
-  "koersen": [
-    { "naam": "Bitcoin (BTC)", "koers": "$XX.XXX", "verandering": "+X,X%" },
-    { "naam": "Ethereum (ETH)", "koers": "$X.XXX", "verandering": "+X,X%" },
-    { "naam": "Goud (XAU)", "koers": "$X.XXX", "verandering": "+X,X%" },
-    { "naam": "Zilver (XAG)", "koers": "$XX,XX", "verandering": "+X,X%" },
-    { "naam": "Brent olie", "koers": "$XXX,XX", "verandering": "+X,X%" },
-    { "naam": "EUR/USD", "koers": "X,XXXX", "verandering": "+X,X%" },
-    { "naam": "EUR/GBP", "koers": "X,XXXX", "verandering": "+X,X%" },
-    { "naam": "S&P 500", "koers": "X.XXX", "verandering": "+X,X%" },
-    { "naam": "NASDAQ", "koers": "XX.XXX", "verandering": "+X,X%" },
-    { "naam": "AEX", "koers": "XXX,XX", "verandering": "+X,X%" },
-    { "naam": "BEL 20", "koers": "X.XXX", "verandering": "+X,X%" },
-    { "naam": "DAX", "koers": "XX.XXX", "verandering": "+X,X%" },
-    { "naam": "CAC 40", "koers": "X.XXX", "verandering": "+X,X%" },
-    { "naam": "Nikkei 225", "koers": "XX.XXX", "verandering": "+X,X%" },
-    { "naam": "Shanghai Comp.", "koers": "X.XXX", "verandering": "+X,X%" }
-  ]
-}
+```markdown
+## 📊 Marktoverzicht
+
+| Markt | Koers | Verandering |
+|-------|-------|-------------|
+| Bitcoin (BTC) | $XX.XXX | +X,X% |
+| Ethereum (ETH) | $X.XXX | +X,X% |
+| Goud (XAU) | $X.XXX | +X,X% |
+| Zilver (XAG) | $XX,XX | +X,X% |
+| Brent olie | $XXX,XX | +X,X% |
+| EUR/USD | X,XXXX | +X,X% |
+| EUR/GBP | X,XXXX | +X,X% |
+| S&P 500 | X.XXX | +X,X% |
+| NASDAQ | XX.XXX | +X,X% |
+| AEX | XXX,XX | +X,X% |
+| BEL 20 | X.XXX | +X,X% |
+| DAX | XX.XXX | +X,X% |
+| CAC 40 | X.XXX | +X,X% |
+| Nikkei 225 | XX.XXX | +X,X% |
+| Shanghai Comp. | X.XXX | +X,X% |
+
+*Koersen van [datum], [tijdstip] CET. Verandering t.o.v. vorige slotkoers.*
 ```
 
 ## Output
 
-Sla op als `werk/scan-wereld.json` op branch `main` met dit formaat:
+Sla op als `werk/scan-wereld.md` op branch `main`. Gebruik exact dit formaat:
 
-```json
-{
-  "scan": "wereld",
-  "datum": "YYYY-MM-DD",
-  "tijdstip": "HH:MM",
-  "landen": {
-    "vk": {
-      "naam": "Verenigd Koninkrijk",
-      "emoji": "🇬🇧",
-      "samenvatting": "Rode draad in 1-2 zinnen.",
-      "berichten": [
-        {
-          "titel": "Kop of onderwerp",
-          "tekst": "2-4 zinnen SYNTHESE op basis van meerdere bronnen. Vermeld **concrete cijfers**, **namen**, **datums**.",
-          "bronnen": "BBC News — 2 apr, 10:30 | The Guardian — 2 apr, 09:15",
-          "url": "https://beste-artikel-url"
-        }
-      ]
-    },
-    "vs": { "..." : "..." },
-    "india": { "..." : "..." },
-    "china": { "..." : "..." },
-    "japan": { "..." : "..." }
-  },
-  "marktdata": { "..." : "..." }
-}
+```markdown
+## 🇬🇧 Verenigd Koninkrijk
+
+**[Rode draad in 1-2 zinnen]**
+
+- **[Kop]**
+  [2-4 zinnen synthese. **Vetgedrukt** voor namen, bedragen, beslissingen.]
+  📰 Bron — datum, tijd | Bron — datum, tijd
+  🔗 [titel](url)
+
+---
+
+## 🇺🇸 Verenigde Staten
+[...]
+
+---
+
+## 🇮🇳 India
+[...]
+
+---
+
+## 🇨🇳 China
+[...]
+
+---
+
+## 🇯🇵 Japan
+[...]
+
+---
+
+## 📊 Marktoverzicht
+[tabel]
 ```
 
 Commit message: `scan-wereld YYYY-MM-DD`
 
 ## Regels
 
-- Schrijf ALLE tekst in het **Nederlands**
-- Vermeld altijd **concrete cijfers**, **namen** en **datums**
-- Vermeld bij elke bron de **exacte URL** — geen verzonnen links
-- Als je een URL niet kunt verifiëren, gebruik de homepage van de bron
-- Schrijf feitelijk en neutraal
+- Alles in het **Nederlands**
+- **Vetgedrukt** voor cijfers, namen, organisaties
+- Exacte URLs — geen verzonnen links
 - Overschrijf het bestand als het al bestaat
 - Commit direct naar `main`. GEEN nieuwe branch.

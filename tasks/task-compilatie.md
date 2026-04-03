@@ -1,6 +1,6 @@
 # Nieuwskrant Compilatie
 
-Je bent de eindredacteur van "Mijn Nieuwskrant". Lees de scan-resultaten en stel de krant samen.
+Je bent de eindredacteur van "Mijn Nieuwskrant". Combineer de scan-resultaten tot de definitieve krant.
 
 ## Context
 
@@ -9,14 +9,14 @@ Je werkt in de GitHub-repo `LeeLars/aanmelden-gs-tracking`, branch `main`. Commi
 ## Stap 1: Lees de scans
 
 Lees vanaf branch `main`:
-- `werk/scan-europa.json`
-- `werk/scan-wereld.json`
+- `werk/scan-europa.md`
+- `werk/scan-wereld.md`
 
 Als een bestand ontbreekt, maak de krant met wat er wél is en vermeld welke scan ontbrak.
 
 ## Stap 2: Stel de krant samen
 
-Schrijf de krant in Markdown met exact dit formaat:
+Combineer de twee scans tot één krant. Voeg de header toe, plak de landensecties in volgorde, en schrijf "De Grote Lijnen" als afsluiter.
 
 ```markdown
 # 📰 MIJN NIEUWSKRANT
@@ -24,88 +24,11 @@ Schrijf de krant in Markdown met exact dit formaat:
 
 ---
 
-## 🇧🇪 België
-
-**[Rode draad in 1-2 zinnen]**
-
-- **[Kop of onderwerp]**
-  [2-4 zinnen synthese. Gebruik **vetgedrukt** voor namen, bedragen, beslissingen.]
-  📰 [Bron — datum, tijd | Bron — datum, tijd]
-  🔗 [titel beste artikel](url)
+[inhoud scan-europa.md — BE, NL, TR, RU, FR, DE]
 
 ---
 
-## 🇳🇱 Nederland
-[...]
-
----
-
-## 🇹🇷 Turkije
-[...]
-
----
-
-## 🇷🇺 Rusland
-[...]
-
----
-
-## 🇫🇷 Frankrijk
-[...]
-
----
-
-## 🇩🇪 Duitsland
-[...]
-
----
-
-## 🇬🇧 Verenigd Koninkrijk
-[...]
-
----
-
-## 🇺🇸 Verenigde Staten
-[...]
-
----
-
-## 🇮🇳 India
-[...]
-
----
-
-## 🇨🇳 China
-[...]
-
----
-
-## 🇯🇵 Japan
-[...]
-
----
-
-## 📊 Marktoverzicht
-
-| Markt | Koers | Verandering |
-|-------|-------|-------------|
-| Bitcoin (BTC) | $XX.XXX | +X,X% |
-| Ethereum (ETH) | $X.XXX | +X,X% |
-| Goud (XAU) | $X.XXX | +X,X% |
-| Zilver (XAG) | $XX,XX | +X,X% |
-| Brent olie | $XXX,XX | +X,X% |
-| EUR/USD | X,XXXX | +X,X% |
-| EUR/GBP | X,XXXX | +X,X% |
-| S&P 500 | X.XXX | +X,X% |
-| NASDAQ | XX.XXX | +X,X% |
-| AEX | XXX,XX | +X,X% |
-| BEL 20 | X.XXX | +X,X% |
-| DAX | XX.XXX | +X,X% |
-| CAC 40 | X.XXX | +X,X% |
-| Nikkei 225 | XX.XXX | +X,X% |
-| Shanghai Comp. | X.XXX | +X,X% |
-
-*Koersen van [datum], [tijdstip] CET. Verandering t.o.v. vorige slotkoers.*
+[inhoud scan-wereld.md — UK, US, IN, CN, JP + marktoverzicht]
 
 ---
 
@@ -117,13 +40,8 @@ Schrijf de krant in Markdown met exact dit formaat:
 ## Stijlregels
 
 - Dag van de week in de ondertitel (bijv. "Donderdag 2 april 2026")
-- Elke landensectie begint met een **vetgedrukte samenvattende rode draad**
-- **Vetgedrukt** voor: kerngetallen, namen van personen, organisaties
-- 📰 voor bronvermelding met datum/tijd, 🔗 voor link naar beste artikel
+- "De Grote Lijnen" is JOUW analyse — zoek dwarsverbanden tussen de 11 landen
 - Alles in het **Nederlands**
-- Toon: **feitelijk, helder en neutraal**
-- Marktdata uit scan-wereld.json overnemen in de tabel
-- "De Grote Lijnen" is JOUW analyse — zoek dwarsverbanden tussen landen
 
 ## Stap 3: Opslaan
 
@@ -137,16 +55,14 @@ Commit message: `nieuwskrant YYYY-MM-DD`
 ## Stap 4: Opruimen
 
 Verwijder de werkbestanden in een tweede commit:
-- `werk/scan-europa.json`
-- `werk/scan-wereld.json`
+- `werk/scan-europa.md`
+- `werk/scan-wereld.md`
 
 Commit message: `opruimen werk YYYY-MM-DD`
 
 ## Stap 5: Verstuur naar Telegram
 
-Na het opslaan in de repo, verstuur de krant naar het Telegram-kanaal.
-
-Gebruik dit bash-commando om de krant als document te versturen:
+Verstuur de krant als document naar het Telegram-kanaal:
 
 ```bash
 curl -s -F "chat_id=TELEGRAM_CHAT_ID" \
