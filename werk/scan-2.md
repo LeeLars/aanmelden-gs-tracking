@@ -66,9 +66,9 @@
   De Chinese overheid heeft alle AI-bedrijven verplicht om interne **ethische toetsingscommissies** op te richten voor technologisch toezicht. Sinds 2022 hebben grote bedrijven als **Alibaba** en **Baidu** al dergelijke commissies opgezet. **Tencent** breidt tegelijkertijd zijn **OpenClaw**-suite uit met de bedrijfstool **ClawPro** voor snelle inzet van AI-agenten. De maatregel past in Pekings streven naar "controleerbare" AI-ontwikkeling en loopt vooruit op internationale reguleringsinitiatieven.
   📰 South China Morning Post — 3 april 2026 🔗 https://www.scmp.com/tech/policy/article/3348995/beijing-mandates-internal-ai-ethics-reviews-ensure-controllable-tech
 
-- **Hausse in sci-tech obligaties maskeert uitsluiting private sector**
-  De uitgifte van wetenschaps- en technologie-obligaties steeg in **2025** met bijna **90%**, maar het overgrote deel van de opbrengsten vloeide naar **staatsbedrijven** in plaats van private ondernemingen. Tegelijkertijd worden **online kredietverstrekkers** hard geraakt door winstdalingen na de invoering van een **renteplafond**. Een functionaris gelinkt aan staatsinvesteringen in een aan **Evergrande** verbonden bedrijf wordt onderzocht. De ontwikkelingen illustreren de aanhoudende spanning tussen markthervormingen en staatscontrole in de Chinese economie.
-  📰 Caixin Global — 3 april 2026 🔗 https://www.caixinglobal.com/2026-04-03/in-depth-chinas-sci-tech-bond-boom-conceals-sidelined-private-sector-102430643.html
+- **XPeng voltooit overstap van Nvidia- naar eigen AI-chips in alle modellen**
+  De Chinese elektrische-autofabrikant **XPeng** heeft de overstap van **Nvidia**-chips naar volledig zelf ontwikkelde AI-chips afgerond voor zijn gehele modellenreeks. De upgrade van het instapmodel **Mona M03** met XPeng's eigen **Turing-chip** markeert de voltooiing van deze transitie. Het bedrijf vermindert hiermee de afhankelijkheid van Amerikaanse chipleveranciers — een strategische prioriteit nu de VS exportbeperkingen op geavanceerde halfgeleiders naar China handhaaft. De stap past in een bredere trend waarbij Chinese techbedrijven zoals **Huawei** en **BYD** steeds meer inzetten op eigen chiparchitectuur.
+  📰 Caixin Global — 3 april 2026 🔗 https://www.caixinglobal.com/2026-04-03/xpeng-completes-shift-from-nvidia-to-in-house-ai-chips-across-lineup-102430879.html
 
 ---
 
