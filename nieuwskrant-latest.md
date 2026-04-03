@@ -5,191 +5,224 @@
 
 # Scan Europa — 3 april 2026
 
-## 🇧🇪 België
+---
 
-**Hervormingen in het parlement en energiemarkt domineren het binnenlands debat.**
+## :belgium: België
 
-- **Senaat kan deze legislatuur verdwijnen** De Belgische Senaat staat op de schop: ondanks de onthouding van **MR** is een tweederdemeerderheid bereikt voor een grondwetsherziening die de Senaat kan afschaffen.
-  📰 VRT NWS — 3 april 2026 🔗 https://www.vrt.be/vrtnws/nl/liveblog/tweederdemeerderheid-ondanks-onthouding-mr-senaat-kan-nog-deze~1771325690894/
+**Historische staatshervorming in de maak: Senaat staat op de drempel van afschaffing terwijl de regering energiepraktijken aanpakt.**
 
-- **Regering maakt komaf met sjoemelkortingen bij energiecontracten** De federale regering grijpt in tegen misleidende kortingen op energiecontracten. Prijsstijgingen worden voortaan berekend ten opzichte van een **referentieprijs in maart**, voor meer transparantie.
-  📰 VRT NWS — 3 april 2026 🔗 https://www.vrt.be/vrtnws/nl/liveblog/regering-maakt-komaf-met-sjoemelkortingen-bij-energiecontracte~1774343778229/
+- **Senaat kan deze regeerperiode verdwijnen**
+  De Belgische Senaat heeft een cruciale stap gezet richting zijn eigen afschaffing. De senaatscommissie keurde op **30 maart** de herziening van **Grondwetsartikel 195** goed, met **36 stemmen voor**, **8 tegen** en **14 onthoudingen**. Ondanks de onthouding van **MR** bleek een tweederdemeerderheid haalbaar doordat **PVDA/PTB** zich onthield in plaats van tegen te stemmen. Als het voorstel vrijdag ook de plenaire vergadering passeert, verdwijnt de Senaat bij aanvang van de volgende legislatuur in **2029**.
+  :newspaper: VRT NWS — 3 apr 2026 :link: https://www.vrt.be/vrtnws/nl/liveblog/tweederdemeerderheid-ondanks-onthouding-mr-senaat-kan-nog-deze~1771325690894/
 
-- **Tweedehandsmarkt voor elektrische auto's groeit** Dalende prijzen en betere batterij-betrouwbaarheid maken tweedehands EV's aantrekkelijker, al blijft het marktaandeel voorlopig klein.
-  📰 VRT NWS — 3 april 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/04/03/elektrische-tweedehandsauto-in-de-lift-maar-aandeel-blijft-klein/
+- **Regering maakt komaf met sjoemelkortingen bij energiecontracten**
+  De federale regering pakt misleidende kortingspraktijken van energieleveranciers aan. De **energiewaakhond CREG** berekent voortaan prijsstijgingen ten opzichte van **maart 2026** als referentiemaand, waardoor consumenten beter kunnen vergelijken. De maatregel moet een einde maken aan de gangbare praktijk waarbij leveranciers kunstmatig hoge referentieprijzen hanteren om vervolgens grote kortingen te adverteren. Consumentenorganisaties spreken van een broodnodige stap naar transparantie op de energiemarkt.
+  :newspaper: VRT NWS — 3 apr 2026 :link: https://www.vrt.be/vrtnws/nl/liveblog/regering-maakt-komaf-met-sjoemelkortingen-bij-energiecontracte~1774343778229/
+
+- **Eigenaar Frituur N°1 veroordeeld tot 3 jaar cel voor fiscale fraude**
+  De eigenaar van de bekende Antwerpse **Frituur N°1** is veroordeeld tot **3 jaar celstraf** wegens fiscale fraude. Ook medewerkster **Maria** werd schuldig bevonden in de zaak rond systematische belastingontduiking. De rechtbank achtte bewezen dat er jarenlang inkomsten buiten de boekhouding werden gehouden. De veroordeling is een van de zwaarste straffen die recent in België zijn uitgesproken voor fiscale fraude in de horecasector.
+  :newspaper: VRT NWS — 3 apr 2026 :link: https://www.vrt.be/vrtnws/nl/2026/04/03/frituur-n-1-antwerpen-3-jaar-cel-fiscale-fraude-opschorting-mari/
 
 ---
 
-## 🇳🇱 Nederland
+## :netherlands: Nederland
 
-**KLM-beloning en internationale regels rond emissiehandel trekken de aandacht.**
+**Vragen over bestuurlijke integriteit en corporate governance domineren het nieuws, van marechaussee-corruptie tot KLM-salarissen.**
 
-- **KLM-topvrouw verdiende 30% meer in roerig 2025** De CEO van **KLM** ontving in 2025 circa **€1,6 miljoen** aan salaris en aandelenpakketten — een stijging van **30%** — ondanks operationele turbulentie bij de luchtvaartmaatschappij.
-  📰 NOS — 3 april 2026 🔗 https://nos.nl/artikel/2608939-klm-topvrouw-verdiende-30-procent-meer-in-roerig-2025
+- **KLM-topvrouw verdiende 30 procent meer in roerig 2025**
+  De CEO van **KLM** ontving in **2025** een totaal pakket van ruim **€1,6 miljoen**, een stijging van **30 procent** ten opzichte van het jaar ervoor. Het vaste salaris bleef ongewijzigd, maar de variabele beloningen — waaronder aandelenpakketten — stegen fors. De salarisverhoging valt samen met een turbulent jaar waarin KLM te maken had met operationele uitdagingen en reorganisaties. Het bericht hernieuwt de discussie over topsalarissen in de luchtvaart die nog steeds staatssteun ontving tijdens de coronacrisis.
+  :newspaper: NOS — 3 apr 2026 :link: https://nos.nl/artikel/2608939-klm-topvrouw-verdiende-30-procent-meer-in-roerig-2025
 
-- **Europese Commissie zet stap naar versoepeling emissiehandel** De Commissie wil het **ETS** (emissiehandelssysteem) aanpassen om energieprijsstijgingen te beperken en de concurrentiepositie van Europese bedrijven te beschermen.
-  📰 NOS — 3 april 2026 🔗 https://nos.nl/artikel/2608687-europese-commissie-zet-eerste-stap-in-versoepeling-emissiehandelssysteem
+- **Nederlands schip werkt in bezet gebied, mogelijk in strijd met internationaal recht**
+  Een Nederlands schip is actief in de **Westelijke Sahara**, een gebied dat deels door **Marokko** wordt bezet. De activiteiten roepen vragen op over mogelijke schendingen van internationaal recht, aangezien de **VN** het gebied als niet-zelfbesturend classificeren. Bedrijven die in bezette gebieden opereren lopen het risico op juridische en reputatieschade. Het ministerie van **Buitenlandse Zaken** is om een reactie gevraagd.
+  :newspaper: NOS — 3 apr 2026 :link: https://nos.nl/artikel/2608938-nederlands-schip-werkt-in-bezet-gebied-mogelijk-schending-internationaal-recht
 
-- **Nederlands schip werkt in bezet gebied Western Sahara** Een schip onder Nederlandse vlag opereert in de door **Marokko** bezette Westelijke Sahara, wat vragen oproept over mogelijke schending van internationaal recht.
-  📰 NOS — 3 april 2026 🔗 https://nos.nl/artikel/2608938-nederlands-schip-werkt-in-bezet-gebied-mogelijk-schending-internationaal-recht
-
----
-
-## 🇹🇷 Turkije
-
-**Inflatie daalt sneller dan verwacht, terwijl de defensiesector records breekt.**
-
-- **Inflatie verrassend gedaald in maart ondanks Iranoorlog** De Turkse inflatie kwam in maart lager uit dan verwacht: **30,9%** op jaarbasis. Economen hadden een hogere uitkomst voorzien gezien de impact van de regionale spanningen op energieprijzen.
-  📰 Hürriyet Daily News — 3 april 2026 🔗 https://www.hurriyetdailynews.com/turkiyes-annual-inflation-eases-to-30-8-pct-in-march-220601
-
-- **Defensie- en luchtvaartexport bereikt bijna $2 miljard in Q1** Turkije's defensie- en luchtvaartsector exporteerde in het eerste kwartaal van 2026 voor bijna **$2 miljard**, een bevestiging van de groeiende rol als wapenleverancier.
-  📰 Daily Sabah — 3 april 2026 🔗 https://www.dailysabah.com/business/defense/turkish-defense-aerospace-exports-hit-nearly-2-billion-in-q1
-
-- **Oppositie CHP eist vervroegde verkiezingen — regering wijst af** De **CHP** drong aan op snap elections, maar de regeringscoalitie wees het voorstel resoluut van de hand. De politieke spanningen in het parlement blijven hoog.
-  📰 Daily Sabah — 3 april 2026 🔗 https://www.dailysabah.com/politics/turkish-opposition-chps-push-for-snap-vote-met-with-stony-dismissal/news
+- **Twee arrestaties in corruptiezaak marechaussee in Spijkenisse**
+  In **Spijkenisse** zijn twee personen gearresteerd in verband met een corruptieonderzoek naar leden van de **Koninklijke Marechaussee**. Het onderzoek richt zich op medewerkers die mogelijk hun positie hebben misbruikt. De zaak onderstreept bredere zorgen over integriteit bij de krijgsmacht en opsporingsdiensten. Verdere details over de aard van de corruptie zijn nog niet vrijgegeven door het **Openbaar Ministerie**.
+  :newspaper: NOS — 3 apr 2026 :link: https://nos.nl/artikel/2608951-twee-arrestaties-in-spijkenisse-in-corruptiezaak-marechaussee
 
 ---
 
-## 🇷🇺 Rusland
+## :tr: Turkije
 
-**Bankenstoringen, VPN-repressie en de Iranoorlog bepalen het binnenlandse beeld.**
+**Turkije balanceert tussen economische veerkracht en geopolitieke ambitie: inflatie daalt terwijl de defensie-industrie records breekt.**
 
-- **Massale storing bij Sberbank en andere grote banken** Klanten van **Sberbank** — 's lands grootste bank — konden rond 10 uur 's ochtends geen betalingen of overboekingen doen. Meerdere grote financiële instellingen werden getroffen.
-  📰 The Moscow Times — 3 april 2026 🔗 https://www.themoscowtimes.com/2026/04/03/mass-outage-hits-sberbank-and-other-major-russian-lenders-a92418
+- **Inflatie daalt naar 30,9% ondanks druk van Iranoorlog**
+  De Turkse jaarinflatie daalde in **maart** naar **30,9 procent**, een meevaller ten opzichte van de verwachtingen van analisten. De daling weerspiegelt het effect van het strakke monetaire beleid van de **Turkse centrale bank**, die de rente op recordhoogte houdt. Desondanks blijft de koopkracht van Turkse huishoudens sterk onder druk staan, en de oorlog in **Iran** zorgt voor opwaartse prijsdruk op energie en voedsel. Economen verwachten dat het desinflatiepad de komende maanden vlakker zal verlopen.
+  :newspaper: Hürriyet Daily News — 3 apr 2026 :link: https://www.hurriyetdailynews.com/turkiyes-annual-inflation-eases-to-30-8-pct-in-march-220601
 
-- **Kremlin verscherpt internetblokkades, VPN wordt noodzaak** Moskou intensiveert pogingen om VPN-diensten te blokkeren, maar het gebruik blijft juist groeien. Voor miljoenen Russen zijn VPN's inmiddels onmisbaar om gecensureerde sites te bereiken.
-  📰 The Moscow Times — 3 april 2026 🔗 https://www.themoscowtimes.com/2026/04/03/as-kremlin-cuts-off-the-internet-vpns-become-a-way-of-life-a92370
+- **Defensie- en luchtvaartexport bereikt bijna $2 miljard in Q1**
+  De Turkse defensie- en luchtvaartsector exporteerde in het eerste kwartaal van **2026** voor bijna **$2 miljard**, een forse stijging ten opzichte van vorig jaar. Bedrijven als **Roketsan** en **Baykar** blijven hun productiecapaciteit uitbreiden en nieuwe markten aanboren. Tijdens een strategische top benadrukte **Roketsan** het belang van lokale productie van luchtverdedigingssystemen en raketcapaciteit. Turkije profileert zich steeds nadrukkelijker als een van de grootste defensie-exporteurs ter wereld.
+  :newspaper: Daily Sabah — 3 apr 2026 :link: https://www.dailysabah.com/business/defense/turkish-defense-aerospace-exports-hit-nearly-2-billion-in-q1
 
-- **Rusland wil moratorium op telecom-inspecties opheffen** De overheid probeert het inspectiestop op telecomnetwerken op te heffen om afluisterinfrastructuur te controleren — een stap richting verdere uitbreiding van het surveillanceapparaat.
-  📰 Meduza — 3 april 2026 🔗 https://meduza.io/en/news/2026/04/03/rbc-reports-russia-seeks-to-lift-moratorium-on-telecom-inspections-to-verify-wiretapping-systems
-
----
-
-## 🇫🇷 Frankrijk
-
-**Gemeenteraadsverkiezingen herschikken het politieke landschap; het begrotingstekort blijft een zorg.**
-
-- **Municipales: Grégoire wint Parijs, linkse allianties onder druk** **Emmanuel Grégoire** won de tweede ronde in Parijs met **50,5%** van de stemmen, terwijl **Rachida Dati** op **41,5%** bleef steken. De opmars van **LFI** compliceerde links samenwerking in veel steden.
-  📰 France 24 — 22 maart 2026 🔗 https://www.france24.com/fr/france/20260322-municipales-2026-resultats-second-tour-paris
-
-- **Begrotingstekort 2025 lager dan verwacht, druk op 2026 blijft** Het Franse tekort over 2025 kwam uit op **5,1% bbp** — **0,3 procentpunt** beter dan geraamd. Premier **Lecornu** noemde het een "goede verrassing", maar waarschuwde voor aanhoudende economische en geopolitieke onzekerheid.
-  📰 France 24 — 27 maart 2026 🔗 https://www.france24.com/fr/info-en-continu/20260327-deficit-public-de-la-france-apr%C3%A8s-une-bonne-surprise-pour-2025-un-gouvernement-ambitieux
-
-- **Budget 2026 met noodgreep door parlement — defensie wint** Premier **Lecornu** gebruikte **artikel 49.3** om de begroting zonder stemming door te drukken en overleefde vervolgens twee moties van wantrouwen. Defensie krijgt **€6,7 miljard** extra, terwijl elders wordt bezuinigd.
-  📰 France 24 — 2 februari 2026 🔗 https://www.france24.com/en/france/20260202-delayed-french-budget-finally-through-paves-way-for-macron-military-spending-boost
+- **Minister Fidan voert intensieve diplomatie voor vrede in Midden-Oosten**
+  Minister van Buitenlandse Zaken **Hakan Fidan** voert een reeks intensieve diplomatieke gesprekken om een vredesoplossing in het **Midden-Oosten** te bewerkstelligen. Fidan sprak met zijn tegenhangers uit meerdere landen om regionale escalatie te voorkomen. Turkije positioneert zich als bemiddelaar en waarschuwt dat het conflict zich verder over de regio kan verspreiden. De diplomatieke inspanningen lopen parallel met Turkijes actieve rol in de **Zwarte Zee-veiligheid** en de handhaving van het **Montreux-verdrag**.
+  :newspaper: Hürriyet Daily News — 3 apr 2026 :link: https://www.hurriyetdailynews.com/turkish-top-diplomat-pursues-intense-diplomacy-for-peace-220611
 
 ---
 
-## 🇩🇪 Duitsland
+## :ru: Rusland
 
-**De Iranoorlog raakt de Duitse economie hard: groeiprognoses gehalveerd, inflatie stijgt.**
+**Economische kwetsbaarheid wordt zichtbaar: massale bankstoring, benzinenexportverbod en krimpende industrie wijzen op toenemende druk.**
 
-- **Iranoorlog kost Duitsland €50 miljard aan welvaart** De vijf grote economische instituten (o.a. **DIW**, **Ifo**, **RWI**) verlaagden de groeiprognose voor 2026 naar **0,6%** (was **1,3%**). Olie- en gasprijzen stuwen de inflatie richting **3%**.
-  📰 Handelsblatt — 30 maart 2026 🔗 https://www.handelsblatt.com/politik/konjunktur/konjunktur-iran-krieg-kostet-deutschland-50-milliarden-wertschoepfung/100213080.html
+- **Massale storing treft Sberbank en andere grote Russische banken**
+  Klanten van **Sberbank** — 's lands grootste bank — ondervonden op **3 april** grootschalige problemen met betalingen en overboekingen, vanaf circa **10:00 uur Moskouse tijd**. De storing trof meerdere grote financiële instellingen tegelijk en verstoorde het dagelijkse betalingsverkeer in heel Rusland. **Sberbank** meldde later dat de diensten waren hersteld, maar de oorzaak werd niet bekendgemaakt. Het incident voedt de zorgen over de kwetsbaarheid van de Russische financiële infrastructuur onder sanctiedruk.
+  :newspaper: The Moscow Times — 3 apr 2026 :link: https://www.themoscowtimes.com/2026/04/03/mass-outage-hits-sberbank-and-other-major-russian-lenders-a92418
 
-- **OESO verlaagt Duitse groeiraming naar 0,8%** De **OESO** verwacht dat Duitsland dit jaar slechts **0,8%** groeit — **0,2 procentpunt** lager dan in december voorspeld. Energieverstoringen door het Midden-Oostenconflict drijven kosten op voor bedrijven en consumenten.
-  📰 Handelsblatt — april 2026 🔗 https://www.handelsblatt.com/politik/konjunktur/iran-krieg-nahost-krise-bremst-deutsches-wachstum-und-treibt-inflation/100212088.html
+- **Rusland verbiedt benzine-export tot 31 juli**
+  De Russische overheid heeft een **exportverbod op benzine** ingesteld dat duurt tot **31 juli 2026**, om de binnenlandse brandstofvoorraad te stabiliseren. De maatregel komt vlak voor het voorjaarsplantseizoen, wanneer de vraag vanuit de landbouw traditioneel sterk toeneemt. Stijgende mondiale olieprijzen als gevolg van het Midden-Oostenconflict vergroten de druk op de binnenlandse markt. Het is het zoveelste exportverbod in een reeks maatregelen om brandstoftekorten te voorkomen.
+  :newspaper: The Moscow Times — 2 apr 2026 :link: https://www.themoscowtimes.com/2026/04/02/russia-bans-producers-from-exporting-gasoline-until-july-31-a92412
 
-- **Nieuwe brandstofregels: tankstations mogen prijs nog maar 1× per dag verhogen** Sinds **1 april** mogen Duitse tankstations hun brandstofprijzen maximaal **één keer per dag** verhogen, maar onbeperkt verlagen. De maatregel moet consumenten beschermen tegen prijspieken door de energiecrisis.
-  📰 Handelsblatt — april 2026 🔗 https://www.handelsblatt.com/politik/deutschland/neujahr-was-sich-mit-dem-neuen-jahr-2026-alles-aendert/100187921.html
-
-# 🌍 Wereld Nieuwsscan — 3 april 2026
+- **Industrie-PMI daalt: bedrijfsvertrouwen op laagste punt sinds 2022**
+  De Russische industrie kromp in **maart**, met een daling van de **PMI** (Purchasing Managers' Index) die wijst op verminderde vraag, lagere productie en personeelsinkrimpingen. Het bedrijfsvertrouwen bereikte het laagste niveau sinds **2022**, het jaar van de westerse sanctiegolf na de invasie van Oekraïne. **S&P Global**-data toont aan dat fabrikanten kampen met aanhoudende economische druk door sancties, arbeidsmarktkrapte en stijgende grondstofkosten. Analisten waarschuwen dat de industriële vertraging structureel van aard kan zijn.
+  :newspaper: The Moscow Times — 2 apr 2026 :link: https://www.themoscowtimes.com/2026/04/02/russias-manufacturing-pmi-falls-in-march-as-confidence-hits-lowest-since-2022-a92401
 
 ---
+
+## :fr: Frankrijk
+
+**De Iranoorlog raakt Frankrijk aan de pomp: brandstoftekorten en recordprijzen dwingen Lecornu tot gerichte steunmaatregelen.**
+
+- **Regering trekt €70 miljoen uit voor noodhulp aan transport, landbouw en visserij**
+  Premier **Sébastien Lecornu** kondigde op **1 april** een pakket van **€70 miljoen** aan gerichte steunmaatregelen aan voor sectoren die het hardst worden getroffen door de stijgende brandstofprijzen. Het **wegtransport** ontvangt **€50 miljoen** (een forfaitaire korting van **€0,20 per liter**), landbouwers krijgen een volledige vrijstelling van accijnzen op **landbouwdiesel (GNR)** voor april (kosten: **€14 miljoen**), en de visserij ontvangt **€5 miljoen** voor brandstofcompensatie. Lecornu sluit bredere steun uit en benadrukt: "Er is geen meevaller als je een tekort van **5,1%** hebt."
+  :newspaper: France 24 / Bloomberg — 3 apr 2026 :link: https://www.france24.com/fr/info-en-continu/20260327-d%C3%A9ficit-public-de-la-france-apr%C3%A8s-une-bonne-surprise-pour-2025-un-gouvernement-ambitieux
+
+- **900 tankstations zonder brandstof door logistieke crisis**
+  Ongeveer **900 tankstations** in Frankrijk zijn zonder ten minste één type brandstof komen te zitten, waarvan circa **700** worden uitgebaat door **TotalEnergies**. Het **ministerie van Energie** schrijft de tekorten toe aan logistieke problemen, niet aan een nationaal aanbodtekort. De **dieselprijs** bereikte een record van circa **€2,25 per liter** ($2,45). De grootste vakbond **FNSEA** dreigt met boerenprotesten als de steun onvoldoende blijkt, en eist een korting van **€0,30 per liter** op landbouwdiesel.
+  :newspaper: Connexion France — apr 2026 :link: https://www.connexionfrance.com/practical/fuel-prices-and-shortages-in-france-latest-updates/781412
+
+- **Tekort 2025 valt mee op 5,1% — maar ambities voor 2026 blijven fragiel**
+  Het Franse begrotingstekort over **2025** kwam uit op **5,1% van het bbp**, beter dan de verwachte **5,4%**, dankzij hogere belastingopbrengsten uit de surtax op grote bedrijven (**€7,3 miljard**). De regering mikt nu op een tekort van **4,7-5,0%** voor **2026**, maar het onafhankelijke begrotingscomité **Haut Conseil des Finances Publiques** betwijfelt of dit haalbaar is gezien de energiecrisis. De schuldaflossingskosten stijgen naar **€59,3 miljard** in **2026** (tegen **€36,2 miljard** in 2020). Premier **Lecornu** gaf ministers opdracht om volgende week voorstellen te presenteren voor extra steun aan huishoudens die afhankelijk zijn van de auto.
+  :newspaper: Bloomberg / France 24 — 27 mrt–3 apr 2026 :link: https://www.bloomberg.com/news/articles/2026-03-27/france-beats-2025-deficit-target-giving-leeway-in-energy-crisis
+
+---
+
+## :de: Duitsland
+
+**De Iranoorlog haalt het Duitse herstel onderuit: groeiprognoses gehalveerd, tekort loopt op en de coalitie staat onder druk om te leveren.**
+
+- **Groeiprognose meer dan gehalveerd naar 0,6% door energieprijsschok**
+  De gezamenlijke **economische onderzoeksinstituten** (waaronder **Ifo**) hebben hun groeivoorspelling voor **2026** verlaagd van **1,3-1,4%** naar slechts **0,6%**. De energieprijsschok door de Iranoorlog treft het prille herstel na twee jaar recessie hard. **Timo Wollmershäuser** (Ifo) stelt: "De energieprijsschok raakt het herstel hard, maar expansief begrotingsbeleid ondersteunt de binnenlandse economie." De inflatie stijgt naar **2,8%** in **2026**, met het risico richting **3%**, gedreven door hogere brandstof- en verwarmingsprijzen.
+  :newspaper: Euronews — 1 apr 2026 :link: https://www.euronews.com/business/2026/04/01/iran-war-pushes-germanys-deficit-to-42-as-growth-outlook-is-halved
+
+- **Begrotingstekort loopt op naar 3,7%, banenverlies van 100.000 verwacht**
+  Het Duitse overheidstekort stijgt naar **3,7% van het bbp** in **2026** en mogelijk **4,2%** in **2027**, mede door hogere defensie-uitgaven en energiesubsidies. De arbeidsmarkt verslechtert: er worden circa **100.000 banen** geschrapt in **2026**, met een werkloosheidspercentage van **6,4%**. De chemische sector is bijzonder kwetsbaar; **Wolfgang Große Entrup** (branchevereniging **VCI**) waarschuwt voor leveringsproblemen bij grondstoffen. Economieminister **Katherina Reiche** roept op tot "moedige hervormingen."
+  :newspaper: Euronews — 1 apr 2026 :link: https://www.euronews.com/business/2026/04/01/iran-war-pushes-germanys-deficit-to-42-as-growth-outlook-is-halved
+
+- **Merz dwingt hervormingstempo af na verkiezingsklap SPD in Rijnland-Palts**
+  Kanselier **Friedrich Merz** zet na de CDU-overwinning in **Rijnland-Palts** — waar de **SPD 35 jaar** aan de macht was — in op versnelling van het hervormingspakket rond belastingen, gezondheidszorg en sociale zekerheid. De **SPD** raakte in crisis na de verkiezingsnederlaag en moet nu concessies doen. Merz beloofde het pakket "in de komende maanden" door het parlement te loodsen, maar krijgt kritiek dat de coalitie te langzaam levert. Tegelijk voert de regering per **1 april** een nieuwe regel in die tankstations beperkt tot **één prijsverhoging per dag** om consumenten te beschermen.
+  :newspaper: U.S. News / Clean Energy Wire — 23 mrt 2026 :link: https://www.usnews.com/news/world/articles/2026-03-23/germanys-spd-leaders-say-focus-on-reforms-not-personnel-changes-after-election-loss
+
+---
+
+# Scan Wereld — 3 april 2026
 
 ## 🇬🇧 Verenigd Koninkrijk
 
-**Starmer draait richting Europa nu Trump dreigt NAVO te verlaten en de Iranoorlog de brandstofprijzen opdrijft.**
+**Handelstarieven, belastinghervorming en begrotingsdruk bepalen het Britse economische klimaat.**
 
-- **Starmer kondigt toenadering tot EU aan na NAVO-dreigement Trump** Premier **Keir Starmer** noemde Brexit "diep schadelijk" en wil op een zomertop met de EU onderhandelen over nauwere toegang tot de interne markt en gezamenlijke defensie. Aanleiding: **Trump** dreigde de NAVO te verlaten nadat bondgenoten weigeren mee te vechten in Iran.
-  📰 Bloomberg — 1 apr 2026 🔗 https://www.bloomberg.com/news/articles/2026-04-01/starmer-pledges-closer-ties-with-europe-after-trump-criticism
+- **Trumps autotarieven van 25% treden in werking — Britse economie geraakt**
+  Vandaag is het **25%-importtarief van president Trump op personenauto's en lichte vrachtwagens** officieel van kracht geworden; vanaf **3 mei** volgt een extra **25%-tarief op auto-onderdelen**. Op de meeste overige Britse goederen richting de VS geldt al een tarief van **10%**. Volgens **Oxford Economics** daalt de Britse bbp-groei hierdoor tot net onder **1%** dit jaar, terwijl **33% van de Britse bedrijven** aangeeft direct geraakt te worden. In februari oordeelde het **US Supreme Court** dat Trump geen bevoegdheid had om tarieven via de IEEPA-wet op te leggen, waarna hij een nieuw tarief afkondigde onder de **Trade Act of 1974**.
+  📰 UK Parliament — House of Commons Library — 3 april 2026 🔗 https://commonslibrary.parliament.uk/research-briefings/cbp-10240/
 
-- **Brandstofprijzen exploderen door Iranoorlog, paniek aan de pomp voor Pasen** Diesel steeg meer dan **30%** sinds het begin van de oorlog naar **185,23p per liter**; bij tankstations staan rijen van meer dan 50 auto's. De sluiting van de Straat van Hormuz blokkeert **20%** van de wereldwijde olieaanvoer.
-  📰 BritBrief — 2 apr 2026 🔗 https://www.britbrief.co.uk/business/energy/petrol-panic-uk-drivers-queue-amid-iran-war-fuel-surge.html
+- **Making Tax Digital: grootste belastinghervorming in dertig jaar gaat maandag in**
+  Op **6 april 2026** treedt **HMRC's Making Tax Digital (MTD)** voor inkomstenbelasting in werking — de grootste wijziging van het Britse belastingsysteem sinds de invoering van self-assessment bijna **30 jaar geleden**. De eerste fase treft circa **864.000 zelfstandigen en verhuurders** met een inkomen boven **£50.000**; dit aantal groeit naar **2,9 miljoen** wanneer de drempel wordt verlaagd. Belastingplichtigen moeten voortaan **vier keer per jaar** digitaal rapporteren aan **HMRC**. Uit onderzoek van accountantsbureau **Azets** blijkt dat **94%** van de betrokkenen nog niet of slechts gedeeltelijk voorbereid is.
+  📰 Warrington Worldwide — 2 april 2026 🔗 https://www.warrington-worldwide.co.uk/2026/04/02/making-tax-digital-for-income-tax-key-questions-as-the-start-date-approaches/
 
-- **Energieprijscap daalt 7%, maar Iranoorlog duwt volgende cap weer omhoog** Per 1 april daalde de Ofgem-prijscap naar **£1.641/jaar** — **£117** minder dan vorig kwartaal. Groene heffingen verschuiven naar de algemene belastingen, goed voor **£134** besparing. Tegelijk waarschuwen analisten dat de volgende cap per 1 juli zo'n **9%** stijgt door de oliecrisis.
-  📰 Ofgem / BBC — 1 apr 2026 🔗 https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-april-and-30-june-2026
+- **Spring Forecast: schuld daalt maar groeiprognose verlaagd naar 1,1%**
+  Minister van Financiën **Rachel Reeves** presenteerde de Spring Forecast aan het parlement, waarbij de overheidsleningen bijna **£18 miljard lager** uitkwamen dan verwacht bij de Herfstbegroting. Het **Office for Budget Responsibility (OBR)** verlaagde echter de bbp-groeiverwachting van **1,4% naar 1,1%**, als gevolg van zwakkere groeicijfers, stijgende werkloosheid (**5,2%**, het hoogste sinds 2020) en gedrukt ondernemersvertrouwen. Aanvullend werd **£3,5 miljard** vrijgemaakt voor onderwijshervormingen en extra financiering voor **Schotland** (+£900 mln), **Wales** (+£540 mln) en **Noord-Ierland** (+£380 mln).
+  📰 HM Treasury / GOV.UK — 3 maart 2026 🔗 https://www.gov.uk/government/news/spring-forecast-2026-the-right-economic-plan-for-britain
 
 ---
 
 ## 🇺🇸 Verenigde Staten
 
-**Trump ontslaat zijn AG, kondigt een recorddefensiebudget aan en legt op Liberation Day nieuwe tarieven op medicijnen.**
+**Recorddefensiebegroting, tarievenjubileum en historische techrechtszaak domineren het Amerikaanse nieuws.**
 
-- **Trump ontslaat minister van Justitie Pam Bondi, stelt Todd Blanche aan** President **Trump** zette **Pam Bondi** aan de kant omdat zij "zijn visie niet uitvoerde", met name rond de Epstein-dossiers. Plaatsvervangend AG **Todd Blanche** neemt het over; EPA-baas **Lee Zeldin** wordt genoemd als permanente opvolger.
-  📰 AP News / Bloomberg — 2 apr 2026 🔗 https://www.nbcnews.com/politics/justice-department/bondi-fired-attorney-general-trump-rcna266378
+- **Trump presenteert recordbegroting: $1,5 biljoen voor defensie**
+  President **Donald Trump** heeft zijn begrotingsvoorstel voor fiscaal jaar **2027** ingediend bij het Congres, met een recordbedrag van **$1,5 biljoen** voor defensie. Hiervan gaat **$1,1 biljoen** via het reguliere begrotingsproces en **$350 miljard** via budget reconciliation. Het plan voorziet in **100.000 detentiebedden** voor migranten, een **$10 miljard fonds** voor Washington D.C. en een verhoging van **13%** voor het ministerie van Justitie. Niet-defensie-uitgaven worden met **10%** verlaagd; programma's voor vluchtelingenopvang worden geschrapt.
+  📰 NPR — 3 april 2026 🔗 https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending
 
-- **Trump presenteert recorddefensiebudget van $1,5 biljoen** Het begrotingsvoorstel voor FY2027 verhoogt defensie-uitgaven met **44%** — voor het eerst boven **$1 biljoen**. Binnenlandse programma's worden **10%** gekort. Een waakhondgroep waarschuwt dat dit bijna **$7 biljoen** aan staatsschuld kan toevoegen.
-  📰 NPR / Bloomberg — 3 apr 2026 🔗 https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending
+- **Eén jaar "Liberation Day": farmaceutische tarieven van 100% aangekondigd**
+  Op het eenjarig jubileum van zijn tariefentoespraak kondigde **Trump** nieuwe invoertarieven van **100%** aan op gepatenteerde farmaceutische producten. In de praktijk krijgen de meeste bedrijven **0%** mits zij fabrieken in de VS bouwen of een prijsafspraak tekenen; bedrijven uit **Europa, Japan, Zuid-Korea, Zwitserland en het VK** kregen volledige vrijstellingen. Het **Amerikaanse handelstekort** steeg in februari met **4,8%** tot **$57,3 miljard** en het **Hooggerechtshof** oordeelde dat Trumps gebruik van noodbevoegdheden onwettig was — er staan meer dan **$160 miljard** aan illegale tariefrestituties open.
+  📰 Yahoo Finance / NPR — 2-3 april 2026 🔗 https://www.npr.org/2026/04/02/nx-s1-5766424/trump-tariffs-inflation-economy
 
-- **100%-tarief op merkgeneesmiddelen op verjaardag Liberation Day** Op de eerste verjaardag van Liberation Day voerde **Trump** een tarief van **100%** in op gepatenteerde medicijnen, met vrijstellingen voor bedrijven die fabrieken in de VS bouwen. Staal, aluminium en koper blijven op **50%**, nu berekend over de Amerikaanse verkoopprijs.
-  📰 CNBC — 2 apr 2026 🔗 https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html
+- **Jury vindt Meta en YouTube aansprakelijk: $6 miljoen schadevergoeding voor verslavend ontwerp**
+  Een jury in **Los Angeles** heeft **Meta** (Instagram) en **Google** (YouTube) aansprakelijk bevonden voor het opzettelijk verslavend ontwerpen van hun platforms. De zaak betrof een nu 20-jarige vrouw die vanaf haar **6e** YouTube en vanaf haar **11e** Instagram gebruikte. De jury kende **$6 miljoen** toe: **$3 miljoen** compensatoir en **$3 miljoen** punitief, waarvan **Meta 70%** betaalt. Dit is de eerste keer dat een jury techbedrijven aansprakelijk acht voor verslavend platformontwerp; de uitspraak kan gevolgen hebben voor circa **2.000 vergelijkbare rechtszaken**.
+  📰 NPR — 25 maart 2026 🔗 https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict
 
 ---
 
 ## 🇮🇳 India
 
-**India versterkt zijn digitale betalingsinfrastructuur en krijgt wettelijk duidelijkheid over de hoofdstad van Andhra Pradesh.**
+**Geopolitieke spanningen drukken de markten, terwijl India wetgevend en op defensiegebied vooruitgang boekt.**
 
-- **UPI breekt record: 22,64 miljard transacties in maart** India's digitale betalingssysteem **UPI** verwerkte in maart **22,64 miljard** transacties ter waarde van **₹29,53 lakh crore** — een stijging van **24%** op jaarbasis. Tier-2- en Tier-3-steden zijn de nieuwe groeimotor.
-  📰 News9live — 2 apr 2026 🔗 https://www.news9live.com/business/biz-news/digital-payments-boom-upi-achieves-record-22-64-bn-transactions-in-march-2026-2951244
+- **Parlement keurt wet goed: Amaravati wordt permanente hoofdstad van Andhra Pradesh**
+  Het Indiase parlement heeft de **Andhra Pradesh Reorganisation (Amendment) Bill, 2026** aangenomen, waarmee **Amaravati** wettelijk de enige hoofdstad van **Andhra Pradesh** wordt. Het wetsvoorstel werd ingediend door **staatssecretaris Nityanand Rai** en geeft Amaravati met terugwerkende kracht vanaf **2 juni 2024** een wettelijke status. Dit maakt een einde aan twaalf jaar onduidelijkheid na de afsplitsing van **Telangana**. **Unieminister K. Rammohan Naidu** wees op een inkomstentekort van **₹16.000 crore** als gevolg van de opsplitsing.
+  📰 DD News On Air — 2 april 2026 🔗 https://www.newsonair.gov.in/amaravati-to-now-be-permanent-capital-of-andhra-pradesh-parliament-passes-reorganisation-bill-2026/
 
-- **Parlement bekrachtigt Amaravati als permanente hoofdstad Andhra Pradesh** De **Rajya Sabha** stemde in met de Andhra Pradesh Reorganisation (Amendment) Bill 2026, waarmee **Amaravati** wettelijk de enige hoofdstad wordt. Dit beëindigt jarenlange onzekerheid na de opsplitsing van de staat in 2014.
-  📰 Business Standard — 2 apr 2026 🔗 https://www.business-standard.com/india-news/parliament-passes-bill-to-recognise-amaravati-as-andhra-s-permanent-capital-126040200788_1.html
+- **Beurs en roepie onder druk na Trumps oorlogstoespraak over Iran**
+  De Indiase aandelenmarkten daalden op **2 april** met circa **2%** nadat **president Trump** aankondigde de aanvallen op **Iran** voort te zetten. **Brent-olie** steeg in maart met ongeveer **60%** en raakte tijdelijk **$115-120 per vat**, terwijl **WTI-olie** met ruim **11%** sprong naar **$111,54**. India importeert **85-88% van zijn ruwe olie** en circa **80% van zijn aardgas** passeert de **Straat van Hormuz**, waardoor de dreiging direct doorwerkt in inflatie en begrotingstekort. De **India VIX**-volatiliteitsindex verdubbelde in maart naar circa **27,9**.
+  📰 The Week — 2 april 2026 🔗 https://www.theweek.in/news/biz-tech/2026/04/02/india-stock-market-iran-tensions.html
 
-- **India neemt derde nucleaire onderzeeër INS Aridaman in dienst** Defensieminister **Rajnath Singh** nam de **INS Aridaman** in gebruik — India's derde eigen nucleaire ballistische onderzeeër. Het schip versterkt de nucleaire triade en het tweede-aanvalsvermogen onder het Advanced Technology Vessel-programma.
-  📰 NDTV / India TV — 3 apr 2026 🔗 https://www.indiatvnews.com/news/india/ins-aridaman-india-s-third-nuclear-powered-submarine-commissioned-into-indian-navy-2026-04-03-1036196
+- **Defensie-export bereikt recordhoogte van ₹38.424 crore**
+  Het **Ministerie van Defensie** maakte bekend dat de defensie-export in fiscaal jaar **2025-26** een record van **₹38.424 crore** (circa **$4,11 miljard**) bereikte — een stijging van **62,66%**. India exporteerde militair materieel naar meer dan **80 landen**, waaronder **Dornier Do-228**-vliegtuigen, **Chetak**-helikopters en lichtgewicht torpedo's. De **Defence Public Sector Units** namen **₹21.071 crore** (54,84%) voor hun rekening met een groei van **151%**. Een opvallend contract is de export van **BrahMos-raketten** aan de **Filipijnen** ter waarde van circa **$375 miljoen**.
+  📰 ABC Live — 3 april 2026 🔗 https://abclive.in/2026/04/03/india-defence-exports-2025-26/
 
 ---
 
 ## 🇨🇳 China
 
-**Corruptieonderzoek schokt de top, XPeng dumpt Nvidia-chips en Peking maant tot kalmte rond de Straat van Hormuz.**
+**Corruptieonderzoeken, AI-regulering en handelsgeschillen tekenen het Chinese nieuwsbeeld.**
 
-- **Politburolid Ma Xingrui onder corruptieonderzoek — derde zittend lid ooit** **Ma Xingrui**, voormalig ruimtevaarttopman en huidig Politburolid, wordt onderzocht voor corruptie. Hij is pas het derde zittende Politburolid dat zo'n onderzoek ondergaat — een signaal dat **Xi Jinping**'s anticorruptiecampagne onverminderd doorgaat.
-  📰 Caixin Global — 3 apr 2026 🔗 https://www.caixinglobal.com/2026-04-03/aerospace-pioneer-turned-politburo-member-ensnared-in-chinas-anti-graft-sweep-102430828.html
+- **Politburolid Ma Xingrui onder corruptieonderzoek**
+  Voormalig partijsecretaris van **Xinjiang**, **Ma Xingrui**, is het derde zittende **Politburolid** dat onder onderzoek wordt geplaatst door de anticorruptie-instanties. Staatspersbureau **Xinhua** meldde dat hij wordt onderzocht wegens "ernstige schendingen van discipline en wet." Ma stond eerder bekend als de "jonge maarschalk" van het Chinese ruimtevaartprogramma. De zaak onderstreept de voortdurende uitbreiding van **Xi Jinpings** anticorruptiecampagne, die nu ook de hoogste partijkaders bereikt.
+  📰 South China Morning Post — 3 april 2026 🔗 https://www.scmp.com/news/china/politics/article/3348968/ma-xingrui-third-politburo-member-investigated-chinas-anti-corruption-bodies
 
-- **XPeng vervangt Nvidia volledig door eigen AI-chips in alle modellen** De Chinese EV-maker **XPeng** heeft de overstap van **Nvidia** naar volledig in eigen huis ontwikkelde AI-chips afgerond in zijn hele voertuiglijn — een mijlpaal in China's streven naar halfgeleiderzelfvoorziening in de autosector.
-  📰 Caixin Global — 3 apr 2026 🔗 https://www.caixinglobal.com/2026-04-03/xpeng-completes-shift-from-nvidia-to-in-house-ai-chips-across-lineup-102430879.html
+- **Beijing verplicht AI-bedrijven tot interne ethische commissies**
+  De Chinese overheid heeft alle AI-bedrijven verplicht om interne **ethische toetsingscommissies** op te richten voor technologisch toezicht. Sinds 2022 hebben grote bedrijven als **Alibaba** en **Baidu** al dergelijke commissies opgezet. **Tencent** breidt tegelijkertijd zijn **OpenClaw**-suite uit met de bedrijfstool **ClawPro** voor snelle inzet van AI-agenten. De maatregel past in Pekings streven naar "controleerbare" AI-ontwikkeling en loopt vooruit op internationale reguleringsinitiatieven.
+  📰 South China Morning Post — 3 april 2026 🔗 https://www.scmp.com/tech/policy/article/3348995/beijing-mandates-internal-ai-ethics-reviews-ensure-controllable-tech
 
-- **China maant tot voorzichtigheid bij VN-stemming over heropening Straat van Hormuz** De VN-Veiligheidsraad bereidt een stemming voor die heropening van de Straat van Hormuz mogelijk met geweld autoriseert. **Peking** roept op tot terughoudendheid. Tegelijk vinden tankers alternatieve routes om de Iraanse blokkade te omzeilen.
-  📰 Global Times / SCMP — 3 apr 2026 🔗 https://www.scmp.com/news/china/diplomacy/article/3348986/china-europe-and-why-beijing-took-swing-iran-over-strait-hormuz
+- **Hausse in sci-tech obligaties maskeert uitsluiting private sector**
+  De uitgifte van wetenschaps- en technologie-obligaties steeg in **2025** met bijna **90%**, maar het overgrote deel van de opbrengsten vloeide naar **staatsbedrijven** in plaats van private ondernemingen. Tegelijkertijd worden **online kredietverstrekkers** hard geraakt door winstdalingen na de invoering van een **renteplafond**. Een functionaris gelinkt aan staatsinvesteringen in een aan **Evergrande** verbonden bedrijf wordt onderzocht. De ontwikkelingen illustreren de aanhoudende spanning tussen markthervormingen en staatscontrole in de Chinese economie.
+  📰 Caixin Global — 3 april 2026 🔗 https://www.caixinglobal.com/2026-04-03/in-depth-chinas-sci-tech-bond-boom-conceals-sidelined-private-sector-102430643.html
 
 ---
 
 ## 🇯🇵 Japan
 
-**Energiecrisis raakt Japan hard: eerste LNG-tanker door Straat van Hormuz terwijl de Nikkei duikt en Microsoft miljarden investeert.**
+**Megainvesteringen in AI-infrastructuur, diplomatieke toenadering en energie-expansie kenmerken Japans agenda.**
 
-- **Eerste Japanse LNG-tanker doorvaart Straat van Hormuz sinds begin Iranoorlog** Een LNG-tanker van **Mitsui O.S.K. Lines** is als eerste Japans schip door de Straat van Hormuz gevaren sinds de militaire operatie tegen Iran op 28 februari begon. In totaal zaten **45** Japanse schepen vast in het gebied.
-  📰 NHK World / Nikkei Asia — 3 apr 2026 🔗 https://asia.nikkei.com/business/energy/japanese-lng-tanker-crosses-strait-of-hormuz-mitsui-o.s.k-lines-says
+- **Microsoft investeert $10 miljard in Japanse datacenters, samenwerking met SoftBank**
+  **Microsoft**-president **Brad Smith** heeft een investering van **$10 miljard** aangekondigd in datacenterinfrastructuur in Japan, gecombineerd met een partnerschap met **SoftBank** op het gebied van kunstmatige intelligentie. De investering weerspiegelt de groeiende nadruk op datasoevereiniteit en economische veiligheid in de regio. Japan positioneert zich hiermee als een van de belangrijkste AI-hubs in Azië, naast concurrerende investeringen in **Zuid-Korea** en **Singapore**.
+  📰 Nikkei Asia — 3 april 2026 🔗 https://asia.nikkei.com/business/companies/microsoft-to-pour-10bn-into-japan-data-centers-work-with-softbank-on-ai
 
-- **Microsoft pompt $10 miljard in Japanse datacenters en AI-samenwerking met SoftBank** **Microsoft** investeert **$10 miljard** in datacenters door heel Japan en gaat samenwerken met **SoftBank** op AI-initiatieven, in de strijd met Amazon en Alphabet om dominantie in Japans snel groeiende AI-ecosysteem.
-  📰 Nikkei Asia / Japan Times — 3 apr 2026 🔗 https://asia.nikkei.com/business/companies/microsoft-to-pour-10bn-into-japan-data-centers-work-with-softbank-on-ai
+- **Premier Takaichi plant bezoek aan Australië voor zeldzame aardmetalen**
+  Premier **Sanae Takaichi** bereidt een bezoek aan **Australië** voor om de samenwerking op het gebied van **zeldzame aardmetalen** en strategische partnerschappen te bespreken. Het wordt het eerste bezoek van een Japanse premier aan Australië sinds **2022** en signaleert versterkte bilaterale banden te midden van geopolitieke onzekerheden. De gesprekken richten zich op het verminderen van de afhankelijkheid van **China** voor kritieke mineralen die essentieel zijn voor de halfgeleider- en defensie-industrie.
+  📰 Nikkei Asia — 3 april 2026 🔗 https://asia.nikkei.com/politics/international-relations/japan-pm-takaichi-plans-australia-visit-to-discuss-rare-earths
 
-- **Nikkei 225 verliest 2,6% na waarschuwing Trump over voortduren Iranoorlog** De index sloot op **52.337** punten, een daling van **1.403 punten**. Zwaargewichten als **SoftBank** (−4,3%) en **Tokyo Electron** (−3,2%) leidden het verlies nadat Trump waarschuwde dat het conflict nog weken kan duren.
-  📰 Trading Economics — 3 apr 2026 🔗 https://tradingeconomics.com/japan/stock-market
+- **Osaka Gas mikt op vijf energiecentrales in de VS**
+  **Osaka Gas** onderzoekt een aanzienlijke uitbreiding in de Amerikaanse energiesector met plannen voor maximaal **vijf energiecentraleprojecten**. Het Japanse energiebedrijf profiteert van de enorme stroomvraag die wordt aangejaagd door de bouw van AI-datacenters en digitale infrastructuur. De expansie past in een bredere trend waarbij Japanse bedrijven hun buitenlandse investeringen opvoeren nu de binnenlandse markt krimpt door vergrijzing.
+  📰 Nikkei Asia — 3 april 2026 🔗 https://asia.nikkei.com/business/energy/osaka-gas-eyes-deeper-us-investment-with-up-to-5-power-plant-projects
 
 ---
 
 ## 📊 Marktoverzicht
 
-*Slotkoersen 2 april 2026 (3 april = Goede Vrijdag, westerse beurzen dicht)*
-
 | Markt | Koers | % |
 |-------|-------|---|
 | BTC | $66.650 | +0,6% |
-| ETH | $2.046 | −2,6% |
-| Goud | $4.677 | −2,8% |
-| Brent olie | $111,69 | +1,2% |
-| EUR/USD | 1,16 | +0,3% |
-| S&P 500 | 6.582 | +0,1% |
-| AEX | 976 | −0,1% |
-| DAX | 23.145 | −0,7% |
-| Nikkei | 52.337 | −2,6% |
+| ETH | $2.046 | -0,9% |
+| Goud | $4.677 | +0,0% |
+| Brent olie | $112,42 | +0,7% |
+| EUR/USD | 1,1544 | -0,4% |
+| S&P 500 | 6.570 | -0,2% |
+| AEX | 965,71 | -1,1% |
+| DAX | 22.772 | -2,3% |
+| Nikkei | 53.123 | +1,3% |
 
 ---
 
 ## 🌍 De Grote Lijnen
 
-De Iranoorlog en de blokkade van de Straat van Hormuz zijn de rode draad van deze krant: ze halveren de Duitse groeiprognoses, veroorzaken paniek aan Britse pompen, dwingen Frankrijk tot een noodpakket van €70 miljoen, en laten de Nikkei duiken — terwijl de eerste Japanse LNG-tanker pas nu weer door de zeestraat vaart en de VN-Veiligheidsraad naar een stemming over heropening toewerkt. Tegelijkertijd escaleert de handelsoorlog: Trump legt 100%-tarieven op medicijnen en presenteert een recorddefensiebudget van $1,5 biljoen, terwijl China met XPeng's overstap naar eigen AI-chips en recordexporten richting ASEAN de technologische ontkoppeling versnelt. In Europa dwingt de geopolitieke onrust tot hervorming en toenadering: het VK schuift richting de EU, België stemt over de afschaffing van de Senaat, en de Nederlandse Kamer ratificeert het Europees migratiepact. Opvallend is hoe landen zich aanpassen aan de crisis: India schrapt importrechten op petrochemie, Duitsland beperkt brandstofprijsverhogingen, en Turkije positioneert zich als alternatieve energiecorridor. De komende weken worden cruciaal — maandag reageert Wall Street op het positieve banenrapport, en bij de VN moet blijken of de Straat van Hormuz met geweld wordt heropend.
+De Iranoorlog is de rode draad door vrijwel alle regio's: stijgende olieprijzen drukken de groeiprognoses in Duitsland en het VK, veroorzaken brandstoftekorten in Frankrijk en jagen de inflatie in Turkije en India aan. Tegelijkertijd wordt de defensiesector overal sterker — van Trumps recordbegroting van $1,5 biljoen tot exportrecords in Turkije en India — terwijl de civiele economie de klappen opvangt. Rusland toont steeds duidelijker de scheuren van sanctiedruk en oorlogseconomie, met bankenstoringen, exportverboden en krimpende industrie. In de techwereld tekent zich een tweedeling af: het Westen en Japan investeren massaal in AI-infrastructuur, terwijl China de sector juist strakker reguleert. De komende weken worden cruciaal: de nieuwe Amerikaanse tarievenronde en de Europese energiecrisis zullen bepalen of het fragiele economische herstel standhoudt of verder afbrokkelt.
