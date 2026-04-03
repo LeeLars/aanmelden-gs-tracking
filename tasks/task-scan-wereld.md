@@ -1,101 +1,58 @@
-# Nieuwskrant Scan Wereld
+# Scan Wereld
 
-Je bent een nieuwsanalist. Scan het nieuws voor 5 niet-Europese landen, verzamel marktdata, en schrijf het resultaat als kant-en-klare Markdown.
+Schrijf een nieuwsoverzicht voor 5 landen + marktdata. Commit naar `main` in repo `LeeLars/aanmelden-gs-tracking`. GEEN nieuwe branch.
 
-## Context
+## Landen & bronnen
 
-Je werkt in de GitHub-repo `LeeLars/aanmelden-gs-tracking`, branch `main`. Commit direct naar `main` — maak GEEN nieuwe branch aan.
-
-## Landen
-
-Scan deze landen (bronnen staan in `config/bronnen.json`):
-🇬🇧 Verenigd Koninkrijk · 🇺🇸 Verenigde Staten · 🇮🇳 India · 🇨🇳 China · 🇯🇵 Japan
+- 🇬🇧 VK: bbc.co.uk/news, ft.com, theguardian.com
+- 🇺🇸 VS: apnews.com, nytimes.com, bloomberg.com
+- 🇮🇳 India: thehindu.com, economictimes.indiatimes.com, ndtv.com
+- 🇨🇳 China: scmp.com, globaltimes.cn, caixinglobal.com
+- 🇯🇵 Japan: japantimes.co.jp, asia.nikkei.com, www3.nhk.or.jp/nhkworld
 
 ## Werkwijze
 
-Per land:
-1. Zoek ELKE bron uit bronnen.json op. Zoek breed ("[land] news today") én per bron ("site:scmp.com").
-2. Vergelijk: wat komt in meerdere kranten terug? Wat is uniek maar relevant?
-3. Schrijf 3-5 items als SYNTHESE — niet copy-paste van één artikel.
+Zoek per land het nieuws van vandaag. Gebruik de bronnen hierboven — elk land alleen uit eigen media. Selecteer per land de **3 belangrijkste** items over politiek, economie, technologie of zakenleven. Geen sport/entertainment.
 
-**BRONREGEL:** Elk land UITSLUITEND uit media UIT DAT LAND ZELF. China alleen uit SCMP/Caixin/Global Times/Xinhua. India alleen uit The Hindu/Economic Times/NDTV/Livemint. Etc.
+## Bestand: `werk/scan-2.md`
 
-**INHOUD:** Politiek, economie, zakelijk én technologie (AI, chips, ruimtevaart, energie, biotech, telecom, cyber). Geen sport, entertainment, lifestyle.
+Schrijf per land exact dit:
+
+```
+## [emoji] [Land]
+
+**[Rode draad — 1 zin]**
+
+- **[Kop]** [1-2 zinnen kern. **Vetgedrukt** voor namen en cijfers.]
+  📰 Bron — datum 🔗 [url]
+
+- **[Kop]** [1-2 zinnen kern.]
+  📰 Bron — datum 🔗 [url]
+
+- **[Kop]** [1-2 zinnen kern.]
+  📰 Bron — datum 🔗 [url]
+
+---
+```
 
 ## Marktdata
 
-Zoek actuele koersen op via web search en voeg toe aan het einde van het bestand:
+Zoek actuele koersen en voeg toe aan het einde:
 
-```markdown
+```
 ## 📊 Marktoverzicht
 
-| Markt | Koers | Verandering |
-|-------|-------|-------------|
-| Bitcoin (BTC) | $XX.XXX | +X,X% |
-| Ethereum (ETH) | $X.XXX | +X,X% |
-| Goud (XAU) | $X.XXX | +X,X% |
-| Zilver (XAG) | $XX,XX | +X,X% |
-| Brent olie | $XXX,XX | +X,X% |
-| EUR/USD | X,XXXX | +X,X% |
-| EUR/GBP | X,XXXX | +X,X% |
+| Markt | Koers | % |
+|-------|-------|---|
+| BTC | $XX.XXX | +X,X% |
+| ETH | $X.XXX | +X,X% |
+| Goud | $X.XXX | +X,X% |
+| Brent olie | $XXX | +X,X% |
+| EUR/USD | X,XX | +X,X% |
 | S&P 500 | X.XXX | +X,X% |
-| NASDAQ | XX.XXX | +X,X% |
-| AEX | XXX,XX | +X,X% |
-| BEL 20 | X.XXX | +X,X% |
+| AEX | XXX | +X,X% |
 | DAX | XX.XXX | +X,X% |
-| CAC 40 | X.XXX | +X,X% |
-| Nikkei 225 | XX.XXX | +X,X% |
-| Shanghai Comp. | X.XXX | +X,X% |
-
-*Koersen van [datum], [tijdstip] CET. Verandering t.o.v. vorige slotkoers.*
+| Nikkei | XX.XXX | +X,X% |
 ```
 
-## Output
-
-Sla op als `werk/scan-wereld.md` op branch `main`. Gebruik exact dit formaat:
-
-```markdown
-## 🇬🇧 Verenigd Koninkrijk
-
-**[Rode draad in 1-2 zinnen]**
-
-- **[Kop]**
-  [2-4 zinnen synthese. **Vetgedrukt** voor namen, bedragen, beslissingen.]
-  📰 Bron — datum, tijd | Bron — datum, tijd
-  🔗 [titel](url)
-
----
-
-## 🇺🇸 Verenigde Staten
-[...]
-
----
-
-## 🇮🇳 India
-[...]
-
----
-
-## 🇨🇳 China
-[...]
-
----
-
-## 🇯🇵 Japan
-[...]
-
----
-
-## 📊 Marktoverzicht
-[tabel]
-```
-
-Commit message: `scan-wereld YYYY-MM-DD`
-
-## Regels
-
-- Alles in het **Nederlands**
-- **Vetgedrukt** voor cijfers, namen, organisaties
-- Exacte URLs — geen verzonnen links
-- Overschrijf het bestand als het al bestaat
-- Commit direct naar `main`. GEEN nieuwe branch.
+Commit message: `scan-2 YYYY-MM-DD`

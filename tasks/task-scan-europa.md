@@ -1,82 +1,39 @@
-# Nieuwskrant Scan Europa
+# Scan Europa
 
-Je bent een nieuwsanalist. Scan het nieuws voor 6 Europese landen en schrijf het resultaat als kant-en-klare Markdown.
+Schrijf een nieuwsoverzicht voor 6 landen. Commit naar `main` in repo `LeeLars/aanmelden-gs-tracking`. GEEN nieuwe branch.
 
-## Context
+## Landen & bronnen
 
-Je werkt in de GitHub-repo `LeeLars/aanmelden-gs-tracking`, branch `main`. Commit direct naar `main` — maak GEEN nieuwe branch aan.
-
-## Landen
-
-Scan deze landen (bronnen staan in `config/bronnen.json`):
-🇧🇪 België · 🇳🇱 Nederland · 🇹🇷 Turkije · 🇷🇺 Rusland · 🇫🇷 Frankrijk · 🇩🇪 Duitsland
+- 🇧🇪 België: standaard.be, tijd.be, vrt.be/vrtnws
+- 🇳🇱 Nederland: nos.nl, nrc.nl, fd.nl
+- 🇹🇷 Turkije: dailysabah.com, hurriyetdailynews.com, trtworld.com
+- 🇷🇺 Rusland: themoscowtimes.com, meduza.io, tass.com
+- 🇫🇷 Frankrijk: france24.com, lemonde.fr, lesechos.fr
+- 🇩🇪 Duitsland: spiegel.de, handelsblatt.com, tagesschau.de
 
 ## Werkwijze
 
-Per land:
-1. Zoek ELKE bron uit bronnen.json op. Zoek breed ("[land] news today") én per bron ("site:standaard.be").
-2. Vergelijk: wat komt in meerdere kranten terug? Wat is uniek maar relevant?
-3. Schrijf 3-5 items als SYNTHESE — niet copy-paste van één artikel.
+Zoek per land het nieuws van vandaag. Gebruik de bronnen hierboven — elk land alleen uit eigen media. Selecteer per land de **3 belangrijkste** items over politiek, economie, technologie of zakenleven. Geen sport/entertainment.
 
-**BRONREGEL:** Elk land UITSLUITEND uit media UIT DAT LAND ZELF. Rusland alleen uit TASS/Moscow Times/Meduza/Kommersant. Turkije alleen uit Daily Sabah/Hürriyet/TRT. Etc.
+## Bestand: `werk/scan-1.md`
 
-**INHOUD:** Politiek, economie, zakelijk én technologie (AI, chips, ruimtevaart, energie, biotech, telecom, cyber). Geen sport, entertainment, lifestyle.
+Schrijf per land exact dit:
 
-## Output
+```
+## [emoji] [Land]
 
-Sla op als `werk/scan-europa.md` op branch `main`. Gebruik exact dit formaat:
+**[Rode draad — 1 zin]**
 
-```markdown
-## 🇧🇪 België
+- **[Kop]** [1-2 zinnen kern. **Vetgedrukt** voor namen en cijfers.]
+  📰 Bron — datum 🔗 [url]
 
-**[Rode draad in 1-2 zinnen]**
+- **[Kop]** [1-2 zinnen kern.]
+  📰 Bron — datum 🔗 [url]
 
-- **[Kop]**
-  [2-4 zinnen synthese. **Vetgedrukt** voor namen, bedragen, beslissingen.]
-  📰 Bron — datum, tijd | Bron — datum, tijd
-  🔗 [titel](url)
-
-- **[Kop]**
-  [2-4 zinnen synthese.]
-  📰 Bron — datum, tijd | Bron — datum, tijd
-  🔗 [titel](url)
+- **[Kop]** [1-2 zinnen kern.]
+  📰 Bron — datum 🔗 [url]
 
 ---
-
-## 🇳🇱 Nederland
-
-**[Rode draad]**
-
-- **[Kop]**
-  [...]
-
----
-
-## 🇹🇷 Turkije
-[...]
-
----
-
-## 🇷🇺 Rusland
-[...]
-
----
-
-## 🇫🇷 Frankrijk
-[...]
-
----
-
-## 🇩🇪 Duitsland
-[...]
 ```
 
-Commit message: `scan-europa YYYY-MM-DD`
-
-## Regels
-
-- Alles in het **Nederlands**
-- **Vetgedrukt** voor cijfers, namen, organisaties
-- Exacte URLs — geen verzonnen links
-- Overschrijf het bestand als het al bestaat
-- Commit direct naar `main`. GEEN nieuwe branch.
+Commit message: `scan-1 YYYY-MM-DD`

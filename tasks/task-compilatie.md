@@ -1,68 +1,50 @@
-# Nieuwskrant Compilatie
+# Compilatie
 
-Je bent de eindredacteur van "Mijn Nieuwskrant". Combineer de scan-resultaten tot de definitieve krant.
+Combineer de scans tot de definitieve krant. Commit naar `main` in repo `LeeLars/aanmelden-gs-tracking`. GEEN nieuwe branch.
 
-## Context
+## Stap 1: Lees
 
-Je werkt in de GitHub-repo `LeeLars/aanmelden-gs-tracking`, branch `main`. Commit direct naar `main` — maak GEEN nieuwe branch aan.
+Lees van branch `main`:
+- `werk/scan-1.md`
+- `werk/scan-2.md`
 
-## Stap 1: Lees de scans
+Als een bestand ontbreekt, maak de krant met wat er is.
 
-Lees vanaf branch `main`:
-- `werk/scan-europa.md`
-- `werk/scan-wereld.md`
+## Stap 2: Combineer
 
-Als een bestand ontbreekt, maak de krant met wat er wél is en vermeld welke scan ontbrak.
+Maak dit bestand:
 
-## Stap 2: Stel de krant samen
-
-Combineer de twee scans tot één krant. Voeg de header toe, plak de landensecties in volgorde, en schrijf "De Grote Lijnen" als afsluiter.
-
-```markdown
+```
 # 📰 MIJN NIEUWSKRANT
 ### 📅 [dag] [datum]
 
 ---
 
-[inhoud scan-europa.md — BE, NL, TR, RU, FR, DE]
+[inhoud scan-1.md]
 
----
-
-[inhoud scan-wereld.md — UK, US, IN, CN, JP + marktoverzicht]
+[inhoud scan-2.md]
 
 ---
 
 ## 🌍 De Grote Lijnen
 
-[5-8 zinnen vloeiende tekst — geen bullets. Rode draden: welke thema's komen in meerdere landen terug? Welke ontwikkelingen hangen samen? Geopolitieke verschuivingen, economische trends die meerdere regio's raken? Vergelijk hoe landen hetzelfde onderwerp anders belichten. Sluit af met vooruitblik: wat moeten we de komende dagen in de gaten houden?]
+[4-6 zinnen. Welke thema's komen in meerdere landen terug? Welke ontwikkelingen hangen samen? Vooruitblik: wat moeten we de komende dagen in de gaten houden?]
 ```
-
-## Stijlregels
-
-- Dag van de week in de ondertitel (bijv. "Donderdag 2 april 2026")
-- "De Grote Lijnen" is JOUW analyse — zoek dwarsverbanden tussen de 11 landen
-- Alles in het **Nederlands**
 
 ## Stap 3: Opslaan
 
-Sla de krant op als **twee bestanden** in één commit op branch `main`:
+Twee bestanden in één commit:
+1. `archief/YYYY/MM/nieuwskrant-YYYY-MM-DD.md`
+2. `nieuwskrant-latest.md`
 
-1. **Archief:** `archief/YYYY/MM/nieuwskrant-YYYY-MM-DD.md`
-2. **Laatste editie:** `nieuwskrant-latest.md` (overschrijf elke dag)
-
-Commit message: `nieuwskrant YYYY-MM-DD`
+Commit: `nieuwskrant YYYY-MM-DD`
 
 ## Stap 4: Opruimen
 
-Verwijder de werkbestanden in een tweede commit:
-- `werk/scan-europa.md`
-- `werk/scan-wereld.md`
+Verwijder `werk/scan-1.md` en `werk/scan-2.md`.
+Commit: `opruimen YYYY-MM-DD`
 
-Commit message: `opruimen werk YYYY-MM-DD`
-
-## Stap 5: Verstuur naar Telegram
-
-Verstuur de krant als document naar het Telegram-kanaal:
+## Stap 5: Telegram
 
 ```bash
 curl -s -F "chat_id=TELEGRAM_CHAT_ID" \
@@ -71,13 +53,4 @@ curl -s -F "chat_id=TELEGRAM_CHAT_ID" \
   "https://api.telegram.org/botTELEGRAM_BOT_TOKEN/sendDocument"
 ```
 
-**Let op:** Vervang `TELEGRAM_BOT_TOKEN` en `TELEGRAM_CHAT_ID` door de echte waarden wanneer je deze instructies in de scheduled task plakt. Zet NOOIT de echte token in een Git-bestand.
-
-Als de Telegram-verzending mislukt, ga gewoon door — de krant staat al veilig in de repo.
-
-## Regels
-
-- Als een scan ontbreekt, maak de krant met wat er is — vermeld wat ontbreekt
-- Als beide scans ontbreken, commit NIETS en meld de fout
-- Commit direct naar `main`. GEEN nieuwe branch, GEEN pull request.
-- Verstuur ALTIJD naar Telegram na succesvolle opslag.
+Vervang TELEGRAM_BOT_TOKEN en TELEGRAM_CHAT_ID door de echte waarden in de scheduled task. NOOIT in Git.
