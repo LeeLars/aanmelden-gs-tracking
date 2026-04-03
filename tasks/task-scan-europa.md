@@ -20,7 +20,7 @@ Per land:
 
 **BRONREGEL:** Elk land UITSLUITEND uit media UIT DAT LAND ZELF. Rusland alleen uit TASS/Moscow Times/Meduza/Kommersant. Turkije alleen uit Daily Sabah/Hürriyet/TRT. Etc.
 
-**INHOUD:** Alleen politiek, economie, zakelijk. Geen sport, entertainment, lifestyle.
+**INHOUD:** Politiek, economie, zakelijk én technologie (AI, chips, ruimtevaart, energie, biotech, telecom, cyber). Geen sport, entertainment, lifestyle.
 
 ## Output
 

@@ -20,7 +20,7 @@ Per land:
 
 **BRONREGEL:** Elk land UITSLUITEND uit media UIT DAT LAND ZELF. China alleen uit SCMP/Caixin/Global Times/Xinhua. India alleen uit The Hindu/Economic Times/NDTV/Livemint. Etc.
 
-**INHOUD:** Alleen politiek, economie, zakelijk. Geen sport, entertainment, lifestyle.
+**INHOUD:** Politiek, economie, zakelijk én technologie (AI, chips, ruimtevaart, energie, biotech, telecom, cyber). Geen sport, entertainment, lifestyle.
 
 ## Marktdata
 
