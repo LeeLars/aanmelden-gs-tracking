@@ -74,19 +74,19 @@
 
 ## 🇯🇵 Japan
 
-**Megainvesteringen in AI-infrastructuur, diplomatieke toenadering en energie-expansie kenmerken Japans agenda.**
+**Megainvestering van Microsoft, recordrente op staatsobligaties en een mijlpaal voor het GCAP-gevechtsvliegtuig.**
 
 - **Microsoft investeert $10 miljard in Japanse datacenters, samenwerking met SoftBank**
-  **Microsoft**-president **Brad Smith** heeft een investering van **$10 miljard** aangekondigd in datacenterinfrastructuur in Japan, gecombineerd met een partnerschap met **SoftBank** op het gebied van kunstmatige intelligentie. De investering weerspiegelt de groeiende nadruk op datasoevereiniteit en economische veiligheid in de regio. Japan positioneert zich hiermee als een van de belangrijkste AI-hubs in Azië, naast concurrerende investeringen in **Zuid-Korea** en **Singapore**.
-  📰 Nikkei Asia — 3 april 2026 🔗 https://asia.nikkei.com/business/companies/microsoft-to-pour-10bn-into-japan-data-centers-work-with-softbank-on-ai
+  **Microsoft**-vicepresident **Brad Smith** ontmoette premier **Sanae Takaichi** in Tokio en kondigde een investering van **$10 miljard** aan in datacenters en AI-faciliteiten in Japan tot **2029**. Partners **SoftBank** en datacenteroperator **Sakura Internet** nemen deel aan het project, dat inspeelt op het groeiende belang van datasoevereiniteit voor economische veiligheid. Premier Takaichi verwelkomde het plan en zei dat haar kabinet een "verantwoord proactief begrotingsbeleid" voert om het groeipotentieel te verhogen.
+  📰 Nikkei Asia / NHK World — 3 april 2026 🔗 https://asia.nikkei.com/business/companies/microsoft-to-pour-10bn-into-japan-data-centers-work-with-softbank-on-ai
 
-- **Premier Takaichi plant bezoek aan Australië voor zeldzame aardmetalen**
-  Premier **Sanae Takaichi** bereidt een bezoek aan **Australië** voor om de samenwerking op het gebied van **zeldzame aardmetalen** en strategische partnerschappen te bespreken. Het wordt het eerste bezoek van een Japanse premier aan Australië sinds **2022** en signaleert versterkte bilaterale banden te midden van geopolitieke onzekerheden. De gesprekken richten zich op het verminderen van de afhankelijkheid van **China** voor kritieke mineralen die essentieel zijn voor de halfgeleider- en defensie-industrie.
-  📰 Nikkei Asia — 3 april 2026 🔗 https://asia.nikkei.com/politics/international-relations/japan-pm-takaichi-plans-australia-visit-to-discuss-rare-earths
+- **Rente op 10-jarige staatsobligaties naar hoogste niveau sinds 1997**
+  Het Japanse **Ministerie van Financiën** heeft de couponrente op nieuw uitgegeven **10-jarige staatsobligaties** verhoogd naar **2,4%** — het hoogste niveau in bijna **29 jaar** (sinds juli 1997). De rente steeg met **0,3 procentpunt** ten opzichte van de maart-uitgifte, aangedreven door fors hogere olieprijzen als gevolg van het Iran-conflict. Er wordt gespeculeerd dat de **Bank of Japan** eerder dan verwacht de rente zou kunnen verhogen. Het ministerie heeft een recordbedrag van **¥13 biljoen** (circa **$81 miljard**) gereserveerd voor rentebetalingen in de begroting voor fiscaal jaar 2026.
+  📰 NHK World — 3 april 2026 🔗 https://www3.nhk.or.jp/nhkworld/en/news/20260403_B2/
 
-- **Osaka Gas mikt op vijf energiecentrales in de VS**
-  **Osaka Gas** onderzoekt een aanzienlijke uitbreiding in de Amerikaanse energiesector met plannen voor maximaal **vijf energiecentraleprojecten**. Het Japanse energiebedrijf profiteert van de enorme stroomvraag die wordt aangejaagd door de bouw van AI-datacenters en digitale infrastructuur. De expansie past in een bredere trend waarbij Japanse bedrijven hun buitenlandse investeringen opvoeren nu de binnenlandse markt krimpt door vergrijzing.
-  📰 Nikkei Asia — 3 april 2026 🔗 https://asia.nikkei.com/business/energy/osaka-gas-eyes-deeper-us-investment-with-up-to-5-power-plant-projects
+- **GCAP-gevechtsvliegtuig: Japan, VK en Italië tekenen eerste contract van $907 miljoen**
+  De trilaterale organisatie **GCAP** (Global Combat Air Programme) van **Japan**, het **Verenigd Koninkrijk** en **Italië** heeft het eerste gezamenlijke contract getekend voor de ontwikkeling van een nieuwe generatie gevechtsvliegtuigen. Het contract ter waarde van **£686 miljoen** (circa **$907 miljoen**) werd toegekend aan **Edgewing**, een joint venture van bedrijven uit alle drie de landen, voor ontwerp- en engineeringwerkzaamheden. Het programma werd in 2022 gelanceerd en wordt uitgevoerd door de **GIGO** (GCAP International Government Organisation). Dit eerste contract markeert de overgang van planningsfase naar daadwerkelijke ontwikkeling.
+  📰 NHK World — 3 april 2026 🔗 https://www3.nhk.or.jp/nhkworld/en/news/20260403_02/
 
 ---
 
