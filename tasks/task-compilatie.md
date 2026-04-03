@@ -1,55 +1,70 @@
 # Compilatie
 
-Combineer de scans tot de definitieve krant. Commit naar `main` in repo `LeeLars/aanmelden-gs-tracking`. GEEN nieuwe branch.
+Plak de scans samen tot de krant. Commit naar `main` in repo `LeeLars/aanmelden-gs-tracking`. GEEN nieuwe branch.
 
-## Stap 1: Lees
+## Stap 1: Combineer via bash
 
-Lees van branch `main`:
-- `werk/scan-1.md`
-- `werk/scan-2.md`
+Voer dit bash-commando uit (pas de datum aan):
 
-Als een bestand ontbreekt, maak de krant met wat er is.
+```bash
+DATUM=$(date +%Y-%m-%d)
+DAG=$(LC_TIME=nl_NL.UTF-8 date +%A || date +%A)
+MAAND=$(date +%m)
+JAAR=$(date +%Y)
 
-## Stap 2: Combineer
+mkdir -p archief/$JAAR/$MAAND
 
-Maak dit bestand:
+# Header + scan-1 + scan-2 samenvoegen
+cat > nieuwskrant-latest.md << 'HEADER'
+# 📰 MIJN NIEUWSKRANT
+HEADER
+
+echo "### 📅 $DAG $DATUM" >> nieuwskrant-latest.md
+echo "" >> nieuwskrant-latest.md
+echo "---" >> nieuwskrant-latest.md
+echo "" >> nieuwskrant-latest.md
+
+cat werk/scan-1.md >> nieuwskrant-latest.md
+echo "" >> nieuwskrant-latest.md
+cat werk/scan-2.md >> nieuwskrant-latest.md
+```
+
+## Stap 2: Voeg "De Grote Lijnen" toe
+
+Lees nieuwskrant-latest.md. Schrijf dan een sectie "De Grote Lijnen" en voeg die toe aan het einde van het bestand:
 
 ```
-# 📰 MIJN NIEUWSKRANT
-### 📅 [dag] [datum]
-
----
-
-[inhoud scan-1.md]
-
-[inhoud scan-2.md]
-
 ---
 
 ## 🌍 De Grote Lijnen
 
-[4-6 zinnen. Welke thema's komen in meerdere landen terug? Welke ontwikkelingen hangen samen? Vooruitblik: wat moeten we de komende dagen in de gaten houden?]
+[4-6 zinnen. Welke thema's komen in meerdere landen terug? Welke ontwikkelingen hangen samen? Vooruitblik.]
 ```
 
-## Stap 3: Opslaan
+Gebruik het Edit tool of echo/cat om dit toe te voegen — schrijf NIET het hele bestand opnieuw.
 
-Twee bestanden in één commit:
-1. `archief/YYYY/MM/nieuwskrant-YYYY-MM-DD.md`
-2. `nieuwskrant-latest.md`
+## Stap 3: Kopieer naar archief en commit
 
-Commit: `nieuwskrant YYYY-MM-DD`
+```bash
+cp nieuwskrant-latest.md archief/$JAAR/$MAAND/nieuwskrant-$DATUM.md
+git add nieuwskrant-latest.md archief/
+git commit -m "nieuwskrant $DATUM"
+```
 
 ## Stap 4: Opruimen
 
-Verwijder `werk/scan-1.md` en `werk/scan-2.md`.
-Commit: `opruimen YYYY-MM-DD`
+```bash
+git rm werk/scan-1.md werk/scan-2.md
+git commit -m "opruimen $DATUM"
+git push origin main
+```
 
 ## Stap 5: Telegram
 
 ```bash
 curl -s -F "chat_id=TELEGRAM_CHAT_ID" \
   -F "document=@nieuwskrant-latest.md" \
-  -F "caption=📰 Nieuwskrant YYYY-MM-DD" \
+  -F "caption=📰 Nieuwskrant $DATUM" \
   "https://api.telegram.org/botTELEGRAM_BOT_TOKEN/sendDocument"
 ```
 
