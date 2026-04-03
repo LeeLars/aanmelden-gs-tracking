@@ -64,16 +64,16 @@
 
 ## 🇯🇵 Japan
 
-**De Nikkei duikt door geopolitieke onrust terwijl Japan tientallen miljarden investeert in Amerikaanse kernenergie.**
+**Energiecrisis raakt Japan hard: eerste LNG-tanker door Straat van Hormuz terwijl de Nikkei duikt en Microsoft miljarden investeert.**
+
+- **Eerste Japanse LNG-tanker doorvaart Straat van Hormuz sinds begin Iranoorlog** Een LNG-tanker van **Mitsui O.S.K. Lines** is als eerste Japans schip door de Straat van Hormuz gevaren sinds de militaire operatie tegen Iran op 28 februari begon. In totaal zaten **45** Japanse schepen vast in het gebied.
+  📰 NHK World / Nikkei Asia — 3 apr 2026 🔗 https://asia.nikkei.com/business/energy/japanese-lng-tanker-crosses-strait-of-hormuz-mitsui-o.s.k-lines-says
+
+- **Microsoft pompt $10 miljard in Japanse datacenters en AI-samenwerking met SoftBank** **Microsoft** investeert **$10 miljard** in datacenters door heel Japan en gaat samenwerken met **SoftBank** op AI-initiatieven, in de strijd met Amazon en Alphabet om dominantie in Japans snel groeiende AI-ecosysteem.
+  📰 Nikkei Asia / Japan Times — 3 apr 2026 🔗 https://asia.nikkei.com/business/companies/microsoft-to-pour-10bn-into-japan-data-centers-work-with-softbank-on-ai
 
 - **Nikkei 225 verliest 2,6% na waarschuwing Trump over voortduren Iranoorlog** De index sloot op **52.337** punten, een daling van **1.403 punten**. Zwaargewichten als **SoftBank** (−4,3%) en **Tokyo Electron** (−3,2%) leidden het verlies nadat Trump waarschuwde dat het conflict nog weken kan duren.
   📰 Trading Economics — 3 apr 2026 🔗 https://tradingeconomics.com/japan/stock-market
-
-- **Japan en VS onthullen $73 miljard aan investeringen in kernreactoren en gasenergie** Premier **Sanae Takaichi** presenteerde bij haar eerste VS-bezoek drie projecten: **$40 miljard** voor SMR-kernreactoren van GE Vernova Hitachi in Tennessee en Alabama, en **$33 miljard** voor gascentrales in Pennsylvania en Texas.
-  📰 Nikkei Asia — 20 mrt 2026 🔗 https://asia.nikkei.com/politics/international-relations/japan-us-unveil-up-to-73bn-2nd-round-investment-in-reactors-gas-power
-
-- **Japanse bedrijven zoeken Chinese technologie ondanks veiligheidsrisico's** Door een gebrek aan alternatieven verkennen Japanse bedrijven technologiepartnerschappen met Chinese firma's, ondanks groeiende zorgen over veiligheid en de verslechterende relatie tussen Washington en Peking.
-  📰 Nikkei Asia — apr 2026 🔗 https://asia.nikkei.com/business
 
 ---
 
