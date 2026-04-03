@@ -23,13 +23,16 @@ Schrijf per land exact dit:
 
 **[Rode draad — 1 zin]**
 
-- **[Kop]** [1-2 zinnen kern. **Vetgedrukt** voor namen en cijfers.]
+- **[Kop]**
+  [2-3 zinnen. Wat is er besloten/gebeurd? Welke cijfers, namen, gevolgen? Waarom doet het ertoe? **Vetgedrukt** voor namen en cijfers.]
   📰 Bron — datum 🔗 [url]
 
-- **[Kop]** [1-2 zinnen kern.]
+- **[Kop]**
+  [2-3 zinnen context.]
   📰 Bron — datum 🔗 [url]
 
-- **[Kop]** [1-2 zinnen kern.]
+- **[Kop]**
+  [2-3 zinnen context.]
   📰 Bron — datum 🔗 [url]
 
 ---
