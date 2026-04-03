@@ -42,8 +42,8 @@
 - **Parlement bekrachtigt Amaravati als permanente hoofdstad Andhra Pradesh** De **Rajya Sabha** stemde in met de Andhra Pradesh Reorganisation (Amendment) Bill 2026, waarmee **Amaravati** wettelijk de enige hoofdstad wordt. Dit beëindigt jarenlange onzekerheid na de opsplitsing van de staat in 2014.
   📰 Business Standard — 2 apr 2026 🔗 https://www.business-standard.com/india-news/parliament-passes-bill-to-recognise-amaravati-as-andhra-s-permanent-capital-126040200788_1.html
 
-- **India verleent volledige douanevrijstelling op petrochemische producten** De regering biedt tot **30 juni 2026** volledige vrijstelling van invoerrechten op kritieke petrochemische producten om de economische impact van de West-Azië-crisis te beperken. Defensie-exporten bereikten een record van **₹38.424 crore** in FY 2025-26.
-  📰 Oneindia — 3 apr 2026 🔗 https://www.oneindia.com/india/school-assembly-news-headlines-today-april-03-top-national-international-sports-business-news-011-8046369.html
+- **India neemt derde nucleaire onderzeeër INS Aridaman in dienst** Defensieminister **Rajnath Singh** nam de **INS Aridaman** in gebruik — India's derde eigen nucleaire ballistische onderzeeër. Het schip versterkt de nucleaire triade en het tweede-aanvalsvermogen onder het Advanced Technology Vessel-programma.
+  📰 NDTV / India TV — 3 apr 2026 🔗 https://www.indiatvnews.com/news/india/ins-aridaman-india-s-third-nuclear-powered-submarine-commissioned-into-indian-navy-2026-04-03-1036196
 
 ---
 
