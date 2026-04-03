@@ -12,8 +12,8 @@
 - **Brandstofprijzen exploderen door Iranoorlog, paniek aan de pomp voor Pasen** Diesel steeg meer dan **30%** sinds het begin van de oorlog naar **185,23p per liter**; bij tankstations staan rijen van meer dan 50 auto's. De sluiting van de Straat van Hormuz blokkeert **20%** van de wereldwijde olieaanvoer.
   📰 BritBrief — 2 apr 2026 🔗 https://www.britbrief.co.uk/business/energy/petrol-panic-uk-drivers-queue-amid-iran-war-fuel-surge.html
 
-- **Defensiebudget omhoog naar 3,5% bbp in 2035** Het VK committeerde zich op de NAVO-top in Den Haag aan een defensiebudget van **3,5% van het bbp** tegen 2035, plus **1,5%** voor bredere defensie-infrastructuur — een forse verhoging ten opzichte van de huidige **2,5%**-doelstelling voor 2027.
-  📰 Chatham House — mrt 2026 🔗 https://www.chathamhouse.org/publications/the-world-today/2026-03/will-britain-face-its-huge-new-defence-bill
+- **Energieprijscap daalt 7%, maar Iranoorlog duwt volgende cap weer omhoog** Per 1 april daalde de Ofgem-prijscap naar **£1.641/jaar** — **£117** minder dan vorig kwartaal. Groene heffingen verschuiven naar de algemene belastingen, goed voor **£134** besparing. Tegelijk waarschuwen analisten dat de volgende cap per 1 juli zo'n **9%** stijgt door de oliecrisis.
+  📰 Ofgem / BBC — 1 apr 2026 🔗 https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-april-and-30-june-2026
 
 ---
 
