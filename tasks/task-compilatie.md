@@ -8,21 +8,23 @@ Voer dit bash-commando uit (pas de datum aan):
 
 ```bash
 DATUM=$(date +%Y-%m-%d)
-DAG=$(LC_TIME=nl_NL.UTF-8 date +%A || date +%A)
 MAAND=$(date +%m)
 JAAR=$(date +%Y)
+DAGNR=$(date +%u)
+case $DAGNR in 1)DAG=Maandag;;2)DAG=Dinsdag;;3)DAG=Woensdag;;4)DAG=Donderdag;;5)DAG=Vrijdag;;6)DAG=Zaterdag;;7)DAG=Zondag;;esac
+DAY=$(date +%-d)
+MAANDNR=$(date +%-m)
+case $MAANDNR in 1)MND=januari;;2)MND=februari;;3)MND=maart;;4)MND=april;;5)MND=mei;;6)MND=juni;;7)MND=juli;;8)MND=augustus;;9)MND=september;;10)MND=oktober;;11)MND=november;;12)MND=december;;esac
 
 mkdir -p archief/$JAAR/$MAAND
 
-# Header + scan-1 + scan-2 samenvoegen
-cat > nieuwskrant-latest.md << 'HEADER'
+cat > nieuwskrant-latest.md << EOF
 # 📰 MIJN NIEUWSKRANT
-HEADER
+### 📅 $DAG $DAY $MND $JAAR
 
-echo "### 📅 $DAG $DATUM" >> nieuwskrant-latest.md
-echo "" >> nieuwskrant-latest.md
-echo "---" >> nieuwskrant-latest.md
-echo "" >> nieuwskrant-latest.md
+---
+
+EOF
 
 cat werk/scan-1.md >> nieuwskrant-latest.md
 echo "" >> nieuwskrant-latest.md
