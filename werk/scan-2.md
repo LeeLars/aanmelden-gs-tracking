@@ -19,16 +19,16 @@
 
 ## 🇺🇸 Verenigde Staten
 
-**Een jaar na 'Liberation Day' legt Trump nieuwe farmaceutische tarieven op terwijl de economische balans gemengd is.**
+**Trump ontslaat zijn AG, kondigt een recorddefensiebudget aan en legt op Liberation Day nieuwe tarieven op medicijnen.**
 
-- **Trump kondigt 100%-tarief op gepatenteerde medicijnen aan** Op de eerste verjaardag van Liberation Day voerde **Trump** een tarief van **100%** in op geïmporteerde merkgeneesmiddelen, met uitzondering voor bedrijven die fabrieken in de VS bouwen. Staal, aluminium en koper blijven op **50%**, nu berekend over de Amerikaanse verkoopprijs.
+- **Trump ontslaat minister van Justitie Pam Bondi, stelt Todd Blanche aan** President **Trump** zette **Pam Bondi** aan de kant omdat zij "zijn visie niet uitvoerde", met name rond de Epstein-dossiers. Plaatsvervangend AG **Todd Blanche** neemt het over; EPA-baas **Lee Zeldin** wordt genoemd als permanente opvolger.
+  📰 AP News / Bloomberg — 2 apr 2026 🔗 https://www.nbcnews.com/politics/justice-department/bondi-fired-attorney-general-trump-rcna266378
+
+- **Trump presenteert recorddefensiebudget van $1,5 biljoen** Het begrotingsvoorstel voor FY2027 verhoogt defensie-uitgaven met **44%** — voor het eerst boven **$1 biljoen**. Binnenlandse programma's worden **10%** gekort. Een waakhondgroep waarschuwt dat dit bijna **$7 biljoen** aan staatsschuld kan toevoegen.
+  📰 NPR / Bloomberg — 3 apr 2026 🔗 https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending
+
+- **100%-tarief op merkgeneesmiddelen op verjaardag Liberation Day** Op de eerste verjaardag van Liberation Day voerde **Trump** een tarief van **100%** in op gepatenteerde medicijnen, met vrijstellingen voor bedrijven die fabrieken in de VS bouwen. Staal, aluminium en koper blijven op **50%**, nu berekend over de Amerikaanse verkoopprijs.
   📰 CNBC — 2 apr 2026 🔗 https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html
-
-- **Eén jaar Liberation Day: meer inflatie, minder fabriekswerk** Het aantal fabrieksbanen is gedaald en de inflatie gestegen sinds de invoering van de hoogste tarieven in bijna een eeuw. Het handelstekort daalde wel **10 maanden** op rij. De gemiddelde belastingverhoging per huishouden bedraagt **$1.500** in 2026.
-  📰 NPR — 2 apr 2026 🔗 https://www.npr.org/2026/04/02/nx-s1-5766424/trump-tariffs-inflation-economy
-
-- **Banenrapport maart verrast positief: werkloosheid daalt naar 4,3%** Het banenrapport van maart, gepubliceerd op Goede Vrijdag terwijl de beurzen dicht waren, toonde **178.000** nieuwe banen en een werkloosheid van **4,3%** (daarvoor 4,4%). De koersreactie schuift door naar maandag 6 april.
-  📰 CNBC — 2 apr 2026 🔗 https://www.cnbc.com/2026/04/01/stock-market-today-live-updates.html
 
 ---
 
