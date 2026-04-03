@@ -49,16 +49,16 @@
 
 ## 🇨🇳 China
 
-**China en de VS staan een jaar na de handelsoorlog tegenover elkaar, met een geplande top die de spanningen moet bezweren.**
+**Corruptieonderzoek schokt de top, XPeng dumpt Nvidia-chips en Peking maant tot kalmte rond de Straat van Hormuz.**
 
-- **Handelsoorlog 1 jaar later: China claimt de overhand** Een jaar na Trumps Liberation Day is het narratief dat **Peking** de VS diplomatiek en economisch heeft overtroffen. President **Xi Jinping** sprak van "het respect van de internationale gemeenschap". Directe handel tussen de twee landen blijft krimpen.
-  📰 South China Morning Post — 2 apr 2026 🔗 https://www.scmp.com/economy/global-economy/article/3348826/us-china-trade-war-1-year-who-really-holds-upper-hand
+- **Politburolid Ma Xingrui onder corruptieonderzoek — derde zittend lid ooit** **Ma Xingrui**, voormalig ruimtevaarttopman en huidig Politburolid, wordt onderzocht voor corruptie. Hij is pas het derde zittende Politburolid dat zo'n onderzoek ondergaat — een signaal dat **Xi Jinping**'s anticorruptiecampagne onverminderd doorgaat.
+  📰 Caixin Global — 3 apr 2026 🔗 https://www.caixinglobal.com/2026-04-03/aerospace-pioneer-turned-politburo-member-ensnared-in-chinas-anti-graft-sweep-102430828.html
 
-- **Trump-Xi-top uitgesteld naar half mei; Section 301-onderzoek opgevoerd** De geplande top in Peking is verschoven. De VS lanceerde een nieuw **Section 301**-onderzoek naar Chinese overcapaciteit, weken voor de ontmoeting. China noemt de beschuldigingen "politieke manipulatie" en beraadt zich op tegenmaatregelen.
-  📰 CNBC — 12 mrt 2026 🔗 https://www.cnbc.com/2026/03/12/section-301-trade-probe-china-trump-xi-beijing-summit.html
+- **XPeng vervangt Nvidia volledig door eigen AI-chips in alle modellen** De Chinese EV-maker **XPeng** heeft de overstap van **Nvidia** naar volledig in eigen huis ontwikkelde AI-chips afgerond in zijn hele voertuiglijn — een mijlpaal in China's streven naar halfgeleiderzelfvoorziening in de autosector.
+  📰 Caixin Global — 3 apr 2026 🔗 https://www.caixinglobal.com/2026-04-03/xpeng-completes-shift-from-nvidia-to-in-house-ai-chips-across-lineup-102430879.html
 
-- **Chinese export steeg 21,8% begin 2026, sterkste groei in 4 jaar** De export werd gestuwd door sterke mondiale vraag naar techproducten, vooral vanuit **ASEAN** en de **EU**. Tegelijk daalde de export naar de VS met **11%**. De industriële productie steeg **6,3%** in januari-februari, boven verwachting.
-  📰 South China Morning Post — mrt 2026 🔗 https://www.scmp.com/economy/economic-indicators/article/3346036/chinas-exports-surge-218-first-2-months-year
+- **China maant tot voorzichtigheid bij VN-stemming over heropening Straat van Hormuz** De VN-Veiligheidsraad bereidt een stemming voor die heropening van de Straat van Hormuz mogelijk met geweld autoriseert. **Peking** roept op tot terughoudendheid. Tegelijk vinden tankers alternatieve routes om de Iraanse blokkade te omzeilen.
+  📰 Global Times / SCMP — 3 apr 2026 🔗 https://www.scmp.com/news/china/diplomacy/article/3348986/china-europe-and-why-beijing-took-swing-iran-over-strait-hormuz
 
 ---
 
