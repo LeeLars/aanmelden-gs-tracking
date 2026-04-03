@@ -25,15 +25,15 @@ Schrijf per land exact dit:
 **[Rode draad — 1 zin]**
 
 - **[Kop]**
-  [2-3 zinnen. Wat is er besloten/gebeurd? Welke cijfers, namen, gevolgen? Waarom doet het ertoe? **Vetgedrukt** voor namen en cijfers.]
+  [3-4 zinnen. Wat is er besloten/gebeurd? Door wie? Welke cijfers en bedragen? Wat is de achtergrond/context? Wat zijn de gevolgen of reacties? **Vetgedrukt** voor namen, cijfers en organisaties.]
   📰 Bron — datum 🔗 [url]
 
 - **[Kop]**
-  [2-3 zinnen context.]
+  [3-4 zinnen met achtergrond en context.]
   📰 Bron — datum 🔗 [url]
 
 - **[Kop]**
-  [2-3 zinnen context.]
+  [3-4 zinnen met achtergrond en context.]
   📰 Bron — datum 🔗 [url]
 
 ---

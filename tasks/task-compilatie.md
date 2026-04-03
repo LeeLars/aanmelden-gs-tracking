@@ -63,11 +63,28 @@ git push origin main
 
 ## Stap 5: Telegram
 
+Verstuur de krant als tekst naar Telegram. Telegram heeft een limiet van 4096 tekens per bericht, dus split het bestand op in stukken.
+
 ```bash
-curl -s -F "chat_id=TELEGRAM_CHAT_ID" \
-  -F "document=@nieuwskrant-latest.md" \
-  -F "caption=📰 Nieuwskrant $DATUM" \
-  "https://api.telegram.org/botTELEGRAM_BOT_TOKEN/sendDocument"
+DATUM=$(date +%Y-%m-%d)
+BOT="TELEGRAM_BOT_TOKEN"
+CHAT="TELEGRAM_CHAT_ID"
+API="https://api.telegram.org/bot$BOT/sendMessage"
+
+# Split per land (op de '---' scheidingslijn) en verstuur elk deel apart
+csplit -z nieuwskrant-latest.md '/^---$/' '{*}' -f /tmp/nk_ -b '%02d.txt' 2>/dev/null
+
+for f in /tmp/nk_*.txt; do
+  TEXT=$(cat "$f" | head -c 4090)
+  [ -z "$(echo "$TEXT" | tr -d '[:space:]')" ] && continue
+  curl -s -X POST "$API" \
+    -d "chat_id=$CHAT" \
+    -d "parse_mode=Markdown" \
+    --data-urlencode "text=$TEXT" > /dev/null
+  sleep 1
+done
+
+rm -f /tmp/nk_*.txt
 ```
 
 Vervang TELEGRAM_BOT_TOKEN en TELEGRAM_CHAT_ID door de echte waarden in de scheduled task. NOOIT in Git.
