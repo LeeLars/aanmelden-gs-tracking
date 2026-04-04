@@ -38,19 +38,19 @@
 
 ## 🇮🇳 India
 
-**Energietransitie, geopolitieke spanningen en NGO-wetgeving bepalen India's agenda.**
+**Volkstelling, massaontslagen in tech en belastinghervorming markeren een nieuwe fase voor India.**
 
-- **Trump geeft Iran ultimatum van 48 uur terwijl Hormuz-crisis India raakt**
-  President **Donald Trump** heeft **Iran** een ultimatum van **48 uur** gegeven om de **Straat van Hormuz** te heropenen, anders zal de VS "de hel ontketenen." Het conflict begon op **28 februari 2026** met **Amerikaans-Israëlische luchtaanvallen** op Iraanse doelen en heeft meer dan **2.000 doden** geëist. Iran schoot twee Amerikaanse gevechtsvliegtuigen neer, waarbij één piloot werd gered en een tweede vermist is. De blokkade — verantwoordelijk voor circa **20%** van de wereldwijde olietoevoer — verstoort de mondiale energiemarkten zwaar, met directe gevolgen voor India's olie-import en stijgende brandstofprijzen.
-  📰 The Hindu — 4 april 2026 🔗 https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-april-4-2026-live-updates/article70822179.ece
+- **India start 's werelds grootste volkstelling met voor het eerst kasteregistratie**
+  Op **1 april 2026** is **India** begonnen met de grootste volkstelling ter wereld — de eerste in **15 jaar** — waarbij meer dan **3 miljoen ambtenaren** circa **1,4 miljard inwoners** registreren. Voor het eerst sinds **1931** wordt ook de kaste van elke burger geregistreerd, een besluit van het **Kabinetscomité voor Politieke Zaken** uit april 2025. De digitale volkstelling verloopt in twee fasen: huisvestingsgegevens tot september 2026, daarna sociaaleconomische data inclusief kaste en religie. Critici waarschuwen dat kasteregistratie de **sociale spanningen** kan vergroten; voorstanders stellen dat het essentieel is voor eerlijkere verdeling van overheidssteun.
+  📰 Al Jazeera — 1 april 2026 🔗 https://www.aljazeera.com/news/2026/4/1/india-begins-worlds-biggest-population-count
 
-- **India verplicht E20-brandstof: alle benzinepompen schakelen over op 20% ethanol**
-  Sinds **1 april 2026** is het in heel India verplicht om benzine met **20% ethanol** (E20) te verkopen, met een minimum octaanwaarde van **RON 95**. Het ethanolprogramma heeft al **₹1,4 lakh crore** (circa **$5 miljard**) aan buitenlandse deviezen bespaard en **717 lakh metrische ton CO₂-uitstoot** vermeden. De maatregel verhoogt het inkomen van boeren met naar schatting **$4,6 miljard per jaar** door grotere vraag naar suikerriet en maïs. Voertuigen van vóór **2023** kunnen echter **3-7% brandstofverlies** ervaren.
-  📰 Economic Times — april 2026 🔗 https://economictimes.indiatimes.com/news/new-updates/e20-petrol-now-the-main-fuel-in-india-from-april-1-what-this-big-shift-means-and-can-your-car-handle-ethanol-blended-fuel/articleshow/129948025.cms
+- **Oracle schrapt 12.000 banen in India als onderdeel van grootste ontslagronde ooit**
+  **Oracle** heeft op **31 maart 2026** wereldwijd **20.000 tot 30.000 werknemers** ontslagen, waarvan **12.000 in India** — **40%** van het Indiase personeelsbestand. De ontslagen troffen vooral de grote ontwikkelcentra in **Bengaluru**, **Hyderabad** en **Pune**, waar medewerkers per e-mail te horen kregen dat hun functie was opgeheven. De reden is Oracle's strategische verschuiving naar AI: het bedrijf investeert naar schatting **$156 miljard** in uitbreiding van AI-datacenters. Volgens ingewijden plant Oracle binnen een maand een tweede ontslagronde, wat met name het **middenmanagement** treft.
+  📰 Business Standard — 31 maart 2026 🔗 https://www.business-standard.com/companies/news/oracle-lays-off-12-000-employees-in-india-another-round-likely-in-a-month-126033101247_1.html
 
-- **FCRA-wijzigingswet 2026 wekt hevig politiek verzet**
-  De **Foreign Contribution (Regulation) Amendment Bill, 2026** werd op **25 maart 2026** ingediend in de **Lok Sabha** door minister van Binnenlandse Zaken **Amit Shah**. Het wetsvoorstel geeft de overheid verregaande bevoegdheden over buitenlandse financiering van **NGO's**: organisaties die hun registratie niet vernieuwen, verliezen permanent hun bezittingen aan de staat. Chief Minister **M.K. Stalin** van **Tamil Nadu** noemde het een "aanval op de godsdienstvrijheid" en de **All-India Catholic Union** eist volledige intrekking. Oppositiepartijen **Samajwadi Party** en **Congress** bestempelen de wet als "bulldozer-justitie."
-  📰 The Hindu — 4 april 2026 🔗 https://www.thehindu.com/elections/tamil-nadu-assembly/fcra-amendment-bill-an-attack-on-religious-freedom-social-activism-tn-cm-stalin-in-nagercoil/article70822705.ece
+- **Nieuwe Inkomstenbelastingwet treedt in werking: grootste belastinghervorming in 65 jaar**
+  Op **1 april 2026** is de **Income Tax Act 2025** van kracht geworden, die de oude wet uit **1961** volledig vervangt. De wet is vereenvoudigd van **819 artikelen** in 47 hoofdstukken naar **536 artikelen** in 23 hoofdstukken. Belangrijke wijzigingen: vervanging van "Financial Year" en "Assessment Year" door het uniforme begrip **"Tax Year"**, uitbreiding van de **HRA-vrijstelling van 50%** naar steden als **Bengaluru, Pune en Hyderabad**, en verhoging van de onderwijstoelage van **Rs 100 naar Rs 3.000** per maand. Het nieuwe belastingregime is nu het **standaardregime** voor alle belastingplichtigen.
+  📰 Press Information Bureau — april 2026 🔗 https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221416
 
 ---
 
