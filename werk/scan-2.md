@@ -74,19 +74,19 @@
 
 ## 🇯🇵 Japan
 
-**Energiezekerheid, diplomatieke toenadering en immigratiebeleid domineren Japan.**
+**Oliezekerheid, monetair beleid en AI-investeringen domineren Japan.**
 
-- **Tweede Japans schip vaart door Straat van Hormuz ondanks blokkade**
-  Een tweede schip gelinkt aan **Japan** is op **4 april 2026** door de **Straat van Hormuz** gevaren, te midden van de Iraanse blokkade die de mondiale energiemarkt ontwricht. De Japanse overheid verwacht voldoende olie veilig te stellen tot begin volgend jaar, maar roept bedrijven en huishoudens op tot **energiebesparing**. Japan is voor circa **90%** afhankelijk van olie-import uit het **Midden-Oosten** via deze zeestraat. Premier **Sanae Takaichi** kondigde aan deze maand de eerste vergadering te houden voor een **herziening van de nationale veiligheidsstrategie**, mede ingegeven door de Hormuz-crisis.
-  📰 NHK World — 4 april 2026 🔗 https://www3.nhk.or.jp/nhkworld/en/news/20260404_13/
+- **Japan verzekert olieaanvoer ondanks blokkade Straat van Hormuz**
+  De **Japanse regering** verwacht tegen mei **60%** van de gebruikelijke ruwe-olieaanvoer veilig te stellen via alternatieve routes die de **Straat van Hormuz** omzeilen. Japan plant olie te betrekken via de oostelijke haven **Fujairah** (VAE), de Saudische haven **Yanbu** aan de Rode Zee, en verhoogde leveringen uit de **Verenigde Staten** (Texas) en **Azerbeidzjan** — samen goed voor een verviervoudiging van de Amerikaanse aanvoer. Het tekort wordt aangevuld door **20 dagen** aan nationale strategische oliereserves vrij te geven in mei. Een tweede Japans schip — de LPG-tanker **Green Sanvi** van **Mitsui O.S.K. Lines** — is inmiddels veilig door de Straat van Hormuz gevaren.
+  📰 NHK World — 4 april 2026 🔗 https://www3.nhk.or.jp/nhkworld/en/news/20260404_12/
 
-- **Premier Takaichi plant bezoek aan Australië voor zeldzame aardmetalen**
-  Premier **Sanae Takaichi** bereidt een staatsbezoek aan **Australië** voor — het eerste van een Japanse premier sinds **2022**. Centraal staan onderhandelingen over **zeldzame aardmetalen** om toeleveringsketens te versterken en afhankelijkheid van **China** te verminderen. Daarnaast worden **maritieme veiligheid** in de Straat van Hormuz en uitbreiding van **militaire samenwerking** besproken, waaronder gezamenlijke trainingen. **Australië** kiest voor upgrades van Japanse fregatten van **Mitsubishi Heavy Industries**. Het jaar **2026** markeert **50 jaar** diplomatieke samenwerking tussen beide landen.
-  📰 Nikkei Asia — 3 april 2026 🔗 https://asia.nikkei.com/politics/international-relations/japan-pm-takaichi-plans-australia-visit-to-discuss-rare-earths
+- **IMF dringt aan op verdere renteverhogingen door Bank of Japan**
+  Het **Internationaal Monetair Fonds** (IMF) heeft de **Bank of Japan** (BOJ) opgeroepen om de rente te blijven verhogen, ondanks de "aanzienlijke nieuwe risico's" door het conflict in het Midden-Oosten. Het IMF stelde vanuit **Washington** dat geleidelijke **loonstijgingen** de consumptie zullen ondersteunen, ook al vertraagt de groei door de Iran-oorlog. In de markt wordt verwacht dat de BOJ al in **april** de rente verhoogt vanwege toenemende **inflatiedruk**. Het advies komt op een moment dat Japan kampt met stijgende energieprijzen en een verzwakkende yen.
+  📰 Japan Times — 4 april 2026 🔗 https://www.japantimes.co.jp/business/2026/04/04/economy/imf-boj-raise-rates/
 
-- **Japan overweegt strengere inkomenseis voor permanente verblijfsvergunning**
-  De **LDP** en de **Japan Innovation Party** zijn overeengekomen de inkomenseisen voor permanente verblijfsvergunningen aan te scherpen, als onderdeel van het immigratiebeleid van premier **Takaichi**. Japan telt momenteel **940.000** houders van een permanente verblijfsvergunning (**20%** van alle buitenlanders) en **4,12 miljoen** buitenlandse ingezetenen (**3,3%** van de bevolking). De huidige inkomensrichtlijn ligt op circa **3 miljoen yen** (**$18.800**) per jaar. Vanaf **april 2027** komen alleen houders van een **vijfjaarsvisum** in aanmerking. Het aantal buitenlanders groeit naar verwachting naar **9,38 miljoen** in 2070 (meer dan **10%** van de bevolking).
-  📰 Nikkei Asia — 3 april 2026 🔗 https://asia.nikkei.com/spotlight/japan-immigration/japan-weighs-tighter-income-requirement-for-permanent-residency
+- **Microsoft investeert $10 miljard in AI-infrastructuur in Japan**
+  **Microsoft** heeft een vierjarig investeringsplan van **$10 miljard** in Japan aangekondigd als onderdeel van een bredere AI-uitbreiding in Azië. Het pakket omvat investeringen in **cybersecurity-partnerschappen** en de opleiding van **1 miljoen AI-engineers** tot **2029**. De investering weerspiegelt de enorme vraag naar AI-diensten in Japan, terwijl Microsofts AI-assistent **Copilot** concurreert met **OpenAI's ChatGPT** en **Google's Gemini**. Het plan sluit aan bij Japans ambitie om een leidende rol te spelen in de mondiale AI-economie.
+  📰 Japan Times — 3 april 2026 🔗 https://www.japantimes.co.jp/business/2026/04/03/companies/microsoft-ai-japan-investment/
 
 ---
 
