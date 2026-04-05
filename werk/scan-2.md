@@ -38,19 +38,19 @@
 
 ## 🇮🇳 India
 
-**Historische volkstelling, verkiezingscampagne en handelsovereenkomst met VS bepalen het Indiase nieuws.**
+**Parlementaire hervorming, verkiezingscampagne en keldering deviezenreserves domineren India.**
 
-- **India start eerste volkstelling in 15 jaar met historische kaste-registratie**
-  Op **1 april 2026** is India begonnen met de eerste fase van de **Volkstelling 2027** — de eerste volkstelling in **15 jaar** en de eerste volledig digitale volkstelling ter wereld. Voor het eerst sinds **1931** wordt ook een kaste-registratie opgenomen, een historisch besluit van de **Cabinet Committee on Political Affairs**. Het project heeft een budget van **₹11.718 crore** (ca. **$1,24 miljard**) en zet meer dan **3,4 miljoen** ambtenaren in om circa **1,4 miljard** inwoners te registreren. Burgers kunnen zichzelf digitaal registreren via een app in **16 talen**.
-  📰 WION News — 1 april 2026 🔗 https://www.wionews.com/india-news/india-digital-census-2026-self-enumeration-caste-npr-details-1774856358751
+- **Parlement keurt Jan Vishwas Bill goed: meer dan 700 misdrijven gedecriminaliseerd**
+  Het Indiase parlement heeft de **Jan Vishwas (Amendment of Provisions) Bill 2026** goedgekeurd, een ingrijpende hervorming die **80** bestaande wetten wijzigt en **784** bepalingen aanpast, waarvan **717** worden gedecriminaliseerd. De wet vervangt gevangenisstraf voor kleine en procedurele overtredingen door waarschuwingen en civiele boetes, met als doel het verbeteren van het ondernemingsklimaat. Het wetsvoorstel werd ingediend door minister **Jitin Prasada** en is een uitbreiding van een eerdere versie uit 2025 die slechts 17 wetten betrof. Premier **Modi** verwelkomde de goedkeuring als een stap naar "vertrouwensgestuurd bestuur".
+  📰 The Hindu / PRS India — 5 april 2026 🔗 https://organiser.org/2026/04/05/347200/bharat/jan-vishwas-bill-2026-passed-parliament-decriminalises-700-offences-to-boost-ease-of-doing-business/
 
 - **Premier Modi opent BJP-verkiezingscampagne in West-Bengalen**
-  **Premier Narendra Modi** hield op **5 april 2026** een grote verkiezingsrally in **Cooch Behar** (Noord-West-Bengalen) om de campagne van de **BJP** voor de deelstaatverkiezingen te lanceren. Op de **'Bijoy Sankalpa Sabha'** presenteerde hij de visie van de partij voor een "ontwikkeld West-Bengalen" en viel de **TMC**-regering van **Mamata Banerjee** aan op wanbestuur en corruptie. De verkiezingen voor de **294 zetels** vinden plaats in twee fasen op **23 en 29 april**, met de telling op **4 mei 2026**. In 2021 won de BJP al **30 van de 54** zetels in Noord-Bengalen.
-  📰 The Week — 5 april 2026 🔗 https://www.theweek.in/news/india/2026/04/05/pm-modis-cooch-behar-rally-to-boost-bjps-west-bengal-poll-campaign.html
+  **Premier Narendra Modi** hield op **5 april 2026** een grote verkiezingsrally in **Cooch Behar** (Noord-West-Bengalen) om de campagne van de **BJP** voor de deelstaatverkiezingen te lanceren. Op de **'Bijoy Sankalpa Sabha'** op het historische **Ras Mela**-terrein presenteerde hij de visie van de partij voor een "ontwikkeld West-Bengalen" en viel de **TMC**-regering van **Mamata Banerjee** aan op wanbestuur en corruptie. De verkiezingen voor de **294 zetels** vinden plaats in twee fasen op **23 en 29 april**, met de telling op **4 mei 2026**.
+  📰 The Week / NDTV — 5 april 2026 🔗 https://www.theweek.in/news/india/2026/04/05/pm-modis-cooch-behar-rally-to-boost-bjps-west-bengal-poll-campaign.html
 
-- **India-VS handelsdeal verlaagt tarieven van 50% naar 18%**
-  Op **2 februari 2026** kondigde president **Trump** een historische handelsdeal aan waarbij de VS-importtarieven op Indiase goederen werden verlaagd van **50%** naar **18%**, een daling van **64%**. In ruil beloofde **India** om tarieven op Amerikaanse producten te schrappen, de aankoop van **Russische olie** te stoppen, en voor **$500 miljard** aan Amerikaanse producten in te kopen over **5 jaar**. De **BSE Sensex** steeg direct met circa **2.300 punten** en de **Nifty 50** met bijna **700 punten**. De deal markeert een keerpunt in de handelsrelatie tussen de twee landen.
-  📰 CNBC — 2 februari 2026 🔗 https://www.cnbc.com/2026/02/02/trump-india-trade-deal-tariffs.html
+- **Deviezenreserves India kelderen met $30,5 miljard in maart**
+  De deviezenreserves van India zijn in maart 2026 met **$30,5 miljard** gedaald, van een recordhoogte van **$728,5 miljard** eind februari naar **$688 miljard** eind maart — de scherpste maandelijkse daling in jaren. De **Reserve Bank of India** (RBI) heeft actief dollars verkocht om de Indiase roepie te stabiliseren te midden van stijgende olieprijzen en kapitaaluitstroom door het conflict in **West-Azië**. De goudreserves daalden met **$3,66 miljard**, waardoor de importdekking terugviel van elf naar negen maanden. Voormalig RBI-adjunct-directeur **Michael Patra** stelde dat India moet streven naar een reservebuffer van **$1 biljoen**.
+  📰 Economic Times / Business Standard — 3 april 2026 🔗 https://www.business-standard.com/economy/news/fx-reserves-plunge-30-5-bn-in-march-126040300910_1.html
 
 ---
 
