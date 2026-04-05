@@ -1,92 +1,92 @@
-# Scan Wereld — 4 april 2026
+# Scan Wereld — 5 april 2026
 
 ## 🇬🇧 Verenigd Koninkrijk
 
-**Hormuz-crisis, AI-adoptie en techonderwijs domineren het Britse nieuws.**
+**Oliecrisis, handelstarieven en recordproductie hernieuwbare energie bepalen de Britse agenda.**
 
-- **VK leidt coalitie van 40 landen die heropening Straat van Hormuz eist**
-  Op **2 april 2026** leidde het **Verenigd Koninkrijk** een virtuele bijeenkomst van **40 landen** — waaronder **Frankrijk, Duitsland, Italië, Japan, Canada** en de **VAE** — om te eisen dat **Iran** stopt met de blokkade van de **Straat van Hormuz**, een vaarroute verantwoordelijk voor circa **een vijfde van de wereldwijde brandstofvoorziening**. Sinds de **Amerikaans-Israëlische aanvallen op Iran** op **28 februari 2026** zijn er **23 directe aanvallen** op commerciële schepen geweest, waarbij **11 bemanningsleden** omkwamen. **Minister van Buitenlandse Zaken Yvette Cooper** beschuldigde Iran ervan "een internationale scheepvaartroute te kapen." Opvallend: de **VS** waren afwezig — **president Trump** verklaarde dat het beveiligen van de waterweg "niet Amerika's verantwoordelijkheid" is.
-  📰 Al Jazeera — 2 april 2026 🔗 https://www.aljazeera.com/news/2026/4/2/uk-led-coalition-of-35-countries-vows-action-on-hormuz-strait-gridlock
+- **VK leidt internationale coalitie tegen Iraanse blokkade Straat van Hormuz**
+  Premier **Keir Starmer** leidde een virtuele top met meer dan **35 landen** om diplomatieke druk op **Iran** op te voeren na de blokkade van de **Straat van Hormuz** door de Islamitische Revolutionaire Garde. Door de zeestraat gaat normaal **20%** van alle olie en gas ter wereld; de blokkade dreef de **Brent-olieprijs** op tot een piek van **$126 per vat**, de grootste energieverstoring sinds de jaren zeventig. De **OESO** waarschuwde dat het VK kwetsbaarder is dan andere grote economieën, met een verwachte inflatie van **4%** en een groei van slechts **0,5%** in 2026.
+  📰 The Guardian / BBC — april 2026 🔗 https://www.trtworld.com/article/08592a1d2e33/amp
 
-- **AI-gebruik bij Britse bedrijven stijgt naar 26%, zorgen toeleveringsketen verdubbelen**
-  Uit cijfers van het **Office for National Statistics (ONS)** van **2 april 2026** blijkt dat **26%** van alle Britse bedrijven minstens één vorm van **AI-technologie** gebruikt — een stijging van **8 procentpunten** ten opzichte van maart 2025. Bij grote bedrijven (**250+ werknemers**) ligt het percentage op **45%**. Tegelijkertijd maakt **37%** van de bedrijven zich zorgen over verstoringen van de toeleveringsketen door internationale conflicten — een stijging van **27 procentpunten** sinds december 2025. Slechts **5%** van de AI-gebruikende bedrijven meldt personeelsvermindering.
-  📰 ONS — 2 april 2026 🔗 https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins/businessinsightsandimpactontheukeconomy/2april2026
+- **Eén jaar na Trumps "Liberation Day": blijvende impact op VK en wereldeconomie**
+  Op **2 april 2025** kondigde president **Trump** ingrijpende importtarieven aan onder de noemer "Liberation Day", waarmee tarieven op bijna alle landen werden verhoogd naar minimaal **10%**. Het VK werd getroffen door een vast tarief van **10%** op alle goederen, plus **25%** op staal, aluminium en auto's. Het Amerikaanse **Hooggerechtshof** oordeelde in februari 2026 dat Trumps gebruik van noodbevoegdheden onrechtmatig was, maar de economische schade — gestegen consumentenprijzen en verstoorde toeleveringsketens — is inmiddels diep verankerd.
+  📰 Financial Times — april 2026 🔗 https://www.cfr.org/articles/a-year-after-liberation-day-experts-review-the-costs-of-trumps-tariffs
 
-- **Cognizant aangewezen als strategisch partner TechFirst-programma**
-  Het **ministerie voor Wetenschap, Innovatie en Technologie (DSIT)** heeft **Cognizant** aangewezen als strategische partner van het **TechFirst-programma**, onderdeel van het **UK AI Opportunities Action Plan**. Over vier jaar biedt **Cognizant** **100 stageplaatsen**, **1.000 vrijwilligersuren** voor mentoring op scholen, en bereikt het uiteindelijk **meer dan 4.000 afgestudeerden** en **één miljoen leerlingen** in het voortgezet onderwijs. Minister **Liz Kendall** benadrukte het belang nu volgens onderzoek **93% van de banen** door AI verstoord zou kunnen worden.
-  📰 Cognizant — 2 april 2026 🔗 https://news.cognizant.com/2026-04-02-Cognizant-appointed-by-the-UK-Government-as-a-strategic-industry-partner-to-its-TechFirst-programme
+- **Record wind- en zonne-energie bespaart VK £1 miljard aan gasimport**
+  Wind- en zonne-energie produceerden in maart 2026 samen **11 terawattuur** (TWh) aan elektriciteit, een stijging van **28%** ten opzichte van vorig jaar en een nieuw maandrecord. Hierdoor hoefde het VK geen **21 TWh** aan gas te importeren — het equivalent van **18 volledig geladen LNG-tankers** — wat bij de huidige hoge prijzen circa **£1 miljard** zou hebben gekost. Op **26 maart** bereikte Britse windenergie een productierecord van **23.880 megawatt**, genoeg om **23 miljoen** huishoudens van stroom te voorzien.
+  📰 Carbon Brief — 3 april 2026 🔗 https://www.carbonbrief.org/analysis-record-wind-and-solar-saved-uk-from-gas-imports-worth-1bn-in-march-2026/
 
 ---
 
 ## 🇺🇸 Verenigde Staten
 
-**Tarieven, terugbetalingen en de eerste bemande maanvlucht in 53 jaar beheersen de VS.**
+**Militaire confrontatie met Iran, EU-energiebelasting en rechtspraak over onderwijsbeleid domineren het Amerikaanse nieuws.**
 
-- **Trump legt 100% importheffing op gepatenteerde medicijnen**
-  President **Donald Trump** ondertekende op **2 april 2026** een decreet dat een invoerheffing van **100%** oplegt op gepatenteerde farmaceutische producten die de VS worden ingevoerd. Het doel: farmabedrijven dwingen productie naar de VS te verplaatsen. Bedrijven die een prijsakkoord sluiten met het **Department of Health and Human Services** krijgen **0%** tarief; voor de **EU, Japan, Zuid-Korea en Zwitserland** geldt een verlaagd tarief van **15%**. Grote farmabedrijven hebben **120 dagen** en kleinere bedrijven **180 dagen** voordat het volledige tarief ingaat. Tegelijkertijd herzag Trump tarieven op **staal, aluminium en koper**: afgewerkte producten betalen **50%** en afgeleide producten **25%**.
-  📰 Washington Post — 2 april 2026 🔗 https://www.washingtonpost.com/business/2026/04/02/tariffs-drugs-pharma-trump/
+- **Amerikaanse piloot gered na neerschieten gevechtsvliegtuig door Iran**
+  Een Amerikaanse militair die vermist raakte nadat **Iran** vrijdag een **F-15E Strike Eagle** neerschoot, is zondag succesvol gered door Amerikaanse troepen. President **Trump** maakte de reddingsoperatie bekend via sociale media met de woorden "WE GOT HIM!" en meldde dat de piloot gewond maar in veiligheid was. Dit is de eerste keer in meer dan **20 jaar** dat een Amerikaans gevechtsvliegtuig door vijandelijk vuur is neergehaald — het eerste geval sinds de invasie van Irak in **2003**. Iran claimde daarnaast twee **C-130** transportvliegtuigen en twee **Black Hawk**-helikopters te hebben vernietigd.
+  📰 AP News — 5 april 2026 🔗 https://harrisondaily.com/stories/ap-news-summary-at-320-am-edt,371547
 
-- **Eén jaar na "Liberation Day": tarieven kostten banen en miljarden**
-  Precies een jaar na Trumps "Liberation Day"-tarieven van **2 april 2025** blijkt dat de VS **89.000 fabrieksbanen** verloren, het handelstekort steeg naar **$1,24 biljoen** (+2%), en de inflatie hardnekkig bleef op **2,4%**. Het **Supreme Court** oordeelde dat Trump zijn bevoegdheid had overschreden bij het opleggen van tarieven via de **IEEPA-wet**, waardoor naar schatting **$166 miljard** aan onterecht geinde heffingen moet worden terugbetaald. **Customs and Border Protection** werkt aan een terugbetalingssysteem dat op **20 april** operationeel moet zijn. Amerikaanse huishoudens betalen in 2026 circa **$2.500** extra door importheffingen.
-  📰 NPR — 2 april 2026 🔗 https://www.npr.org/2026/04/02/nx-s1-5766424/trump-tariffs-inflation-economy
+- **Vijf EU-landen eisen winstbelasting op energiebedrijven vanwege Iran-oorlog**
+  De ministers van financiën van **Duitsland**, **Italië**, **Spanje**, **Portugal** en **Oostenrijk** hebben in een gezamenlijke brief aangedrongen op een EU-brede meerwinstbelasting op energiebedrijven. De Europese gasprijzen zijn met meer dan **70%** gestegen sinds het begin van het Amerikaans-Israëlische militaire conflict met Iran op **28 februari**, en de inflatie in de eurozone bereikte **2,5%** in maart. De ministers stellen dat de opbrengsten ingezet kunnen worden voor tijdelijke verlichting voor consumenten zonder extra druk op overheidsbegrotingen.
+  📰 Bloomberg — 4 april 2026 🔗 https://www.bloomberg.com/news/articles/2026-04-04/five-eu-states-call-for-energy-windfall-profit-tax-reuters-says
 
-- **NASA's Artemis II onderweg naar de maan — eerste bemande maanvlucht in 53 jaar**
-  Op **1 april 2026** lanceerde **NASA** de **Artemis II**-missie vanaf **Kennedy Space Center** met de **Space Launch System (SLS)**-raket en het **Orion**-ruimtevaartuig. Aan boord: **Reid Wiseman**, **Victor Glover**, **Christina Koch** (NASA) en **Jeremy Hansen** (**CSA**, Canada). Het is de eerste bemande vlucht voorbij de lage aardbaan sinds **Apollo 17 in december 1972**. Op **4 april** is de bemanning halverwege de maan; de maanpassage staat gepland op **maandag 6 april**. De missie duurt in totaal **tien dagen**.
-  📰 NASA — 4 april 2026 🔗 https://www.nasa.gov/blogs/missions/2026/04/04/artemis-ii-flight-day-3-crew-prepares-cabin-for-lunar-flyby/
+- **Rechter blokkeert Trump-beleid over rasregistratie bij universiteiten**
+  Een federale rechter heeft een halt toegeroepen aan het verzamelen van gegevens door de **Trump-administratie** waarmee universiteiten moesten aantonen dat zij ras niet meewegen bij toelatingsbesluiten. **Zeventien** Democratische procureurs-generaal van verschillende staten hebben het beleid succesvol aangevochten en betoogden dat het op een "overhaaste en chaotische" manier was ingevoerd, met ernstige privacyzorgen. De uitspraak vormt een nieuwe juridische tegenslag na het bredere debat over positieve discriminatie sinds de uitspraak van het **Hooggerechtshof** in 2023.
+  📰 AP News — 5 april 2026 🔗 https://harrisondaily.com/stories/ap-news-summary-at-320-am-edt,371547
 
 ---
 
 ## 🇮🇳 India
 
-**Volkstelling, massaontslagen in tech en belastinghervorming markeren een nieuwe fase voor India.**
+**Historische volkstelling, verkiezingscampagne en handelsovereenkomst met VS bepalen het Indiase nieuws.**
 
-- **India start 's werelds grootste volkstelling met voor het eerst kasteregistratie**
-  Op **1 april 2026** is **India** begonnen met de grootste volkstelling ter wereld — de eerste in **15 jaar** — waarbij meer dan **3 miljoen ambtenaren** circa **1,4 miljard inwoners** registreren. Voor het eerst sinds **1931** wordt ook de kaste van elke burger geregistreerd, een besluit van het **Kabinetscomité voor Politieke Zaken** uit april 2025. De digitale volkstelling verloopt in twee fasen: huisvestingsgegevens tot september 2026, daarna sociaaleconomische data inclusief kaste en religie. Critici waarschuwen dat kasteregistratie de **sociale spanningen** kan vergroten; voorstanders stellen dat het essentieel is voor eerlijkere verdeling van overheidssteun.
-  📰 Al Jazeera — 1 april 2026 🔗 https://www.aljazeera.com/news/2026/4/1/india-begins-worlds-biggest-population-count
+- **India start eerste volkstelling in 15 jaar met historische kaste-registratie**
+  Op **1 april 2026** is India begonnen met de eerste fase van de **Volkstelling 2027** — de eerste volkstelling in **15 jaar** en de eerste volledig digitale volkstelling ter wereld. Voor het eerst sinds **1931** wordt ook een kaste-registratie opgenomen, een historisch besluit van de **Cabinet Committee on Political Affairs**. Het project heeft een budget van **₹11.718 crore** (ca. **$1,24 miljard**) en zet meer dan **3,4 miljoen** ambtenaren in om circa **1,4 miljard** inwoners te registreren. Burgers kunnen zichzelf digitaal registreren via een app in **16 talen**.
+  📰 WION News — 1 april 2026 🔗 https://www.wionews.com/india-news/india-digital-census-2026-self-enumeration-caste-npr-details-1774856358751
 
-- **Oracle schrapt 12.000 banen in India als onderdeel van grootste ontslagronde ooit**
-  **Oracle** heeft op **31 maart 2026** wereldwijd **20.000 tot 30.000 werknemers** ontslagen, waarvan **12.000 in India** — **40%** van het Indiase personeelsbestand. De ontslagen troffen vooral de grote ontwikkelcentra in **Bengaluru**, **Hyderabad** en **Pune**, waar medewerkers per e-mail te horen kregen dat hun functie was opgeheven. De reden is Oracle's strategische verschuiving naar AI: het bedrijf investeert naar schatting **$156 miljard** in uitbreiding van AI-datacenters. Volgens ingewijden plant Oracle binnen een maand een tweede ontslagronde, wat met name het **middenmanagement** treft.
-  📰 Business Standard — 31 maart 2026 🔗 https://www.business-standard.com/companies/news/oracle-lays-off-12-000-employees-in-india-another-round-likely-in-a-month-126033101247_1.html
+- **Premier Modi opent BJP-verkiezingscampagne in West-Bengalen**
+  **Premier Narendra Modi** hield op **5 april 2026** een grote verkiezingsrally in **Cooch Behar** (Noord-West-Bengalen) om de campagne van de **BJP** voor de deelstaatverkiezingen te lanceren. Op de **'Bijoy Sankalpa Sabha'** presenteerde hij de visie van de partij voor een "ontwikkeld West-Bengalen" en viel de **TMC**-regering van **Mamata Banerjee** aan op wanbestuur en corruptie. De verkiezingen voor de **294 zetels** vinden plaats in twee fasen op **23 en 29 april**, met de telling op **4 mei 2026**. In 2021 won de BJP al **30 van de 54** zetels in Noord-Bengalen.
+  📰 The Week — 5 april 2026 🔗 https://www.theweek.in/news/india/2026/04/05/pm-modis-cooch-behar-rally-to-boost-bjps-west-bengal-poll-campaign.html
 
-- **Nieuwe Inkomstenbelastingwet treedt in werking: grootste belastinghervorming in 65 jaar**
-  Op **1 april 2026** is de **Income Tax Act 2025** van kracht geworden, die de oude wet uit **1961** volledig vervangt. De wet is vereenvoudigd van **819 artikelen** in 47 hoofdstukken naar **536 artikelen** in 23 hoofdstukken. Belangrijke wijzigingen: vervanging van "Financial Year" en "Assessment Year" door het uniforme begrip **"Tax Year"**, uitbreiding van de **HRA-vrijstelling van 50%** naar steden als **Bengaluru, Pune en Hyderabad**, en verhoging van de onderwijstoelage van **Rs 100 naar Rs 3.000** per maand. Het nieuwe belastingregime is nu het **standaardregime** voor alle belastingplichtigen.
-  📰 Press Information Bureau — april 2026 🔗 https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221416
+- **India-VS handelsdeal verlaagt tarieven van 50% naar 18%**
+  Op **2 februari 2026** kondigde president **Trump** een historische handelsdeal aan waarbij de VS-importtarieven op Indiase goederen werden verlaagd van **50%** naar **18%**, een daling van **64%**. In ruil beloofde **India** om tarieven op Amerikaanse producten te schrappen, de aankoop van **Russische olie** te stoppen, en voor **$500 miljard** aan Amerikaanse producten in te kopen over **5 jaar**. De **BSE Sensex** steeg direct met circa **2.300 punten** en de **Nifty 50** met bijna **700 punten**. De deal markeert een keerpunt in de handelsrelatie tussen de twee landen.
+  📰 CNBC — 2 februari 2026 🔗 https://www.cnbc.com/2026/02/02/trump-india-trade-deal-tariffs.html
 
 ---
 
 ## 🇨🇳 China
 
-**AI-dominantie, anticorruptie en chipzelfstandigheid tekenen China's koers.**
+**AI-infrastructuur, energiestrategie en aanpak van cryptomisdaad staan centraal in China.**
 
-- **Chinese AI-modellen domineren wereldranglijsten: Qwen3.6-Plus breekt records**
-  **Alibaba**'s nieuwe AI-model **Qwen3.6-Plus** veroverde op de dag van lancering de eerste plaats op het wereldwijde API-platform **OpenRouter**, met meer dan **1,4 biljoen tokens** aan dagelijks gebruik — een mondiaal record. Op de **Code Arena**-benchmark behaalde **Alibaba** de tweede plaats wereldwijd, boven **OpenAI**, **Google** en **xAI**; **5 van de top-10** bedrijven waren Chinees, waaronder **Xiaomi**, **Moonshot**, **MiniMax** en **DeepSeek**. De gemiddelde dagelijkse tokenverwerking in China bereikte **140 biljoen**, een stijging van meer dan **1.000 keer** sinds begin 2024. Volgens **JPMorgan** stijgt China's AI-inferentieverbruik van circa **10 quadriljoen tokens** in 2025 naar **3.900 quadriljoen** in 2030.
-  📰 Global Times — 4 april 2026 🔗 https://www.globaltimes.cn/page/202604/1358204.shtml
+- **Premier Li Qiang dringt aan op AI-gestuurd energiesysteem**
+  **Premier Li Qiang** bezocht drie dagen lang de provincie **Sichuan** (steden **Chengdu** en **Deyang**) om de ontwikkeling van een nieuw type energiesysteem te bevorderen dat kunstmatige intelligentie integreert met hernieuwbare energiebronnen. Hij riep op tot het verkennen van nieuwe netarchitecturen en het bouwen van een veiliger, koolstofarm en intelligent stroomsysteem om **China's** positie als wereldleider in hernieuwbare energiecapaciteit te versterken. De modernisering moet de kwetsbaarheid voor geopolitieke verstoringen verminderen — zoals risico's rond de **Straat van Hormuz** — en bijdragen aan China's doel van koolstofneutraliteit in **2060**.
+  📰 South China Morning Post — 2 april 2026 🔗 https://www.scmp.com/economy/china-economy/article/3348764/premier-li-qiang-pushes-ai-powered-next-gen-energy-system-amid-global-shocks
 
-- **Voormalig Politburo-lid Ma Xingrui onderzocht in anticorruptiecampagne**
-  **Ma Xingrui**, ooit geprezen als de "jonge maarschalk" van China's ruimtevaartprogramma en lid van het **Politburo** van de **Communistische Partij**, wordt onderzocht wegens "ernstige disciplinaire overtredingen." Ma had een indrukwekkende carrière in de ruimtevaart voordat hij gouverneur van **Guangdong** en partijsecretaris van **Xinjiang** werd. Zijn val maakt deel uit van een bredere anticorruptiecampagne onder **Xi Jinping**, die eerder leidde tot de uitzetting van **negen** topmilitairen, waaronder Politburo-leden. Het onderzoek treft een van de hoogstgeplaatste functionarissen met banden tot zowel de technologische als politieke elite.
-  📰 Caixin Global — 3 april 2026 🔗 https://www.caixinglobal.com/2026-04-03/aerospace-pioneer-turned-politburo-member-ensnared-in-chinas-anti-graft-sweep-102430828.html
+- **Shenzhen activeert China's eerste AI-cluster met 10.000 kaarten op Huawei-chips**
+  **Shenzhen** heeft China's eerste intelligente rekencluster met **10.000 kaarten** geactiveerd, gebouwd met **Huawei's Ascend 910C** AI-chips, met een rekenkracht van **11.000 petaflops**. Samen met een eerder in 2025 geactiveerd cluster bedraagt de totale capaciteit nu **14.000 petaflops**, waarbij bijna **50 organisaties** overeenkomsten hebben getekend en de bezettingsgraad op **92%** ligt. De prestaties van de **Ascend 910C** liggen op ongeveer **60%** van **Nvidia's H100**, terwijl techbedrijven als **ByteDance** en **Alibaba** plannen hebben om Huawei's nieuwere **Ascend 950PR**-chip aan te schaffen — naar verwachting **750.000 eenheden** tegen eind 2026.
+  📰 South China Morning Post — 31 maart 2026 🔗 https://www.scmp.com/tech/big-tech/article/3348502/shenzhen-activates-chinas-first-10000-card-ai-cluster-domestic-chips
 
-- **XPeng schakelt volledig over van Nvidia naar eigen AI-chips**
-  De Chinese elektrische autofabrikant **XPeng** heeft de overstap van **Nvidia**-chips naar zijn eigen **Turing**-chip voltooid voor zijn complete voertuiglijn, inclusief het populaire instapmodel **Mona M03**. Het bedrijf streeft naar hogere efficiëntie, schaalvoordelen en minder afhankelijkheid van Amerikaanse technologie in het kader van de **VS-China chipbeperkingen**. Eerder koos ook **Volkswagen** voor **XPeng**'s chipoplossingen en rijtechnologie voor de volgende generatie modellen in China. De stap markeert een verschuiving in de Chinese auto-industrie richting volledige technologische zelfstandigheid op het gebied van AI en autonome rijtechnologie.
-  📰 Caixin Global — 3 april 2026 🔗 https://www.caixinglobal.com/2026-04-03/xpeng-completes-shift-from-nvidia-to-in-house-ai-chips-across-lineup-102430879.html
+- **China pakt medewerker Prince Group op in verband met cryptonetwerk van $24 miljard**
+  Chinese autoriteiten hebben **Li Xiong**, voormalig voorzitter van de **Huione Group** en naaste medewerker van vermeend misdaadbaas **Chen Zhi**, op **1 april 2026** teruggebracht uit **Cambodja** naar China. **Li Xiong** wordt onderzocht voor het exploiteren van casino's, fraude en het witwassen van criminele opbrengsten via het **Huione Guarantee**-platform, dat volgens blockchain-analist **Elliptic** sinds 2021 **$24 miljard** aan crypto heeft verwerkt. De arrestatie maakt deel uit van Pekings bredere aanpak van Zuidoost-Aziatische netwerken betrokken bij online gokken en fraude, nadat **Chen Zhi** zelf in januari 2026 was gerepatrieerd.
+  📰 Caixin Global — 2 april 2026 🔗 https://www.caixinglobal.com/2026-04-02/in-depth-china-captures-prince-group-associate-tied-to-24-billion-crypto-network-102430208.html
 
 ---
 
 ## 🇯🇵 Japan
 
-**Oliezekerheid, monetair beleid en AI-investeringen domineren Japan.**
+**Techgiganten investeren miljarden, energiezekerheid wordt aangescherpt en diplomatie richt zich op zeldzame aardmetalen.**
 
-- **Japan verzekert olieaanvoer ondanks blokkade Straat van Hormuz**
-  De **Japanse regering** verwacht tegen mei **60%** van de gebruikelijke ruwe-olieaanvoer veilig te stellen via alternatieve routes die de **Straat van Hormuz** omzeilen. Japan plant olie te betrekken via de oostelijke haven **Fujairah** (VAE), de Saudische haven **Yanbu** aan de Rode Zee, en verhoogde leveringen uit de **Verenigde Staten** (Texas) en **Azerbeidzjan** — samen goed voor een verviervoudiging van de Amerikaanse aanvoer. Het tekort wordt aangevuld door **20 dagen** aan nationale strategische oliereserves vrij te geven in mei. Een tweede Japans schip — de LPG-tanker **Green Sanvi** van **Mitsui O.S.K. Lines** — is inmiddels veilig door de Straat van Hormuz gevaren.
-  📰 NHK World — 4 april 2026 🔗 https://www3.nhk.or.jp/nhkworld/en/news/20260404_12/
+- **Microsoft investeert $10 miljard in Japanse datacenters en AI-samenwerking met SoftBank**
+  **Microsoft** heeft aangekondigd de komende vier jaar **$10 miljard** te investeren in datacenterinfrastructuur in Japan, gericht op kunstmatige intelligentie. Het bedrijf gaat samenwerken met **SoftBank** en **Sakura Internet** om een binnenlands AI-datanetwerk op te bouwen en streeft ernaar **1 miljoen** ontwikkelaars op te leiden tegen 2030. Microsoft-president **Brad Smith** ontmoette premier **Sanae Takaichi** om de cybersecurity-samenwerking met de overheid uit te breiden. De investering past in een bredere trend — naast **Oracle** ($8 miljard) en **Amazon Web Services** ($15 miljard) die eveneens grote investeringen in Japan doen.
+  📰 Nikkei Asia — 5 april 2026 🔗 https://asia.nikkei.com/business/companies/microsoft-to-pour-10bn-into-japan-data-centers-work-with-softbank-on-ai
 
-- **IMF dringt aan op verdere renteverhogingen door Bank of Japan**
-  Het **Internationaal Monetair Fonds** (IMF) heeft de **Bank of Japan** (BOJ) opgeroepen om de rente te blijven verhogen, ondanks de "aanzienlijke nieuwe risico's" door het conflict in het Midden-Oosten. Het IMF stelde vanuit **Washington** dat geleidelijke **loonstijgingen** de consumptie zullen ondersteunen, ook al vertraagt de groei door de Iran-oorlog. In de markt wordt verwacht dat de BOJ al in **april** de rente verhoogt vanwege toenemende **inflatiedruk**. Het advies komt op een moment dat Japan kampt met stijgende energieprijzen en een verzwakkende yen.
-  📰 Japan Times — 4 april 2026 🔗 https://www.japantimes.co.jp/business/2026/04/04/economy/imf-boj-raise-rates/
+- **Japanse overheid verzoekt oliegroothandelaren brandstof direct aan ziekenhuizen te leveren**
+  De Japanse regering gaat oliegroothandelaren verzoeken om petroleumproducten rechtstreeks te verkopen aan essentiële voorzieningen zoals **ziekenhuizen**, openbaarvervoerbedrijven en industriële fabrieken, als reactie op de groeiende zorgen over stabiele olietoevoer door het conflict in het **Midden-Oosten**. De overheid heeft via haar hulplijn al meer dan **200 verzoeken** om brandstoflevering ontvangen van medische instellingen en transportbedrijven. Een taskforce van hoge ambtenaren van het **kabinet** en het **ministerie van Economie** zal bepalen welke faciliteiten prioriteit krijgen.
+  📰 NHK World — 5 april 2026 🔗 https://www3.nhk.or.jp/nhkworld/en/news/20260405_13/
 
-- **Microsoft investeert $10 miljard in AI-infrastructuur in Japan**
-  **Microsoft** heeft een vierjarig investeringsplan van **$10 miljard** in Japan aangekondigd als onderdeel van een bredere AI-uitbreiding in Azië. Het pakket omvat investeringen in **cybersecurity-partnerschappen** en de opleiding van **1 miljoen AI-engineers** tot **2029**. De investering weerspiegelt de enorme vraag naar AI-diensten in Japan, terwijl Microsofts AI-assistent **Copilot** concurreert met **OpenAI's ChatGPT** en **Google's Gemini**. Het plan sluit aan bij Japans ambitie om een leidende rol te spelen in de mondiale AI-economie.
-  📰 Japan Times — 3 april 2026 🔗 https://www.japantimes.co.jp/business/2026/04/03/companies/microsoft-ai-japan-investment/
+- **Premier Takaichi plant bezoek aan Australië voor overleg over zeldzame aardmetalen**
+  **Premier Sanae Takaichi** plant later deze maand een diplomatiek bezoek aan **Australië** — het eerste bezoek van een Japanse premier sinds **Fumio Kishida's** reis in 2022 — om de samenwerking op het gebied van **zeldzame aardmetalen** en maritieme veiligheid te versterken. Centrale gespreksonderwerpen zijn de toeleveringsketen voor zeldzame aardmetalen als alternatief voor China, veilige navigatie in de **Straat van Hormuz**, en gezamenlijke militaire oefeningen. Het bezoek valt samen met de **50e verjaardag** van het Basis Vriendschaps- en Samenwerkingsverdrag, en Australië overweegt de **Mogami-klasse fregat** van **Mitsubishi Heavy Industries** over te nemen.
+  📰 Nikkei Asia — 4 april 2026 🔗 https://asia.nikkei.com/politics/international-relations/japan-pm-takaichi-plans-australia-visit-to-discuss-rare-earths
 
 ---
 
@@ -94,14 +94,14 @@
 
 | Markt | Koers | % |
 |-------|-------|---|
-| BTC | $67.336 | +0,59% |
-| ETH | $2.057 | +0,22% |
-| Goud | $4.690 | -1,59% |
-| Brent olie | $109,03 | +7,78% |
-| EUR/USD | 1,1521 | -0,17% |
-| S&P 500 | 6.582 | +0,11% |
-| AEX | 975,86 | -0,09% |
-| DAX | 22.772 | -2,26% |
-| Nikkei | 53.123 | +1,26% |
+| BTC | $67.141 | +0,4% |
+| ETH | $2.060 | +3,5% |
+| Goud | $4.675 | -2,3% |
+| Brent olie | $109,24 | +0,7% |
+| EUR/USD | 1,15 | -0,2% |
+| S&P 500 | 6.583 | +0,1% |
+| AEX | 976 | -0,1% |
+| DAX | 22.772 | -2,3% |
+| Nikkei | 53.123 | +1,3% |
 
-*Opmerking: 4 april is Goede Vrijdag — S&P 500, AEX en DAX waren gesloten. Getoonde koersen zijn laatste slotkoersen (2-3 april). Brent olie toont forse stijging door de afsluiting van de Straat van Hormuz.*
+*Opmerking: 5 april 2026 valt op Paaszaterdag. Europese en Amerikaanse beurzen sloten op 2 april (Goede Vrijdag); Nikkei sloot op 3 april. Crypto en grondstoffen handelen doorlopend.*
