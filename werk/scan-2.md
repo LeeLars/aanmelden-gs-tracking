@@ -56,19 +56,19 @@
 
 ## 🇨🇳 China
 
-**AI-infrastructuur, energiestrategie en aanpak van cryptomisdaad staan centraal in China.**
+**Anticorruptie raakt het Politbureau, XPeng dumpt Nvidia en Peking zoekt handelstoenadering met VS.**
 
-- **Premier Li Qiang dringt aan op AI-gestuurd energiesysteem**
-  **Premier Li Qiang** bezocht drie dagen lang de provincie **Sichuan** (steden **Chengdu** en **Deyang**) om de ontwikkeling van een nieuw type energiesysteem te bevorderen dat kunstmatige intelligentie integreert met hernieuwbare energiebronnen. Hij riep op tot het verkennen van nieuwe netarchitecturen en het bouwen van een veiliger, koolstofarm en intelligent stroomsysteem om **China's** positie als wereldleider in hernieuwbare energiecapaciteit te versterken. De modernisering moet de kwetsbaarheid voor geopolitieke verstoringen verminderen — zoals risico's rond de **Straat van Hormuz** — en bijdragen aan China's doel van koolstofneutraliteit in **2060**.
-  📰 South China Morning Post — 2 april 2026 🔗 https://www.scmp.com/economy/china-economy/article/3348764/premier-li-qiang-pushes-ai-powered-next-gen-energy-system-amid-global-shocks
+- **Politbureau-lid Ma Xingrui in anticorruptieonderzoek**
+  **Ma Xingrui** (66), lid van het **24-koppige Politbureau** en voormalig partijsecretaris van **Xinjiang**, wordt onderzocht wegens "ernstige schendingen van partijdiscipline en staatswet" door de **Centrale Commissie voor Discipline-inspectie**. Hij is het derde zittende lid van het **20e Politbureau** dat in een anticorruptieonderzoek terechtkomt, na **He Weidong** en **Zhang Youxia**. Ma maakte carrière als topman bij de Chinese ruimtevaartindustrie — onder meer als directeur van **China Aerospace Science and Technology Corporation** — voordat hij overstapte naar de politiek als gouverneur van Shenzhen en Guangdong. Het onderzoek onderstreept de aanhoudende intensiteit van **Xi Jinpings** anticorruptiecampagne.
+  📰 Caixin Global — 3 april 2026 🔗 https://www.caixinglobal.com/2026-04-03/aerospace-pioneer-turned-politburo-member-ensnared-in-chinas-anti-graft-sweep-102430828.html
 
-- **Shenzhen activeert China's eerste AI-cluster met 10.000 kaarten op Huawei-chips**
-  **Shenzhen** heeft China's eerste intelligente rekencluster met **10.000 kaarten** geactiveerd, gebouwd met **Huawei's Ascend 910C** AI-chips, met een rekenkracht van **11.000 petaflops**. Samen met een eerder in 2025 geactiveerd cluster bedraagt de totale capaciteit nu **14.000 petaflops**, waarbij bijna **50 organisaties** overeenkomsten hebben getekend en de bezettingsgraad op **92%** ligt. De prestaties van de **Ascend 910C** liggen op ongeveer **60%** van **Nvidia's H100**, terwijl techbedrijven als **ByteDance** en **Alibaba** plannen hebben om Huawei's nieuwere **Ascend 950PR**-chip aan te schaffen — naar verwachting **750.000 eenheden** tegen eind 2026.
-  📰 South China Morning Post — 31 maart 2026 🔗 https://www.scmp.com/tech/big-tech/article/3348502/shenzhen-activates-chinas-first-10000-card-ai-cluster-domestic-chips
+- **XPeng voltooit overstap van Nvidia naar eigen AI-chips**
+  De Chinese elektrische autofabrikant **XPeng** heeft de overgang van **Nvidia**-processoren naar eigen **Turing**-chips voltooid in zijn volledige modellenreeks, inclusief de populaire **Mona M03** die sinds augustus 2024 meer dan **200.000** keer is verkocht. De **Turing**-chips worden ook al toegepast in een samen met **Volkswagen** ontwikkeld voertuig dat in productie is bij **Volkswagen Anhui**, wat de commerciële levensvatbaarheid voor internationale fabrikanten aantoont. De verschuiving past in een bredere trend waarbij Chinese autofabrikanten hun afhankelijkheid van buitenlandse chipleveranciers zoals **Nvidia** en **Qualcomm** willen verminderen.
+  📰 Caixin Global — 3 april 2026 🔗 https://www.caixinglobal.com/2026-04-03/xpeng-completes-shift-from-nvidia-to-in-house-ai-chips-across-lineup-102430879.html
 
-- **China pakt medewerker Prince Group op in verband met cryptonetwerk van $24 miljard**
-  Chinese autoriteiten hebben **Li Xiong**, voormalig voorzitter van de **Huione Group** en naaste medewerker van vermeend misdaadbaas **Chen Zhi**, op **1 april 2026** teruggebracht uit **Cambodja** naar China. **Li Xiong** wordt onderzocht voor het exploiteren van casino's, fraude en het witwassen van criminele opbrengsten via het **Huione Guarantee**-platform, dat volgens blockchain-analist **Elliptic** sinds 2021 **$24 miljard** aan crypto heeft verwerkt. De arrestatie maakt deel uit van Pekings bredere aanpak van Zuidoost-Aziatische netwerken betrokken bij online gokken en fraude, nadat **Chen Zhi** zelf in januari 2026 was gerepatrieerd.
-  📰 Caixin Global — 2 april 2026 🔗 https://www.caixinglobal.com/2026-04-02/in-depth-china-captures-prince-group-associate-tied-to-24-billion-crypto-network-102430208.html
+- **MOFCOM roept op tot versterking handelsoverleg met VS**
+  Het Chinese **Ministerie van Handel** (MOFCOM) heeft opgeroepen tot versterking van het overlegmechanisme voor handel tussen China en de VS, precies een jaar na de omstreden "Liberation Day"-tarieven van de **Trump-administratie**. Het Amerikaanse **Hooggerechtshof** oordeelde in februari dat veel van deze tarieven illegaal waren, waarna de Amerikaanse douane begon met het terugbetalen van circa **$166 miljard** aan onrechtmatig geheven heffingen — inmiddels is al **$120 miljard** teruggestort aan meer dan **26.600** importeurs. Zes rondes van handelsconsultaties hebben volgens Peking bijgedragen aan meer stabiliteit in de bilaterale betrekkingen.
+  📰 Global Times — 2 april 2026 🔗 https://www.globaltimes.cn/page/202604/1358143.shtml
 
 ---
 
