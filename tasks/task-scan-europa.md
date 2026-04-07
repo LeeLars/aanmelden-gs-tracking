@@ -23,9 +23,9 @@ Zoek per land het nieuws van vandaag. Gebruik de bronnen hierboven — elk land 
 
 **C. Anti-herhaling:** Lees vóór je begint `nieuwskrant-latest.md` uit de repo. Onderwerpen die daar al in stonden mag je **NIET herhalen**, ook niet met een nieuwe invalshoek of update. Kies altijd andere verhalen.
 
-**D. Thema-diversificatie:** Per land moeten de 3 items over **3 verschillende onderwerpen** gaan — geen 3× energie, geen 3× politiek. Mix bv. binnenlandse politiek + bedrijfsnieuws + tech, of justitie + economie + sociale ontwikkeling.
+**D. Thema-diversificatie:** Per land moeten de 3 items over **3 verschillende onderwerpen** gaan, maar **uitsluitend binnen de categorieën politiek, economie/zakelijk en technologie**. Geen 3× energie, geen 3× verkiezingen. Ideale mix: 1 politiek + 1 economie/zakelijk + 1 technologie. Of als er één categorie weinig nieuws heeft: 2 verschillende verhalen uit één categorie + 1 uit een andere.
 
-**E. Max 1 megathema per land:** Als er een dominant wereldverhaal speelt (oorlog, crisis, beurscrash), dan **maximaal 1 item per land** daarover. De andere 2 items moeten over iets totaal anders gaan: een wetsvoorstel, een specifiek bedrijf, een arrestatie, een technologische doorbraak, een lokaal schandaal, een sociale trend.
+**E. Max 1 megathema per land:** Als er een dominant wereldverhaal speelt (oorlog, crisis, beurscrash), dan **maximaal 1 item per land** daarover. De andere 2 items moeten ook in politiek/economie/tech zitten, maar over iets anders: een wetsvoorstel, een specifiek bedrijf, een arrestatie van een politicus, een technologische doorbraak, een fusie, een nieuw beleid. **Geen** sport, lifestyle, entertainment, human interest, sociale trends, gezondheid, cultuur.
 
 **F. Diepere recherche:** Gebruik niet alleen de homepage van een bron — open expliciet de **politiek-, economie- of tech-secties**. Zoek liever verhalen die NIET op de internationale wires staan, dingen die alleen lokale media oppikken. Zoektermen zoals `site:lemonde.fr/economie` of `site:vrt.be/vrtnws/nl/regio`.
 
