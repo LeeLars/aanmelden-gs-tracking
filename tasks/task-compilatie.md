@@ -43,6 +43,8 @@ Lees nieuwskrant-latest.md. Schrijf dan een sectie "De Grote Lijnen" en voeg die
 [4-6 zinnen. Welke thema's komen in meerdere landen terug? Welke ontwikkelingen hangen samen? Vooruitblik.]
 ```
 
+**Variatie-regel:** Lees ook de vorige editie (de laatste `archief/YYYY/MM/nieuwskrant-*.md` van eergisteren). Vermijd dat "De Grote Lijnen" vandaag draait om hetzelfde dominante thema als toen. Zoek dwarsverbanden over **meerdere** thema's — niet alleen het meest voor de hand liggende.
+
 Gebruik het Edit tool of echo/cat om dit toe te voegen — schrijf NIET het hele bestand opnieuw.
 
 ## Stap 3: Kopieer naar archief en commit
