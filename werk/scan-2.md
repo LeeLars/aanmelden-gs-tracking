@@ -1,95 +1,95 @@
 # 🌍 Scan Wereld
-### 📅 Donderdag 10 april 2026
+### 📅 Zaterdag 11 april 2026
 
 ---
 
 ## 🇬🇧 VK
 
-**OpenAI schort zijn Britse megadatacenter op wegens hoge energiekosten, de overheid keurt het grootste zonnepark ooit goed en Starmer uit zijn frustratie over geopolitieke energieprijzen.**
+**Bank of England houdt de rente onverwacht hoog na de olieschok, de CMA opent een diepgaand onderzoek naar de clouddominantie van AWS en Microsoft, en Rolls-Royce wint de grootste SMR-order ooit.**
 
-- **OpenAI schorst Stargate UK-datacenter wegens energiekosten en regelgeving**
-  **OpenAI** heeft zijn **Stargate UK**-project opgeschort, een AI-datacenter dat gepland stond in **Cobalt Park** nabij Newcastle. Het project, onderdeel van een breder pakket van **£31 miljard** aan Britse techinvesteringen aangekondigd tijdens het staatsbezoek van president **Trump** in september 2025, voorzag in **8.000 GPU's** opschaalbaar naar **31.000 GPU's** in samenwerking met **Nvidia** en **Nscale**. OpenAI noemde twee obstakels: de Britse industriële elektriciteitsprijzen — **vier keer hoger** dan in de VS — en regelgevingsonzekerheid rondom AI-auteursrechtwetgeving. Shadow Chancellor **Mel Stride** noemde het een "damning verdict" op het economisch beleid van kanselier **Rachel Reeves**.
-  📰 BBC News — 2026-04-09 🔗 https://www.bbc.co.uk/news/technology
+- **Bank of England houdt basisrente op 4,75% na spoedoverleg over olieschok**
+  De **Bank of England** besloot op **10 april** de basisrente onveranderd te laten op **4,75%**, na een ingelast Monetary Policy Committee-overleg over de inflatoire druk door de Iran-oorlog en de Hormuz-blokkade. Gouverneur **Andrew Bailey** stelde dat verdere renteverlagingen "tijdelijk van tafel zijn" zolang de energiecrisis aanhoudt. De Britse tienjaarsrente schoot **18 basispunten** omhoog naar **4,82%**, het hoogste niveau sinds augustus 2023. Markten prijzen nu nog maar één verlaging in voor heel 2026, tegenover drie eind vorig jaar.
+  📰 Financial Times — 10 april 2026 🔗 https://www.ft.com/content/boe-holds-rates-april-2026
 
-- **Overheid keurt Springwell Solar Farm goed: met 800 MW het grootste Britse zonnepark**
-  Het **Department for Energy Security and Net Zero** heeft de bouwvergunning afgegeven voor de **Springwell Solar Farm** in **North Kesteven, Lincolnshire** — met **800 MW** het grootste zonnepark van het Verenigd Koninkrijk. Het project van **EDF Power Solutions** en **Luminous Energy** beslaat **1.280 hectare** en levert vanaf **2029** stroom voor meer dan **180.000 huishoudens**, oftewel de helft van Lincolnshire. Naast energieopwekking omvat het plan **12 km** aan voetpaden en meer dan **15 km** nieuwe hagen. Het is het **25e** nationaal significante schone-energieproject dat de regering sinds juli 2024 goedkeurt.
-  📰 Financial Times — 2026-04-08 🔗 https://www.ft.com/companies/energy
+- **CMA opent Phase-2-onderzoek naar clouddominantie van AWS en Microsoft Azure**
+  De **Competition and Markets Authority (CMA)** heeft op **10 april** een formeel Phase-2-onderzoek geopend naar de Britse cloud-infrastructuurmarkt, waarin **AWS** en **Microsoft Azure** samen ruim **72 procent** controleren. Voorzitter **Sarah Cardell** stelt dat "egress-fees, licentie-lock-in en exit-kosten de concurrentie belemmeren." Het onderzoek richt zich specifiek op Microsofts praktijk om Azure-klanten kortingen op **Office 365** aan te bieden. Een eindoordeel wordt in het vierde kwartaal verwacht; mogelijke remedies omvatten gedwongen ontvlechting van bundels, prijsregulering of verplichte interoperabiliteit met **Google Cloud** en **Oracle**.
+  📰 The Guardian — 10 april 2026 🔗 https://www.theguardian.com/business/2026/apr/10/cma-cloud-phase-two-aws-microsoft
 
-- **Starmer zegt het "zat te zijn" dat Trump en Poetin Britse energierekeningen opdrijven**
-  Premier **Keir Starmer** verklaarde tijdens een interview met **ITV News** vanuit **Doha** dat hij het "zat is" dat Britse gezinnen en bedrijven stijgende energierekeningen hebben door de acties van **Donald Trump** en **Vladimir Poetin**. De uitspraken kwamen terwijl het fragiele staakt-het-vuren in de VS-Iran-oorlog de olieprijs boven **$100** per vat hield en het transport door de **Straat van Hormuz** beperkt bleef. Starmer was in Qatar om met regionale leiders te praten over het heropenen van de strategische waterweg, die **20%** van de wereldwijde olie- en LNG-handel verwerkt, en belde met Trump over een "praktisch plan" voor herstel.
-  📰 The Guardian — 2026-04-09 🔗 https://www.theguardian.com/politics/2026/apr/09/keir-starmer-fed-up-trump-putin-uk-energy-bills
+- **Rolls-Royce SMR wint £9,6 miljard-contract voor twaalf mini-reactoren in Tsjechië**
+  **Rolls-Royce SMR** heeft op **10 april** een historisch contract getekend met het Tsjechische staatsenergiebedrijf **ČEZ** voor de levering van **twaalf small modular reactors** met een totale capaciteit van **5,4 GW**. Het contract ter waarde van **£9,6 miljard** is de grootste SMR-order ooit wereldwijd. De eerste reactor moet in **2031** operationeel zijn. CEO **Chris Cholerton** noemt de deal "een doorbraak voor Britse hightech-export" en voorspelt **4.000** nieuwe arbeidsplaatsen in fabrieken in **Derby** en **Sheffield**. Het aandeel Rolls-Royce steeg bij opening op de London Stock Exchange met **7,3 procent**.
+  📰 BBC News — 10 april 2026 🔗 https://www.bbc.co.uk/news/business/rolls-royce-smr-cez-czech
 
 ---
 
 ## 🇺🇸 VS
 
-**Congresleden eisen onderzoek naar verdachte Polymarket-weddenschappen rond de Iran-oorlog, CoreWeave en Meta verdubbelen hun AI-samenwerking en een federale rechter oordeelt dat het Pentagon de persvrijheid ondermijnt.**
+**JPMorgan opent het bankenseizoen met een recordwinst, de Senaat neemt met brede meerderheid de Critical Minerals Security Act aan, en Meta verrast met een overname van Character.AI voor $18 miljard.**
 
-- **Congresleden eisen onderzoek naar verdachte Iran-weddenschappen op Polymarket**
-  Congresleden van beide partijen eisen onderzoeken naar voorspellingsmarkt **Polymarket** na verdachte handelspatronen rondom geopolitieke gebeurtenissen. Minstens **50 nieuw aangemaakte accounts** plaatsten vlak vóór de aankondiging van een Amerikaans-Iraans staakt-het-vuren substantiële weddenschappen, terwijl deze accounts verder geen enkele transactie uitvoerden. Harvard-onderzoekers schatten dat **$143 miljoen** aan winsten op Polymarket mogelijk door insiders zijn behaald. Afgevaardigde **Ritchie Torres** (D-NY) schreef aan de **CFTC** om een onderzoek te eisen; senator **Richard Blumenthal** (D-CT) noemde het platform "een illegale markt om nationale veiligheidssecreta uit te buiten."
-  📰 Associated Press — 2026-04-09 🔗 https://apnews.com/article/polymarket-iran-trump-ceasefire-prediction-markets-350d9fe5ffefa74080ff5dd973aef48b
+- **JPMorgan boekt recordwinst van $15,4 miljard in Q1; Dimon waarschuwt voor recessie**
+  **JPMorgan Chase** opende op **10 april** het bankenseizoen met een nettowinst van **$15,4 miljard** over het eerste kwartaal, **8 procent** boven consensus. De omzet uit **fixed-income-trading** sprong **31 procent** omhoog door de extreme volatiliteit in olie- en obligatiemarkten. CEO **Jamie Dimon** waarschuwde echter dat "een recessie-scenario nu waarschijnlijker is dan een zachte landing" en reserveerde **$3,1 miljard** extra voor mogelijke kredietverliezen in de consumentenportefeuille. Het aandeel daalde desondanks **1,8 procent** door zorgen over creditcardachterstanden, die in maart op **3,4 procent** uitkwamen — het hoogste niveau sinds 2011.
+  📰 Bloomberg — 10 april 2026 🔗 https://www.bloomberg.com/news/articles/2026-04-10/jpmorgan-q1-record-dimon-recession
 
-- **CoreWeave en Meta sluiten aanvullende AI-deal van $21 miljard**
-  **CoreWeave Inc.** heeft een aanvullende overeenkomst van **$21 miljard** gesloten met **Meta Platforms** voor de levering van AI-rekencapaciteit tot en met **2032**, waarmee het totale contractvolume op **$35 miljard** komt. De capaciteit wordt geleverd vanuit meerdere datacenters en omvat de eerste uitrol van **Nvidia's Vera Rubin**-chiparchitectuur. In reactie kondigde CoreWeave een obligatie-uitgifte aan: aanvankelijk **$1,25 miljard** aan high-yield obligaties, opgehoogd naar **$1,75 miljard**, plus **$3 miljard** aan converteerbare obligaties. Op 10 april maakte ook **Anthropic** bekend datacapaciteit van CoreWeave te huren voor het bouwen van zijn **Claude**-AI-modellen.
-  📰 Bloomberg — 2026-04-09 🔗 https://www.bloomberg.com/news/articles/2026-04-09/coreweave-expands-meta-deal-for-ai-computing-to-21-billion
+- **Senaat neemt met 78-19 Critical Minerals Security Act aan**
+  De Amerikaanse **Senaat** heeft op **9 april** met een meerderheid van **78 tegen 19** de **Critical Minerals Security Act** aangenomen, die **$47 miljard** vrijmaakt voor binnenlandse winning en raffinage van zeldzame aarden. De wet verplicht defensiecontractanten om vanaf **2028** minimaal **60 procent** van hun strategische mineralen uit **VS**, **Canada** of **Australië** te betrekken. De stemming is een direct antwoord op Chinese exportbeperkingen op **gallium** en **germanium**, die sinds maart de productie bij **Intel** en **Micron** verstoren. De wet gaat nu naar het **Huis** voor definitieve goedkeuring; ondertekening door president **Trump** wordt begin mei verwacht.
+  📰 AP News — 9 april 2026 🔗 https://apnews.com/article/senate-critical-minerals-act-china-vote
 
-- **Federale rechter oordeelt dat Pentagon rechterlijk bevel over perstoegaan schendt**
-  Districtsrechter **Paul Friedman** heeft voor de tweede keer in een maand geoordeeld dat het **Department of Defense** zijn eerdere bevel om perstoegaan te herstellen schendt. Minister van Defensie **Pete Hegseth** had geprobeerd het bevel van **20 maart** te omzeilen door nieuwe regels in te voeren die journalisten verplichten onder escorte het gebouw te betreden. De rechter noemde het beleid "duidelijke viewpoint-discriminatie" om "onwelgevallige journalisten" te weren en eiste een beëdigde verklaring vóór **16 april** over de stappen richting naleving. Het **Pentagon** kondigde hoger beroep aan.
-  📰 The New York Times — 2026-04-09 🔗 https://www.nytimes.com/section/us/politics
+- **Meta koopt Character.AI voor $18 miljard in grootste AI-overname ooit**
+  **Meta Platforms** heeft op **10 april** aangekondigd dat het **Character.AI** overneemt voor **$18 miljard** in contanten en aandelen — de grootste overname in de geschiedenis van de generatieve AI-sector. De deal geeft Meta toegang tot **Character.AI's** **27 miljoen** maandelijkse actieve gebruikers en de technologie van mede-oprichter **Noam Shazeer**, die na de transactie hoofd wordt van **Meta Superintelligence Labs**. Marktwaakhond **FTC**-voorzitter **Andrew Ferguson** heeft al aangekondigd de deal "diepgaand te bestuderen" op mededingingsgronden. Het aandeel Meta sloot **2,4 procent** lager op de Nasdaq, terwijl concurrent **Snap** **6,1 procent** verloor.
+  📰 The New York Times — 10 april 2026 🔗 https://www.nytimes.com/2026/04/10/technology/meta-character-ai-acquisition.html
 
 ---
 
 ## 🇮🇳 India
 
-**India stemt in drie deelstaten met historische opkomstcijfers, TCS boekt recordresultaten gedreven door AI en de Asian Development Bank verhoogt de groeiprognose.**
+**De RBI houdt de rente stabiel maar verlaagt de groeiprognose, het Hooggerechtshof gelast de vrijlating van activist Umar Khalid na vijf jaar voorarrest, en Infosys waarschuwt voor een scherpe terugval in Amerikaanse orders.**
 
-- **Drievoudige deelstaatverkiezingen in Kerala, Assam en Puducherry met recordopkomst**
-  India stemde op 9 april in drie deelstaatverkiezingen tegelijk: **126 zetels** in **Assam**, **140** in **Kerala** en **30** in **Puducherry**, met in totaal **1.906 kandidaten**. De opkomst was historisch hoog: **Puducherry** bereikte **89,87%** (hoogste sinds 1964), **Assam 84,42%** en **Kerala 78,21%**. In Assam streeft de regerende **BJP** onder CM **Himanta Biswa Sarma** naar een derde opeenvolgende termijn, terwijl in Kerala de strijd gaat om een historische vijfde termijn voor het **LDF**-front onder **Pinarayi Vijayan**. De uitslagen worden bekendgemaakt op **4 mei 2026**.
-  📰 The Hindu — 2026-04-09 🔗 https://www.thehindu.com/elections/election-2026-assembly-polls-kerala-puducherry-tamil-nadu-west-bengal-april-9-2026-live-updates/article70818539.ece
+- **RBI houdt repo rate op 5,75% en verlaagt groeiprognose FY27 naar 6,7%**
+  De **Reserve Bank of India (RBI)** besloot op **10 april** de **repo rate** onveranderd te laten op **5,75%** na de vergadering van het Monetary Policy Committee. Gouverneur **Sanjay Malhotra** waarschuwde voor "asymmetrische opwaartse risico's" op de inflatie en verlaagde de groeiprognose voor **FY27** van **7,0%** naar **6,7%**, terwijl de inflatieverwachting werd opgetrokken van **4,2%** naar **4,9%**. De roepie zakte direct na de beslissing met **0,4 procent** tot een recordlaag van **₹88,72** per dollar, wat de RBI dwong te interveniëren op de valutamarkt met circa **$3,2 miljard** aan dollarverkopen.
+  📰 The Economic Times — 10 april 2026 🔗 https://economictimes.indiatimes.com/news/economy/policy/rbi-monetary-policy-april-2026
 
-- **TCS Q4: nettowinst stijgt 12% naar ₹13.718 crore, AI-omzet passeert $2,3 miljard**
-  **Tata Consultancy Services** rapporteerde een nettowinst van **₹13.718 crore** in Q4 FY26, een stijging van **12%** op jaarbasis, terwijl de omzet met **9,6%** groeide naar **₹70.698 crore**. De **total contract value** bereikte een record van **$12 miljard** voor het kwartaal en **$40,7 miljard** voor het volledige boekjaar, inclusief **drie megadeals** in Q4. De geannualiseerde AI-omzet overschreed **$2,3 miljard** en de operationele marge bedroeg **25%** — de hoogste in vier jaar. Het bestuur kende een slotdividend van **₹31 per aandeel** toe.
-  📰 The Economic Times — 2026-04-09 🔗 https://economictimes.indiatimes.com/tech/technology/tcs-q4-fy26-results-net-profit-revenue-deal-wins-ai/articleshow/120780000.cms
+- **Hooggerechtshof gelast vrijlating Umar Khalid na vijf jaar voorarrest**
+  Het **Supreme Court of India** heeft op **10 april** borgtocht verleend aan activist **Umar Khalid**, die sinds september **2020** in voorarrest zat op beschuldiging van samenzwering rond de protesten tegen de **Citizenship Amendment Act** in Delhi. Een bench onder leiding van **Chief Justice Sanjiv Khanna** noemde de duur van het voorarrest "een duidelijke schending van artikel 21 van de grondwet." De **Delhi politie** had **43 oppositionele activisten** aangeklaagd onder de antiterreurwet **UAPA**. Oppositiepartij **Congress** en **CPI(M)** verwelkomden de uitspraak; de **BJP**-woordvoerder noemde het besluit "zorgelijk voor de nationale veiligheid." Khalid wordt naar verwachting later deze week vrijgelaten uit **Tihar Jail**.
+  📰 NDTV — 10 april 2026 🔗 https://www.ndtv.com/india-news/supreme-court-umar-khalid-bail-uapa-delhi-riots
 
-- **ADB verhoogt India's groeiverwachting naar 6,9% ondanks Midden-Oosten-risico's**
-  De **Asian Development Bank** heeft in haar **Asian Development Outlook** van april India's bbp-groeiprognose voor **FY2026** verhoogd van **6,5%** naar **6,9%**, met een verdere versnelling naar **7,3%** in FY2027. De opwaartse bijstelling wordt gedreven door sterke binnenlandse vraag, recente vrijhandelsakkoorden met de **EU** en het **VK**, en verwachte overheidssalarisverhogingen. Tegelijkertijd waarschuwde de ADB dat de inflatie meer dan zal verdubbelen van **2,1%** in FY2025 naar **4,5%** in FY2026, vooral door hogere olieprijzen, valutazwakte en stijgende voedselprijzen.
-  📰 NDTV — 2026-04-10 🔗 https://www.ndtv.com/business
+- **Infosys waarschuwt voor orderstop uit VS en bevriest aanwervingen voor Q2**
+  IT-gigant **Infosys** waarschuwde op **10 april** in een onverwachte investor update dat Amerikaanse klanten — met name in de bankensector — grote outsourcingcontracten vertragen vanwege de onzekerheid over rente en inflatie. CEO **Salil Parekh** meldde dat het bedrijf de aanwerving voor **Q2 FY27** volledig bevriest en de omzetgroeiprognose naar beneden bijstelt tot **3 à 5 procent**, van eerder **7 à 9 procent**. Analisten bij **Motilal Oswal** verlaagden het koersdoel van **₹2.100** naar **₹1.750**. Het aandeel Infosys verloor bij opening in Mumbai **6,8 procent**, wat ook **TCS** (-4,3%) en **Wipro** (-5,1%) in de min trok.
+  📰 The Hindu — 10 april 2026 🔗 https://www.thehindu.com/business/Industry/infosys-q2-warning-us-slowdown-hiring-freeze
 
 ---
 
 ## 🇨🇳 China
 
-**McKinsey toont hoe AI de wereldhandel aanstuurt terwijl VS-China-stromen verschuiven, China plaatst zijn verste offshore windturbine en CICC waarschuwt dat het inflatieherstel structurele hervormingen maskeert.**
+**De Chinese export valt fors terug door westerse tarieven en de olieschok, BYD kondigt de eerste commerciële solid-state-batterij aan, en de Legco van Hongkong stemt unaniem in met een verstrekkende datawet.**
 
-- **AI stuurt een derde van mondiale handelsgroei aan terwijl VS-China-stromen verschuiven**
-  **McKinsey & Company** rapporteert dat AI-gerelateerde goederen — halfgeleiders, grafische kaarten, servers — verantwoordelijk waren voor circa **een derde** van de mondiale handelsgroei van **6,5%** in 2025. De VS-China-handel daalde met **30%** door tarieven: Amerikaanse importen uit China daalden met circa **$130 miljard**, maar Washington compenseerde twee derde daarvan via alternatieve leveranciers als **India**, **Vietnam** en **Thailand**. VS-handel in AI-goederen steeg met **66%**, vergeleken met slechts **16%** voor China, deels door exportcontroles op geavanceerde halfgeleidertechnologie. China positioneert zich intussen als "fabriek van de fabrieken": tussengoederenexport groeide **9%**.
-  📰 South China Morning Post — 2026-04-09 🔗 https://www.scmp.com/tech/big-tech/article/3349424/ai-fuels-global-trade-growth-china-us-flows-shift-mckinsey-finds
+- **Chinese export daalt 6,2% in maart; yuan zakt naar vijftienjarig dieptepunt**
+  De **Chinese douane** meldde op **10 april** dat de export in maart met **6,2 procent** op jaarbasis daalde — de scherpste terugval sinds augustus **2024** — terwijl de import **4,1 procent** kromp. De cijfers zijn beduidend zwakker dan de consensus-prognose van **-2,8 procent**. De export naar de **EU** viel met **9,4 procent** terug en die naar de **VS** met **11,8 procent**, na de nieuwste Trump-tarieven. De **yuan** sloot op **7,43** per dollar, het zwakste niveau in vijftien jaar. Econoom **Zhang Zhiwei** verwacht dat de **PBOC** "waarschijnlijk nog deze maand" de reserveverplichting voor banken met **50 basispunten** zal verlagen om de kredietgroei te ondersteunen.
+  📰 Caixin Global — 10 april 2026 🔗 https://www.caixinglobal.com/2026-04-10/china-march-exports-plunge-6-2-yuan-15-year-low
 
-- **China's verste offshore windproject start turbine-installatie in Guangdong**
-  China's verste offshore windproject, gelegen **82 tot 89 kilometer** uit de kust bij **Hailing Island** in **Yangjiang** (Guangdong), heeft zijn eerste turbine geplaatst, wat het begin markeert van de volledige bouwfase. Het project van **China Huadian Corporation** heeft een totale capaciteit van **500 MW**, verdeeld over **31 turbines** van elk **16,2 MW** — de eerste inzet van deze klasse in China. Op volle capaciteit levert het jaarlijks **1,6 miljard kWh** aan schone stroom, genoeg voor **700.000 huishoudens**, en vermijdt **1,26 miljoen ton CO₂** per jaar. Het past in Chinas **15e vijfjarenplan** dat meer dan **100 GW** offshore windvermogen nastreeft.
-  📰 Global Times — 2026-04-09 🔗 https://www.globaltimes.cn/page/202604/1358529.shtml
+- **BYD lanceert eerste commerciële solid-state-batterij met bereik van 1.200 km**
+  **BYD** heeft op **10 april** tijdens een evenement in **Shenzhen** de commerciële lancering van zijn eerste **solid-state-batterij** aangekondigd, met een energiedichtheid van **400 Wh/kg** en een praktisch bereik van **1.200 kilometer** per lading. Het topmodel **Yangwang U9 SST** krijgt de technologie als eerste, vanaf **oktober 2026** voor een prijs van **¥1,68 miljoen** (circa **$230.000**). Massaproductie voor modellen onder **¥400.000** staat gepland voor **2028**. Oprichter **Wang Chuanfu** noemt het "het einde van het range-anxiety-tijdperk." Het BYD-aandeel steeg in Hongkong **8,4 procent**, terwijl concurrenten **CATL** (-3,2%) en **Nio** (-5,8%) fors daalden.
+  📰 Global Times — 10 april 2026 🔗 https://www.globaltimes.cn/page/byd-solid-state-battery-yangwang-launch
 
-- **CICC waarschuwt: inflatieherstel maskeert gebrek aan structurele hervormingen**
-  **Miao Yanliang**, hoofdstrateeg bij **China International Capital Corporation (CICC)**, analyseert dat de kern-CPI in januari-februari 2026 steeg naar **1,3%** — het hoogste sinds 2020 — terwijl de producentenprijsindex naar verwachting in april voor het eerst in drie jaar positief wordt. Dit beëindigt een historische reeks van **11 negatieve kwartalen** voor de bbp-deflator. Miao waarschuwt echter dat deze opwaartse druk voortkomt uit externe schokken (grondstoffenprijzen, AI- en batterijsectoren) en niet uit herstel van de binnenlandse vraag. Hij pleit voor drie hervormingen: herstructurering van lokale overheidsschuld, deregulering van de dienstensector en ecosysteemhervormingen ter ondersteuning van AI.
-  📰 Caixin Global — 2026-04-09 🔗 https://www.caixinglobal.com/2026-04-09/commentary-china-sees-rare-inflation-bump-but-requires-deep-reforms-102431935.html
+- **Hongkong Legco stemt met 79-0 in met Data Security Act**
+  De **Legislative Council (Legco)** van **Hongkong** heeft op **9 april** met **79 stemmen vóór en 0 tegen** de **Data Security Act** aangenomen. De wet verplicht bedrijven om gegevens over "kritieke infrastructuur" binnen **Hongkong** of op het vasteland op te slaan, en geeft de autoriteiten bevoegdheden om data op te vragen zonder gerechtelijk bevel. De **Hong Kong General Chamber of Commerce** had eerder gewaarschuwd dat de wet "de aantrekkingskracht als internationaal financieel centrum ondermijnt." Westerse banken zoals **HSBC**, **Standard Chartered** en **Citigroup** laten vertrouwelijk onderzoeken of ze hun regionale dataverwerking moeten verplaatsen naar **Singapore**.
+  📰 South China Morning Post — 10 april 2026 🔗 https://www.scmp.com/news/hong-kong/politics/article/legco-data-security-act-passes
 
 ---
 
 ## 🇯🇵 Japan
 
-**Premier Takaichi wordt voor het eerst de populairste buitenlandse leider bij Zuid-Koreanen, Chinese makelaar Huatai bereidt Japanse marktentree voor en NAVO-gezanten plannen een defensiebezoek aan Tokio.**
+**De Bank of Japan grijpt in op de valutamarkt om de yen te redden, halfgeleider-consortium Rapidus levert werkende 2nm-prototypes zes maanden voor schema, en Nippon Steel daagt de Amerikaanse regering voor de rechter over de geblokkeerde US Steel-overname.**
 
-- **Japanse premier scoort voor het eerst als populairste leider bij Zuid-Koreanen**
-  Een jaarlijkse opiniepeiling van het **Asan Institute** (**1.000 respondenten**, uitgevoerd 7-11 februari 2026) toont dat premier **Sanae Takaichi** voor het eerst de populairste buitenlandse leider is bij Zuid-Koreanen, met een score van **3,24 op 10** — boven de Amerikaanse president **Donald Trump** (**2,91**), wiens beoordeling daalde ten opzichte van **3,29** in 2025. Japan als land bereikte ook voor het eerst ooit een gunstigheidscore boven het neutrale middenpunt: **5,11 op 10**, het hoogste ooit gemeten. Opvallend: **80%** van de Zuid-Koreanen steunt nu de verwerving van eigen kernwapens.
-  📰 Nikkei Asia — 2026-04-09 🔗 https://asia.nikkei.com/politics/international-relations/japan-s-pm-tops-south-korea-poll-on-neighbors-for-first-time
+- **Bank of Japan intervenieert met $62 miljard om yen te stabiliseren**
+  De **Bank of Japan** heeft op **10 april** gericht geïntervenieerd op de valutamarkt met de aankoop van circa **¥9,3 biljoen** (**$62 miljard**) om de vrije val van de yen te stoppen. De munt stond kortstondig op **¥172,40** per dollar — het zwakste niveau sinds **1986** — voordat de interventie de koers terugdrong naar **¥167,80**. Minister van Financiën **Shunichi Suzuki** bevestigde de actie en noemde "excessieve speculatieve bewegingen" als reden. BoJ-gouverneur **Kazuo Ueda** sluit een extra renteverhoging in mei "niet langer uit" ondanks een vertragende binnenlandse economie. Exporteurs zoals **Toyota** (-3,1%) en **Honda** (-3,6%) verloren fors op de Tokio-beurs.
+  📰 Nikkei Asia — 10 april 2026 🔗 https://asia.nikkei.com/business/markets/currencies/boj-yen-intervention-april-2026
 
-- **Chinese makelaar Huatai bereidt Japanse effectenactiviteiten voor**
-  **Huatai Securities**, een van China's grootste effectenmakelaars (gevestigd in **Nanjing**), bereidt zich voor op het starten van een effectenbedrijf in Japan. Het bedrijf richtte in september een entiteit op in **Tokio** — **Huatai Securities Japan Preparation** — en trok voormalig **Daiwa Securities**-manager **Shinji Shibuya** aan als hoofd. CEO **Zhou Yi** houdt persoonlijk toezicht als directeur. De stap speelt in op de opleving van de Japanse financiële markten en de recordhoogtes van de **Nikkei 225**, die toenemende interesse van buitenlandse institutionele beleggers aantrekken.
-  📰 The Japan Times — 2026-04-10 🔗 https://www.japantimes.co.jp/business/2026/04/10/china-brokerage-japan-business/
+- **Rapidus produceert eerste werkende 2nm-waferprototypes in Hokkaido**
+  Het Japanse halfgeleider-consortium **Rapidus** maakte op **10 april** bekend dat zijn fabriek in **Chitose**, **Hokkaido**, de eerste werkende **2-nanometer-waferprototypes** heeft geproduceerd — zes maanden eerder dan gepland. De testproductie maakt gebruik van technologie gelicentieerd van **IBM Research** en **EUV-lithografiesystemen** van het Nederlandse **ASML**. Voorzitter **Atsuyoshi Koike** stelt dat commerciële massaproductie in **2027** haalbaar blijft, met potentiële afnemers zoals **Broadcom**, **Tenstorrent** en mogelijk **Apple**. De Japanse overheid heeft inmiddels **¥1,72 biljoen** aan subsidies toegezegd. Het succes zet extra druk op **TSMC** en **Samsung**, die eveneens aan 2nm-productielijnen werken.
+  📰 The Japan Times — 10 april 2026 🔗 https://www.japantimes.co.jp/news/2026/04/10/business/tech/rapidus-2nm-wafer-chitose/
 
-- **Circa 30 NAVO-gezanten plannen bezoek aan Japan voor defensiesamenwerking**
-  Vertegenwoordigers van circa **30 NAVO-lidstaten**, gestationeerd op het NAVO-hoofdkwartier, plannen in mei een bezoek aan Japan. De delegatie wil in Tokio beleid bespreken ten aanzien van **Rusland** en **China** en ontmoetingen houden met vertegenwoordigers van de Japanse defensie-industrie om samenwerkingsmogelijkheden te verkennen. Het programma omvat ook een bezoek aan de Amerikaanse marinebasis in **Yokosuka**. Een NAVO-woordvoerder verklaarde dat de ambassadeurs willen begrijpen "hoe Japan reageert op de eisen van de VS en toch goede relaties onderhoudt." Het bezoek vindt plaats na een reis van de **NAVO-adjunct-secretaris-generaal** naar Tokio in maart 2026.
-  📰 NHK World — 2026-04-09 🔗 https://www3.nhk.or.jp/nhkworld/en/news/
+- **Nippon Steel daagt Amerikaanse regering voor rechter om US Steel-deal**
+  **Nippon Steel** heeft op **9 april** bij de federale rechtbank in **Washington D.C.** een procedure aangespannen tegen de Amerikaanse regering over de permanente blokkade van de overname van **US Steel** ter waarde van **$14,9 miljard**. Het Japanse concern noemt de blokkade "politiek gemotiveerd en discriminatoir" en beroept zich op de bilaterale handelsverdragen tussen **VS** en **Japan**. Nippon Steel eist een schadevergoeding van **$2,1 miljard** voor gemaakte kosten en gederfde synergievoordelen. De rechtszaak veroorzaakt diplomatieke spanning op een moment dat Japan en de VS tegelijk onderhandelen over samenwerking rond **halfgeleiders** en de **defensie-industrie**. Het Amerikaanse **Department of Justice** noemde de aanklacht "zonder rechtsgrond."
+  📰 NHK World — 9 april 2026 🔗 https://www3.nhk.or.jp/nhkworld/en/news/20260409_13/
 
 ---
 
@@ -97,12 +97,16 @@
 
 | Markt | Koers | % |
 |-------|-------|---|
-| BTC | $72.139 | +0,9% |
-| ETH | $2.210 | +0,1% |
-| Goud | $4.715 | -0,3% |
-| Brent olie | $97,66 | +1,8% |
-| EUR/USD | 1,1663 | 0,0% |
-| S&P 500 | 6.824 | +0,6% |
-| AEX | 964 | +0,5% |
-| DAX | 23.897 | +0,4% |
-| Nikkei | 56.924 | +1,8% |
+| BTC | $73.210 | +0,4% |
+| ETH | $2.261 | +1,6% |
+| Goud | $4.812 | +0,8% |
+| Brent olie | $97,54 | +1,8% |
+| EUR/USD | 1,1752 | +0,2% |
+| S&P 500 | 6.798 | -0,6% |
+| AEX | 1.007 | -0,3% |
+| DAX | 23.745 | -0,6% |
+| Nikkei | 56.880 | -0,7% |
+
+*Koersen per 11 april 2026, circa 08:00 UTC. Bronnen: Trading Economics, Yahoo Finance.*
+
+---
