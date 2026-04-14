@@ -1,13 +1,12 @@
 # Scan Europa
 
-Schrijf een nieuwsoverzicht voor 6 landen. Commit naar `main` in repo `LeeLars/aanmelden-gs-tracking`. GEEN nieuwe branch.
+Schrijf een nieuwsoverzicht voor 5 landen. Commit naar `main` in repo `LeeLars/aanmelden-gs-tracking`. GEEN nieuwe branch.
 
 ## Landen & bronnen
 
 - 🇧🇪 België: standaard.be, tijd.be, vrt.be/vrtnws
 - 🇳🇱 Nederland: nos.nl, nrc.nl, fd.nl
 - 🇹🇷 Turkije: dailysabah.com, hurriyetdailynews.com, trtworld.com
-- 🇷🇺 Rusland: themoscowtimes.com, meduza.io, tass.com
 - 🇫🇷 Frankrijk: france24.com, lemonde.fr, lesechos.fr
 - 🇩🇪 Duitsland: spiegel.de, handelsblatt.com, tagesschau.de
 
@@ -29,7 +28,7 @@ Zoek per land het nieuws van vandaag. Gebruik de bronnen hierboven — elk land 
 
 ## Werk parallel en snel
 
-Zoek de 6 landen **parallel** op. Geen extra research-stappen, geen sectie-pagina's openen. Direct zoeken → selecteren → schrijven. Tijdsbudget is krap.
+Zoek de 5 landen **parallel** op. Geen extra research-stappen, geen sectie-pagina's openen. Direct zoeken → selecteren → schrijven. Tijdsbudget is krap.
 
 ## Bestand: `werk/scan-1.md`
 
