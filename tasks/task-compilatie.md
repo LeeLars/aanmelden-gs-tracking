@@ -4,8 +4,6 @@ Plak de scans samen tot de krant. Commit naar `main` in repo `LeeLars/aanmelden-
 
 ## Stap 1: Combineer via bash
 
-Voer dit bash-commando uit (pas de datum aan):
-
 ```bash
 DATUM=$(date +%Y-%m-%d)
 MAAND=$(date +%m)
@@ -26,14 +24,26 @@ cat > nieuwskrant-latest.md << EOF
 
 EOF
 
-cat werk/scan-1.md >> nieuwskrant-latest.md
+# Voeg scan-1 toe als die bestaat, anders een melding
+if [ -f werk/scan-1.md ]; then
+  cat werk/scan-1.md >> nieuwskrant-latest.md
+else
+  echo "> ⚠️ Scan Europa was niet beschikbaar." >> nieuwskrant-latest.md
+fi
+
 echo "" >> nieuwskrant-latest.md
-cat werk/scan-2.md >> nieuwskrant-latest.md
+
+# Voeg scan-2 toe als die bestaat, anders een melding
+if [ -f werk/scan-2.md ]; then
+  cat werk/scan-2.md >> nieuwskrant-latest.md
+else
+  echo "> ⚠️ Scan Wereld was niet beschikbaar." >> nieuwskrant-latest.md
+fi
 ```
 
 ## Stap 2: Voeg marktoverzicht toe
 
-Zoek actuele koersen op via web search (BTC, ETH, Goud, Brent olie, EUR/USD, S&P 500, AEX, DAX, Nikkei). Voeg deze tabel toe aan `nieuwskrant-latest.md` met echo/cat:
+Zoek actuele koersen op via web search (BTC, ETH, Goud, Brent olie, EUR/USD, S&P 500, AEX, DAX, Nikkei). Voeg de tabel toe met echo/cat:
 
 ```
 ---
@@ -55,19 +65,17 @@ Zoek actuele koersen op via web search (BTC, ETH, Goud, Brent olie, EUR/USD, S&P
 
 ## Stap 3: Voeg "De Grote Lijnen" toe
 
-Schrijf een sectie "De Grote Lijnen" en voeg die toe aan het einde van het bestand:
+Voeg toe aan het einde:
 
 ```
 ---
 
 ## 🌍 De Grote Lijnen
 
-[4-6 zinnen. Welke thema's komen in meerdere landen terug? Welke ontwikkelingen hangen samen? Vooruitblik.]
+[4-6 zinnen. Rode draden, dwarsverbanden, vooruitblik.]
 ```
 
-**Variatie-regel:** Vermijd dat "De Grote Lijnen" vandaag draait om hetzelfde dominante thema als eergisteren. Zoek dwarsverbanden over **meerdere** thema's — niet alleen het meest voor de hand liggende.
-
-Gebruik echo/cat om dit toe te voegen — schrijf NIET het hele bestand opnieuw.
+Schrijf NIET het hele bestand opnieuw — gebruik echo/cat.
 
 ## Stap 4: Kopieer naar archief en commit
 
@@ -80,14 +88,12 @@ git commit -m "nieuwskrant $DATUM"
 ## Stap 5: Opruimen
 
 ```bash
-git rm werk/scan-1.md werk/scan-2.md
-git commit -m "opruimen $DATUM"
+git rm --ignore-unmatch werk/scan-1.md werk/scan-2.md
+git commit --allow-empty -m "opruimen $DATUM"
 git push origin main
 ```
 
 ## Stap 6: Telegram
-
-Verstuur de krant als tekst naar Telegram. Telegram heeft een limiet van 4096 tekens per bericht, dus split het bestand op in stukken.
 
 ```bash
 DATUM=$(date +%Y-%m-%d)
@@ -95,7 +101,6 @@ BOT="TELEGRAM_BOT_TOKEN"
 CHAT="TELEGRAM_CHAT_ID"
 API="https://api.telegram.org/bot$BOT/sendMessage"
 
-# Split per land (op de '---' scheidingslijn) en verstuur elk deel apart
 csplit -z nieuwskrant-latest.md '/^---$/' '{*}' -f /tmp/nk_ -b '%02d.txt' 2>/dev/null
 
 for f in /tmp/nk_*.txt; do
