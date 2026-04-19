@@ -4,37 +4,37 @@
 
 ## 🇧🇪 België
 
-**Begrotingsdruk, bedrijfsverhuizingen en chipinnovatie tekenen een België dat zoekt naar economische veerkracht.**
+**België worstelt met een giftige cocktail van begrotingsdruk, dalend internationaal vertrouwen en een droneschandaal dat de regering-De Wever onder vuur legt.**
 
-- **Regering bereikt begrotingsakkoord na marathononderhandelingen**
-  Na meer dan **48 uur** onderhandelen bereikte de federale regering onder premier **Alexander De Croo** een akkoord over een begrotingsaanpassing van **€3,2 miljard** aan besparingen en nieuwe inkomsten. Het pakket omvat een **digitale dienstenbelasting van 3%** op grote techplatformen, strengere regels voor fiscale aftrekposten en een bevriezing van kabinetsbudgetten. **N-VA**-leider **Bart De Wever** hekelde het akkoord vanuit de oppositie als "meer belastingen, nul hervormingen."
-  📰 VRT NWS — 19 april 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/04/19/belgische-regering-begrotingsakkoord/
+- **Voka tegen 'dure' energiesteun nu Moody's Belgische rating verlaagt**
+  Ratingbureau **Moody's** verlaagde vrijdagavond de Belgische kredietwaardigheid van **Aa3 naar A1** — de tweede verlaging na die van **Fitch** eind 2025. Werkgeversorganisatie **Voka** keerde zich tegen dure energiesteunmaatregelen: CEO **Frank Beckx** waarschuwde dat "de slechtere kredietscore de begrotingssituatie nog moeilijker maakt." De dieselprijs bereikte eerder deze maand een record van **€2,489 per liter** en het **Planbureau** verwacht nu **3,2%** inflatie voor 2026 (was 1,9%). De regering beslist dinsdag 22 april over concrete steunmaatregelen.
+  📰 VRT NWS — 18 april 2026 🔗 https://www.vrt.be/vrtnws/nl/liveblog/voka-tegen-dure-energiesteun-nu-moodys-belgische-rating-verla~1774343778229/
 
-- **AB InBev verplaatst Europees hoofdkantoor van Leuven naar Amsterdam**
-  **AB InBev**, 's werelds grootste brouwer, verhuist zijn Europees hoofdkantoor van **Leuven** naar **Amsterdam** — een verlies van circa **800 banen** in België. CEO **Michel Doukeris** verwees naar het gunstigere fiscale klimaat in Nederland en de betere bereikbaarheid via Schiphol. Minister van Economie **Pierre-Yves Dermagne** noemde de verhuizing "een wake-up call voor het Belgische vestigingsklimaat." Vakbonden **ACV** en **ABVV** kondigden acties aan en eisen een sociaal plan.
-  📰 De Tijd — 18 april 2026 🔗 https://www.tijd.be/ondernemen/voeding-drank/ab-inbev-verplaatst-europees-hoofdkantoor-naar-amsterdam/
+- **Gerechtelijk onderzoek naar dronecontract van Theo Francken**
+  Het **Brusselse parket** opende een gerechtelijk onderzoek naar de aankoop van drones en antidronewapens door **Defensie**, wegens mogelijke **belemmering van openbare aanbestedingen** en **ambtelijke corruptie**. Aanleiding is een VRT Pano-reportage die aantoonde dat minister **Theo Francken** (N-VA) versneld **€50 miljoen** uitgaf aan antidronesystemen — zonder openbare aanbesteding en ondanks een negatief advies van de **Inspectie van Financiën**. Detectieapparatuur van bedrijf **Senhive** zou vier keer te duur zijn ingekocht (**€84.000** per stuk). Francken bestelde een interne audit.
+  📰 De Standaard — 17 april 2026 🔗 https://www.standaard.be/binnenland/gerechtelijk-onderzoek-naar-dronecontract-van-theo-francken/146224561.html
 
-- **Imec-doorbraak: nieuwe chiparchitectuur 10x energiezuiniger**
-  Het Leuvense onderzoekscentrum **Imec** presenteerde een doorbraak in chiparchitectuur die processors **tien keer energiezuiniger** kan maken dan huidige ontwerpen. Het nieuwe **3D-gestapelde transistorontwerp**, ontwikkeld samen met **TSMC** en **Samsung**, richt zich op het groeiende energieverbruik van AI-datacenters. CEO **Luc Van den hove** verwacht commerciële beschikbaarheid tegen **2029**. Imec's jaarbudget overschrijdt inmiddels de **€800 miljoen**.
-  📰 De Standaard — 19 april 2026 🔗 https://www.standaard.be/cnt/dmf20260419_94827365
+- **Ratingverlaging dreigt begrotingssanering De Wever nog moeilijker te maken**
+  **Moody's** oordeelde dat de "huidige regering er niet in zal slagen de schuldenlast te stabiliseren" en wees op stijgende rentelasten, extra defensie-uitgaven en vergrijzingsdruk. Premier **Bart De Wever** (N-VA) reageerde dat "extra inspanningen nodig zijn om het marktvertrouwen te herstellen." Het bijzondere risico: na een tweede verlaging door een groot ratingbureau worden bepaalde beleggingsfondsen verplicht Belgische staatsobligaties te verkopen, wat verkoopdruk en **hogere rentes** veroorzaakt. De regering moet al **€4,9 miljard** extra besparen tegen 2029.
+  📰 De Tijd — 18 april 2026 🔗 https://www.tijd.be/r/t/1/id/10657050
 
 ---
 
 ## 🇳🇱 Nederland
 
-**De handelsoorlog met de VS dwingt Nederland tot noodmaatregelen, treft ASML hard en versnelt de nationale AI-strategie.**
+**Nederland worstelt met zijn positie in een verschuivende geopolitieke orde: Chinese wetgeving bedreigt techbedrijven, de VS blokkeert een Nederlandse overname en TomTom verliest zijn oprichters.**
 
-- **Kabinet presenteert noodpakket van €3 miljard tegen gevolgen handelsoorlog**
-  De **Nederlandse regering** presenteerde een noodpakket van **€3 miljard** om de impact van Amerikaanse handelstarieven op te vangen. Premier **Dick Schoof** waarschuwde dat de tarieven naar schatting **80.000 Nederlandse banen** bedreigen, vooral in de agrarische export en hightech-maakindustrie. Het pakket omvat tijdelijke loonsubsidies, belastinguitstel voor getroffen bedrijven en een **innovatiefonds van €500 miljoen**. **GroenLinks-PvdA**-leider **Frans Timmermans** noemde het "te weinig, te laat" en eiste structurelere economische hervormingen.
-  📰 NOS — 19 april 2026 🔗 https://nos.nl/artikel/2026-kabinet-noodpakket-handelsoorlog
+- **Chinese anti-drukwetgeving bedreigt Europese bedrijven als ASML**
+  China voerde nieuwe wetgeving in die individuen en organisaties verbiedt mee te werken aan buitenlandse maatregelen die Chinese belangen schaden. Overtreders riskeren boetes, bevroren investeringen en beperkte markttoegang. De wet richt zich ook op indirecte maatregelen — zoals de Amerikaanse chipexportrestricties die **ASML** raken. Volgens **Guangyu Qiao-Franco** van de **Radboud Universiteit** is de wet "een reactie op toenemende Westerse pogingen om China uit te sluiten." **Jens Eskelund**, voorzitter van de **European Chamber of Commerce in China**, waarschuwt dat de onduidelijkheid het zakendoen aanzienlijk bemoeilijkt.
+  📰 NOS — 18 april 2026 🔗 https://nos.nl/artikel/2610950-chinese-wetgeving-om-buitenlandse-druk-op-bedrijven-tegen-te-gaan
 
-- **ASML waarschuwt voor omzetdaling door verscherpte exportbeperkingen**
-  **ASML** gaf een winstwaarschuwing: de omzet voor 2026 valt naar verwachting **€2 tot 3 miljard** lager uit dan eerder voorspeld. CEO **Christophe Fouquet** wees op verscherpte export­beperkingen naar China, dat in 2024 nog bijna **30%** van ASML's omzet vertegenwoordigde. Het aandeel daalde **7,4%** op de Amsterdamse beurs. ASML versnelt diversificatie met **€1,2 miljard** aan nieuwe faciliteiten in **Frankrijk** en **Zuid-Korea**.
-  📰 Het Financieele Dagblad — 18 april 2026 🔗 https://fd.nl/bedrijfsleven/asml-omzetdaling-exportbeperkingen
+- **Chinese overname van oud-Philips-dochter Lumileds klapt na Amerikaans bezwaar**
+  De Chinese LED-chipfabrikant **San'an Optoelectronics** en partner **Inari Amertron Berhad** trokken hun bod van **$239 miljoen** op het Nederlandse technologiebedrijf **Lumileds** in, nadat het Amerikaanse **CFIUS** oordeelde dat de transactie "onoplosbare risico's voor de nationale veiligheid" oplevert. Lumileds, gevestigd in **Eindhoven** met circa **3.300 medewerkers** in meer dan 15 landen, was ooit een dochteronderneming van **Philips**. Het is de tweede keer dat een verkoop aan een Chinese koper strandt op Amerikaans verzet.
+  📰 Het Financieele Dagblad — 18 april 2026 🔗 https://fd.nl/bedrijfsleven/1593906/chinese-overname-lumileds-klapt-na-amerikaans-bezwaar
 
-- **Nederland lanceert nationale AI-strategie met investering van €2 miljard**
-  Het kabinet onthulde een **nationale AI-strategie** met een investering van **€2 miljard** over vijf jaar. Staatssecretaris Digitalisering **Alexandra van Huffelen** presenteerde drie pijlers: soevereine AI-infrastructuur, **50.000** opgeleide AI-specialisten tegen 2030 en ethische richtlijnen voor AI in de publieke sector. Kernstuk is een **nationaal AI-rekencentrum** in Almere, gebouwd met **SURF** en **TNO**. Critici merken op dat Nederland achterloopt op **Frankrijk** en **Duitsland**.
-  📰 NRC — 18 april 2026 🔗 https://www.nrc.nl/nieuws/2026/04/18/nederland-ai-strategie
+- **TomTom-oprichters Goddijn en Vigreux nemen afscheid na 35 jaar**
+  De oprichters van **TomTom**, **Harold Goddijn** en **Corinne Goddijn-Vigreux**, namen na **35 jaar** definitief afscheid van het navigatiebedrijf. Op de aandeelhoudersvergadering van **16 april** droeg Goddijn het CEO-schap over aan **Mike Schoofs**. TomTom verschoof van consumentennavigatie naar kaart- en routeringsdiensten voor autofabrikanten en techbedrijven als **Apple** en **Uber**, en bedient nu circa **500 grote klanten**. Het aandeel, ooit boven de **€56**, noteert nu rond **€4,50**; Goddijn blijft grootste aandeelhouder met **12,9%**.
+  📰 NRC — 19 april 2026 🔗 https://nos.nl/artikel/2610708-boegbeeld-tomtom-zwaait-af-opvolger-moet-bedrijf-nieuwe-richting-wijzen
 
 ---
 
@@ -58,19 +58,19 @@
 
 ## 🇫🇷 Frankrijk
 
-**Macron neemt het voortouw in de Europese handelsoorlog-respons, terwijl TotalEnergies groene waterstof opschaalt en Mistral AI Europa's waardevolste AI-bedrijf wordt.**
+**Het Midden-Oostenconflict raakt Frankrijk op alle fronten: een gesneuvelde VN-militair in Libanon, herziene economische prognoses en een versneld elektrificatieplan tegen de olieafhankelijkheid.**
 
-- **Macron roept EU-noodtop bijeen over handelsoorlog met VS**
-  President **Emmanuel Macron** riep op tot een nood-**Europese Raad** om de EU-respons op de escalerende Amerikaanse handelstarieven te coördineren. Macron stelde een **Europees solidariteitsfonds van €50 miljard** voor ter ondersteuning van de zwaarst getroffen sectoren: auto-industrie, luxegoederen en wijn. De handelsoorlog zou de EU **1,5% van het bbp** kunnen kosten over twee jaar. De top staat gepland op **28 april** in Brussel.
-  📰 France24 — 19 april 2026 🔗 https://www.france24.com/en/france/20260419-macron-eu-emergency-summit-trade-war
+- **Franse UNIFIL-militair gedood in Libanon; Macron wijst naar Hezbollah**
+  Sergeant **Florian Montorio** van het **17e Regiment Parachutisten-Genietroepen** (Montauban) werd zaterdag **18 april** gedood bij een hinderlaag in de regio Deir Kifa in Zuid-Libanon. **Drie andere Franse soldaten** raakten gewond, twee ernstig. President **Emmanuel Macron** verklaarde dat "alles erop wijst dat de verantwoordelijkheid bij **Hezbollah** ligt"; de groep ontkende betrokkenheid. Frankrijk levert **600 militairen** aan de UNIFIL-missie; Montorio is de tweede Franse soldaat die sneuvelt door Iran-gelieerde groepen sinds de aanvallen op Iran op **28 februari 2026**.
+  📰 France24 — 18 april 2026 🔗 https://www.france24.com/en/middle-east/20260418-french-unifil-soldier-killed-in-lebanon-hezbollah-responsible-says-macron
 
-- **TotalEnergies investeert €8 miljard in groene waterstof in Frankrijk**
-  **TotalEnergies** kondigde een investeringsplan van **€8 miljard** aan voor groene waterstofproductie in Frankrijk over vijf jaar. CEO **Patrick Pouyanné** onthulde de bouw van **drie grootschalige elektrolysefabrieken** in Normandië, de Rhônevallei en Duinkerken. Het project moet **12.000 directe banen** creëren en **500.000 ton** groene waterstof per jaar produceren tegen 2031. De Franse overheid draagt **€1,5 miljard** bij via het *France 2030*-plan, de rest komt van TotalEnergies en partners waaronder **Siemens Energy**.
-  📰 Les Echos — 18 april 2026 🔗 https://www.lesechos.fr/industrie-services/energie-environnement/totalenergies-hydrogene-vert
+- **Frankrijk herziet economische prognoses: inflatie omhoog, groei omlaag**
+  De Franse regering verhoogde de **inflatieprognose voor 2026 naar 1,9%** en verlaagde de groeiprognose naar **0,9%** (was 1,0%), gedreven door de energieschok van de Hormuz-crisis. **INSEE** schatte de impact van de olieschok op **0,5 procentpunt bbp**. Minister van Financiën **Roland Lescure** waarschuwde dat **30 tot 40%** van de raffinagecapaciteit in de Golf is beschadigd of verwoest, met een tekort van **11 miljoen vaten per dag** op de wereldmarkt. Het herstel kan tot **drie jaar** duren.
+  📰 Franceinfo (lemonde.fr niet bereikbaar) — 18 april 2026 🔗 https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-france-revoit-a-la-hausse-ses-previsions-d-inflation-a-1-9-pour-2026-et-anticipe-une-croissance-plus-faible-que-prevu_7937324.html
 
-- **Mistral AI haalt €2 miljard op en wordt waardevolste Europese AI-bedrijf**
-  De Franse AI-startup **Mistral AI** sloot een financieringsronde van **€2 miljard**, waarmee het bedrijf op **€15 miljard** wordt gewaardeerd — het meest waardevolle AI-bedrijf van Europa. De ronde werd geleid door **General Atlantic**, **Lightspeed Venture Partners** en **BNP Paribas**, met steun van staatsbank **Bpifrance**. Opgericht in 2023 door oud-onderzoekers van **Meta** en **Google DeepMind**, telt Mistral inmiddels **600 werknemers** en concurreert het rechtstreeks met **OpenAI** en **Anthropic**. Het geld gaat naar een nieuw datacenter bij **Marseille** en uitbreiding in Azië.
-  📰 Le Monde — 19 april 2026 🔗 https://www.lemonde.fr/economie/article/2026/04/19/mistral-ai-levee-fonds
+- **Lecornu verdubbelt elektriciteitsbudget om olie- en gasafhankelijkheid te doorbreken**
+  Premier **Sébastien Lecornu** kondigde aan dat Frankrijk zijn jaarlijkse steun voor elektrificatie **verdubbelt van €5,5 miljard naar €10 miljard**, gericht op transport en woningen. "De kwestie is niet langer alleen klimaat, het raakt nu het nationaal belang," aldus Lecornu. Het plan omvat meer laadinfrastructuur voor elektrische voertuigen, subsidies voor warmtepompen en zonnepanelen. Tegelijk kampt **één op vijf** Franse tankstations met brandstoftekorten. De **CAC 40** schommelde hevig: **+1,97%** op vrijdag tot **8.425 punten** na de kortstondige heropening van Hormuz.
+  📰 France24 FR (lesechos.fr niet bereikbaar) — 10 april 2026 🔗 https://www.france24.com/fr/france/20260410-s%C3%A9bastien-lecornu-veut-acc%C3%A9l%C3%A9rer-sur-l-%C3%A9lectrification-pour-moins-d%C3%A9pendre-du-p%C3%A9trole-ou-du-gaz
 
 ---
 
