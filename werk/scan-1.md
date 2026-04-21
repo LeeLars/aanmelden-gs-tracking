@@ -1,91 +1,91 @@
-# Scan Europa — 20 april 2026
+# Scan Europa — 21 april 2026
 
 ## 🇧🇪 België
 
-**De energiecrisis en een dalende kredietscore drukken op de Belgische begroting, terwijl een Oost-Vlaamse gemeente worstelt met een cyberincident.**
+**De Arizonacoalitie staat op springen: MR blokkeert alle dossiers over energiesteun, de Moody's-verlaging verscherpt het begrotingsdebat en het kernkabinet zoekt vanavond een uitweg.**
 
-- **N-VA blokkeert extra energiesteun: "Het geld is echt op"**
-  De Belgische regeringscoalitie is openlijk verdeeld over extra steunmaatregelen voor huishoudens die kampen met stijgende energieprijzen. **N-VA**-voorzitter **Valerie Van Peel** en minister **Jan Jambon** wijzen aanvullende uitgaven af met het argument dat het budget uitgeput is. Coalitiepartner **MR** dreigt bij monde van voorzitter **Georges-Louis Bouchez** andere regeringsdossiers te blokkeren zonder een steunpakket van minstens **50 miljoen euro**. Oppositiepartijen **PS**, **PVDA** en **Vlaams Belang** noemen het uitblijven van actie "onfatsoenlijk."
-  📰 VRT NWS — 20 april 2026 🔗 https://www.vrt.be/vrtnws/nl/liveblog/nva-vindt-extra-energiesteunmaatregelen-geen-goed-idee-het-ge~1771325690894/
+- **Kernkabinet buigt zich vanavond over gerichte energiesteun**
+  Het federale kernkabinet komt dinsdagavond opnieuw bijeen over energiesteunmaatregelen na weken van impasse. Premier **Bart De Wever** (N-VA) wil alleen gerichte steun voor twee groepen: **kwetsbare huishoudens** die met fossiele brandstoffen verwarmen en **autopendelaars** die uitsluitend op hun eigen wagen aangewezen zijn. Op tafel liggen een hogere kilometervergoeding, uitbreiding van het sociaal tarief en een mogelijk gebruik van maaltijdcheques voor brandstof. De financiële ruimte is beperkt: recente rapporten van het Planbureau bevestigen dat de regering weinig marge heeft na de Moody's-verlaging.
+  📰 VRT NWS — 21 april 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/04/21/energiesteun-federale-regering-wat-ligt-er-op-tafel/
 
-- **Olieprijzen stijgen fors na inbeslagname Iraans schip — Moody's-verlaging verhoogt begrotingsdruk**
-  De olieprijs is opnieuw fors gestegen nadat de **VS** een Iraans vrachtschip in beslag nam dat de blokkade van Iraanse havens probeerde te doorbreken. **Brent-ruwe olie** steeg circa **6%** naar **$95,85 per vat**; de Europese **STOXX 600** daalde **1,1%**. Bedrijvenorganisatie **Voka** waarschuwt dat de Moody's-verlaging van de Belgische kredietrating — van **Aa3 naar A1** op 17 april — het begrotingsklimaat extra verslechtert. Voka-topman **Frank Beckx**: "Dit moet een wake-upcall zijn voor Arizona."
-  📰 VRT NWS — 20 april 2026 🔗 https://www.vrt.be/vrtnws/nl/liveblog/voka-tegen-dure-energiesteun-nu-moodys-belgische-rating-verla~1774343778229/
+- **Moody's verlaagt Belgische kredietrating naar A1 — eerste keer in 15 jaar**
+  Ratingbureau **Moody's** verlaagde de Belgische soevereine rating van **Aa3 naar A1** — een val van "zeer laag" naar "laag" wanbetalingsrisico en de eerste verlaging in **15 jaar**. Moody's waarschuwt dat de staatsschuld zal stijgen van **104% van het bbp** in 2024 naar **116%** in 2030, gedreven door vergrijzingskosten, stijgende defensie-uitgaven en hoge rentelasten. Premier De Wever noemde de verlaging "helaas niet verrassend" en verwees naar de noodzaak van structurele besparingen. Werkgeversverbond **Voka** eist dat de regering "dure" energiesteun schrapt om de begrotingssituatie niet verder te verslechteren.
+  📰 De Tijd — 18 april 2026 🔗 https://www.tijd.be/politiek-economie/belgie/
 
-- **Gemeente Temse schort IT-systemen preventief op na verdachte activiteit**
-  De Oost-Vlaamse gemeente **Temse** heeft alle onlinediensten stopgezet na onregelmatigheden in haar IT-infrastructuur. Schepen voor Digitalisering **Bart Van Geyt** (cd&v-Anders) benadrukt dat er "momenteel nog geen sprake is van hacking", maar dat de systemen uit voorzorg werden uitgeschakeld. Het **Belgisch Centrum voor Cybersecurity** (CCB) voert een onderzoek uit; resultaten worden woensdag verwacht. Inwoners kunnen urgente zaken telefonisch of aan het loket afhandelen.
-  📰 VRT NWS — 19 april 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/04/19/temse-hacking-datalek/
+- **Bouchez legt hele regering lam: "Mensen hebben nu energiesteun nodig"**
+  MR-voorzitter **Georges-Louis Bouchez** blokkeert alle federale dossiers zolang er geen akkoord is over energiesteun. Bouchez eist een pakket van **50 tot 100 miljoen euro** — volgens hem een schijntje op een begroting van **170 miljard euro**. N-VA verwijt Bouchez "dreigementen die ons niet vooruit helpen"; Bouchez wil vooral linkse MR-kiezers beschermen, analyseert VRT-journalist **Ivan De Vadder**. De impasse raakt ook andere wetgeving: de stemming over de programmawet die aardgas duurder en stroom goedkoper maakt, is eveneens uitgesteld.
+  📰 De Standaard — 19 april 2026 🔗 https://www.standaard.be/
 
 ---
 
 ## 🇳🇱 Nederland
 
-**Het kabinet-Jetten trekt bijna een miljard uit om de economische klap van de Midden-Oostencrisis op te vangen en versnelt tegelijk de woningbouw en AI-regulering.**
+**De Eerste Kamer torpedeert de asielwet door een PVV-draai, het kabinet maakt bijna een miljard vrij voor de Midden-Oostencrisis en PFAS-bestrijdingsmiddelen dreigen van de markt te verdwijnen.**
 
-- **Kabinet wil woningbouw versnellen met prefabwoningen en versoepelt huurwet**
-  Minister **Boekholt-O'Sullivan** (D66) presenteert maatregelen om de gemiddelde bouwtijd van **tien jaar** drastisch te verkorten. Het kabinet investeert **90 miljoen euro** in innovatie en digitalisering en trekt **150 miljoen euro** uit voor een flexibele pool van experts die gemeenten en provincies ondersteunen. Het doel: het aandeel prefabwoningen van **20%** naar **50%** opschroeven binnen vier jaar. De **Wet betaalbare huur** wordt versoepeld door de WOZ-waarde zwaarder te laten meewegen en het splitsen en optoppen van woningen vergunningsvrij te maken.
-  📰 NOS — 20 april 2026 🔗 https://nos.nl/artikel/2611199-kabinet-wil-sneller-bouwen-met-prefabwoningen-en-versoepelt-de-huurwet
+- **Eerste Kamer verwerpt asielwet — minister beticht PVV van "politieke sabotage"**
+  De Eerste Kamer verwierp vandaag de asielnoodmaatregelenwet met **44 tegen 31** stemmen, nadat de cruciale reparatiewet al was gestrand (**38 tegen 37**). Asielminister **Bart van den Brink** (CDA) beschuldigde de **PVV** van "politieke sabotage": de partij stemde in de Tweede Kamer vóór de reparatiewet maar draaide in de Senaat. PVV-senator **Alexander van Hattem** noemde de afzwakking van de strafbaarstelling van illegaal verblijf "onaanvaardbaar". Alleen het **tweestatusstelsel** voor asielzoekers werd aangenomen (**41 voor, 34 tegen**). Minister Van den Brink zoekt nu alternatieve routes.
+  📰 NRC — 21 april 2026 🔗 https://www.nrc.nl/nieuws/
 
-- **Kabinet trekt bijna een miljard uit voor energiemaatregelen**
-  Het kabinet maakt **bijna 1 miljard euro** vrij: **627 miljoen euro** aan uitgavenmaatregelen en **340 miljoen euro** aan gerichte belastingmaatregelen. De onbelaste reiskostenvergoeding stijgt met **2 cent** naar **€0,25 per kilometer** met terugwerkende kracht. Het **Noodfonds Energie** ontvangt **195 miljoen euro** voor kwetsbare huishoudens; **180 miljoen euro** gaat naar woningisolatie via het Warmtefonds. De financiering komt uit hogere accijnzen op alcohol en het schrappen van belastingkortingen voor ondernemers.
+- **Kabinet trekt bijna €1 miljard uit voor economische impact Midden-Oosten**
+  Het kabinet-Jetten maakt **€967 miljoen** vrij: **€627 miljoen** aan uitgavenmaatregelen en **€340 miljoen** aan gerichte belastingmaatregelen. De onbelaste reiskostenvergoeding stijgt retroactief met **€0,02** naar **€0,25 per kilometer**. Het **Noodfonds Energie** krijgt **€195 miljoen** voor kwetsbare huishoudens; **€180 miljoen** gaat naar het Warmtefonds voor woningisolatie. De motorrijtuigenbelasting voor bedrijfsbusjes wordt **zes maanden gehalveerd** en voor vrachtwagens op nul gezet vanaf 1 juli. Het kabinet schaalt op naar **fase 1** van het Nationaal Oliecrisisplan.
   📰 FD — 20 april 2026 🔗 https://fd.nl/politiek/1593850/kabinet-trekt-bijna-miljard-uit-voor-energiemaatregelen-lasten-elders-omhoog
 
-- **AI-chatbots veroorzaken golf aan klachten bij financieel klachteninstituut Kifid**
-  Het klachteninstituut **Kifid** ontving vorig jaar **7.800 klachten** �� **1.800 meer** dan het jaar daarvoor. Directeur **Eveline Ruinaard** waarschuwt dat consumenten steeds vaker AI-chatbots inzetten om klachten te formuleren, maar dat die tools "niet het monopolie op waarheid" hebben en veel feitelijke fouten bevatten. **38%** van de klachten betrof schadeverzekeraars. Kifid besteedt extra tijd aan het uitleggen dat AI-gegenereerde juridische adviezen onbetrouwbaar kunnen zijn, wat de doorlooptijd van klachtbehandeling vertraagt.
-  📰 NOS — 20 april 2026 🔗 https://nos.nl/artikel/2611211-door-ai-meer-klachten-over-financiele-diensten-maar-dat-gaat-niet-altijd-goed
+- **Mogelijk verbod op 46 PFAS-bestrijdingsmiddelen — vrees voor aardappelcrisis**
+  De toelatingautoriteit **Ctgb** beoordeelt **46 bestrijdingsmiddelen** met PFAS-stoffen die waarschijnlijk van de markt moeten. Aanleiding is Deens onderzoek dat aantoont dat PFAS in de bodem afbreekt tot **TFA** — een persistente stof die het grondwater bedreigt en al in drinkwaterwinningen is aangetroffen. Aardappeltelers worden hard getroffen: enkele middelen beschermen tegen **Phytophthora infestans** (aardappelziekte), die een onbeschermd gewas in twee weken verwoest. Akkerbouwers halen circa **een derde** van hun inkomen uit aardappelen; biologische teelt is geen kortetermijnalternatief. Het Ctgb beslist uiterlijk **april 2028**.
+  �� NOS — 21 april 2026 🔗 https://nos.nl/artikel/2611376-mogelijk-verbod-op-bestrijdingsmiddelen-met-pfas-vrees-voor-aardappelziekte
 
 ---
 
 ## 🇹🇷 Turkije
 
-**Ankara navigeert als bemiddelaar in de Iran-VS crisis, voert vergaande digitale kinderbescherming in en kijkt toe hoe robots het hardlopen veroveren.**
+**Ankara profileert zich als diplomatiek kruispunt op het Antalya Diplomacy Forum, terwijl de centrale bank worstelt met inflatie en de Midden-Oostencrisis, en het land investeert in technologische onafhankelijkheid.**
 
-- **Olieprijzen schieten omhoog terwijl VS-Iran staakt-het-vuren wankelt**
-  De inbeslagname van een Iraans vrachtschip door de **VS** dreigt de fragiele tweewekelijkse wapenstilstand te ondermijnen. **Brent-ruwe olie** steeg circa **6%** naar **$95,85 per vat**; de **STOXX 600** daalde **1,1%** en **S&P 500 futures** verloren **0,65%**. Een eerste onderhandelingsronde van **21 uur** op **11 april** in Islamabad leverde geen doorbraak op. In de **Straat van Hormuz** — slagader voor een vijfde van de wereldwijde olie- en lng-transporten — passeerden zaterdag nog **20+ schepen**, maar maandag slechts **3 in 12 uur**.
-  📰 Daily Sabah — 20 april 2026 🔗 https://www.dailysabah.com/business/economy/oil-prices-jump-stocks-pull-back-on-us-iran-talks-uncertainty
+- **Antalya Diplomacy Forum sluit af met oproep tot regionale stabiliteit**
+  De vijfde editie van het **Antalya Diplomacy Forum** bracht van 17 tot 19 april **6.400 deelnemers** uit **155 landen** samen, onder wie **23 staatshoofden**, **13 vicepremiers** en **50 ministers**. President **Erdoğan** riep beide partijen op het fragiele staakt-het-vuren tussen Iran en de VS te benutten voor duurzame vrede. De Syrische president **Ahmed al-Sharaa** en de Russische minister van Buitenlandse Zaken **Sergei Lavrov** waren opvallende aanwezigen. Discussies richtten zich op AI-geopolitiek, kritieke mineralen en regionale conflictoplossing.
+  📰 Daily Sabah — 19 april 2026 🔗 https://www.dailysabah.com/politics/diplomacy/antalya-diplomacy-forum-concludes-with-calls-for-regional-stability
 
-- **Turkije voert digitaal veiligheidsplan in: kinderlijn en strengere VPN-regels**
-  De telecomautoriteit **BTK** en het ministerie van **Gezin en Maatschappelijk Welzijn** introduceren vergaande digitale veiligheidsmaatregelen na schoolaanvallen in **Şanlıurfa** en **Kahramanmaraş**. Ouders kunnen SIM-kaarten voor minderjarigen aanduiden met versterkte ouderlijke controle; **VPN-aanbieders** krijgen nieuwe licentie- en monitoringverplichtingen. Het parlement beperkte het maximaal aantal mobiele lijnen per persoon. De overheid breidt culturele en sportprogramma's uit als alternatief voor schermtijd.
-  📰 Hürriyet Daily News — 19 april 2026 🔗 https://www.hurriyetdailynews.com/turkiye-rolls-out-digital-safety-action-plan-after-school-attacks-221213
+- **Centrale bank houdt rente op 37% — economen verdeeld over volgende stap**
+  De Turkse centrale bank vergadert op **22 april** over het rentebeleid. Van de **37 economen** ondervraagd door AA Finans verwachten er **22** dat de beleidsrente op **37%** blijft, **14** voorspellen een verhoging met **300 basispunten** en **1** verwacht een stijging van **100 basispunten**. De jaarinflatie daalde in maart naar **30,87%** (van **31,53%** in februari) en de maandinflatie naar **1,94%**. Centraal bankgouverneur **Fatih Karahan** benadrukt dat desinflatie in alle subcategorieën doorzet, maar de Midden-Oostencrisis vormt een extern risico voor de prijsstabiliteit.
+  📰 Hürriyet Daily News �� 19 april 2026 🔗 https://www.hurriyetdailynews.com/central-bank-set-to-meet-for-rate-decision-this-week-221209
 
-- **Humanoïde robot van Honor verslaat mensen in halve marathon Peking**
-  Een humanoïde robot van de Chinese smartphonemaker **Honor** won de tweede **Beijing E-Town Half Marathon** op **19 april** met een tijd van **50 minuten en 26 seconden** — ruim sneller dan het menselijke wereldrecord van circa **57 minuten** dat **Jacob Kiplimo** (Oeganda) in maart 2026 in Lissabon vestigde. De robot had benen van **95 cm** en een intern ontwikkeld **vloeistofkoelsysteem**. Circa **40%** van de deelnemende robots navigeerde autonoom; vorig jaar finishte de winnende robot nog in **2 uur en 40 minuten**.
-  📰 TRT World — 19 april 2026 🔗 https://www.trtworld.com/article/e695088cdc2b
+- **Erdoğan onthult 2030 Industrie- en Technologiestrategie**
+  President **Erdoğan** presenteerde een uitgebreide routekaart voor technologische onafhankelijkheid met focus op **kunstmatige intelligentie**, **kwantumcomputing**, **ruimtevaart**, **biotechnologie** en **kernenergie**. Centraal staat een **Supercomputer Investeringsprogramma voor AI** dat de Turkse infrastructuur voor machine learning en automatisering moet versterken. Turkije scoort wereldwijd net achter Zwitserland op overheidsparticipatie in AI en overtreft veel westerse landen in gendervertegenwoordiging in de ICT-sector. Minister **Mehmet Fatih Kacır** waarschuwde dat AI een "hefboom van macht" is geworden in de internationale betrekkingen.
+  📰 TRT World — 20 april 2026 🔗 https://www.trtworld.com/article/67385992a0a7
 
 ---
 
 ## 🇫🇷 Frankrijk
 
-**Macron verdiept de defensiesamenwerking met Polen terwijl premier Lecornu de energietransitie versnelt en Mistral AI het leger in trekt.**
+**Frankrijk rouwt om een UNIFIL-soldaat in Libanon, het parlement schaft lage-emissiezones af en het aantal bedrijfsfaillissementen bereikt een recordniveau.**
 
-- **Macron en Tusk bespreken nucleaire afschrikking en defensie in Gdańsk**
-  President **Emmanuel Macron** en de Poolse premier **Donald Tusk** hielden op **20 april** in **Gdańsk** de eerste Frans-Poolse intergouvernementele top, gericht op een "sterker en soevereiner Europa" tegenover Rusland en de VS. Centraal stond de "geavanceerde afschrikking" die Macron op **2 maart** aan acht Europese landen voorstelde: mogelijke gezamenlijke oefeningen en stationering van Franse vliegtuigen met kernwapens bij bondgenoten. Polen kan bijdragen aan **vroege waarschuwing, luchtverdediging en diepte-aanvallen**; Frankrijk behoudt de soevereine beslissing over inzet.
-  📰 France 24 — 20 april 2026 🔗 https://www.france24.com/fr/europe/20260420-la-dissuasion-nucl%C3%A9aire-au-c%C5%93ur-de-la-rencontre-entre-tusk-et-macron-en-pologne
+- **Franse UNIFIL-soldaat gedood in Libanon — Macron beschuldigt Hezbollah**
+  Sergeant-majoor **Florian Montorio** (40) van het **17e regiment parachutisten-genisten** uit Montauban werd op 18 april gedood bij een hinderlaag tegen een UNIFIL-patrouille nabij het Zuid-Libanese **Ghandouriyeh**. Drie andere Franse militairen raakten gewond, van wie twee ernstig. President **Macron** schreef op X: "Alles wijst erop dat de verantwoordelijkheid bij **Hezbollah** ligt" en eiste dat de Libanese autoriteiten de daders "onverwijld arresteren". Hezbollah ontkende elke betrokkenheid. Het stoffelijk overschot werd zondag gerepatrieerd.
+  📰 France 24 — 18 april 2026 🔗 https://www.france24.com/en/middle-east/20260418-french-unifil-soldier-killed-in-lebanon-hezbollah-responsible-says-macron
 
-- **Lecornu verdubbelt steun voor elektrificatie naar €10 miljard per jaar**
-  Premier **Sébastien Lecornu** presenteerde op **10 april** een ambitieus elektrificatieplan om de Franse afhankelijkheid van olie en gas te verminderen. De overheidssteun voor elektrificatie stijgt van **€5,5 miljard** naar **€10 miljard per jaar** tegen 2030. Vanaf eind 2026 worden **gasketels in nieuwbouw verboden**; het doel is **1 miljoen warmtepompen per jaar** tegen 2030. Voor lage inkomens komen **50.000 elektrische auto's** beschikbaar via sociaal leasing vanaf juni. De financiering komt uit heroriëntatie van bestaande middelen, niet uit nieuw geld.
-  📰 Le Monde — 10 april 2026 🔗 https://www.lemonde.fr/economie/
+- **Parlement schaft lage-emissiezones af in economische vereenvoudigingswet**
+  De Assemblée nationale keurde definitief de **wet ter vereenvoudiging van het economisch leven** goed, inclusief de afschaffing van de **zones à faibles émissions** (ZFE). Een regeringsamendement om de wettelijke basis van ZFE te behouden en de keuze aan gemeenten te laten, werd verworpen met **192 tegen 149** stemmen. De wet is het resultaat van twee jaar moeizaam parlementair werk. Premier **Lecornu** leed dezelfde week een tweede nederlaag: onder druk van **acht vakbonden** trok hij het wetsvoorstel over werken op **1 mei** terug voor 2026.
+  📰 Le Monde — 15 april 2026 🔗 https://www.lemonde.fr/politique/
 
-- **Mistral AI krijgt driejarig defensiecontract van Franse krijgsmacht**
-  Het Franse ministerie van **Defensie** heeft **Mistral AI** geselecteerd in een driejarig raamcontract om soevereine defensie-AI-capaciteiten te versterken. De keuze voor de Franse startup — gewaardeerd op **€11,7 miljard** na een funding van **€1,7 miljard** in september 2025 — weerspiegelt een bewuste strategie om structurele afhankelijkheid van Amerikaanse technologieaanbieders te vermijden in een domein dat nu als even kritiek wordt beschouwd als conventionele bewapening. Mistral bouwt daarnaast een datacenter nabij Parijs in **Bruyères-le-Châtel** dat in het tweede kwartaal van 2026 operationeel wordt.
-  📰 Les Echos — april 2026 🔗 https://www.lesechos.fr/tech-medias/
+- **Recordaantal bedrijfsfaillissementen: 71.000 in twaalf maanden**
+  In het eerste kwartaal van 2026 werden **18.986 collectieve procedures** geopend — een stijging van **6,4%** ten opzichte van vorig jaar. Over twaalf maanden bedraagt het totaal meer dan **71.000 faillissementen**, een niveau dat niet eerder werd bereikt, zelfs niet tijdens de financiële crisis van 2009. Meer dan **75.000 banen** worden bedreigd, met name in de detailhandel, bouw, horeca en zakelijke dienstverlening. Dagelijks melden zich meer dan **300 ondernemers** bij de rechtbank. De stijging treft vooral het midden- en kleinbedrijf met **20 tot 99 werknemers** (+12% in drie maanden).
+  📰 Les Echos — 14 april 2026 🔗 https://www.lesechos.fr/economie-france/
 
 ---
 
 ## 🇩🇪 Duitsland
 
-**De Duitse industrie schrapt haar groeiprognose op de Hannover Messe terwijl een stakingsgolf Lufthansa lam legt en Trump dreigt met troepenafbouw.**
+**De regering halveert haar groeiverwachting terwijl Merz en Lula op de Hannover Messe het Mercosur-akkoord vieren en de criminaliteitsstatistiek een gemengd beeld laat zien.**
 
-- **BDI schrapt groeiprognose voor industrie: "Herstel verschuift naar 2027"**
-  De industriekoepel **BDI** verwacht voor 2026 niet langer groei maar stagnatie in de industriële productie, zo verklaarde voorzitter **Peter Leibinger** op de opening van de **Hannover Messe** op **20 april**. De **Iran-oorlog** duwt het herstel "ver in de tweede helft van het jaar, waarschijnlijk eerder naar 2027." De industriële productie daalt al elk jaar sinds 2022; de capaciteitsbenutting bedraagt slechts **78%**. Stijgende olie- en gasprijzen en verstoringen in scheepvaart en logistiek vormen de grootste risico's.
-  📰 Handelsblatt — 20 april 2026 🔗 https://www.handelsblatt.com/politik/konjunktur/konjunktur-bdi-streicht-wachstumsprognose-wegen-iran-krieg/100218310.html
+- **Misdaadcijfers dalen 5,6%, maar seksueel geweld stijgt scherp**
+  Bundesinnenminister **Alexander Dobrindt** presenteerde op 20 april de **Polizeiliche Kriminalstatistik 2025**: de politie registreerde **5,5 miljoen strafbare feiten** — een daling van **5,6%** en de eerste afname sinds 2022. Geweldsmisdrijven daalden met **2,3%**, maar **verkrachtingen** stegen met **9,0%** naar **14.454 gevallen** — een toename van **72%** sinds 2018. Het aantal minderjarige verdachten steeg opnieuw met **3,3%**. BKA-president **Holger Münch** noemde de stijging van cybercriminaliteit en seksueel geweld "verontrustend".
+  📰 Der Spiegel — 20 april 2026 🔗 https://www.spiegel.de/panorama/
 
-- **Hannover Messe opent met technologie-offensief: AI, robotica en automatisering centraal**
-  Bondskanselier **Friedrich Merz** (CDU) opende de **Hannover Messe 2026** met een bezoek aan meer dan **3.000 exposanten** uit de machinebouw, elektro- en digitale industrie en energiesector. De kernthema's zijn **kunstmatige intelligentie in de productie**, automatisering en robotica. In zijn coalitieakkoord beloofde Merz Duitsland tot "AI-natie" te maken — vier ministeries zijn belast met de innovatiedoelen. De beurs viel samen met Duits-Braziliaanse handelsgesprekken met president **Lula da Silva**, gericht op het aanstaande **EU-Mercosur-vrijhandelsakkoord**.
-  📰 Handelsblatt — 20 april 2026 🔗 https://www.handelsblatt.com/unternehmen/industrie/hannover-messe-2026-merz-eroeffnet-hannover-messe-die-industrie-setzt-auf-eine-technologieoffensive/100216800.html
+- **Merz en Lula openen Hannover Messe — Mercosur-akkoord treedt 1 mei in werking**
+  Bondskanselier **Friedrich Merz** (CDU) en de Braziliaanse president **Luiz Inácio Lula da Silva** openden de **Hannover Messe 2026** en verwelkomden het **EU-Mercosur-vrijhandelsakkoord** dat op **1 mei** provisorisch in werking treedt — een vrijhandelszone met meer dan **700 miljoen** mensen. Merz noemde het akkoord "een antwoord op wie op basis van machtspolitiek de op regels gebaseerde orde wil vervangen". Op dag twee volgden Duits-Braziliaanse regeringsconsultaties op **Schloss Herrenhausen** met **15 ministers** van beide kanten over handel, grondstoffen, defensie en digitalisering.
+  📰 Handelsblatt — 20 april 2026 🔗 https://www.handelsblatt.com/politik/international/beziehungen-zu-brasilien-merz-empfaengt-lula-und-wuerdigt-mercosur-abkommen/100218115.html
 
-- **Lufthansa-stakingsgolf kost honderden miljoenen: 3.000 vluchten geschrapt in één week**
-  De ergste stakingsgolf in jaren bij **Lufthansa** trof het bedrijf uitgerekend op de **100e verjaardag**. De pilotenvereniging **Vereinigung Cockpit** riep stakingen uit op **13-14** en **16-17 april**; cabinepersoneel van vakbond **UFO** staakte op **15-16 april**. In totaal werden ruim **3.000 vluchten** geschrapt en circa **100.000 passagiers** getroffen per stakingsdag. De geschillen betreffen pensioenregelingen voor **4.800 piloten** en arbeidsvoorwaarden voor **19.000 cabinemedewerkers**. Raad-van-commissarisvoorzitter **Karl-Ludwig Kley** vroeg kanselier Merz om het stakingsrecht te beperken.
-  📰 Handelsblatt — 17 april 2026 🔗 https://www.handelsblatt.com/unternehmen/dienstleister/beschaeftigte-im-ausstand-neue-streiks-bei-lufthansa-was-passagiere-wissen-muessen/100216368.html
+- **Regering halveert groeiverwachting voor 2026 naar 0,5%**
+  Economieminister **Katherina Reiche** (CDU) presenteert op 22 april de Frühjahrsprognose: de verwachte bbp-groei voor 2026 daalt van **1,0%** naar **0,5%**. De inflatie wordt nu geraamd op **2,7%**, tegenover eerder **2,1%**. De Iran-oorlog, hogere olie- en gasprijzen en verstoorde scheepvaart drukken de uitvoer en het consumentenvertrouwen. De industriële productie daalde in februari opnieuw met **0,3%** en kromp waarschijnlijk het hele eerste kwartaal. Het **DIW Berlin** is iets optimistischer en verwacht **1,0%** groei.
+  📰 Tagesschau — 21 april 2026 🔗 https://www.tagesschau.de/wirtschaft/
 
 ---
