@@ -1,105 +1,93 @@
-# 📰 MIJN NIEUWSKRANT
-### 📅 Dinsdag 5 mei 2026
-
----
-
-# Nieuwsoverzicht Europa — 2 mei 2026
+# Scan Europa — 6 mei 2026
 
 ---
 
 ## 🇧🇪 België
 
-**Energiezekerheid en de dreigende handelsoorlog domineren het debat in Brussel en Vlaanderen.**
+**Inflatie en koopkracht beheersen het economische en politieke debat in België.**
 
-- **Trump schroeft autotarieven op tot 25%: "Raakt Europa in de achillespees"**
-  President **Donald Trump** kondigde aan de invoertarieven op Europese auto's en vrachtwagens te verhogen van **15% naar 25%**, omdat de EU zich volgens hem niet aan het handelsakkoord van afgelopen zomer houdt. Het oorspronkelijke tarief bedroeg **2,5%** — de stijging is dus tienvoudig. De Europese auto-industrie is goed voor **14 miljoen banen** en **7% van het EU-bbp**; het handelstekort met de VS bedraagt **€76 miljard**. Professor **Jan Van Hove** (KU Leuven) waarschuwt dat een volledig handelsconflict tot een Europese recessie kan leiden.
-  📰 VRT NWS — 2 mei 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/05/02/trump-handelsoorlog-eu-vs-nieuwe-tarieven-auto-s-vrachtwagens/
+- **Spilindex al in juni overschreden: uitkeringen en lonen maand eerder omhoog**
+  Het **Federaal Planbureau** verwacht dat de spilindex al in **juni** wordt overschreden — een maand eerder dan voorzien. Sociale uitkeringen en ambtenarenwedden worden dan in **september** met **2%** geïndexeerd via de centenindex, met een plafond van **€2.000** voor uitkeringen en **€4.000** voor lonen. De gemiddelde inflatie voor 2026 wordt nu op **3,5%** geraamd (was **3,2%**), mede door olieprijzen boven **$110 per vat** als gevolg van de Midden-Oostencrisis.
+  📰 VRT NWS — 5 mei 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/05/05/planbureau-verwacht-dat-spilindex-al-in-juni-overschreden-wordt/
 
-- **Federale regering wil alle kerncentrales van Engie overnemen**
-  De regering-**De Wever** start onderhandelingen met het Franse energiebedrijf **Engie** over de overname van alle **7 Belgische kernreactoren** (4 in Doel, 3 in Tihange), inclusief personeel, dochterbedrijven en ontmantelingsverplichtingen. Alle lopende ontmanteling is stilgelegd zolang de gesprekken duren. Minister van Energie **Mathieu Bihet** (MR) spreekt van "strategische autonomie en soevereiniteit". Een akkoord moet er liggen vóór **1 oktober 2026**; momenteel draaien enkel **Doel 4** en **Tihange 3**, waarvan de levensduur tot **2035** is verlengd.
-  📰 VRT NWS — 30 april 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/04/30/engie-federale-regering-nucleaire-activiteiten/
+- **Vlaamse regering bereikt "historisch" akkoord over energie, water en begroting**
+  De Vlaamse regering heeft een drieledig akkoord gesloten over energiemaatregelen, drinkwater en de begrotingsaanpassing. Er komt **€140 miljoen** voor renovatieleningen, **€25 miljoen** voor sociale woningen en **€18,9 miljoen** voor warmtepompen en restwarmte. Het begrotingstekort van **€320 miljoen** wordt gedicht door vertrekkende ambtenaren slechts voor een derde te vervangen. Minister **Hans Bonte** (Vooruit) benadrukt dat het gaat om "structurele maatregelen" die gezinnen weerbaarder maken tegen energieschokken.
+  📰 VRT NWS — 5 mei 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/05/04/akkoord-vlaamse-regering/
 
-- **Van Grieken lanceert plan voor eengemaakt Vlaams energiebedrijf**
-  **Vlaams Belang**-voorzitter **Tom Van Grieken** presenteerde op **1 mei** in Ninove zijn voorstel voor één geïntegreerd Vlaams energiebedrijf dat intercommunales, politieke benoemingen en inefficiënt beheer moet vervangen. Volgens Van Grieken kunnen Vlaamse gezinnen zo minstens **€160 per jaar** besparen op hun energiefactuur. Het voorstel kadert in de bredere energiediscussie nu de federale regering tegelijk onderhandelt over de overname van kerncentrales.
-  📰 VRT NWS — 1 mei 2026 🔗 https://www.vrt.be/vrtnws/nl/liveblog/tom-van-grieken-vlaams-belang-pleit-in-1-meitoespraak-voor-e~1771325690894/
+- **Partijen kruisen degens over koopkracht en miljonairstaks op 1 mei**
+  De Belgische partijen gebruikten de traditionele 1 mei-bijeenkomsten voor scherpe retoriek over koopkracht. **Conner Rousseau** (Vooruit) pleitte voor een **miljonairstaks**, terwijl **Georges-Louis Bouchez** (MR) "meer koopkracht door minder staat" beloofde. **Paul Magnette** (PS) zwoer "alles herop te bouwen wat rechts heeft afgebroken." Zowel **N-VA** als **Vlaams Belang** claimden koopkracht als kernthema, waarbij VB voorstelde groenestroomcertificaten van de energiefactuur te schrappen.
+  📰 VRT NWS — 4 mei 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/05/03/1-mei-gebalde-vuisten-en-verscherpte-toon/
 
 ---
 
 ## 🇳🇱 Nederland
 
-**Zwakke groei, vakbondsonrust en handelsonzekerheid zetten het kabinet onder druk.**
+**Defensiebeleid, beurseuforie en toenemende ongelijkheid bepalen de Nederlandse agenda.**
 
-- **Economisch stoplicht op oranje: recessie niet uitgesloten**
-  De Nederlandse economie groeide in het eerste kwartaal slechts **0,1%**, een forse terugval ten opzichte van de **0,5%** in het vorige kwartaal. De inflatie steeg naar **2,8%** en het consumentenvertrouwen daalde tot het op één na laagste punt **sinds april 1986**. **CBS**-hoofdeconoom **Peter Hein van Mulligen** noemt het "een tegenvaller, maar nog niet heel erg pijnlijk" — al is een recessie "zeker niet uit te sluiten". De onzekerheid wordt gevoed door de blokkade van de **Straat van Hormuz** en de Amerikaanse handelspolitiek.
-  📰 NOS — 2 mei 2026 🔗 https://nos.nl/artikel/2612710-economisch-stoplicht-op-oranje-maar-per-dag-kijken-waar-het-heen-gaat
+- **Yesilgöz over vertrek VS-militairen: 'Hoofd koel houden'**
+  Minister van Defensie **Dilan Yesilgöz** (VVD) reageert beheerst op de aankondiging van president **Trump** om Amerikaanse militairen terug te trekken uit Duitsland. Yesilgöz pleit ervoor "het hoofd koel te houden" en benadrukt dat de aankondiging niet per se een directe actie betekent. Het signaal versterkt wel het debat over Europese defensieautonomie binnen het **kabinet-Jetten**, dat als minderheidskabinet van **D66**, **CDA** en **VVD** met **66 zetels** afhankelijk is van wisselende meerderheden.
+  📰 NOS — 4 mei 2026 🔗 https://nos.nl/artikel/2612872-yesilgoz-over-weghalen-amerikaanse-militairen-we-moeten-het-hoofd-koel-houden
 
-- **FNV dreigt met ov-staking in juni tegen bezuinigingen sociale zekerheid**
-  De **FNV** kondigde aan dat **treinen, bussen, trams en metro's** in juni kunnen worden stilgelegd als het kabinet-**Jetten** vasthoudt aan plannen om de **AOW-leeftijd** te verhogen en de **WW-uitkering** te verkorten. FNV-bestuurder **Henri Janssen** noemde de plannen "onacceptabel" maar gaf nog geen exacte stakingsdatum. Ook de **havens** worden als actieterrein genoemd. De bonden **CNV** en **VCP** steunen de lijn, maar hebben zich nog niet uitgesproken over stakingsacties.
-  📰 NOS — 1 mei 2026 🔗 https://nos.nl/artikel/2612682-fnv-dreigt-met-ov-staking-in-juni-zonder-met-details-te-komen
+- **Philips verdubbelt kwartaalwinst ondanks geopolitieke onrust**
+  **Philips** boekte in het eerste kwartaal een nettowinst van **€146 miljoen**, ruim het dubbele van de **€72 miljoen** een jaar eerder. De omzet daalde licht naar **€3,9 miljard** (was €4,1 mrd), maar het orderniveau lag **6% hoger**. Sterke vraag in Noord-Amerika en Europa compenseerde hogere productiekosten door de oorlog in het **Midden-Oosten**. Amerikaanse **importtarieven** drukken de marges op medische apparatuur, omdat langlopende ziekenhuiscontracten doorberekening bemoeilijken.
+  📰 NOS — 6 mei 2026 🔗 https://nos.nl/artikel/2613288-philips-maakt-meer-winst-ondanks-geopolitieke-onrust
 
-- **Zorgen en optimisme over vrijhandelsverdrag EU-Mercosur**
-  De **Europese Unie** en de **Mercosur-landen** (Brazilië, Argentinië, Uruguay, Paraguay) naderen een definitief vrijhandelsakkoord dat een van de grootste vrijhandelszones ter wereld zou creëren. **Braziliaanse producenten** van rundvlees en kip zien grote exportkansen naar Europa. Nederlandse en Europese boeren vrezen echter oneerlijke concurrentie door lagere productiestandaarden in Zuid-Amerika. Het akkoord raakt ook industriële goederen en diensten en is al meer dan twintig jaar in onderhandeling.
-  📰 NOS — 1 mei 2026 🔗 https://nos.nl/artikel/2612683-zorgen-en-optimisme-over-vrijhandelsverdrag-europa-en-latijns-amerika
+- **CPB: kloof tussen arm en rijk groeit, belastingstelsel pakt ongelijkheid niet aan**
+  Het **Centraal Planbureau** waarschuwt dat de inkomensongelijkheid structureel toeneemt. Tussen **2011** en **2019** steeg het reële inkomen van de **top 0,01%** met **70%**, terwijl de overige **99%** slechts **4-8%** erbij kreeg. De rijkste **1%** verdient gemiddeld **€600.000** per jaar; de top **0,01%** ruim **€13 miljoen**. Het CPB concludeert dat het belastingstelsel "op papier progressief is, maar in de praktijk de hoogste inkomens relatief minder belast." Aanbevolen wordt de erfbelasting te verhogen en fiscale vrijstellingen te beperken.
+  📰 NOS — 6 mei 2026 🔗 https://nos.nl/artikel/2613287-verschil-tussen-rijk-en-arm-in-nederland-wordt-alleen-maar-groter
 
 ---
 
 ## 🇹🇷 Turkije
 
-**Recordexport en groene investeringen contrasteren met diplomatieke spanningen rond de Gaza-flottilje.**
+**Ankara dempt de olieprijs-schok terwijl het investeert in defensie-export en digitale veiligheid.**
 
-- **Israël onderschept Gaza-hulpflottilje: 59 activisten landen in Istanbul**
-  De Israëlische marine onderschepte op **29 april** de **Global Sumud**-flottilje in internationale wateren, zo'n **600 zeemijl** van Gaza, net buiten de Griekse territoriale wateren. Aan boord waren **345 deelnemers uit 39 landen**, onder wie **18 Turken**. Na overbrenging naar Griekenland vlogen **59 activisten** met een chartervlucht van **Turkish Airlines** naar Istanbul, waar het **Turkse Openbaar Ministerie** een onderzoek startte. Minister van Buitenlandse Zaken **Hakan Fidan** belde met zijn Griekse ambtgenoot over het incident.
-  📰 TRT World — 1 mei 2026 🔗 https://trtworld.com/article/da49db5d1bd9
+- **Brandstoflastenverlaging kost Turkije $2 miljard in twee maanden**
+  Minister van Financiën **Mehmet Şimşek** onthulde dat het glijdende-schaalmechanisme op de speciale consumptiebelasting (OTV) op brandstof het land in twee maanden **$2 miljard** (TL 90 miljard) heeft gekost. Zonder de maatregel had diesel **TL 90 per liter** gekost in plaats van de huidige **TL 73**. De oorzaak is de bijna volledige sluiting van de **Straat van Hormuz** na de aanvallen op Iran, waardoor **20%** van de wereldwijde olieaanvoer wegviel. Bij aanhoudende prijzen loopt de jaarrekening op tot **$13-14 miljard**.
+  📰 Daily Sabah — 6 mei 2026 🔗 https://www.dailysabah.com/business/economy/fuel-tax-relief-to-cushion-iran-war-shock-costs-turkiye-2b-in-2-months
 
-- **Turkse export stijgt 22,3% in april tot recordhoogte van $25,4 miljard**
-  Handelsminister **Ömer Bolat** maakte in de Zwarte Zee-provincie Ordu bekend dat de Turkse export in april uitkwam op **$25,4 miljard** — een stijging van **22,3%** ten opzichte van vorig jaar en het hoogste aprilcijfer ooit. Op jaarbasis bereikten de exporten een record van **$275,8 miljard**. **TİM**-voorzitter **Mustafa Gültepe** benadrukte dat de groei standhield "ondanks moeilijke mondiale handelsomstandigheden". De regering mikt voor heel 2026 op **$282 miljard** aan goederenexport.
-  📰 Hürriyet Daily News — 2 mei 2026 🔗 https://www.hurriyetdailynews.com/turkiyes-exports-rise-22-3-percent-in-april-221733
+- **Baykar tekent eerste KIZILELMA-exportdeal met Indonesië**
+  Het Turkse defensiebedrijf **Baykar** heeft tijdens de **SAHA 2026**-beurs in Istanbul een overeenkomst getekend met het Indonesische **PT Republik Aero Dirgantara** voor **12 onbemande gevechtsvliegtuigen** van het type **Bayraktar KIZILELMA**, met een optie op **48 extra toestellen**. Leveringen starten in **2028**, inclusief lokale productie- en onderhoudscapaciteit in Indonesië. Indonesië bestelde vorig jaar al **48 KAAN-gevechtsvliegtuigen** van de vijfde generatie — deze deal verdiept het Turks-Indonesische defensiepartnerschap.
+  📰 Hürriyet Daily News — 6 mei 2026 🔗 https://www.hurriyetdailynews.com/baykar-signs-first-kizilelma-export-deal-with-indonesia-221888
 
-- **$300 miljoen windenergie-investeringen in eerste kwartaal: Turkije wil Europees koploper worden**
-  Turkije investeerde in het eerste kwartaal van 2026 tussen **$300 en $350 miljoen** in windenergie en breidde de capaciteit uit met meer dan **300 megawatt**. Het land was in 2025 al de **op één na grootste installateur** van windcapaciteit in Europa, met meer dan **2 gigawatt** aan nieuwe capaciteit. Hernieuwbare bronnen vormen inmiddels **62%** van de totale geïnstalleerde capaciteit van **122,5 GW**. Volgens **TÜREB**-voorzitter **Ibrahim Erden** bespaart elke **1.000 MW** windcapaciteit circa **$250 miljoen** aan aardgasimport per jaar.
-  📰 Daily Sabah — 1 mei 2026 🔗 https://www.dailysabah.com/business/energy/turkiye-logs-300m-in-q1-wind-energy-investments-eyes-faster-growth
+- **Erdogan onthult cyberveiligheidsroutekaart voor veertien kritieke sectoren**
+  President **Erdogan** presenteerde tijdens een vergadering van de **Cyberveiligheidsraad** een nationale strategie ter bescherming van **14 kritieke sectoren**: energie, financiën, telecom, defensie, gezondheidszorg, ruimtevaart, transport, water en meer. Data wordt voortaan als "nationaal bezit" behandeld. Het **Cybersecurity Presidency** krijgt de leiding over een uniforme nationale architectuur, gericht op het verminderen van afhankelijkheid van buitenlandse systemen en het versterken van "nationale digitale soevereiniteit."
+  📰 TRT World — mei 2026 🔗 https://www.trtworld.com/article/df63e5dbec3c
 
 ---
 
 ## 🇫🇷 Frankrijk
 
-**Stijgende olieprijzen door de Iranoorlog en onvrede over koopkracht drijven honderdduizenden de straat op.**
+**Parijs jaagt strategische industrie en energieonafhankelijkheid aan terwijl oorlogswinsten van TotalEnergies het politieke debat aanwakkeren.**
 
-- **1 mei: 158.000 betogers volgens politie, vakbonden claimen 300.000**
-  De **intersyndicale** riep op tot een massale betoging op **1 mei** voor koopkracht, vrede en sociale rechtvaardigheid. Het défilé trok van **Place de la République** naar **Place de la Nation** in Parijs. De politie telde **158.000 betogers** in heel Frankrijk, waarvan **24.000** in Parijs; de **CGT** sprak van meer dan **300.000** deelnemers, waaronder **100.000** in de hoofdstad. Centraal stonden de stijgende brandstofprijzen door de Iranoorlog en het debat over het werken op 1 mei — premier **Sébastien Lecornu** had eerder bakkers en bloemisten toestemming gegeven vrijwillig te openen.
-  📰 France 24 — 1 mei 2026 🔗 https://www.france24.com/fr/france/20260501-en-direct-manifestations-1er-mai-hausse-prix-p%C3%A9trole-guerre-moyen-orient-pouvoir-achat-france-monde
+- **TotalEnergies Q1-winst schiet 51% omhoog tot $5,8 miljard — roep om overwinststaks groeit**
+  **TotalEnergies** boekte in het eerste kwartaal een nettowinst van **$5,8 miljard**, een stijging van **51%**, aangedreven door stijgende energieprijzen als gevolg van de Iran-oorlog. De **Socialistische Partij** eist een wettelijke belasting op crisiswinsten. Premier **Sébastien Lecornu** zet het energieconcern onder druk, terwijl klimaatorganisaties het bedrijf van "oorlogsprofiteurs" betichten. Het debat raakt aan het bredere begrotingstekort van **5,4% van het BBP** — het hoogste in de eurozone.
+  📰 France 24 — 29 april 2026 🔗 https://www.france24.com/en/business/20260429-totalenergies-first-quarter-profits-surge-amid-middle-east-war
 
-- **Olieprijzen bereiken vierjaarshoogte nu Iranoorlog voortduurt**
-  De prijs van **Brent-ruwe olie** steeg naar **$113 per vat**, het hoogste niveau in vier jaar, nu de oorlog in het Midden-Oosten de energiemarkten blijft verstoren. De **Straat van Hormuz** — goed voor **20%** van de wereldwijde oliedoorvoer — is grotendeels geblokkeerd: het scheepvaartverkeer daalde van **132 schepen** op 26 februari naar slechts **6** begin april. De Franse overheid trok **€70 miljoen** uit om de visserij, landbouw en transportsector te ondersteunen. Volgens de **Banque de France** kan de inflatie dit jaar uitkomen tussen **1,7% en 3,3%**, afhankelijk van de duur van de crisis.
-  📰 France 24 — 30 april 2026 🔗 https://www.france24.com/en/tv-shows/business/20260430-crude-oil-prices-hit-four-year-high-as-iran-war-threatens-to-drag-on
+- **Macron opent lithiummijn: 150 strategische industrieprojecten, €71 miljard investering**
+  President **Macron** huldigde in **Échassières** (Allier) de lithiummijn van **Imerys** in, gelegen op een van 's werelds grootste lithiumvoorraden. Het project **EMILI** moet vanaf **2030** jaarlijks **34.000 ton** lithiumhydroxide produceren — genoeg voor **700.000 elektrische auto's**. De mijn valt onder de **150 "Grands Projets Stratégiques"** waarvoor de staat versnelde procedures inzet naar het voorbeeld van de **Notre-Dame**-restauratie, met een cumulatieve investering van **€71 miljard** over **63 departementen**.
+  📰 France 24 — 22 april 2026 🔗 https://www.france24.com/fr/france/20260422-france-inauguration-mine-de-lithium-macron-defend-sa-strategie-en-matiere-de-projets-industriels
 
-- **Trump verhoogt EU-autotarieven tot 25%: Europese Commissie houdt opties open**
-  President **Trump** kondigde op **1 mei** aan de Amerikaanse invoertarieven op Europese auto's en vrachtwagens te verhogen tot **25%**, omdat de EU volgens hem niet voldoet aan het handelsakkoord van afgelopen zomer. De maatregel treft vooral **Duitsland**, de grootste EU-exporteur van voertuigen naar de VS. Een woordvoerder van de **Europese Commissie** verklaarde dat de EU "alle opties openhoudt om Europese belangen te beschermen". De tariefsverhoging komt op een moment dat de wereldeconomie al onder druk staat door de **Iranoorlog** en stijgende energieprijzen.
-  📰 France 24 — 1 mei 2026 🔗 https://www.france24.com/en/live-news/20260501-trump-says-will-raise-us-tariffs-on-eu-cars-trucks-to-25
+- **Lecornu verdubbelt staatssteun voor elektrificatie tot €10 miljard**
+  Premier **Sébastien Lecornu** kondigde aan de staatssteun voor elektrificatie bijna te verdubbelen: van **€5,5 miljard** naar **€10 miljard** tot **2030**. De focus ligt op woningen en transport, met als doel de structurele afhankelijkheid van olie en gas te verminderen. De aankondiging past in het bredere beleid om Frankrijk weerbaarder te maken tegen energieschokken, na de ervaring met de scherp gestegen brandstofprijzen door de Midden-Oostencrisis.
+  📰 France 24 — 10 april 2026 🔗 https://www.france24.com/fr/france/20260410-s%C3%A9bastien-lecornu-veut-acc%C3%A9l%C3%A9rer-sur-l-%C3%A9lectrification-pour-moins-d%C3%A9pendre-du-p%C3%A9trole-ou-du-gaz
 
 ---
 
 ## 🇩🇪 Duitsland
 
-**Nieuwe coalities en een ambitieuze belastinghervorming moeten de stagnerende economie vlottrekken.**
+**Berlijn beschermt Commerzbank tegen Italiaanse overname terwijl tech en auto-industrie transformeren.**
 
-- **CDU stemt in met coalitieakkoord met SPD in Rijnland-Palts**
-  De **CDU** in Rijnland-Palts keurde op een partijcongres in Mainz het coalitieakkoord met de **SPD** goed, met langdurig applaus en staande ovaties. Het akkoord telt circa **100 pagina's** en geeft de coalitie een meerderheid van ruim **twee derde** in het parlement. **Gordon Schnieder** (CDU) wordt op **18 mei** — de grondwetsdag van Rijnland-Palts — beëdigd als minister-president. Het is de eerste keer in **35 jaar** dat de CDU de grootste partij is in deze deelstaat; de tien ministeries worden gelijk verdeeld over beide partijen.
-  📰 Handelsblatt — 2 mei 2026 🔗 https://www.handelsblatt.com/politik/deutschland/regierung-cdu-stimmt-fuer-koalitionsvertrag-mit-der-spd-in-rheinland-pfalz/100221782.html
+- **Bundesregierung noemt UniCredit-bod op Commerzbank "ongepast en oneerlijk"**
+  De Duitse overheid heeft het overnamebod van het Italiaanse **UniCredit** op **Commerzbank** scherp veroordeeld. Woordvoerder **Sebastian Hille** noemde de aanpak "volledig ongepast en oneerlijk." De overheid bezit **12%** van de aandelen en steunt Commerzbanks onafhankelijkheidsstrategie; **UniCredit** controleert al circa **30%** en heeft een deadline gesteld op **16 juni** voor verdere verwerving. Vakbonden vrezen massaontslag vergelijkbaar met de eerdere overname van **HypoVereinsbank**.
+  📰 Handelsblatt — 6 mei 2026 🔗 https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/uebernahme-bundesregierung-kritisiert-unicredit-angebot-fuer-commerzbank/100222943.html
 
-- **Klingbeil eist bijdrage van topverdieners voor grote belastinghervorming**
-  Bondsminister van Financiën **Lars Klingbeil** (SPD) wil in de komende weken zijn plan voor een ingrijpende **inkomstenbelastinghervorming** presenteren, met als doel **95%** van de werknemers "merkbaar" te ontlasten — met "enkele honderden euro's per jaar". Om dat te financieren moeten topverdieners met **zescijferige salarissen** en grote erfenissen meer bijdragen. De coalitie wil de hervorming per **1 januari 2027** invoeren. Kanzleramtschef **Thorsten Frei** (CDU) staat sceptisch tegenover hogere lasten voor topverdieners en pleit voor "echte ontlasting van zo veel mogelijk belastingbetalers".
-  📰 Handelsblatt — 2 mei 2026 🔗 https://www.handelsblatt.com/politik/deutschland/steuerreform-klingbeil-fordert-von-spitzenverdienern-ihren-beitrag-zu-leisten/100221765.html
+- **SAP draait cloud-only strategie terug: AI ook voor on-premise klanten**
+  **SAP** maakt AI-functies zoals digitale assistent **Joule** beschikbaar voor klanten die systemen in eigen datacenters draaien — een breuk met de jarenlange cloud-first-strategie. Voorwaarde: bedrijven moeten clouduitgaven van minimaal **50%** van hun on-premise-onderhoudskosten aanhouden. Het besluit volgt op jarenlang verzet van grootbedrijven tegen verplichte cloudmigratie. SAP stelt dat "AI gestandaardiseerde systemen nodig heeft om betrouwbaar te functioneren," maar erkent dat klanten "hun eigen pad flexibel moeten kunnen bepalen."
+  📰 Handelsblatt — 6 mei 2026 🔗 https://www.handelsblatt.com/technik/it-internet/softwarehersteller-ki-auch-ohne-cloud-sap-will-umstrittene-strategie-aendern/100222601.html
 
-- **AI-model Mythos alarmeert Nationale Veiligheidsraad over cyberrisico's**
-  De **Nationale Veiligheidsraad** van Duitsland is bijeengeroepen naar aanleiding van het nieuwe AI-model **Mythos** van het Amerikaanse bedrijf **Anthropic**, dat "in ongekende mate digitale beveiligingslekken kan opsporen en mogelijk ook exploiteren". De bezorgdheid richt zich op het duale gebruik — zowel defensief als offensief — in cyberoorlogvoering. In de VS hebben **minister van Financiën Scott Bessent** en **Fed-voorzitter Jerome Powell** al grote banken bijeengeroepen om AI-gestuurde hackaanvallen te bespreken. Anthropic lanceerde het **Project Glasswing**, een consortium van bedrijven voor AI-risicobeoordeling.
-  📰 Handelsblatt — 1 mei 2026 🔗 https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-sicherheitsrat-eingeschaltet-mythos-alarmiert-bundesregierung/100221485.html
+- **Duitse autosector in crisis: winsten BMW, Mercedes en VW op pandemieniveau**
+  De Duitse auto-industrie kampt met een ernstige winstcrisis. Volgens berekeningen van **Handelsblatt** zijn de winsten van **BMW**, **Mercedes-Benz** en **Volkswagen** teruggevallen tot niveaus die sinds de pandemie niet meer zijn gezien, ondanks stabiele omzet en verkoopcijfers. Analisten spreken van een "structureel probleem, geen conjuncturele dip": handelstarieven, oorlogen en de fundamentele transformatie van het verdienmodel drukken de marges systematisch.
+  📰 Handelsblatt — 6 mei 2026 🔗 https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-deutschland-steckt-in-der-auto-malaise-das-sind-die-gruende/100220614.html
 
 ---
-
-## 🌍 De Grote Lijnen
-
-De Iranoorlog werpt haar schaduw over heel Europa: de blokkade van de Straat van Hormuz jaagt de olieprijs naar $113 per vat, wat in Frankrijk 158.000 mensen de straat op drijft en in Nederland het consumentenvertrouwen naar het laagste niveau sinds 1986 drukt. Bovenop die energieschok komt Trumps besluit om autotarieven tot 25% te verhogen — een klap die in België, Frankrijk én Duitsland tegelijk alarm slaat en de kwetsbaarheid van het Europese exportmodel blootlegt. Opvallend genoeg profiteert Turkije van de instabiliteit: de export groeide 22% naar een recordhoogte van $25,4 miljard, terwijl het land met $300 miljoen aan windenergie-investeringen juist minder afhankelijk wil worden van fossiele import. Dat streven naar energiesoevereiniteit klinkt ook door in Brussel, waar de regering alle kerncentrales wil overnemen van Engie, en in Berlijn, waar een ambitieuze belastinghervorming de middenklasse moet ontlasten terwijl de economie stagneert. De komende weken wordt cruciaal: als de Iraanse crisis niet de-escaleert en de Amerikaanse handelsdruk aanhoudt, dreigt een gelijktijdige energie- en handelscrisis die de Europese groei langdurig kan fnuiken.
-
-*Samengesteld op dinsdag 5 mei 2026.*
-
