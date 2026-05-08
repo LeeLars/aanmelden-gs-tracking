@@ -1,104 +1,89 @@
-# 📰 MIJN NIEUWSKRANT
-### 📅 Woensdag 6 mei 2026
-
----
-
-# Nieuwsoverzicht Europa — 2 mei 2026
-
----
+# Scan Europa — 8 mei 2026
 
 ## 🇧🇪 België
 
-**Energiezekerheid en de dreigende handelsoorlog domineren het debat in Brussel en Vlaanderen.**
+**België positioneert zich in het Europese defensiedebat, biotech floreert en Vlaanderen overweegt autonome voertuigen op de snelweg.**
 
-- **Trump schroeft autotarieven op tot 25%: "Raakt Europa in de achillespees"**
-  President **Donald Trump** kondigde aan de invoertarieven op Europese auto's en vrachtwagens te verhogen van **15% naar 25%**, omdat de EU zich volgens hem niet aan het handelsakkoord van afgelopen zomer houdt. Het oorspronkelijke tarief bedroeg **2,5%** — de stijging is dus tienvoudig. De Europese auto-industrie is goed voor **14 miljoen banen** en **7% van het EU-bbp**; het handelstekort met de VS bedraagt **€76 miljard**. Professor **Jan Van Hove** (KU Leuven) waarschuwt dat een volledig handelsconflict tot een Europese recessie kan leiden.
-  📰 VRT NWS — 2 mei 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/05/02/trump-handelsoorlog-eu-vs-nieuwe-tarieven-auto-s-vrachtwagens/
+- **België kan €8,34 miljard lenen via EU-defensieprogramma SAFE**
+  **Polen** tekende als eerste EU-land in op het **SAFE**-programma (Security Action for Europe), de Europese defensielening van in totaal **€150 miljard**. Polen krijgt recht op **€43,7 miljard** voor anti-dronesystemen, luchtafweer en het **East Shield**-grensproject. Premier **Donald Tusk** noemde het "een kantelpunt in onze geschiedenis." **België** kan via hetzelfde programma tot **€8,34 miljard** lenen voor defensie-investeringen.
+  📰 VRT NWS — 8 mei 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/05/08/eu-europese-unie-polen-defensie-geld-miljarden/
 
-- **Federale regering wil alle kerncentrales van Engie overnemen**
-  De regering-**De Wever** start onderhandelingen met het Franse energiebedrijf **Engie** over de overname van alle **7 Belgische kernreactoren** (4 in Doel, 3 in Tihange), inclusief personeel, dochterbedrijven en ontmantelingsverplichtingen. Alle lopende ontmanteling is stilgelegd zolang de gesprekken duren. Minister van Energie **Mathieu Bihet** (MR) spreekt van "strategische autonomie en soevereiniteit". Een akkoord moet er liggen vóór **1 oktober 2026**; momenteel draaien enkel **Doel 4** en **Tihange 3**, waarvan de levensduur tot **2035** is verlengd.
-  📰 VRT NWS — 30 april 2026 🔗 https://www.vrt.be/vrtnws/nl/2026/04/30/engie-federale-regering-nucleaire-activiteiten/
+- **Argenx overtreft verwachtingen: omzet stijgt 63% naar $1,3 miljard**
+  Het Gentse biotechbedrijf **Argenx** rapporteerde een kwartaalomzet van **$1,3 miljard** in Q1 2026 — een stijging van **63%** ten opzichte van vorig jaar en boven de analistenverwachting van **$1,27 miljard**. Het was het **17e opeenvolgende kwartaal** dat de omzet van hoofdproduct **Vyvgart** steeg, ingezet tegen myasthenia gravis en andere auto-immuunziekten. CEO **Karen Massey** benadrukte de aanhoudende groeitrend; het aandeel is onderdeel van de **Bel20**-index.
+  📰 De Tijd — 7 mei 2026 🔗 https://www.tijd.be
 
-- **Van Grieken lanceert plan voor eengemaakt Vlaams energiebedrijf**
-  **Vlaams Belang**-voorzitter **Tom Van Grieken** presenteerde op **1 mei** in Ninove zijn voorstel voor één geïntegreerd Vlaams energiebedrijf dat intercommunales, politieke benoemingen en inefficiënt beheer moet vervangen. Volgens Van Grieken kunnen Vlaamse gezinnen zo minstens **€160 per jaar** besparen op hun energiefactuur. Het voorstel kadert in de bredere energiediscussie nu de federale regering tegelijk onderhandelt over de overname van kerncentrales.
-  📰 VRT NWS — 1 mei 2026 🔗 https://www.vrt.be/vrtnws/nl/liveblog/tom-van-grieken-vlaams-belang-pleit-in-1-meitoespraak-voor-e~1771325690894/
+- **Vlaanderen overweegt Tesla Full Self-Driving toe te laten op snelwegen**
+  Vlaams minister van Mobiliteit **Annick De Ridder** onderzoekt of **Tesla's Full Self-Driving (FSD Supervised)**-systeem op Vlaamse snelwegen kan worden toegelaten, nadat **Nederland** de technologie al goedkeurde. De minister vroeg documentatie op bij Tesla en wil "tegen het einde van de week duidelijkheid." Bestuurders moeten te allen tijde alert blijven en klaar zijn om in te grijpen — het betreft een systeem dat bijna volledig autonoom rijdt, maar menselijk toezicht vereist.
+  📰 De Standaard — 6 mei 2026 🔗 https://www.standaard.be
 
 ---
 
 ## 🇳🇱 Nederland
 
-**Zwakke groei, vakbondsonrust en handelsonzekerheid zetten het kabinet onder druk.**
+**Het kabinet zoekt nieuwe wegen in het asieldossier, de bouwsector groeit sterk en universiteiten worden getroffen door een internationale cyberaanval.**
 
-- **Economisch stoplicht op oranje: recessie niet uitgesloten**
-  De Nederlandse economie groeide in het eerste kwartaal slechts **0,1%**, een forse terugval ten opzichte van de **0,5%** in het vorige kwartaal. De inflatie steeg naar **2,8%** en het consumentenvertrouwen daalde tot het op één na laagste punt **sinds april 1986**. **CBS**-hoofdeconoom **Peter Hein van Mulligen** noemt het "een tegenvaller, maar nog niet heel erg pijnlijk" — al is een recessie "zeker niet uit te sluiten". De onzekerheid wordt gevoed door de blokkade van de **Straat van Hormuz** en de Amerikaanse handelspolitiek.
-  📰 NOS — 2 mei 2026 🔗 https://nos.nl/artikel/2612710-economisch-stoplicht-op-oranje-maar-per-dag-kijken-waar-het-heen-gaat
+- **Kabinet kondigt nieuwe asielmaatregelen aan na stranden noodwet**
+  Na het stranden van de asielnoodwet in de Eerste Kamer presenteert het kabinet-**Jetten** twee nieuwe maatregelen. Asielminister **Van den Brink (CDA)** wil vreemdelingen die misdrijven plegen met een straf van minimaal **twee jaar gevangenisstraf** sneller als ongewenst verklaren. Daarnaast verscherpt de **Koninklijke Marechaussee** de grenscontroles op wegen direct achter de landsgrenzen. Omstreden onderdelen — zoals het strafbaar stellen van alle illegalen zonder verblijfsrecht — worden later behandeld.
+  📰 NOS — 8 mei 2026 🔗 https://nos.nl/artikel/2613584-kabinet-komt-met-eerste-nieuwe-maatregelen-na-stranden-asielnoodwet
 
-- **FNV dreigt met ov-staking in juni tegen bezuinigingen sociale zekerheid**
-  De **FNV** kondigde aan dat **treinen, bussen, trams en metro's** in juni kunnen worden stilgelegd als het kabinet-**Jetten** vasthoudt aan plannen om de **AOW-leeftijd** te verhogen en de **WW-uitkering** te verkorten. FNV-bestuurder **Henri Janssen** noemde de plannen "onacceptabel" maar gaf nog geen exacte stakingsdatum. Ook de **havens** worden als actieterrein genoemd. De bonden **CNV** en **VCP** steunen de lijn, maar hebben zich nog niet uitgesproken over stakingsacties.
-  📰 NOS — 1 mei 2026 🔗 https://nos.nl/artikel/2612682-fnv-dreigt-met-ov-staking-in-juni-zonder-met-details-te-komen
+- **Orderboek Heijmans groeit 40% naar €4,1 miljard**
+  Bouwconcern **Heijmans** rapporteert sterke eerste-kwartaalcijfers: de orderportefeuille groeide in een jaar van **€2,9 miljard** naar **€4,1 miljard** — een toename van **40%**. Het bedrijf handhaaft zijn omzetdoel van circa **€3,1 miljard** voor 2026 en mikt op een onderliggende **EBITDA-marge van 9,5%**. Topman **Ton Hillen** stelt dat alle drie bedrijfsstromen — Wonen, Werken en Verbinden — "in lijn met verwachtingen" presteren. Op **21 mei** organiseert Heijmans een beleggersdag.
+  📰 Het Financieele Dagblad — 8 mei 2026 🔗 https://fd.nl/bedrijfsleven/1596006/orderboek-heijmans-groeit-met-40-bouwer-handhaaft-winstdoel-2026
 
-- **Zorgen en optimisme over vrijhandelsverdrag EU-Mercosur**
-  De **Europese Unie** en de **Mercosur-landen** (Brazilië, Argentinië, Uruguay, Paraguay) naderen een definitief vrijhandelsakkoord dat een van de grootste vrijhandelszones ter wereld zou creëren. **Braziliaanse producenten** van rundvlees en kip zien grote exportkansen naar Europa. Nederlandse en Europese boeren vrezen echter oneerlijke concurrentie door lagere productiestandaarden in Zuid-Amerika. Het akkoord raakt ook industriële goederen en diensten en is al meer dan twintig jaar in onderhandeling.
-  📰 NOS — 1 mei 2026 🔗 https://nos.nl/artikel/2612683-zorgen-en-optimisme-over-vrijhandelsverdrag-europa-en-latijns-amerika
+- **Universiteiten blokkeren studie-app Canvas na tweede hack door ShinyHunters**
+  Hackergroep **ShinyHunters** kraakte voor de tweede keer de onderwijsapp **Canvas** en dreigt gegevens van **275 miljoen** gebruikers wereldwijd openbaar te maken. Instellingen als de **Universiteit Twente**, **Erasmus Universiteit Rotterdam**, **VU Amsterdam** en **Fontys Hogeschool** schakelden Canvas uit. De hackers stelden een ultimatum: onderwijsinstellingen hebben tot **12 mei** om te onderhandelen, anders wordt de gestolen data gepubliceerd. Ook **Harvard** en **Columbia** zijn getroffen.
+  📰 NRC — 8 mei 2026 🔗 https://www.nrc.nl
 
 ---
 
 ## 🇹🇷 Turkije
 
-**Recordexport en groene investeringen contrasteren met diplomatieke spanningen rond de Gaza-flottilje.**
+**Turkije etaleert zijn groeiende defensiemacht op het wereldtoneel terwijl oppositiepolitici overlopen naar de regeerpartij.**
 
-- **Israël onderschept Gaza-hulpflottilje: 59 activisten landen in Istanbul**
-  De Israëlische marine onderschepte op **29 april** de **Global Sumud**-flottilje in internationale wateren, zo'n **600 zeemijl** van Gaza, net buiten de Griekse territoriale wateren. Aan boord waren **345 deelnemers uit 39 landen**, onder wie **18 Turken**. Na overbrenging naar Griekenland vlogen **59 activisten** met een chartervlucht van **Turkish Airlines** naar Istanbul, waar het **Turkse Openbaar Ministerie** een onderzoek startte. Minister van Buitenlandse Zaken **Hakan Fidan** belde met zijn Griekse ambtgenoot over het incident.
-  📰 TRT World — 1 mei 2026 🔗 https://trtworld.com/article/da49db5d1bd9
+- **Oppositieburgemeester Köksal stapt over van CHP naar AKP**
+  **Burcu Köksal**, burgemeester van **Afyonkarahisar** en verkozen voor oppositiepartij **CHP** met **50,73%** van de stemmen bij de lokale verkiezingen van 2024, kondigde aan over te stappen naar president Erdogans **AKP**. De officiële overstap is gepland voor **12 mei** tijdens een provinciale partijvergadering. Köksal verklaarde dat Erdogan haar peilingen toonde waaruit "hoge politieke compatibiliteit" bleek. Het is de **zevende** overstap van een CHP-functionaris naar de AKP sinds 2024, wat de druk op de grootste oppositiepartij illustreert.
+  📰 Hürriyet Daily News — 8 mei 2026 🔗 https://www.hurriyetdailynews.com/opposition-mayor-koksal-announces-switch-to-akp-221947
 
-- **Turkse export stijgt 22,3% in april tot recordhoogte van $25,4 miljard**
-  Handelsminister **Ömer Bolat** maakte in de Zwarte Zee-provincie Ordu bekend dat de Turkse export in april uitkwam op **$25,4 miljard** — een stijging van **22,3%** ten opzichte van vorig jaar en het hoogste aprilcijfer ooit. Op jaarbasis bereikten de exporten een record van **$275,8 miljard**. **TİM**-voorzitter **Mustafa Gültepe** benadrukte dat de groei standhield "ondanks moeilijke mondiale handelsomstandigheden". De regering mikt voor heel 2026 op **$282 miljard** aan goederenexport.
-  📰 Hürriyet Daily News — 2 mei 2026 🔗 https://www.hurriyetdailynews.com/turkiyes-exports-rise-22-3-percent-in-april-221733
+- **Turkse defensiebedrijven sluiten $8 miljard aan contracten op SAHA 2026**
+  Op de internationale defensiebeurs **SAHA 2026** in Istanbul ondertekenden Turkse defensiebedrijven in drie dagen **$8 miljard** aan contracten, verdeeld over **182 overeenkomsten** waarvan **$6 miljard** exportgericht. President **Erdogan** verklaarde dat de Turkse defensie-industrie is uitgegroeid tot "een ecosysteem dat wereldwijd gevraagd en vertrouwd wordt." De defensie-export steeg in de eerste vier maanden van 2026 met **28%** tot **$2,87 miljard**. SAHA Istanbul is het grootste defensie- en luchtvaartcluster van Europa met meer dan **1.300 lidbedrijven**.
+  📰 Daily Sabah — 8 mei 2026 🔗 https://www.dailysabah.com/business/defense/turkish-defense-firms-clinch-8b-in-deals-in-first-days-of-saha-expo
 
-- **$300 miljoen windenergie-investeringen in eerste kwartaal: Turkije wil Europees koploper worden**
-  Turkije investeerde in het eerste kwartaal van 2026 tussen **$300 en $350 miljoen** in windenergie en breidde de capaciteit uit met meer dan **300 megawatt**. Het land was in 2025 al de **op één na grootste installateur** van windcapaciteit in Europa, met meer dan **2 gigawatt** aan nieuwe capaciteit. Hernieuwbare bronnen vormen inmiddels **62%** van de totale geïnstalleerde capaciteit van **122,5 GW**. Volgens **TÜREB**-voorzitter **Ibrahim Erden** bespaart elke **1.000 MW** windcapaciteit circa **$250 miljoen** aan aardgasimport per jaar.
-  📰 Daily Sabah — 1 mei 2026 🔗 https://www.dailysabah.com/business/energy/turkiye-logs-300m-in-q1-wind-energy-investments-eyes-faster-growth
+- **Aselsan onthult geavanceerde elektronische wapensystemen op SAHA-expo**
+  Het Turkse defensiebedrijf **Aselsan**, met een marktwaarde van meer dan **$30 miljard** en inmiddels een **top-10 Europees defensiebedrijf**, presenteerde geavanceerde elektronische oorlogssystemen op SAHA 2026. Hoogtepunten waren **Ejderha** (een hoogvermogen-microgolfsysteem tegen drones), **Gokalp** (een AI-aangedreven drone-interceptor) en **Gokberk** (een **10kW** gericht-energiewapen). CEO **Ahmet Akyol** benadrukte dat "moderne slagvelden naadloze integratie over het elektromagnetisch spectrum vereisen."
+  📰 TRT World — 8 mei 2026 🔗 https://www.trtworld.com/article/8cbad72badc9
 
 ---
 
 ## 🇫🇷 Frankrijk
 
-**Stijgende olieprijzen door de Iranoorlog en onvrede over koopkracht drijven honderdduizenden de straat op.**
+**Frankrijk investeert in grote infrastructuurprojecten en digitale onafhankelijkheid, terwijl de energiecrisis het debat over superwinsten aanwakkert.**
 
-- **1 mei: 158.000 betogers volgens politie, vakbonden claimen 300.000**
-  De **intersyndicale** riep op tot een massale betoging op **1 mei** voor koopkracht, vrede en sociale rechtvaardigheid. Het défilé trok van **Place de la République** naar **Place de la Nation** in Parijs. De politie telde **158.000 betogers** in heel Frankrijk, waarvan **24.000** in Parijs; de **CGT** sprak van meer dan **300.000** deelnemers, waaronder **100.000** in de hoofdstad. Centraal stonden de stijgende brandstofprijzen door de Iranoorlog en het debat over het werken op 1 mei — premier **Sébastien Lecornu** had eerder bakkers en bloemisten toestemming gegeven vrijwillig te openen.
-  📰 France 24 — 1 mei 2026 🔗 https://www.france24.com/fr/france/20260501-en-direct-manifestations-1er-mai-hausse-prix-p%C3%A9trole-guerre-moyen-orient-pouvoir-achat-france-monde
+- **Lecornu tekent "onomkeerbaar" akkoord voor hogesnelheidslijn Bordeaux-Toulouse**
+  Premier **Sébastien Lecornu** ondertekende in Toulouse een financieringsprotocol voor de **LGV Bordeaux-Toulouse-Dax**. In **2026-2027** wordt **€820 miljoen** vrijgemaakt, gelijk verdeeld tussen staat en regio's **Nouvelle-Aquitaine** en **Occitanie**. Daarbovenop komt **€500 miljoen** voor aanbestedingsprocedures. Lecornu noemde het project "désormais irréversible." De regio's dragen op ongekend hoog niveau (**40%**) bij aan de financiering — **6 procentpunt** meer dan bij de LGV Est.
+  📰 France 24 — 7 mei 2026 🔗 https://www.france24.com/fr/info-en-continu/20260507-la-lgv-bordeaux-toulouse-irr%C3%A9versible-assure-lecornu-les-%C3%A9lus-locaux-satisfaits-mais-vigilants
 
-- **Olieprijzen bereiken vierjaarshoogte nu Iranoorlog voortduurt**
-  De prijs van **Brent-ruwe olie** steeg naar **$113 per vat**, het hoogste niveau in vier jaar, nu de oorlog in het Midden-Oosten de energiemarkten blijft verstoren. De **Straat van Hormuz** — goed voor **20%** van de wereldwijde oliedoorvoer — is grotendeels geblokkeerd: het scheepvaartverkeer daalde van **132 schepen** op 26 februari naar slechts **6** begin april. De Franse overheid trok **€70 miljoen** uit om de visserij, landbouw en transportsector te ondersteunen. Volgens de **Banque de France** kan de inflatie dit jaar uitkomen tussen **1,7% en 3,3%**, afhankelijk van de duur van de crisis.
-  📰 France 24 — 30 april 2026 🔗 https://www.france24.com/en/tv-shows/business/20260430-crude-oil-prices-hit-four-year-high-as-iran-war-threatens-to-drag-on
+- **TotalEnergies dreigt prijsplafond te schrappen bij superwinst-belasting**
+  Energiegigant **TotalEnergies** waarschuwde dat het zijn prijsplafond op brandstof — **€1,99/liter** benzine en **€2,25/liter** diesel — bij **3.300 tankstations** in Frankrijk niet zal handhaven als het parlement een belasting op superwinsten invoert. De **Parti Socialiste** diende een wetsvoorstel in dat bedrijven met meer dan **€750 miljoen** omzet wil belasten op overwinsten boven **20%** van het driejaarsgemiddelde. Premier **Lecornu** drong aan op een "genereuzer" plafond en benadrukte dat Total al **€2 miljard** per jaar aan verplichte belastingen betaalt in Frankrijk.
+  📰 Le Monde — 8 mei 2026 🔗 https://www.lemonde.fr
 
-- **Trump verhoogt EU-autotarieven tot 25%: Europese Commissie houdt opties open**
-  President **Trump** kondigde op **1 mei** aan de Amerikaanse invoertarieven op Europese auto's en vrachtwagens te verhogen tot **25%**, omdat de EU volgens hem niet voldoet aan het handelsakkoord van afgelopen zomer. De maatregel treft vooral **Duitsland**, de grootste EU-exporteur van voertuigen naar de VS. Een woordvoerder van de **Europese Commissie** verklaarde dat de EU "alle opties openhoudt om Europese belangen te beschermen". De tariefsverhoging komt op een moment dat de wereldeconomie al onder druk staat door de **Iranoorlog** en stijgende energieprijzen.
-  📰 France 24 — 1 mei 2026 🔗 https://www.france24.com/en/live-news/20260501-trump-says-will-raise-us-tariffs-on-eu-cars-trucks-to-25
+- **Franse overheid start grootschalige migratie van Windows naar Linux**
+  Minister van Digitale Zaken **Anne Le Hénanff** kondigde aan dat alle Franse overheidsdiensten — circa **2,5 miljoen ambtenaren** — overstappen van **Microsoft Windows** naar **Linux** en van Amerikaanse cloudplatforms naar Europese alternatieven als **OVHcloud**, **Atos** en **Capgemini**. De **DINUM** (Interministeriële Digitale Dienst) coördineert het plan; elk ministerie moet vóór de **herfst van 2026** een migratieplan indienen. De **Health Data Hub** verlaat eveneens het Microsoft-platform. Een publiek-privaat alliantie voor Europese digitale soevereiniteit wordt in **juni 2026** formeel aangekondigd.
+  📰 Les Echos — mei 2026 🔗 https://www.lesechos.fr
 
 ---
 
 ## 🇩🇪 Duitsland
 
-**Nieuwe coalities en een ambitieuze belastinghervorming moeten de stagnerende economie vlottrekken.**
+**De Iran-oorlog slaat een gat in de Duitse schatkist, de federale politiek loopt vast en Russische hackers treffen de Bundestag.**
 
-- **CDU stemt in met coalitieakkoord met SPD in Rijnland-Palts**
-  De **CDU** in Rijnland-Palts keurde op een partijcongres in Mainz het coalitieakkoord met de **SPD** goed, met langdurig applaus en staande ovaties. Het akkoord telt circa **100 pagina's** en geeft de coalitie een meerderheid van ruim **twee derde** in het parlement. **Gordon Schnieder** (CDU) wordt op **18 mei** — de grondwetsdag van Rijnland-Palts — beëdigd als minister-president. Het is de eerste keer in **35 jaar** dat de CDU de grootste partij is in deze deelstaat; de tien ministeries worden gelijk verdeeld over beide partijen.
-  📰 Handelsblatt — 2 mei 2026 🔗 https://www.handelsblatt.com/politik/deutschland/regierung-cdu-stimmt-fuer-koalitionsvertrag-mit-der-spd-in-rheinland-pfalz/100221782.html
+- **Bundesrat blokkeert belastingvrije uitkering van €1.000**
+  De **Bundesrat** verwierp een wet die werkgevers een belasting- en premievrije vergoeding van maximaal **€1.000** aan werknemers had moeten mogelijk maken. De deelstaten weigerden goedkeuring omdat de geschatte kosten van **€2,8 miljard** voor bijna tweederde op rekening van deelstaten en gemeenten zouden komen, zonder federale compensatie. **De Groenen** noemden het "een fiasco voor bondskanselier **Friedrich Merz**." De regering overweegt nu de bemiddelingscommissie in te schakelen.
+  📰 Handelsblatt — 8 mei 2026 🔗 https://www.handelsblatt.com/politik/deutschland/steuern-bundesrat-stoppt-1000-euro-entlastungspraemie/100223488.html
 
-- **Klingbeil eist bijdrage van topverdieners voor grote belastinghervorming**
-  Bondsminister van Financiën **Lars Klingbeil** (SPD) wil in de komende weken zijn plan voor een ingrijpende **inkomstenbelastinghervorming** presenteren, met als doel **95%** van de werknemers "merkbaar" te ontlasten — met "enkele honderden euro's per jaar". Om dat te financieren moeten topverdieners met **zescijferige salarissen** en grote erfenissen meer bijdragen. De coalitie wil de hervorming per **1 januari 2027** invoeren. Kanzleramtschef **Thorsten Frei** (CDU) staat sceptisch tegenover hogere lasten voor topverdieners en pleit voor "echte ontlasting van zo veel mogelijk belastingbetalers".
-  📰 Handelsblatt — 2 mei 2026 🔗 https://www.handelsblatt.com/politik/deutschland/steuerreform-klingbeil-fordert-von-spitzenverdienern-ihren-beitrag-zu-leisten/100221765.html
+- **Belastinginkomsten kelderen met €17,8 miljard door Iran-oorlog**
+  Minister van Financiën **Lars Klingbeil (SPD)** presenteerde de **170e officiële belastingraming**: Duitsland verwacht dit jaar **€17,8 miljard** minder inkomsten dan eerder voorzien. Voor de periode **2026-2030** loopt het tekort op tot **€87 miljard**. De Iran-oorlog — de blokkade van de **Straat van Hormuz** en stijgende energieprijzen — drukt de economische groei naar slechts **0,5%** voor 2026. "De Iran-oorlog kost Duitsland geld," aldus Klingbeil. De federale begroting voor **2027** bedraagt **€543,3 miljard**.
+  📰 Tagesschau — 7 mei 2026 🔗 https://www.tagesschau.de/wirtschaft/steuerschaetzung-steuereinnahmen-klingbeil-iran-krieg-100.html
 
-- **AI-model Mythos alarmeert Nationale Veiligheidsraad over cyberrisico's**
-  De **Nationale Veiligheidsraad** van Duitsland is bijeengeroepen naar aanleiding van het nieuwe AI-model **Mythos** van het Amerikaanse bedrijf **Anthropic**, dat "in ongekende mate digitale beveiligingslekken kan opsporen en mogelijk ook exploiteren". De bezorgdheid richt zich op het duale gebruik — zowel defensief als offensief — in cyberoorlogvoering. In de VS hebben **minister van Financiën Scott Bessent** en **Fed-voorzitter Jerome Powell** al grote banken bijeengeroepen om AI-gestuurde hackaanvallen te bespreken. Anthropic lanceerde het **Project Glasswing**, een consortium van bedrijven voor AI-risicobeoordeling.
-  📰 Handelsblatt — 1 mei 2026 🔗 https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-sicherheitsrat-eingeschaltet-mythos-alarmiert-bundesregierung/100221485.html
-
----
-
-## 🌍 De Grote Lijnen
-
-De Europese economie raakt in de knel tussen drie gelijktijdige schokken: de Iranoorlog drijft olieprijzen naar $113 per vat en verstikt de toevoer via de Straat van Hormuz, Trumps vertienvoudiging van autotarieven tot 25% bedreigt een sector van 14 miljoen banen, en het consumentenvertrouwen keldert in zowel Nederland als Frankrijk naar historische dieptepunten. De druk vertaalt zich rechtstreeks naar de straat — in Parijs betogen honderdduizenden voor koopkracht, in Nederland dreigt de FNV met een ov-staking in juni, terwijl Belgische en Duitse politici om het hardst strijden over wie de lasten draagt van belastinghervormingen en energietransities. Opvallend is dat Turkije tegen de Europese stroom in zwemt: recordexport van $25,4 miljard in april én honderden miljoenen aan windenergie-investeringen, terwijl de Turkse diplomatie tegelijk navigeert tussen de Gaza-flottilje en westerse bondgenoten. De komende weken wordt cruciaal of Europa een gecoördineerd antwoord formuleert op de Amerikaanse handelspolitiek, of dat elk land individueel probeert de schade te beperken — de contouren van die keuze tekenen zich nu al af.
-
-*Samengesteld op woensdag 6 mei 2026.*
+- **Signal-CEO erkent fouten na Russische phishing-aanval op Bundestag**
+  **Meredith Whittaker**, CEO van **Signal**, erkende fouten in de aanpak van een phishing-campagne die wordt toegeschreven aan **Russische inlichtingendiensten**. Circa **300 politieke Signal-accounts** werden gecompromitteerd, waaronder die van Bundestagspresident **Julia Klöckner (CDU)** en ministers **Karin Prien (CDU)** en **Verena Hubertz (SPD)**. Whittaker kondigde verbeteringen aan: extra waarschuwingen bij berichten van onbekende afzenders en strengere procedures voor het toevoegen van contacten. De **Bundestag** overweegt over te stappen naar de Europese berichtendienst **Wire**.
+  📰 Der Spiegel — 8 mei 2026 🔗 https://www.spiegel.de
