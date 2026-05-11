@@ -1,35 +1,15 @@
-# Scan Europa
+Nieuwsoverzicht voor 5 Europese landen. Commit naar main in repo LeeLars/aanmelden-gs-tracking. GEEN nieuwe branch.
 
-Nieuwsoverzicht voor 5 landen. Commit naar `main` in repo `LeeLars/aanmelden-gs-tracking`. GEEN nieuwe branch.
+Landen: Belgie (standaard.be, tijd.be, vrt.be/vrtnws), Nederland (nos.nl, nrc.nl, fd.nl), Turkije (dailysabah.com, hurriyetdailynews.com, trtworld.com), Frankrijk (france24.com, lemonde.fr, lesechos.fr), Duitsland (spiegel.de, handelsblatt.com, tagesschau.de)
 
-## Landen
+Zoek per land 2 nieuwsitems van vandaag over politiek, economie of technologie. Gebruik per land 2 verschillende bronnen. Werk snel en parallel.
 
-🇧🇪 België (standaard.be, tijd.be, vrt.be/vrtnws)
-🇳🇱 Nederland (nos.nl, nrc.nl, fd.nl)
-🇹🇷 Turkije (dailysabah.com, hurriyetdailynews.com, trtworld.com)
-🇫🇷 Frankrijk (france24.com, lemonde.fr, lesechos.fr)
-🇩🇪 Duitsland (spiegel.de, handelsblatt.com, tagesschau.de)
+Schrijf naar werk/scan-1.md in exact dit formaat per land:
 
-## Wat te doen
-
-Zoek per land 2 nieuwsitems van vandaag over politiek, economie of technologie. Gebruik per land 2 verschillende bronnen. Werk snel — zoek alle landen parallel.
-
-## Schrijf naar `werk/scan-1.md`
-
-Per land:
-
-```
 ## [emoji] [Land]
-
-**[Rode draad — 1 zin]**
-
-- **[Kop]** [2-3 zinnen met cijfers en namen. **Vetgedrukt** voor kerninfo.]
-  📰 Bron — datum 🔗 [url]
-
-- **[Kop]** [2-3 zinnen.]
-  📰 Bron — datum 🔗 [url]
-
+**[Rode draad in 1 zin]**
+- **[Kop]** [2-3 zinnen met cijfers en namen. **Vetgedrukt** voor kerninfo.] (Bron, datum, url)
+- **[Kop]** [2-3 zinnen.] (Bron, datum, url)
 ---
-```
 
-Commit: `scan-1 YYYY-MM-DD`
+Commit message: scan-1 YYYY-MM-DD
