@@ -1,10 +1,6 @@
-Combineer scans tot krant. Commit naar main in repo LeeLars/aanmelden-gs-tracking. GEEN nieuwe branch.
+Combineer scan tot krant. Commit naar main in repo LeeLars/aanmelden-gs-tracking. GEEN nieuwe branch.
 
-## Stap 1: Check of beide scans klaar zijn
-
-Kijk of werk/scan-1.md en werk/scan-2.md bestaan in de repo. Als er een ontbreekt, wacht 5 minuten en check opnieuw (max 3 keer). Als na 15 minuten nog steeds een scan ontbreekt, ga door met wat er is.
-
-## Stap 2: Combineer via bash
+## Stap 1: Combineer via bash
 
 ```bash
 DATUM=$(date +%Y-%m-%d)
@@ -23,31 +19,29 @@ cat > nieuwskrant-latest.md << EOF
 ---
 EOF
 
-if [ -f werk/scan-1.md ]; then cat werk/scan-1.md >> nieuwskrant-latest.md; else echo "> Scan Europa niet beschikbaar." >> nieuwskrant-latest.md; fi
-echo "" >> nieuwskrant-latest.md
-if [ -f werk/scan-2.md ]; then cat werk/scan-2.md >> nieuwskrant-latest.md; else echo "> Scan Wereld niet beschikbaar." >> nieuwskrant-latest.md; fi
+if [ -f werk/scan-1.md ]; then cat werk/scan-1.md >> nieuwskrant-latest.md; else echo "> Scan niet beschikbaar." >> nieuwskrant-latest.md; fi
 ```
 
-## Stap 3: Marktoverzicht
+## Stap 2: Marktoverzicht
 
 Zoek koersen op (BTC, ETH, Goud, Brent, EUR/USD, S&P500, AEX, DAX, Nikkei) en voeg toe aan nieuwskrant-latest.md.
 
-## Stap 4: De Grote Lijnen
+## Stap 3: De Grote Lijnen
 
 Voeg 4-6 zinnen toe over rode draden en dwarsverbanden tussen de landen.
 
-## Stap 5: Opslaan en opruimen
+## Stap 4: Opslaan en opruimen
 
 ```bash
 cp nieuwskrant-latest.md archief/$JAAR/$MAAND/nieuwskrant-$DATUM.md
 git add nieuwskrant-latest.md archief/
 git commit -m "nieuwskrant $DATUM"
-git rm --ignore-unmatch werk/scan-1.md werk/scan-2.md
+git rm --ignore-unmatch werk/scan-1.md
 git commit --allow-empty -m "opruimen $DATUM"
 git push origin main
 ```
 
-## Stap 6: Telegram
+## Stap 5: Telegram
 
 ```bash
 DATUM=$(date +%Y-%m-%d)
