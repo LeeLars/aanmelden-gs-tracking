@@ -50,13 +50,13 @@
 
 ## 📊 Marktoverzicht
 
-| Markt | Koers | |
-|---|---|---|
-| Bitcoin (BTC) | $77.289 | |
-| Ethereum (ETH) | $2.127 | |
+| Markt | Koers | Verandering |
+|-------|------:|:-----------:|
+| Bitcoin (BTC) | $77.289 | +0,1% |
+| Ethereum (ETH) | $2.127 | +0,2% |
 | Goud (XAU) | $4.522 | |
 | Brent olie | $104,56 | |
-| EUR/USD | 1,1608 | |
+| EUR/USD | 1,1608 | −0,09% |
 | S&P 500 | 7.445,72 | −0,37% |
 | AEX | 1.044,45 | +0,91% |
 | DAX | 24.607 | −0,53% |
@@ -68,4 +68,4 @@
 
 De **Iran-oorlog** en de blokkade van de **Straat van Hormuz** vormen de rode draad van vandaag: Brent-olie noteert boven $104, Duitsland halveert zijn groeiverwachting en Japan ziet zich gedwongen tot een noodbegroting om stijgende energiekosten te dempen. Tegelijkertijd probeert Europa zijn technologische soevereiniteit te versterken — Macron pompt €1,5 miljard in quantum en chips, terwijl China de export van Nvidia-chips blokkeert en zelf Huawei-alternatieven opschaalt. Op de beurzen profiteert vooral Tokyo (+3,1%) van de hoop op een OpenAI-beursgang, maar de S&P 500 en DAX zakken licht weg door de geopolitieke onzekerheid. De binnenlandse politiek loopt in meerdere landen vast: in de VS blokkeren Republikeinen hun eigen begrotingsstemming, in Nederland verzet het bedrijfsleven zich tegen pensioenhervorming, en Ruslands deflatie onthult een economie die krimpt onder sanctiedruk ondanks groeiende olie-export naar China.
 ---
-
+*Samengesteld door AI-redactie · Bronnen: VRT, DutchNews, Daily Sabah, Reuters, Euronews, TASS, GOV.UK, NBC News, IndianWeb2, SCMP, Japan Times, Yahoo Finance, Investing.com, TradingEconomics*
