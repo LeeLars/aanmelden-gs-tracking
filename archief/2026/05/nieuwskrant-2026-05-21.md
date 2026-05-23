@@ -1,55 +1,45 @@
-# MIJN NIEUWSKRANT
-### Donderdag 21 mei 2026
----
+# Nieuwsoverzicht 23 mei 2026
 
 ## 🇧🇪 België
-**Oekraïne escaleert droneoorlog terwijl techmarkten nieuwe records breken.**
-- **Oekraïne voert massale droneaanval uit op Rusland met 556 drones** Rusland meldde dat het minstens **556 Oekraïense drones** heeft onderschept tijdens een van de grootste nachtelijke aanvallen ooit, met minstens **4 doden** in **Moskou** en **Belgorod**. In totaal werden **14 Russische regio's** getroffen, waaronder energieinfrastructuur meer dan 400 km van de grens. President **Zelensky** noemde de aanvallen "volkomen gerechtvaardigd" als vergelding voor Russische aanvallen die eerder die week **24 Oekraïners in Kiev** doodden. (VRT NWS, 17-05-2026, https://www.vrt.be/vrtnws/nl/2026/05/17/grote-droneaanval-op-moskou-rusland/)
-- **Nvidia bereikt recordkoers — marktwaarde stijgt naar 5,5 biljoen dollar** Chipgigant **Nvidia** bereikte een **marktwaarde van $5,5 biljoen** en steeg naar recordkoersen. CEO **Jensen Huang** reisde mee met president **Trump** naar China, wat de sterke banden tussen het techbedrijf en het Witte Huis onderstreept. Komende week presenteert Nvidia zijn **kwartaalcijfers**, cruciaal voor de richting van de financiële markten. (Trends/Knack, 17-05-2026, https://trends.knack.be/beleggen/beursnieuws/komende-week-aandacht-voor-resultaten-nvidia/)
+- **Buitenlandse investeringen zorgen voor banengolf in Gent** Gent trekt **€500+ miljoen** aan buitenlandse investeringen aan, goed voor **1.800 nieuwe banen** via **41 projecten** in 2025. Start-ups en scale-ups in de stad hebben een gezamenlijke marktwaarde van **€61 miljard** — zo'n 70% van de Vlaamse markt — met **75%** van de nieuwe banen in tech en innovatie. (VRT NWS, 20 mei 2026, https://www.vrt.be/vrtnws/en/2026/05/20/foreign-investment-leads-to-job-boom-in-ghent/)
 ---
 
 ## 🇳🇱 Nederland
-**Politieke ophef over extreemrechts taalgebruik en nasleep datacenter-brand raakt universiteiten.**
-- **Markuszower gebruikt term 'omvolking' tijdens gesprek met demonstrant** Kamerlid **Gidi Markuszower** (De Nederlandse Alliantie) is in opspraak na beelden van Nieuwsuur waarop hij in Loosdrecht zegt: *"We worden omvolkt."* Hij beweerde dat er **"elke week duizend mensen bijkomen"**, maar ontkende later het woord publiekelijk te hebben gebruikt. De **AIVD** noemt de omvolkingstheorie feitelijk onjuist. (NOS/Nieuwsuur, 17-05-2026, https://nos.nl/artikel/2614645-markuszower-in-loosdrecht-we-worden-omvolkt)
-- **Universiteit Utrecht herstelt systemen na brand in datacenter Almere** Bijna twee weken na de grote brand in het datacenter van **NorthC** in **Almere** zijn de IT-systemen van de **Universiteit Utrecht** succesvol hersteld. Tentamens gaan door maar voorlopig met **analoge alternatieven**. Ook het **CBS**, vervoersbedrijf **Transdev** en diverse huisartspraktijken werden getroffen. (RTV Utrecht, 17-05-2026, https://www.rtvutrecht.nl/nieuws/4043859/universiteit-utrecht-herstelt-systemen-na-brand-onderwijs-en-tentamens-weer-opgestart)
+- **Nederland verbiedt handel in goederen uit illegale Israëlische nederzettingen** Premier **Rob Jetten** kondigt na de ministerraad een driejarig verbod aan op import, verkoop en bemiddeling van goederen uit nederzettingen op de **bezette Westelijke Jordaanoever en Golanhoogten**. Het verbod geldt ook voor Nederlandse bedrijven in het buitenland en treedt in werking in de **tweede helft van 2026**. (NL Times, 22 mei 2026, https://nltimes.nl/2026/05/22/netherlands-agrees-ban-trade-goods-illegal-israeli-settlements)
 ---
 
 ## 🇹🇷 Turkije
-**Ankara herstelt diplomatieke banden met Berlijn terwijl nucleaire spanningen met Iran oplopen.**
-- **Turkije en Duitsland hervatten strategische dialoog na 12 jaar stilte** Minister van Buitenlandse Zaken **Hakan Fidan** reist op 18 mei naar Berlijn om samen met **Johann Wadephul** het strategische dialoogmechanisme te hervatten, dat sinds **2014** stillag. Op de agenda: defensiesamenwerking na goedkeuring van Turkijes aankoop van **Eurofighter Typhoon**-jets, modernisering van de **EU-douane-unie** en uitbreiding van de bilaterale handel van **$50 naar $60 miljard**. (Hürriyet Daily News, 17-05-2026, https://www.hurriyetdailynews.com/turkiye-germany-to-revive-strategic-dialogue-mechanism-after-12-years-222226)
-- **VS-reactie op Iraans voorstel biedt "geen tastbare concessies" volgens Teheran** Washington diende een **vijfpuntenvoorstel** in dat Iran verplicht nucleaire activiteiten te beperken tot **één enkele locatie** en verrijkt uranium over te dragen aan Amerika. De VS weigeren **25% van de bevroren Iraanse tegoeden** vrij te geven; een Amerikaanse **marineblokkade** van Iraanse havens is sinds **13 april** van kracht. (TRT World, 17-05-2026, https://trtworld.com/article/58c76ff83b43)
+- **Türk Telekom en Aselsan ontwikkelen eigen chips, OS en smartphones** CEO's **Ebubekir Şahin** (Türk Telekom) en **Ahmet Akyol** (Aselsan) presenteren in Istanbul een strategisch partnerschap voor **binnenlands ontworpen system-on-chip**, een **nationaal besturingssysteem** op AOSP-basis en smartphones met on-device AI. Chipproductie wordt uitbesteed aan **TSMC of Samsung** via een fabless model, met op middellange termijn een eigen **28nm-fabriek**. (Daily Sabah, 22 mei 2026, https://www.dailysabah.com/business/tech/eyes-on-chips-os-as-turkiye-maps-out-digital-sovereignty-push)
 ---
 
 ## 🇫🇷 Frankrijk
-**Droneaanval bij kerncentrale in de Golfregio en leiderschapscrisis in het VK domineren het nieuws.**
-- **Droneaanval bij kerncentrale in de VAE veroorzaakt brand** Een droneaanval veroorzaakte brand bij de **kerncentrale van Barakah** in Abu Dhabi — een **elektrische generator buiten de hoofdinstallatie** vatte vlam. Het **IAEA** bevestigde dat er **geen stralingslek of gewonden** waren; de centrale bleef normaal functioneren. Het incident valt samen met de vastgelopen staakt-het-vuren-onderhandelingen tussen Iran en de VS. (Euronews via France24, 17-05-2026, https://www.euronews.com/2026/05/17/drone-strike-sparks-fire-near-uae-nuclear-plant-amid-iran-ceasefire-tension)
-- **Bijna 90 Labour-parlementsleden eisen ontslag van Starmer** De Britse premier **Keir Starmer** staat onder enorme druk nadat bijna **90 Labour-parlementsleden** zijn aftreden hebben geëist en meerdere ministers zijn opgestapt. Voormalig minister **Wes Streeting** wil meedingen in een leiderschapsverkiezing, terwijl **Andy Burnham** (burgemeester Greater Manchester) zijn kandidatuur voor het parlement bevestigde. (France24, 17-05-2026, https://www.france24.com/en/tv-shows/spotlight/20260517-uk-leadership-crisis-keir-starmer-is-a-lame-duck-prime-minister-says-former-labour-adviser)
+- **Franse economie geraakt door Iranoorlog: 30-40% Golf-raffinagecapaciteit verwoest** Minister van Financiën **Roland Lescure** waarschuwt dat **11 miljoen vaten per dag** wegvallen van de mondiale oliemarkt. **Diesel** is meer dan **30%** gestegen sinds de eerste luchtaanvallen op Iran, de **inflatie** stijgt boven **2%** en huishoudconsumptie — traditioneel de motor van de Franse groei — valt terug. (France24, 2026, https://www.france24.com/en/france-confirms-oil-crisis-says-30-40-gulf-energy-infrastructure-destroyed)
 ---
 
 ## 🇩🇪 Duitsland
-**Stakingsdreiging bij Samsung raakt chipindustrie en CSU verhoogt druk op belastinghervorming.**
-- **Samsung-stakingen: Zuid-Koreaanse regering grijpt in** De **Zuid-Koreaanse regering** probeert een staking bij **Samsung** af te wenden waarbij meer dan **45.000 werknemers** dreigen mee te doen. De staking, die al **18 dagen** aansleept, zou de chipproductie van de techgigant ernstig verstoren in een kritieke periode voor de **halfgeleiderindustrie**. (Handelsblatt, 17-05-2026, https://www.handelsblatt.com/politik/international/chip-industrie-suedkoreas-regierung-will-streiks-bei-samsung-abwenden/100225686.html)
-- **Belastinghervorming: CSU voert druk op SPD op** De **CSU** verhoogt de druk op coalitiepartner **SPD** rond hervorming van de **inkomstenbelasting**. Landesgruppenchef **Hoffmann** eist concrete stappen voor belastingverlichting voor middeninkomens en het bedrijfsleven, terwijl de discussie over een **rijkenbelasting** het debat verder verscherpt. (ZDF Heute, 17-05-2026, https://www.zdfheute.de/politik/deutschland/steuerreform-spd-csu-landesgruppenchef-hoffmann-einkommensteuer-reichensteuer-100.html)
+- **Merz waarschuwt: economie in meerdere sectoren 'zeer kritisch'** Bondskanselier **Friedrich Merz** stelt dat de Duitse economie onder druk staat "als zelden tevoren in de naoorlogse geschiedenis" en eist hervormingen van het sociale stelsel om loonkosten te verlagen. De regering wil de **datacentercapaciteit binnen vijf jaar verdubbelen** en biedt de overheid aan als ankerklant voor nieuwe rekencentra. (Handelsblatt, mei 2026, https://www.handelsblatt.com/politik/deutschland/konjunktur-merz-sieht-lage-in-einigen-wirtschaftsbereichen-sehr-kritisch/100188932.html)
 ---
 
-## 📊 Marktoverzicht
-
-| Markt | Koers | Verandering |
-|-------|------:|:-----------:|
-| Bitcoin (BTC) | $77.276 | +0,9% |
-| Ethereum (ETH) | $2.117 | +0,8% |
-| Goud | $4.507,99 | −0,67% |
-| Brent olie | $105,48 | −5,0% |
-| EUR/USD | 1,1622 | −0,01% |
-| S&P 500 | 7.137,90 | +1,05% |
-| AEX | 1.033 | +0,16% |
-| DAX | 24.194,90 | −0,31% |
-| Nikkei 225 | 61.782 | +3,31% |
-
+## 🇷🇺 Rusland
+- **Rusland halveert bbp-groeiprognose van 1,3% naar 0,4%** Vice-premier **Alexander Novak** meldt dat de economie in **Q1 2026 met 0,3% kromp** door zwakke olie-inkomsten en hoge oorlogsuitgaven. De prognose gaat uit van **$59/vat** in 2026 en **$50** daarna. Reële inkomensgroei zakt van **7,7%** naar **1,6%** en de btw stijgt van **20% naar 22%**. (The Moscow Times, 12 mei 2026, https://www.themoscowtimes.com/2026/05/12/russia-cuts-2026-growth-forecast-as-oil-revenues-and-wartime-pressures-weigh-on-economy-a92733)
 ---
 
-## 🔗 De Grote Lijnen
-
-De Iran-crisis vormt de rode draad van vandaag: de Amerikaanse marineblokkade en de droneaanval bij de kerncentrale in de VAE houden de olieprijs boven $105 en drukken de euro naar het laagste punt sinds april. Tegelijkertijd voedt de geopolitieke onzekerheid een vlucht naar goud ($4.508) en naar tech — Nvidia's recordkoers en de Nikkei-rally (+3,3%, gedreven door SoftBank) laten zien dat AI-investeringen onverminderd doorgaan ondanks de onrust. In Europa staat de politieke legitimiteit onder druk: Starmer verliest zijn greep op Labour, Markuszower normaliseert extreemrechts taalgebruik in Nederland, en de Duitse coalitie worstelt met belastinghervorming. De Samsung-stakingen in Zuid-Korea en het Almere-datacenterincident onderstrepen hoe kwetsbaar de digitale infrastructuur is waarop economieën steeds meer leunen. Turkije positioneert zich ondertussen als scharnierpunt — het herstelt banden met Berlijn via de Eurofighter-deal terwijl het nucleaire dossier met Iran escaleert.
+## 🇬🇧 VK
+- **Starmer kondigt EU-'reset'-wet aan voor nauwere samenwerking** Premier **Keir Starmer** bereidt wetgeving voor die ministers bevoegdheden geeft voor **dynamische afstemming** met EU-interne-marktregels, nu de Iranoorlog de relatie met de VS onder druk zet. De **Bank of England** houdt de rente op **3,75%** maar waarschuwt voor inflatieschokken door stijgende energieprijzen. (The Hill, mei 2026, https://thehill.com/policy/international/5810714-uk-eu-closer-partnership/)
 ---
-*Samengesteld door AI-redactie · Bronnen: VRT, NOS, France24, Hürriyet, Handelsblatt, ZDF, Euronews, TRT World, Yahoo Finance, Investing.com, TradingEconomics*
+
+## 🇺🇸 VS
+- **Energierekeningen domineren midterms; 77% kiezers noemt economie slecht** Stijgende **energieprijzen** staan centraal in de **midterm-verkiezingen** van 2026: van Pennsylvania tot Michigan klagen kiezers over torenhoge stroomrekeningen. **76%** keurt Trumps inflatiebeleid af. Het Congres stemt deze week over **Iranoorlog-financiering** en Trumps controversiële **'wapeningsfonds'**. (Bloomberg, 21 mei 2026, https://www.bloomberg.com/features/2026-power-bills-midterm-election-issue/)
+---
+
+## 🇮🇳 India
+- **Benzineprijs nadert ₹100 per liter na derde verhoging in 10 dagen** In **Delhi** stijgt benzine met 87 paise naar **₹99,51/liter**; diesel bereikt **₹92,49**. De totale stijging bedraagt bijna **₹5 per liter** sinds 15 mei, gedreven door de **Straat van Hormuz-crisis**. India importeert **meer dan 85%** van zijn ruwe olie en is bijzonder kwetsbaar voor verstoringen in de Golfregio. (Sunday Guardian Live, 23 mei 2026, https://sundayguardianlive.com/business/petrol-prices-today-23-may-2026-update-petrol-price-surge-100-after-5-hike-as-transport-economy-under-pressure-amid-middle-east-crisis-check-city-wise-rate-195517/)
+---
+
+## 🇨🇳 China
+- **Trump en Xi bespreken AI-'guardrails' en Nvidia-chipexport tijdens Beijing-top** President **Trump** zegt dat beide zijden spraken over "samenwerking aan veiligheidsprotocollen" voor AI. China **weigert Nvidia H200-chips** en kiest voor binnenlandse alternatieven, terwijl het eigen AI-chips op de **officiële aanbestedingslijst** plaatst. Handelsvertegenwoordiger **Jamieson Greer** noemt chipverkoop een "soevereine kwestie" voor Beijing. (SCMP, 15/21 mei 2026, https://www.scmp.com/tech/article/3353764/trump-xi-weigh-ai-guardrails-nvidia-chip-exports-hang-balance)
+---
+
+## 🇯🇵 Japan
+- **Premier Takaichi roept op tot extra begroting na Midden-Oosten-schok** Premier **Sanae Takaichi** vraagt minister van Financiën **Satsuki Katayama** een aanvullende begroting op te stellen, nadat zij eerder volhield dat dit niet nodig was. De koerswijziging volgt op stijgende grondstoffenprijzen door het **Midden-Oosten-conflict** en groeiende druk van oppositiepartijen die haar verwijten te laat te handelen. (Japan Times, 18 mei 2026, https://www.japantimes.co.jp/news/2026/05/18/japan/politics/japan-extra-budget/)
+---
