@@ -1,7 +1,3 @@
-# MIJN NIEUWSKRANT
-### Zondag 24 mei 2026
----
-
 ## 🇧🇪 België
 - **De Wever roept Europa op tot onderhandelingen met Rusland over energie en vrede** Premier **Bart De Wever** verklaarde dat Europa moet onderhandelen met Rusland om de oorlog in Oekraïne te beëindigen en toegang tot goedkope energie te herstellen. Tegelijkertijd keurde de federale regering nieuwe **belastingmaatregelen** goed om de oplopende staatsschuld — met een begrotingstekort van **5,2% van het bbp** — te beperken. (Brussels Times, 24-05-2026, https://www.brusselstimes.com/1894521/belgian-government-approves-new-tax-measures-aimed-to-reduce-mounting-debts)
 ---
@@ -45,28 +41,3 @@
 ## 🇯🇵 Japan
 - **Premier Takaichi's recordbegroting van ¥122,3 biljoen benadrukt expansief beleid** De Japanse begroting van **¥122,3 biljoen** — een stijging van **¥7,1 biljoen** — is de grootste ooit en weerspiegelt premier **Sanae Takaichi's** expansieve koers, met **¥39 biljoen** voor sociale zekerheid. De zwakke yen en inflatie drukken de koopkracht van huishoudens, terwijl speculatie groeit dat Washington gevoelig wordt voor grote Japanse **yen-interventies**. (Japan Times, 24-05-2026, https://www.japantimes.co.jp/news/2026/04/07/japan/politics/fy-2026-budget-passes/)
 ---
-
-## 📊 Marktoverzicht
-
-| Markt | Koers | Verandering |
-|-------|------:|:-----------:|
-| Bitcoin (BTC) | $77.276 | −1,8% |
-| Ethereum (ETH) | $2.059 | −3,0% |
-| Goud (XAU) | $4.731/oz | +0,4% |
-| Brent olie | $110,34/vat | +5,5% |
-| EUR/USD | 1,1785 | +0,3% |
-| S&P 500 | 7.473 | +0,4% |
-| AEX | 1.045 | +1,0% |
-| DAX | 24.889 | +1,2% |
-| Nikkei 225 | 63.339 | +2,7% |
-
-*Crypto blijft onder druk, goud houdt stand als veilige haven. Europese en Aziatische indices stijgen op optimisme rond tech en defensie. Olieprijzen fors hoger door aanval op Novorossiysk en Straat van Hormuz-onzekerheid.*
-
----
-
-## 🔗 De Grote Lijnen
-
-De Irandeal-onderhandelingen vormen de geopolitieke spil van deze week: Trumps aankondiging over de Straat van Hormuz verbindt de stijgende olieprijzen direct met de aanval op Novorossiysk en de energiezorgen die Europa — van De Wever in Brussel tot de krimp in Duitsland — in hun greep houden. De halfgeleiderrace versnelt op drie continenten tegelijk: India investeert $10 miljard, Chinese vastgoedbedrijven stappen over naar chips, en Japans recordbegroting financiert technologische zelfvoorziening — terwijl de gevestigde chipgrootmachten worstelen met verstoorde ketens. Westerse democratieën delen een crisis van vertrouwen: Labour bloedt in het VK, Lecornu regeert per decreet in Frankrijk, en in Nederland vertraagt de formatie terwijl de economie afkoelt. De oorlog in Oekraïne blijft de achtergrond waartegen alles zich afspeelt — van gevangenenruilen en olie-infrastructuuraanvallen tot De Wevers oproep aan Europa om met Moskou te praten.
-
----
-*Samengesteld op 24 mei 2026.*
