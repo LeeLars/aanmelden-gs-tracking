@@ -1,11 +1,11 @@
-# Nieuwsoverzicht 25 mei 2026
+# Nieuwsoverzicht 26 mei 2026
 
 ## 🇧🇪 België
 - **De Wever bijt van zich af tegen VS-ambassadeur over antisemitismebeschuldiging** Premier **Bart De Wever** heeft VS-ambassadeur **Bill White** teruggefloten na diens beschuldiging dat België antisemitisch zou zijn vanwege de vervolging van twee mohelim (rituele besnijders) in Antwerpen. De Wever noemde de uitspraak "overdreven" en stelde dat **België geen antisemitische staat is**, terwijl minister van Buitenlandse Zaken **Maxime Prévot** de opmerkingen "hoogst ongepast" noemde. (VRT NWS, 25 mei 2026, https://www.vrt.be/vrtnws/en/2026/05/25/_now-you_re-exaggerating-a-tad-prime-minister-de-wever-tells-us/)
 ---
 
 ## 🇳🇱 Nederland
-- **Nederland verschuift Arctisch beleid van klimaat naar defensie** De Nederlandse regering heeft in de nieuwe **Polaire Strategie 2026-2030** het Arctisch beleid fundamenteel verlegd van klimaatfocus naar **veiligheid en defensie**, als reactie op de groeiende Russische militaire aanwezigheid in het Noordpoolgebied. Nederland neemt actief deel aan **NAVO-oefeningen** in de regio, waaronder de Cold Response met **25.000 militairen uit 14 landen**. (NL Times, 24 mei 2026, https://nltimes.nl/2026/05/24/dutch-govt-shifts-arctic-policy-climate-defense-russia-expands-presence)
+- **IMF verlaagt groeiprognose naar 1,0% door Iran-oorlog** Het **IMF** waarschuwt dat de Nederlandse economie in 2026 afkoelt naar **1,0% groei**, fors lager dan eerdere ramingen. Hogere energieprijzen door het **Midden-Oostenconflict** duwen de inflatie naar **3,2%** en drukken consumptie en investeringen. (NL Times, 13 mei 2026, https://nltimes.nl/2026/05/13/imf-lowers-dutch-economic-growth-forecast-iran-war-drags)
 ---
 
 ## 🇹🇷 Turkije
@@ -13,7 +13,7 @@
 ---
 
 ## 🇫🇷 Frankrijk
-- **Parijs overweegt winstbelasting op sectoren die profiteren van Iran-crisis** Minister van Economie **Lescure** kondigde aan dat Frankrijk een belasting op **overwinsten** overweegt voor bedrijfstakken die profiteren van de situatie rond Iran en de **blokkade van de Straat van Hormuz**. Het begrotingstekort van Frankrijk bedraagt **5,4% van het bbp** — het hoogste in de eurozone — en ratingbureaus hebben de kredietwaardigheid van het land recent verlaagd. (France news, 22 mei 2026, https://france.news-pravda.com/en/france/2026/05/22/96852.html)
+- **Frankrijk registreert heetste meidag ooit gemeten** Een **hittedome** boven West-Europa bezorgde Frankrijk op 26 mei de **warmste meidag** sinds het begin van de metingen. In Bergerac werd **34,7°C** gemeten met verwachte pieken tot **36°C**; er zijn **7 doden** gemeld, waarvan 5 door verdrinking. (France24, 26 mei 2026, https://www.france24.com/en/france/20260526-europe-sizzles-under-heat-dome-as-france-logs-hottest-may-day-on-record)
 ---
 
 ## 🇩🇪 Duitsland
@@ -29,17 +29,17 @@
 ---
 
 ## 🇺🇸 VS
-- **EU rondt handelsdeal af met VS onder druk van Trumps tarievendeadline** De Europese Unie heeft de tekst van het langverwachte **EU-VS-handelsakkoord** afgerond, waarbij de EU tarieven op Amerikaanse industriegoederen schrapt in ruil voor een maximumheffing van **15%** op EU-exporten. President **Trump** dreigde eerder de invoerheffing op Europese auto's te verhogen naar **25%** als de EU niet voor **4 juli** akkoord ging. Het akkoord werd getekend na maanden van onderhandelingen tussen **Scott Bessent** (VS) en EU-onderhandelaars. (Bloomberg, 20 mei 2026, https://www.bloomberg.com/news/articles/2026-05-20/eu-expedites-start-of-us-trade-deal-in-bow-to-trump-demand)
+- **VS bereikt limiet van sanctiemacht tegen Iran** De regering-**Trump** lanceerde de campagne **"Economic Fury"** om Irans economie te verlammen, maar loopt tegen grenzen aan. Minister van Financiën **Scott Bessent** riep bondgenoten op mee te doen aan de economische druk; ondertussen noteren Amerikaanse aandelen de **langste reeks wekelijkse winsten sinds 2023**. (Bloomberg, 23 mei 2026, https://www.bloomberg.com/news/articles/2026-05-23/us-reaches-limit-of-sanctions-power-in-targeting-iran-s-economy)
 ---
 
 ## 🇮🇳 India
-- **Modi leidt marathonvergadering ministerraad over hervormingsagenda** Premier **Narendra Modi** leidde een **vier-en-een-half uur durende** vergadering van de ministerraad (**72 ministers**) in Delhi, gericht op het versnellen van India's ontwikkeling naar een volledig ontwikkeld land tegen **2047** (Viksit Bharat). Negen ministeries presenteerden hervormingsplannen voor landbouw, transport, energie en handel. Modi benadrukte de noodzaak van **administratieve hervormingen** en focus op **burgergemak** in alle departementen. (The Federal, 21 mei 2026, https://thefederal.com/category/news/pm-modi-fruitful-meeting-council-of-ministers-244005)
+- **Megadeal van $28 miljard voor 114 Rafale-jets stagneert** India's grootste wapenaankoop ooit — **114 Rafale-gevechtsvliegtuigen** van het Franse **Dassault** ter waarde van **₹3,25 lakh crore ($28 mrd)** — ligt stil door een geschil over toegang tot de **broncode**. India eist het recht om de software zelfstandig aan te passen; Frankrijk weigert vanwege intellectueel eigendom. (Defense News, 2026, https://www.defensenews.com/global/asia-pacific/2026/02/13/india-clears-the-way-for-landmark-deal-to-acquire-french-rafale-jets/)
 ---
 
 ## 🇨🇳 China
-- **Trump sluit historisch staatsbezoek aan China af met Xi-top** President **Donald Trump** bracht van **13 tot 15 mei** een staatsbezoek aan China — het eerste bezoek van een Amerikaans president in bijna **negen jaar**. In zijn gevolg bevonden zich techmagnaten **Jensen Huang** (Nvidia), **Elon Musk** en **Tim Cook** (Apple). Beijing noemde het bezoek een **"nieuw historisch kruispunt"** voor stabiele betrekkingen, terwijl de besprekingen werden overschaduwd door de **VS-Iran-oorlog**, chipcontroles en de AI-rivaliteit tussen beide landen. (SCMP, 15 mei 2026, https://www.scmp.com/news/china/diplomacy/article/3353471/trump-arrives-china-tech-titans-and-top-aides-high-stakes-xi-summit)
+- **Xi-Trump-top in Beijing levert handelsraden en landbouwdeal op** President **Xi Jinping** en president **Trump** richtten op de top van 14-15 mei handels- en investeringsraden op, met wederzijdse tariefverlagingen als principe. China zegde toe jaarlijks minstens **$17 miljard** aan Amerikaanse landbouwproducten te kopen en tot **750 Boeing-vliegtuigen** af te nemen. (SCMP, mei 2026, https://www.scmp.com/economy/global-economy/article/3353840/china-and-us-agree-establish-trade-and-investment-councils-after-xi-trump-summit)
 ---
 
 ## 🇯🇵 Japan
-- **Premier Takaichi onthult investeringsquota voor AI en halfgeleiders** Premier **Sanae Takaichi** presenteerde op de Raad voor Economisch en Fiscaal Beleid een plan om **17 groeisectoren** — waaronder **AI en halfgeleiders** — vrij te stellen van de driejaarslimiet op projectfinanciering, zodat langetermijninvesteringen beter ondersteund worden. Ondertussen steeg de bancaire kredietverlening aan vastgoed in Japan naar een recordhoogte van **¥17,8 biljoen** (+15,1%), terwijl bedrijf **Recruit** (Indeed) een recordstijging op de beurs noteerde dankzij AI-gedreven groei. (Japan Times, 23 mei 2026, https://www.japantimes.co.jp/business/2026/05/23/takaichi-quota-growth-investment/)
+- **Takaichi onthult extra begroting van $19 miljard voor energiecrisis** Premier **Sanae Takaichi** presenteerde op 25 mei een aanvullende begroting van **¥3 biljoen ($19 mrd)** om brandstofkosten te subsidiëren na de prijsschok door de **Iran-oorlog**. Ze beloofde geen extra staatsleningen uit te geven; Japan haalt inmiddels **70% van zijn olie buiten het Midden-Oosten**. (The Japan Times, 25 mei 2026, https://www.japantimes.co.jp/business/2026/05/25/takaichi-19b-extra-budget/)
 ---
