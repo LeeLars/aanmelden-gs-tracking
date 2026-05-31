@@ -1,70 +1,45 @@
-# MIJN NIEUWSKRANT
-### Zaterdag 30 mei 2026
----
-# Nieuwsoverzicht 29 mei 2026
+# Nieuwsoverzicht 2026-05-31
 
 ## 🇧🇪 België
-- **België keurt omstreden centenindex goed: loonindexering tijdelijk begrensd** De federale regering van premier **Bart De Wever** heeft de controversiële hervorming van de automatische loonindexering goedgekeurd. Toekomstige indexverhogingen worden **twee keer tijdens de regeerperiode** geplafonneerd voor brutolonen boven **€4.000/maand** en uitkeringen boven **€2.000**. De coalitie moet nog minstens **€7 miljard** extra besparen, terwijl het begrotingstekort op **5,2% van het bbp** blijft. (Belga News Agency, 29 mei 2026, https://www.belganewsagency.eu/belgium-approves-controversial-wage-index-reform-and-pension-changes)
+- **De Wever houdt vast aan 2% NAVO-norm ondanks begrotingsdruk** Premier **Bart De Wever** noemt de **2% defensie-uitgaven** "in marmer gebeiteld" terwijl zijn regering vóór **21 juli** nog **€5-7 miljard** moet vinden om de begroting rond te krijgen. Het **begrotingstekort** dreigt volgens de Europese Commissie op te lopen tot **5,9%** van het bbp in 2027. (Belga News Agency, mei 2026, https://www.belganewsagency.eu/european-commission-says-belgian-budget-deficit-could-rise-to-59-per-cent-by-2027)
 ---
 
 ## 🇳🇱 Nederland
-- **IMF waarschuwt: Nederlandse groei vertraagt naar 1,0% in 2026** Het **IMF** concludeert na zijn Artikel IV-missie dat de economische groei vertraagt van **1,8%** in 2025 naar **1,0%** in 2026. De inflatie stijgt naar **3,2%** door hogere energieprijzen. De minderheidcoalitie van premier **Rob Jetten** (D66/VVD/CDA, **66 van 150 zetels**) staat onder druk om hervormingen door het parlement te loodsen. (IMF, 13 mei 2026, https://www.imf.org/en/news/articles/2026/05/13/mcs-051326-the-netherlands-staff-concluding-statement-for-the-2026-aiv-consultation-mission)
+- **IMF verlaagt groeiprognose Nederland door oorlog in Midden-Oosten** Het **IMF** heeft de economische groeivoorspelling bijgesteld naar **1,0%** in 2026, tegenover eerder **1,4%**, door de doorwerking van het conflict rond Iran. De **inflatie** stijgt naar **2,9%** door hogere energieprijzen, en bij een worstcasescenario met olieprijzen **+40%** kan de groei halveren. (NL Times, 13 mei 2026, https://nltimes.nl/2026/05/13/imf-lowers-dutch-economic-growth-forecast-iran-war-drags)
 ---
 
 ## 🇹🇷 Turkije
-- **Turkse rechtbank handhaaft afzetting CHP-leider Özel, oppositie in crisis** Een beroepsrechtbank in Ankara heeft het **afzetten van CHP-voorzitter Özgür Özel** bekrachtigd en de terugkeer van voorganger **Kemal Kılıçdaroğlu** bevestigd. De oproerpolitie ontruimde het partijhoofdkwartier, waar aanhangers van beide kampen slaags raakten. De **grootste oppositiepartij** kan nu alleen nog naar het Hof van Cassatie. (Daily Sabah, 28 mei 2026, https://www.dailysabah.com/politics/turkish-court-rejects-chps-appeal-against-ruling-to-oust-its-leader/news)
+- **Inflatie op 32% en Straat van Hormuz-crisis treft Turkse economie** De consumentenprijzen stegen in april met **32,37%** op jaarbasis, aangewakkerd door de sluiting van de **Straat van Hormuz** — de grootste energiecrisis ooit voor het land. De centrale bank verhoogde haar inflatiedoel voor eind 2026 van **16% naar 24%** en verschoof het einddoel van **9% naar 15%** voor 2027. (Daily Sabah, mei 2026, https://www.dailysabah.com/business/economy/turkiye-heads-into-data-heavy-june-with-eyes-on-growth-inflation)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Franse economie stagneert: bbp-groei 0,0% in Q1, IMF verlaagt prognose** Het Franse bbp groeide **0,0%** in het eerste kwartaal van 2026, na **+0,2%** in Q4 2025. Het **IMF** verlaagde de jaarprognose naar **0,7%**, ruim onder de overheidsdoelstelling van 0,9%. De consumptie daalde **-0,1%** en investeringen **-0,4%**. De oorlog in het Midden-Oosten en oplopende energieprijzen versterken het recessierisico richting de presidentsverkiezingen van **2027**. (INSEE, 29 mei 2026, https://www.insee.fr/en/statistiques/8987429)
+- **Historische hittegolf breekt honderden records in mei** Frankrijk registreerde op **26 mei** de warmste meidag ooit; in Parijs bleef het **acht aaneengesloten meidagen boven de 30°C**, een nooit eerder vertoonde reeks. Tussen 23 en 27 mei werden **266 warmterecords** gebroken door een hardnekkige **heat dome**, met temperaturen tot **37,8°C** in het zuidwesten en minstens **zeven dodelijke slachtoffers**. (France 24, 27 mei 2026, https://www.france24.com/en/europe/20260527-temperatures-soar-across-europe-as-heat-dome-drives-may-records-heatwave-france-uk-italy-spain)
 ---
 
 ## 🇩🇪 Duitsland
-- **Bondskanselier Merz belooft "radicale stappen" om economische neergang te keren** Kanselier **Friedrich Merz** (CDU) schreef zijn coalitiepartners dat Duitsland in 2026 **"radicale politieke en juridische stappen"** moet zetten om de economische achteruitgang te stoppen. Eerdere maatregelen zijn volgens hem onvoldoende gebleken. Zijn dalende **populariteitscijfers** voeden intern verzet, maar Merz wees oproepen tot een leiderschapswisseling van de hand. (Bloomberg, 28 mei 2026, https://www.bloomberg.com/news/articles/2026-05-28/merz-aims-to-shut-down-party-unrest-with-vow-to-revive-germany)
+- **Werkloosheid daalt in mei tot 2,95 miljoen maar faillissementen blijven stijgen** Het aantal werklozen daalde in mei met **58.000** tot **2,95 miljoen** — voor het eerst in 2026 weer onder de **drie miljoen**. Tegelijkertijd registreerde het IWH in april **1.776 faillissementen**, een stijging van **10% op jaarbasis**, met circa **20.000 getroffen werknemers**; er worden tot juli zeer hoge insolventiecijfers verwacht. (Newsworm / Reuters, mei 2026, https://www.newsworm.de/news/germany-records-2-95-million-unemployed-in-may-2026)
 ---
 
 ## 🇷🇺 Rusland
-- **Steun voor oorlog in Oekraïne daalt, Russen focussen op kosten van levensonderhoud** Volgens een **Levada Center**-peiling volgt **18% van de Russen** het conflict helemaal niet meer; steun voor vredesonderhandelingen groeit. Putins populariteit brokkelt af terwijl **systeemoppositiepartijen** terrein winnen richting de **Doemaverkiezingen in september**. In het dagelijks leven domineren stijgende huren, duurdere medicijnen en VPN-problemen de gesprekken. (The Moscow Times, 27 mei 2026, https://www.themoscowtimes.com/2026/05/27/as-the-world-speculates-heres-what-russians-are-actually-talking-about-a92862)
+- **Loonachterstanden bijna verdubbeld door oorlogsdruk** De totale achterstallige loonschuld bereikte in april **2,879 miljard roebel ($40,6 miljoen)**, een stijging van **94,3%** op jaarbasis en bijna **verzesvoudigd** sinds begin 2025. Het aantal getroffen werknemers steeg naar **19.000**, geconcentreerd in energie, bouw en industrie — professor **Yevgeny Kogan** noemt het "een duidelijk signaal van verslechterende financiële condities." (The Moscow Times, 28 mei 2026, https://www.themoscowtimes.com/2026/05/28/russian-wage-arrears-nearly-double-as-regional-budgets-and-businesses-come-under-strain-a92872)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Andy Burnham favoriet om Starmer op te volgen als premier na Labour-verkiezingsdebacle** Gokkantoren geven **Andy Burnham 56% kans** om in 2026 premier te worden, tegenover **26% voor Starmer**. Labour verloor bijna **1.500 raadszetels** bij de gemeenteraadsverkiezingen, terwijl Reform UK er **1.454** won. Burnham pleit voor strengere regulering van **AI** en meer overheidssturing op energie en transport; obligatiemarkten reageerden nerveus op zijn linkse koers. (CNBC, 29 mei 2026, https://www.cnbc.com/2026/05/29/andy-burnham-makerfield-byelection-keir-starmer-tony-blair-ai.html)
+- **Energieplafond stijgt 13% door oorlog in Iran** Britse huishoudens krijgen vanaf **1 juli** de grootste stijging van energierekeningen sinds 2023: het energieplafond gaat **13% omhoog** naar gemiddeld **£1.862 ($2.505)** per jaar. De **Bank of England** houdt de rente op **3,75%** maar waarschuwt dat het inflatierisico door de Iran-oorlog "volledig opwaarts" is. (Bloomberg, 27 mei 2026, https://www.bloomberg.com/news/articles/2026-05-27/uk-energy-price-cap-rises-13-as-iran-war-drives-up-costs)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **VS en Iran wisselen opnieuw luchtaanvallen uit terwijl Trump "beroerde deal" afwijst** De **VS en Iran** voerden opnieuw bombardementen uit, ondanks Trumps claim dat een akkoord "grotendeels rond" is. Trump riep zijn kabinet bijeen in het Witte Huis (verplaatst van Camp David) om de **drie maanden oude oorlog** te bespreken. Het bbp groeide slechts **1,6%** in Q1 — een derde van de **5%** die minister van Handel **Lutnick** had voorspeld. DNI **Tulsi Gabbard** kondigde haar vertrek aan eind juni. (The Washington Post, 27 mei 2026, https://www.washingtonpost.com/politics/2026/05/27/trump-calls-cabinet-camp-david-amid-declining-approval-iran-economy/)
+- **Trump verscherpt voorwaarden voor vredesakkoord met Iran** President **Trump** heeft wijzigingen geëist in het voorgestelde akkoord om de oorlog met Iran te beëindigen; het aangepaste raamwerk is naar **Teheran** gestuurd. Kernpunten zijn dat Iran **nooit kernwapens** mag ontwikkelen en de **Straat van Hormuz** — goed voor circa **20% van de mondiale olietoevoer** — moet heropenen. Iraanse functionarissen waarschuwden dat een antwoord **meerdere dagen** kan duren. (Al Jazeera, 31 mei 2026, https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say)
 ---
 
 ## 🇮🇳 India
-- **Analyse: Modi's isolatiestrategie tegen Pakistan werkte averechts** Volgens een uitgebreide analyse is India's jarenlange poging om **Pakistan diplomatiek te isoleren** na de aanslag in Kashmir (mei 2025, **26 toeristen gedood**) contraproductief gebleken. Pakistan versterkte banden met de **VS, China en Golfstaten**; president **Trump** bemiddelde het staakt-het-vuren van 10 mei 2025. India's positie verzwakte ondanks eerdere chirurgische aanvallen in **Balakot (2019)** en de bevriezing van **SAARC sinds 2016**. (Al Jazeera, 29 mei 2026, https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired)
+- **Benzineprijs doorbreekt ₹100-grens na vier verhogingen in twee weken** De benzineprijs in Delhi steeg naar **₹102,12 per liter** en in Mumbai naar **₹111,21** — een cumulatieve stijging van **₹7,50** sinds half mei, de steilste in vier jaar. India importeert ruim **85%** van zijn ruwe olie en is daarmee extreem kwetsbaar voor de blokkade van de **Straat van Hormuz**, die **Brent crude** van $72,87 naar bijna **$120 per vat** stuwde. (The Week, 25 mei 2026, https://www.theweek.in/news/biz-tech/2026/05/25/fuel-rates-soar-nationwide-more-hikes-explained.html)
 ---
 
 ## 🇨🇳 China
-- **Peking dwingt effectenhuizen "het verhaal van de Chinese aandelenmarkt goed te vertellen"** De **Securities Association of China** eist voor het eerst dat brokers in hun onderzoek bijdragen aan het **"goed vertellen van het markt-verhaal"**. Tegelijk kregen **Longbridge, Tiger Brokers en Futu Holdings** samen meer dan **$330 miljoen boete** voor illegale grensoverschrijdende activiteiten. De maatregel moet het vertrouwen in binnenlandse aandelen versterken en **kapitaalvlucht** tegengaan. (South China Morning Post, 29 mei 2026, https://www.scmp.com/economy/china-economy/article/3355286/china-pushes-brokerages-help-shape-stock-market-narrative)
+- **China voegt AI-chips toe aan lijst voor veiligheidsbeoordeling** China's officiële evaluatiecentra hebben voor het eerst **AI-chips** gecertificeerd en een nieuwe categorie "AI training- en inferentiechips" gecreëerd als onderdeel van het **Xinchuang-initiatief** om westerse technologie te vervangen. De certificeringen gelden **drie jaar** en dienen als inkooprichtlijn voor overheidsinstanties en staatsbedrijven, gericht tegen leveranciers als **Nvidia** als reactie op opeenvolgende **Amerikaanse exportbeperkingen**. (SCMP, 27 mei 2026, https://www.scmp.com/tech/policy/article/3354993/china-adds-ai-chips-secure-technology-assessment-list-amid-us-curbs)
 ---
 
 ## 🇯🇵 Japan
-- **Inflatie Tokio koelt af naar laagste in vier jaar, maar BOJ houdt vast aan renteverhoging in juni** De kerninflatie in Tokio daalde naar **1,3%** in mei — de **zesde maand op rij** van afkoeling en het laagste niveau in vier jaar. Toch schatten traders de kans op een **renteverhoging door de Bank of Japan op 16 juni** op **77%**, vanwege aanhoudende opwaartse risico's door de oorlog in het Midden-Oosten. Meer dan **1.000 voedselproducten** worden in juni duurder. (The Japan Times, 29 mei 2026, https://www.japantimes.co.jp/business/2026/05/29/economy/tokyo-inflation-slows-again/)
----
-
----
-## 📊 Marktoverzicht (30 mei 2026)
-
-| Markt | Koers | Dag |
-|-------|-------|-----|
-| Bitcoin | $73.831 | +1,1% |
-| Ethereum | $2.031 | +1,9% |
-| Goud | $4.580/oz | -0,2% |
-| Brent olie | $92,34/vat | -0,8% |
-| EUR/USD | 1,1668 | +0,1% |
-| S&P 500 | 7.580 | -0,1% |
-| AEX | 1.034,93 | -0,2% |
-| DAX | 25.105 | +0,1% |
-| Nikkei 225 | 66.330 | +2,5% |
-
----
-## 🔗 De Grote Lijnen
-
-Europa zit in de tang tussen begrotingsdiscipline en economische stagnatie: België kapt aan de loonindex, Frankrijk noteert nulgroei, en Duitsland belooft "radicale stappen" zonder concreet plan — het continent mist een groeiverhaal. De VS-Iran-oorlog is de rode draad achter stijgende olieprijzen en geopolitieke onzekerheid, en drukt de Amerikaanse groei naar slechts 1,6%. In het VK en Nederland wankelen minderheidskabinetten onder electorale druk van populistische uitdagers, terwijl Japan als enige grote economie kalm koerst op renteverhoging ondanks afkoelende inflatie. China en Rusland kiezen elk voor narratiefcontrole — Peking dwingt brokers het "goede verhaal" te vertellen, Moskou ziet steun voor de oorlog wegzakken — wat de scheidslijnen tussen autoritaire informatiebeheersing en democratische verantwoording scherper maakt.
-
+- **Parlement maakt digitale uitgifte van gemeenteobligaties via blockchain mogelijk** Het Japanse parlement nam op **27 mei** wetgeving aan die lokale overheden toestaat **schuldbewijzen digitaal** uit te geven met behulp van **blockchaintechnologie**. De wet moet de investeerdersbasis verbreden en nieuwe financieringsbronnen voor gemeenten openen; daarnaast kunnen prefecturen voortaan **digitaal familieregisters** opvragen bij gemeenten, wat de administratieve last vermindert. (The Japan Times, 27 mei 2026, https://www.japantimes.co.jp/news/2026/05/27/japan/politics/bill-digital-local-government-bonds/)
 ---
