@@ -1,3 +1,5 @@
+# Nieuwsoverzicht 11 juni 2026
+
 ## 🇧🇪 België
 - **Nationale Bank waarschuwt: "Het geld is op"** De gouverneur van de Nationale Bank van België stelt dat de staat **geen fiscale ruimte** meer heeft voor een nieuwe crisis. De federale regering van **PM Bart De Wever** moet circa **€4,9 à 5 miljard** vinden om aan de Europese begrotingsregels te voldoen. De Europese Commissie verwacht een bbp-groei van **1,1%** in 2026, maar het begrotingstekort kan oplopen tot **5,9%** in 2027. (Belga News Agency / EU-Commissie, juni 2026, https://www.belganewsagency.eu/european-commission-estimates-belgian-budget-deficit-could-rise-to-59-per-cent-by-2027)
 ---
@@ -11,19 +13,19 @@
 ---
 
 ## 🇫🇷 Frankrijk
-- **S&P verlaagt kredietwaardigheid Frankrijk naar A+** Ratingbureau **S&P Global** verlaagde de Franse kredietbeoordeling van **AA- naar A+**, de derde verlaging in minder dan een jaar. PM **Sébastien Lecornu** draaide de omstreden pensioenhervorming terug om steun te winnen en overleefde twee moties van wantrouwen. Economieminister **Roland Lescure** noemde de verlaging een "wake-up call" terwijl Frankrijk worstelt met een bbp-groei van slechts **1,1%** en een van de grootste schuldenbergen in de EU. (France 24, 2025–2026, https://www.france24.com/en/france/20250913-france-credit-score-downgraded-lowest-on-record-amid-political-crisis-lecornu-macron-budget)
+- **G7-top in Évian onder zware beveiliging van start** De **G7-top** (15-17 juni) in Évian-les-Bains wordt voorbereid onder **strenge beveiliging** aan beide zijden van het Meer van Genève. President **Macron** ontvangt onder anderen president **Trump**; kernthema's zijn handelsonevenwichten, kritieke grondstoffen en de **Iran-energiecrisis**. (France 24, 11 juni 2026, https://www.france24.com/en/live-news/20260611-g7-summit-under-tight-security-on-both-sides-of-lake-geneva)
 ---
 
 ## 🇩🇪 Duitsland
-- **Berlijn halveert bbp-groeiverwachting door Iran-oorlog** De Duitse regering onder kanselier **Friedrich Merz** heeft de groeiverwachting voor 2026 gehalveerd van **1,0% naar 0,5%** als gevolg van de energieschok door de oorlog in Iran. Stijgende olie- en gasprijzen raken de cruciale maakindustrie hard. De inflatieverwachting is opgetrokken naar **2,7%** en het ondernemersvertrouwen daalde in april tot het laagste punt sinds de energiecrisis van 2022. (Euronews / The Local, 22 april 2026, https://www.euronews.com/business/2026/04/22/germany-halves-gdp-forecast-from-1-to-05-due-to-iran-war-fallout)
+- **ECB verhoogt rente voor het eerst in drie jaar naar 2,25%** De Europese Centrale Bank heeft de depositorente met **0,25 procentpunt** verhoogd naar **2,25%** — de eerste renteverhoging in de eurozone in drie jaar. Aanleiding is de inflatie die steeg van **1,7%** in januari naar **3,2%** in mei, gedreven door de **energiecrisis** na het Iran-conflict. ECB-president **Christine Lagarde** wuifde kritiek van bedrijfsleven weg. (Handelsblatt, 11 juni 2026, https://www.handelsblatt.com/finanzen/geldpolitik/ezb-europaeische-zentralbank-erhoeht-leitzins-auf-225-prozent/100231285.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Economische barsten zichtbaar op SPIEF-forum** Tijdens het **St. Petersburg International Economic Forum** werden diepe economische problemen blootgelegd. De regering verlaagde de bbp-groeiprognose van **1,3% naar 0,4%**. Rijkste zakenman **Alexei Mordashov** (Severstal) verklaarde zijn investeringsportefeuille met **24%** te hebben gekort en al in "negatieve cashflow" te zitten. Kremlin-functionaris **Maxim Oreshkin** waarschuwde dat westerse sancties niet opgeheven zullen worden. (The Moscow Times, 5 juni 2026, https://www.themoscowtimes.com/2026/06/05/cracks-in-russias-economy-shine-through-at-spief-a92943)
+- **Begrotingstekort verdubbeld, Kremlin ontkent crisis** Het Russische begrotingstekort bereikte **6,01 biljoen roebel ($83,5 mrd)** in januari-mei 2026 — een **verdubbeling** ten opzichte van vorig jaar en **60% boven het jaardoel**. Olie- en gasinkomsten daalden met **30%**, terwijl uitgaven met **17%** stegen. Viceminister van Financiën **Irina Okladnikova** stelde dat er "geen begrotingscrisis" is. (The Moscow Times, 10 juni 2026, https://www.themoscowtimes.com/2026/06/10/russia-says-no-budget-crisis-despite-deficit-exceeding-annual-target-a92977)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Parlementscommissie eist hervorming overdrachtsbelasting** Het **HCLG-comité** publiceerde op 9 juni een rapport dat stelt dat de stamp duty "**de economie schaadt**" en de woningmarkt afremt. De ontvangsten daalden met **6%** in de eerste vier maanden van 2026 tot **£4,3 miljard**. Het comité roept minister van Financiën **Rachel Reeves** op om vóór eind 2026 een consultatie te starten over belastingneutrale alternatieven, lagere tarieven en aanpassing van drempels aan lokale huizenprijzen. (LBC / The Negotiator, 9 juni 2026, https://www.lbc.co.uk/article/70f596fa4b3d4605be5838c3862ebf88-5HjdbHw_2/)
+- **Starmer verbiedt cryptodonaties aan politieke partijen** Premier **Keir Starmer** kondigde een verbod aan op **cryptovaluta-donaties** aan politieke partijen, na het Rycroft-onderzoek naar buitenlandse inmenging. Starmer waarschuwde dat illegale financiering een **"ernstig gevaar"** vormt voor de Britse democratie. De maatregel volgt op aanbevelingen van het Joint Committee on National Security Strategy. (PBS News, juni 2026, https://www.pbs.org/newshour/amp/world/uk-bans-crypto-donations-to-political-parties-in-bid-to-curb-foreign-influence)
 ---
 
 ## 🇺🇸 Verenigde Staten
@@ -31,11 +33,11 @@
 ---
 
 ## 🇮🇳 India
-- **Tata Electronics tekent ASML-deal voor chipfabricage** In mei 2026 sloot **Tata Electronics** een overeenkomst met het Nederlandse **ASML** voor de levering van geavanceerde lithografietechnologie voor de productie van **300mm-wafers**. India investeert **$10 miljard** in binnenlandse chipproductie, met een fabriek van **$11 miljard** in Dholera (Gujarat) in samenwerking met **PSMC** (Taiwan) en een assemblage-faciliteit van **$3,26 miljard** in Assam. De eerste chips worden eind 2026 verwacht. (Al Jazeera, 18 mei 2026, https://www.aljazeera.com/news/2026/5/18/tata-asml-deal-how-significant-is-it-for-indias-semiconductor-push)
+- **India opent 16e BRICS-landbouwministersconferentie in Indore** India ontvangt als **BRICS-voorzitter 2026** de landbouwministers van **11 lidstaten** in Indore (12-13 juni) voor overleg over voedselzekerheid, digitale landbouw en klimaatbestendige teelt. Voorafgaand liep een driedaags ambtelijk overleg (9-11 juni). De top volgt op het **11e BRICS Foreign Policy Dialogue** in New Delhi op 5 juni. (PIB/Global Agriculture, juni 2026, https://www.global-agriculture.com/india-region/india-to-host-16th-brics-agriculture-ministers-meeting-in-indore-on-june-12-13/)
 ---
 
 ## 🇨🇳 China
-- **DeepSeek lanceert V4-model met 1 miljoen tokens context** Het Chinese AI-bedrijf **DeepSeek** bracht op **24 april 2026** het open-source model **DeepSeek-V4** uit, met een contextvenster van **1 miljoen tokens** en sterk verbeterde redeneer- en agentcapaciteiten. Het model concurreert direct met **OpenAI, Anthropic en Google**. Tegelijkertijd richt China zich op **10.000 humanoïde robots** in commercieel gebruik eind 2026, met inzet in productie, logistiek, zorg en noodhulp via een nieuw nationaal initiatief. (CNN / Euronews, april 2026, https://edition.cnn.com/2026/04/24/tech/chinas-ai-deepseek-v4-intl-hnk)
+- **China jaagt op 10.000 humanoïde robots in fabrieken en ziekenhuizen** Het ministerie van Industrie lanceerde een nationaal programma om humanoïde robots en **embodied AI** versneld in te zetten in de industrie. Doel: **meer dan 100 toepassingen** en **10.000 eenheden** operationeel eind 2026. Lokale overheden en staatsbedrijven moeten vóór eind juni implementatieplannen indienen. (SCMP, 10 juni 2026, https://www.scmp.com/economy/china-economy/article/3356629/china-fast-tracks-humanoid-robots-and-embodied-ai-industry-under-nationwide-programme)
 ---
 
 ## 🇯🇵 Japan
