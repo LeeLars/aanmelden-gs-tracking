@@ -1,5 +1,5 @@
 # MIJN NIEUWSKRANT
-### Vrijdag 19 juni 
+### Vrijdag 19 juni 2026
 ---
 
 ## 🇧🇪 België
