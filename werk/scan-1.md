@@ -1,3 +1,5 @@
+# Nieuwsoverzicht 2026-06-20
+
 ## 🇧🇪 België
 - **Arizona-coalitie onder druk door massale protesten tegen besparingen** Premier **Bart De Wever** moet €28 miljard besparen om aan EU-begrotingsregels te voldoen, maar stuit op fel verzet: **75.000 demonstranten** vulden de straten van Brussel bij het 15e protest in 18 maanden. Vakbonden uit publieke en private sector eisen het behoud van pensioenrechten en sociale budgetten. (Peoples Dispatch / Euronews, juni 2026, https://peoplesdispatch.org/2026/05/13/brussels-protest-marks-15th-demonstration-against-austerity-in-18-months/)
 ---
