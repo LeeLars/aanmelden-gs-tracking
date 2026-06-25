@@ -1,45 +1,45 @@
-# Nieuwsoverzicht 2026-06-24
+# Nieuwsoverzicht 2026-06-25
 
 ## 🇧🇪 België
-- **Brandweerlui woest over hervormingen minister, staking dreigt** Belgische brandweervakbonden verzetten zich hevig tegen de geplande hervormingen van **minister Quintin**. De onvrede is zo groot dat er met een **nationale staking** wordt gedreigd. Vakbondsvertegenwoordigers eisen dat de plannen worden ingetrokken. (VRT NWS, 24 juni 2026, https://www.vrt.be/vrtnws/nl/2026/06/24/brandweer-vakbonden-onvrede-hervormingen-quintin/)
+- **"Vaarwel België": Odoo-topman dreigt land te verlaten als rijkentaks erdoor komt** De CEO van techbedrijf **Odoo** dreigt België te verlaten als de door **Les Engagés** voorgestelde vermogensbelasting wordt ingevoerd. De dreiging legt de politieke spanning rond belastinghervorming en vermogensherverdeling in België bloot. (VRT NWS, 24 juni 2026, https://www.vrt.be/vrtnws/nl/2026/06/24/odoo-topman-tegen-rijkentaks-die-les-engages-voorstelt-vaarw/)
 ---
 
 ## 🇳🇱 Nederland
-- **Bijna helft Nederlanders heeft geen vertrouwen in besteding defensie-uitgaven** Uit recente peilingen blijkt dat **bijna 50%** van de Nederlanders geen vertrouwen heeft in hoe het defensiebudget wordt besteed. De scepsis komt op een moment dat de overheid de **NAVO-norm van 2%** van het bbp nastreeft en de uitgaven fors stijgen. (NOS, 24 juni 2026, https://www.nos.nl/artikel/2620075-bijna-helft-nederlanders-heeft-geen-vertrouwen-in-besteding-defensie-uitgaven)
+- **Gezondheidsraad wil dat overheid ingrijpt bij alcohol, naar voorbeeld van tabak** De **Gezondheidsraad** dringt aan op overheidsmaatregelen tegen alcoholgebruik, vergelijkbaar met het tabaksbeleid. De raad pleit voor strengere regulering nu alcohol dezelfde weg dreigt te gaan als roken in de afgelopen decennia. (NOS, 25 juni 2026, https://nos.nl/artikel/2620238-gaat-alcohol-het-roken-achterna-gezondheidsraad-wil-dat-overheid-ingrijpt)
 ---
 
 ## 🇹🇷 Turkije
-- **CHP-parlementslid stapt over naar regerende AK-Partij** Een lid van de oppositiepartij **CHP** (Republikeinse Volkspartij) heeft zijn partij verlaten en zich aangesloten bij de **AK-Partij** van president **Erdoğan**. De overstap werd aangekondigd tijdens een AKP-fractievergadering in Ankara en markeert een nieuwe politieke herschikking in het Turkse parlement. (Daily Sabah, 24 juni 2026, https://www.dailysabah.com/politics/chp-lawmaker-joins-turkiyes-ruling-ak-party/news)
+- **Erdoğan verwelkomt nieuwe burgemeesters en verwerpt anti-moslimhouding** President **Recep Tayyip Erdoğan** sprak op een bijeenkomst van **AK-partij**-provinciale voorzitters in Ankara, waar hij nieuwe burgemeesters verwelkomde. Hij veroordeelde wat hij omschreef als anti-islamitische houdingen in het gemeentelijk bestuur. (Daily Sabah, 25 juni 2026, https://www.dailysabah.com/politics/erdogan-welcomes-new-mayors-rejects-anti-muslim-mindset/news)
 ---
 
 ## 🇫🇷 Frankrijk
-- **G7-top in Evian: spanning tussen Macron en Trump over handel** De **G7-top van 2026 in Evian** richt zich op mondiale economische balans, gezondheidsinitiatieven en geopolitieke spanningen rond Oekraïne en de Straat van Hormuz. President **Macron** en president **Trump** staan lijnrecht tegenover elkaar over **handelstarieven**, wat de bilaterale relatie onder druk zet. (France24, 24 juni 2026, https://www.france24.com/en/)
+- **Frankrijk onderschept Russisch schaduwvloot-olietanker bij Sicilië** President **Emmanuel Macron** maakte bekend dat de Franse marine een Russische olietanker uit de zogenaamde schaduwvloot heeft onderschept nabij Sicilië. De operatie past in de handhaving van internationale sancties tegen Rusland vanwege het conflict in Oekraïne. (Euronews, 25 juni 2026, https://www.euronews.com/my-europe/2026/06/25/macron-says-france-intercepted-a-russian-shadow-fleet-oil-tanker-off-coast-of-sicily)
 ---
 
 ## 🇩🇪 Duitsland
-- **Merz: "Er komen geen kortingen op het wettelijk pensioen"** Bondskanselier **Friedrich Merz** bevestigde dat er geen bezuinigingen op de wettelijke pensioenen komen. Hij wees samenwerking met **Die Linke** af en benadrukte de noodzaak om de **EU-concurrentiekracht tegenover China** te versterken. De coalitie staat onder druk van aanhoudend beleidsdebat. (Handelsblatt, 24 juni 2026, https://www.handelsblatt.com/politik/deutschland/bundespolitik-merz-es-gibt-keine-kuerzungen-der-gesetzlichen-rente/100137034.html)
+- **Merck versterkt life-science-divisie met overname van €9,9 miljard** DAX-genoteerd farmabedrijf **Merck** neemt het Amerikaanse laboratoriumbedrijf **Bio-Techne** over voor **9,9 miljard euro**, een belangrijke strategische zet voor de life-science-tak. De lang verwachte acquisitie wordt doorgevoerd onder de nieuwe groepsleiding, met verdere overnamedoelen in het vizier. (Handelsblatt, 25 juni 2026, https://www.handelsblatt.com/unternehmen/industrie/pharma-merck-staerkt-life-science-sparte-mit-us-milliardenzukauf/100235793.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Doema keurt uitstel btw-verhoging voor kleine bedrijven goed** Het Russische parlement heeft een wet aangenomen die de **btw-verhoging voor kleine bedrijven** uitstelt. Ondernemingen met een vereenvoudigd belastingstelsel hoeven pas btw te betalen als hun omzet een **bepaalde drempel** overschrijdt, wat tijdelijke verlichting biedt tijdens de economische druk van de oorlog. (The Moscow Times, 24 juni 2026, https://www.themoscowtimes.com/2026/06/24/state-duma-passes-bill-delaying-vat-tax-hikes-for-small-businesses-a93087)
+- **VK beschuldigt Apple van verwijdering apps uit App Store** Het Russische socialemediabedrijf **VK** claimt dat **Apple** zijn applicaties uit de App Store heeft verwijderd, waardoor gebruikers geen pushmeldingen meer ontvangen voor **VKontakte** en andere VK-diensten. De kwestie onderstreept de aanhoudende spanningen tussen Russische techplatforms en internationale appdistributeurs. (The Moscow Times, 25 juni 2026, https://www.themoscowtimes.com/2026/06/25/vk-accuses-apple-of-removing-apps-from-app-store-a93094)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Robert Jenrick verliest Conservative whip en stapt over naar Reform UK** **Robert Jenrick** werd uit de Conservatieve fractie gezet als Shadow Secretary of State for Justice na een vermeend plan om over te stappen naar **Reform UK** — waarna hij diezelfde dag de overstap bevestigde. Tegelijk won **Andy Burnham** (Labour) de tussentijdse verkiezing in Makerfield met **9.231 stemmen** voorsprong. (CNBC / Wikipedia, 24 juni 2026, https://en.wikipedia.org/wiki/2026_in_United_Kingdom_politics_and_government)
+- **Londense Metropolitan Police schaalt gebruik van drones en gezichtsherkenning op** De **Metropolitan Police** in Londen breidt de inzet van **drones** en **live gezichtsherkenning** aanzienlijk uit. De opschaling markeert een verschuiving in de operationele aanpak van openbare veiligheid en misdaadpreventie in de Britse hoofdstad. (Euronews, 24 juni 2026, https://www.euronews.com/my-europe/2026/06/24/londons-met-police-to-scale-up-use-of-drones-and-live-facial-recognition)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Wall Street getroffen door AI-uitverkoop; Micron daalt meer dan 10%** Een brede technologie-uitverkoop trof de Amerikaanse markten, met **Micron Technology** die meer dan **10%** verloor — de slechtste dag sinds 5 juni. **Marvell Technology** verloor **8%** en **Sandisk 11%**. De sell-off hangt samen met zorgen over de AI-sector, terwijl een Chinese supercomputer voor het eerst sinds 2017 de snelste ter wereld werd. (CNBC, 24 juni 2026, https://www.cnbc.com/2026/06/22/stock-market-today-live-updates.html)
+- **Belangrijke inflatiemaatstaf stijgt naar hoogste niveau in 3 jaar** Een cruciale **inflatie-indicator** heeft het hoogste niveau in **drie jaar** bereikt, wat zorgen wekt over de economische vooruitzichten. De ontwikkeling komt terwijl de **Federal Reserve** renteaanpassingen overweegt om prijsdruk in de economie te beheersen. (ABC News, 25 juni 2026, https://abcnews.com/Business/wireStory/key-inflation-gauge-jumps-3-year-high-latest-134201826)
 ---
 
 ## 🇮🇳 India
-- **India host BRICS-veiligheidstop over cybersecurity en AI-risico's** India organiseerde op **22-23 juni** de BRICS National Security Advisers Meeting onder voorzitterschap van **NSA Ajit Doval**. De top richtte zich op **cybersecurity, AI-risico's, terrorisme en bescherming van kritieke infrastructuur**. Op 25-26 juni volgt de BRICS-energieministertop in Gurugram met het thema "Energy for All". (Bankers Adda / The Print, 23 juni 2026, https://www.bankersadda.com/daily-current-affairs-and-gk-updates-21st-june-2026/)
+- **Modi ontvangt Xi Jinping in september voor grensakkoord** Premier **Narendra Modi** ontvangt de Chinese president **Xi Jinping** in september voor besprekingen over een vroegtijdig grensafbakeningsakkoord. **China** dringt aan op voortgang in de onderhandelingen over een zogenaamd **early harvest boundary deal** om de bilaterale relaties te verbeteren. (Deccan Herald, 25 juni 2026, https://www.deccanherald.com/india/pm-modi-to-host-xi-jinping-in-september-as-china-seeks-progress-in-talks-for-early-harvest-boundary-deal-4051109)
 ---
 
 ## 🇨🇳 China
-- **Xi leidt inspectieblitz voor GDP-publicatie** President **Xi Jinping**, premier **Li Qiang** en vice-premiers voeren intensieve bezoeken uit aan landbouw- en technologiecentra door heel China om **lokale economische omstandigheden** te beoordelen vóór een cruciale beleidstop in juli. De gecoördineerde actie moet informatie opleveren over regionale uitdagingen vóór de **bbp-cijfers** worden gepubliceerd. (South China Morning Post, 24 juni 2026, https://www.scmp.com/economy/china-economy/article/3358231/chinas-xi-joins-leadership-blitz-hub-visits-fact-finding-push-gdp-release)
+- **China wil Amerikaanse tariefverlagingen nastreven, hekelt 'kwaadwillige' handelsacties** Peking kondigde aan via een nieuw opgericht handelsbestuur te blijven onderhandelen over wederzijdse tariefverlagingen met Washington. Tegelijkertijd legde China nieuwe beperkingen op aan Amerikaanse bedrijven op basis van Pentagon-zwarte lijsten, terwijl het een voorstel van **USD 300 miljard** presenteerde voor **win-win handelsrelaties**. (South China Morning Post, 25 juni 2026, https://www.scmp.com/economy/global-economy/article/3358369/china-vows-seek-tariff-cuts-us-while-decrying-its-malicious-trade-acts)
 ---
 
 ## 🇯🇵 Japan
-- **Tokyo Stock Exchange plant upgrade om handelsvolume te verdubbelen** De **Tokyo Stock Exchange** voert de grootste systeemupgrade in haar geschiedenis door, met als doel het **handelsvolume te verdubbelen**. De Prime-markt zag de dagelijkse handelswaarde het afgelopen jaar al verdubbelen door stijgende **buitenlandse investeerdersparticipatie**, wat deze infrastructuurverbetering noodzakelijk maakt. (Nikkei Asia, 24 juni 2026, https://asia.nikkei.com/business/markets/equities/tokyo-stock-exchange-plans-upgrade-to-double-trade-volume-capacity)
+- **Amerikaans stablecoinbedrijf Circle start afwikkelingsdienst met Nomura** **Circle**, een toonaangevend Amerikaans stablecoinbedrijf, start een afwikkelingsdienst in samenwerking met het Japanse financiële instituut **Nomura**. De samenwerking richt zich op grensoverschrijdende investeringen en handelstransacties via **stablecointechnologie** in Azië. (Nikkei Asia, 25 juni 2026, https://www.nikkei.com/spotlight/cryptocurrencies/us-stablecoin-giant-circle-to-start-settlement-business-with-nomura)
 ---
