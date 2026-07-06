@@ -1,45 +1,45 @@
-# Nieuwsoverzicht 2026-07-05
+# Nieuwsoverzicht 2026-07-06
 
-## :belgium: Belgie
-- **Verplichte gezichtscamera in elke nieuwe auto** Europa verplicht **gezichtsherkenningscamera's** in alle nieuwe auto's voor bestuurdersmonitoring. Privacy-experts waarschuwen: wie controleert of de beelden het voertuig niet verlaten? De maatregel roept spanning op tussen **EU-veiligheidsregulering** en privacyrechten. (VRT NWS, 5 juli 2026, https://www.vrt.be/vrtnws/nl/2026/06/30/addw-camera/)
+## 🇧🇪 België
+- **Monitoringcomité waarschuwt: België moet 7,9 miljard euro besparen tegen 2029** Het **Monitoringcomité** waarschuwt dat de Belgische overheid bijna **7,9 miljard euro** aan extra besparingen moet realiseren tegen **2029** om de begroting onder controle te krijgen. Deze raming onderstreept de aanhoudende begrotingsuitdagingen waarmee de federale en regionale overheden worden geconfronteerd. (VRT NWS, 2026-07-06, https://www.vrt.be/vrtnws/nl/)
 ---
 
-## :netherlands: Nederland
-- **Verplichte stagevergoeding voor alle studenten komt in de wet** Het kabinet legt een **wettelijke stagevergoeding** vast voor alle studenten. Bedrijven en instellingen moeten zelf afspraken maken over een "redelijke" vergoeding. De wet pakt **onbetaald stagework** aan dat al jaren ter discussie staat in het onderwijs. (NOS, 5 juli 2026, https://nos.nl/artikel/2621468-verplichte-stagevergoeding-voor-alle-studenten-komt-in-de-wet)
+## 🇳🇱 Nederland
+- **Goudprijs flink gedaald ondanks grote geopolitieke spanningen** De goudprijs is gedaald van circa **$5.500 per troy ounce** eind januari naar ongeveer **$4.150**, ondanks aanhoudende geopolitieke spanningen. Volgens experts van **ING** en **ABN Amro** wijken beleggers uit naar AI-aandelen en stijgen de rentes, waardoor goud minder aantrekkelijk wordt. **Goldman Sachs** handhaaft desondanks een eindejaarsforecast van **$4.900** per troy ounce. (NOS, 2026-07-06, https://nos.nl/artikel/2621890)
 ---
 
-## :turkey: Turkije
-- **Defensie-export Turkije passeert voor het eerst $11 miljard** De Turkse defensie-export bereikte op jaarbasis voor het eerst meer dan **$11 miljard**, een historisch record. De groei bevestigt Turkije's positie als **opkomende speler** in de mondiale wapenindustrie. Belangrijke exportproducten zijn drones, pantservoertuigen en marineschepen. (Daily Sabah, 2 juli 2026, https://www.dailysabah.com/business/economy/turkiyes-annualized-defense-exports-surpass-11b-for-1st-time)
+## 🇹🇷 Turkije
+- **Russische raketaanval doodt 14 in Kyiv, dag voor NAVO-top in Ankara** Een Russische aanval met **68 raketten en 351 drones** trof **Kyiv**, waarbij minstens **14 doden** en circa **60 gewonden** vielen en zo'n **30 woongebouwen** beschadigd raakten. De aanval kwam een dag voor de **NAVO-top in Ankara**, waar **president Zelensky** bondgenoten opriep tot "sterke besluiten" over luchtverdediging. **Trump** ontmoet Zelensky woensdag op de top om het einde van de oorlog te bespreken. (Daily Sabah, 2026-07-06, https://www.dailysabah.com/world/europe/2nd-russian-barrage-in-week-kills-14-in-kyiv-before-nato-summit)
 ---
 
-## :fr: Frankrijk
-- **Werkloosheid stijgt naar 8,1% - hoogste in vijf jaar** De Franse werkloosheid steeg in Q1 2026 met **0,2 procentpunt naar 8,1%**, het hoogste niveau sinds 2021 volgens INSEE. Het aantal werklozen groeide met **68.000 tot 2,6 miljoen**. Minister **Jean-Pierre Farandou** wijt de verslechtering aan de oorlog in Iran en de handelsoorlog met de VS. (INSEE / Global Banking & Finance, mei 2026, https://www.insee.fr/en/statistiques/8993246)
+## 🇫🇷 Frankrijk
+- **Macron wordt eerste westerse leider die Syrië bezoekt na val Assad** President **Emmanuel Macron** wordt de **eerste westerse leider** die Syrië bezoekt sinds de val van **Bashar al-Assad** in 2024. Hij neemt **investeerders en vertegenwoordigers van Franse bedrijven** mee voor gesprekken met president **Ahmad al-Sharaa**. Syrië heeft nog **honderden miljarden dollars** nodig voor wederopbouw na een **14-jarig conflict** dat bijna **een half miljoen mensen** het leven kostte. (France 24, 2026-07-06, https://www.france24.com/en/middle-east/20260706-macron-expected-in-syria-in-first-post-assad-visit-by-western-leader-damascus-says)
 ---
 
-## :de: Duitsland
-- **Coalitie bereikt doorbraak over reservecentrales** De Duitse coalitie bereikte een akkoord over de **subsidiering van reservecentrales** voor de energietransitie. De deal versoepelt eisen voor **batterijopslagfaciliteiten** en komt kleinere energieleveranciers tegemoet. Het akkoord is cruciaal voor de leveringszekerheid bij de afbouw van fossiele centrales. (Handelsblatt, 5 juli 2026, https://www.handelsblatt.com/politik/deutschland/energiewende-koalition-erzielt-durchbruch-bei-foerderung-von-reservekraftwerken/100237910.html)
+## 🇩🇪 Duitsland
+- **TKMS krijgt megacontract voor twaalf Canadese onderzeeërs** De Duitse onderzeebootbouwer **ThyssenKrupp Marine Systems (TKMS)** heeft naar verluidt een megacontract binnengehaald voor de bouw van **twaalf onderzeeërs voor Canada**. De deal is een van de grootste defensiecontracten van de laatste jaren en versterkt de orderportefeuille van TKMS aanzienlijk. Het **aandeel TKMS steeg fors** na de aankondiging. (Handelsblatt, 2026-07-06, https://www.handelsblatt.com/unternehmen/industrie/ruestung-deutsche-tkms-erhaelt-wohl-mega-u-boot-auftrag/100238217.html)
 ---
 
-## :ru: Rusland
-- **Import Wit-Russisch benzine bereikt historisch maximum** De Russische import van Wit-Russische benzine bereikte **recordhoogtes** door een ernstig brandstoftekort. **Oekraiense droneaanvallen** op raffinaderijen veroorzaken grote verstoringen in de brandstofketen, met lange rijen bij tankstations in meerdere regio's. (Meduza, 5 juli 2026, https://meduza.io/news/2026/07/05/import-v-rossiyu-belorusskogo-benzina-dostig-istoricheskogo-maksimuma)
+## 🇷🇺 Rusland
+- **Antimonopoliedienst pakt vermeende prijsafspraken bij tankstations aan** De Russische **Federale Antimonopoliedienst (FAS)** startte prijsafstemmingsprocedures tegen **zes tankstationketens** met **25 stations** in de regio Moskou, naast onderzoeken in **Saratov** en **Orenburg**. De nationale benzineprijs is sinds januari met **11,6%** gestegen tot **72,38 roebel per liter**, mede door brandstoftekorten als gevolg van **Oekraïense droneaanvallen op olieraffinaderijen**. (The Moscow Times, 2026-07-06, https://www.themoscowtimes.com/2026/07/06/antitrust-service-ramps-up-crackdown-on-alleged-price-fixing-at-gas-stations-a93175)
 ---
 
-## :gb: VK
-- **Starmer onthult £400 miljoen AI-plan en eerste Britse soevereine AI-model** Premier **Keir Starmer** presenteerde tijdens London Tech Week een **£400 miljoen** investering in AI-chips en soevereine rekencapaciteit. Startup **Cosine** onthulde "Lumen Sovereign", gesteund door **BT, HSBC, Lloyds, NatWest en BAE Systems**, dat volledig op Britse infrastructuur draait. Het model wordt getraind op de **Isambard AI-supercomputer**. (City AM, 8 juni 2026, https://www.cityam.com/britains-first-sovereign-ai-model-secures-blue-chip-backing-as-starmer-unveils-400m-plan/)
+## 🇬🇧 Verenigd Koninkrijk
+- **ITV-programma's blijven gratis na overname door Sky voor £1,6 miljard** **Sky** neemt de **media- en entertainmentdivisies van ITV** over in een deal ter waarde van **£1,6 miljard**. Sky-baas **Dana Strong** bevestigde dat populaire programma's zoals *I'm a Celebrity* gratis beschikbaar blijven na de overname. De deal markeert een grote consolidatie in het **Britse medialandschap**. (BBC News, 2026-07-06, https://www.bbc.co.uk/news/articles/cx2wwgeg041o)
 ---
 
-## :us: VS
-- **Trump houdt politieke 4 juli-toespraak over "gouden tijdperk"** President **Trump** hield op **Independence Day** een toespraak op de National Mall, die twee uur vertraagd werd door een evacuatie wegens noodweer. Hij promootte een Amerikaans **"golden age"** en waarschuwde tegen communisme, in een speech die afweek van de traditioneel apolitieke toon van eerdere presidenten. (CBS News, 5 juli 2026, https://www.cbsnews.com/news/trump-july-4-speech-washington-dc/)
+## 🇺🇸 Verenigde Staten
+- **Trump naar NAVO-top Ankara om 5%-defensiebelofte af te dwingen** **President Trump** vertrekt maandag naar de **NAVO-top in Ankara**, waar hij bondgenoten onder druk zet om de beloofde **5% bbp-defensieuitgaven** na te komen. Trump heeft bilaterale ontmoetingen gepland met **Zelensky**, **Erdogan** en de Syrische president **Ahmad al-Sharaa**. **Minister van Defensie Pete Hegseth** kondigde een halfjaarlijkse review aan van Amerikaanse troepen in Europa als onderdeel van een **"NAVO 3.0"**-strategie. (NPR, 2026-07-06, https://www.npr.org/2026/07/06/g-s1-132082/)
 ---
 
-## :india: India
-- **Modi lanceert ₹1 biljoen aan projecten in Rajasthan en Gujarat** Premier **Narendra Modi** opende India's eerste greenfield **raffinaderij-petrochemisch complex** in Balotra (₹79.450 crore) en een **halfgeleiderfabriek** in Sanand, Gujarat (₹7.500 crore). De chipfabriek kan tot **5 miljard halfgeleiderchips per jaar** produceren en is een van de eerste vier goedgekeurde projecten onder de India Semiconductor Mission. (Business Standard, 3 juli 2026, https://www.business-standard.com/economy/news/pm-to-inaugurate-refinery-metro-chip-plant-on-rajasthan-gujarat-visit-126070301030_1.html)
+## 🇮🇳 India
+- **16e Financiële Commissie breekt met traditie: geen GSDP-projecties per deelstaat** De **16e Financiële Commissie** (periode **2026-31**) breekt met de traditie door geen individuele GSDP-projecties per deelstaat te publiceren. Commissiesecretaris **Ritvik Pandey** verklaarde dat de weglating samenhangt met het schrappen van inkomstentekortsubsidies, een regeling die "niet de gewenste resultaten heeft opgeleverd". Deelstaten missen hierdoor een belangrijk ijkpunt voor het inschatten van **belastinginkomsten** over de komende vijf jaar. (Business Standard, 2026-07-06, https://www.business-standard.com/economy/news/16th-fc-breaks-with-precedent-leaves-out-state-wise-gsdp-projections-126070601004_1.html)
 ---
 
-## :cn: China
-- **Peking verlaagt eigen positie in mondiale financiele concurrentieranglijst** Een denktank uit Beijing degradeerde China naar de **5e plek** in financiele concurrentiekracht, achter de VS, Japan, het VK en Duitsland. De verlaging volgt op recente **beursvolatiliteit** die een herwaardering van China's competitieve positie uitlokte. (South China Morning Post, 5 juli 2026, https://www.scmp.com/business/banking-finance/article/3359418/why-has-china-lowered-its-own-ranking-global-financial-competitiveness)
+## 🇨🇳 China
+- **Voormalig Chinees ambtenaar ter dood veroordeeld in omkopingszaak van $323 miljoen** **Yang Youlin** kreeg de **doodstraf** in een van de zwaarste corruptiezaken van de afgelopen jaren, met een bedrag van **US$323 miljoen** aan steekpenningen. De zaak is een significante handhavingsactie binnen Pekings aanhoudende anticorruptiecampagne en illustreert de hardheid waarmee de Chinese autoriteiten corruptie op hoog niveau aanpakken. (South China Morning Post, 2026-07-06, https://www.scmp.com/news/china/politics/article/3359625/former-chinese-official-sentenced-death-us323-million-bribery-case)
 ---
 
-## :jp: Japan
-- **Hayabusa2 voert close flyby uit bij asteroide Torifune** Het Japanse ruimtevaartuig **Hayabusa2** voerde een nabije passage uit bij asteroide **Torifune** als onderdeel van zijn verlengde missie. De flyby bevestigt Japans leidende positie in **asteroide-onderzoek** en deep-space exploratie na het succes van de oorspronkelijke Ryugu-missie. (Nikkei Asia, 5 juli 2026, https://asia.nikkei.com/business/science/japan-s-hayabusa2-makes-close-flyby-of-asteroid-torifune)
+## 🇯🇵 Japan
+- **BP overweegt terugtrekking uit offshore windpark in Noord-Japan** **BP** overweegt zich terug te trekken uit een offshore windparkproject in **Noord-Japan**, waar het een belang van circa **25%** heeft. De mogelijke exit is opnieuw een klap voor **Japans doelstelling om offshore windenergie** en bredere hernieuwbare-energiedoelen te versterken. De ontwikkeling, eerst gemeld door **Nikkei**, is nog niet officieel bevestigd door BP of zijn Japanse partners. (Nikkei Asia, 2026-07-06, https://asia.nikkei.com/Business/Energy/BP-weighs-quitting-offshore-wind-farm-project-in-northern-Japan)
 ---
