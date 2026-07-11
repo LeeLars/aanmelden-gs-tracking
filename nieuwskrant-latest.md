@@ -1,71 +1,69 @@
 # MIJN NIEUWSKRANT
-### Vrijdag 10 juli 2026
+### Vrijdag 11 juli 2026
 ---
-# Nieuwsoverzicht 2026-07-07
-
-## 🇧🇪 Belgie
-- **Rode Duivels vernederen VS met 4-1 op WK** België plaatste zich voor de kwartfinales van het WK 2026 na een overtuigende **4-1 overwinning** op de Verenigde Staten in de achtste finales. **Charles De Ketelaere** scoorde tweemaal in de eerste helft, **Hans Vanaken** en **Romelu Lukaku** maakten de vernedering compleet. België treft nu **Spanje** in de kwartfinale in Los Angeles. (ESPN, 7 juli 2026, https://www.espn.com/soccer/story/_/id/49293590/world-cup-2026-today-blog-07-07-2026-live-updates-news-fixtures-schedule-results-portugal-spain-belgium-united-states)
+## 🇧🇪 België
+- **Banken moeten wet respecteren na phishing-arrest Hof van Cassatie** Minister **Beenders** reageerde op een belangrijk arrest van het **Hof van Cassatie** over phishingfraude en benadrukte dat banken de wet moeten naleven. De uitspraak verduidelijkt de aansprakelijkheid van financiële instellingen bij de bescherming van klanten tegen online fraude. (VRT NWS, 11 juli 2026, https://www.vrt.be/vrtnws/nl/)
 ---
 
 ## 🇳🇱 Nederland
-- **Minderheidskabinet-Jetten draait op volle toeren ondanks krappe meerderheid** Het kabinet van premier **Rob Jetten** (D66), de jongste en eerste openlijk homoseksuele premier van Nederland, regeert sinds **23 februari 2026** met een coalitie van **D66, VVD en CDA** die slechts **66 van de 150 zetels** bezit. Na de val van het vorige kabinet-Schoof kampt het minderheidskabinet met beleidsonzekerheid rond het **overbelaste stroomnet**, de **woningnood** en de **stikstofimpasse**. (DutchNews/Friedrich Naumann Stiftung, juli 2026, https://www.freiheit.org/europe/dutch-liberal-gamble-d66-and-vvd-revitalize-dutch-politics-and-european-cooperation)
+- **Apple beschuldigt OpenAI van stelen bedrijfsgeheimen en spant rechtszaak aan** **Apple** heeft een rechtszaak aangespannen tegen **OpenAI** wegens het aanmoedigen van Apple-medewerkers om vertrouwelijke informatie te delen. De techgigant beschuldigt OpenAI van het systematisch stelen van bedrijfsgeheimen om zijn eigen AI-producten te verbeteren. (NOS, 11 juli 2026, https://nos.nl/artikel/2622565-apple-beschuldigt-openai-van-stelen-bedrijfsgeheimen-spant-rechtszaak-aan)
 ---
 
 ## 🇹🇷 Turkije
-- **Erdogan ontvangt wereldleiders voor NAVO-top in Ankara; Trump steunt mogelijke F-35-deal** President **Erdogan** ontving onder meer de Canadese premier **Mark Carney** en VS-president **Donald Trump** voor de tweedaagse **NAVO-top in Ankara** op 7-8 juli. Trump zou bereid zijn Turkije's toegang tot het **F-35-programma** te herstellen, nadat het land in 2020 werd uitgesloten vanwege de aankoop van het Russische **S-400-luchtafweersysteem**. Bondgenoten kondigden een initiatief van **$40 miljard** aan voor drone-verdediging. (Daily Sabah, 7 juli 2026, https://www.dailysabah.com/politics/diplomacy/erdogan-holds-talks-with-canadian-pm-ahead-of-nato-summit)
+- **Centrale Bank houdt vast aan strak monetair beleid voor desinflatie** De gouverneur van de **Turkse Centrale Bank** verklaarde dat het krappe monetaire beleid wordt voortgezet om de **desinflatie** te ondersteunen. De bank blijft bij restrictieve maatregelen om de inflatie verder onder controle te brengen. (Hürriyet Daily News, 11 juli 2026, https://www.hurriyetdailynews.com/central-bank-governor-says-tight-policy-to-support-disinflation-224241)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Frankrijk verlaagt groeiprognose 2026 naar 0,7% door begrotingsvertraging en Iran-conflict** Minister van Financien **Roland Lescure** verlaagde de groeiverwachting van Frankrijk voor 2026 naar **0,7%**, gedrukt door een vertraagde begroting en het conflict in het Midden-Oosten. De inflatie daalde verrassend naar **1,8%** in juni dankzij lagere energieprijzen, maar de overheidsschuld en het begrotingstekort blijven zorgwekkend onder premier **Sebastien Lecornu**. (Bloomberg, 7 juli 2026, https://www.bloomberg.com/news/articles/2026-07-07/france-cuts-2026-gdp-forecast-due-to-budget-delay-iran-conflict)
+- **Derde hittegolf in twee maanden: 24 departementen op code rood** Frankrijk kampt met de **derde hittegolf** in twee maanden, met temperaturen tot **40°C** en **24 departementen** op code rood. De Eiffeltoren sluit vanwege de extreme hitte; in de Yvelines zijn vuurwerk, sportevenementen en grote bijeenkomsten verboden tot 15 juli. (Sortiraparis, 11 juli 2026, https://www.sortiraparis.com/en/news/in-paris/articles/347787-what-to-do-in-paris-on-saturday-july-11-2026-today-s-outings-and-events)
 ---
 
 ## 🇩🇪 Duitsland
-- **Coalitie-Merz onthult hervormingspakket van EUR 10 miljard belastingverlaging** Bondskanselier **Friedrich Merz** presenteerde het "Programma voor Herstel en Werkgelegenheid" met **34 maatregelen**, waaronder **EUR 10 miljard** jaarlijkse inkomstenbelastingverlaging voor lage en middeninkomens vanaf januari 2027. Het pakket omvat ook pensioenhervorming, strengere ziekteverzuimregels en minder bureaucratie. Deutsche Bank-econoom **Marion Muehlberger** noemde het "een van de grootste hervormingspakketten in decennia." (Al Jazeera, 2 juli 2026, https://www.aljazeera.com/news/2026/7/2/german-coalition-agrees-on-sweeping-reform-package-in-key-breakthrough)
+- **Warken krijgt zorgbezuinigingspakket door Bundestag en Bundesrat** Gezondheidsminister **Nina Warken** (CDU) loodste haar omstreden **zorghervorming** door zowel de Bundestag als de Bundesrat. De zwart-rode coalitie deed last-minute concessies aan de deelstaten om het pakket erdoor te krijgen. (Handelsblatt, 11 juli 2026, https://www.handelsblatt.com/politik/deutschland/gesundheitsreform-warken-bringt-sparpaket-durch-bundestag-und-bundesrat/100239272.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Hotels verplicht Kremlin-app Max te gebruiken voor check-ins van gasten** Russische hotels met meer dan **50 kamers** moeten voor **1 september 2026** overstappen op de staatsgestuurde messenger-app **Max** voor het inchecken van gasten, aldus minister van Economische Ontwikkeling **Maxim Reshetnikov**. Max werd in het voorjaar van 2025 gelanceerd als een door het Kremlin goedgekeurd alternatief voor **WhatsApp** en **Telegram**, en wordt nu steeds verder verplicht in het dagelijks leven. (The Moscow Times, 7 juli 2026, https://www.themoscowtimes.com/2026/07/07/russian-hotels-ordered-to-use-state-messenger-max-for-guest-check-ins-a93183)
+- **BMW waarschuwt voor ongeautoriseerde productie van 'gepirateerde' auto's in Rusland** **BMW** meldde dat voormalig Russisch partner **Avtotor** zonder toestemming voertuigen produceert in de fabriek in **Kaliningrad**. De autofabrikant sprak van piraterij en schending van intellectueel eigendom na het terugtrekken uit de Russische markt. (The Moscow Times, 11 juli 2026, https://www.themoscowtimes.com/2026/07/11/bmw-warns-of-unauthorized-production-of-pirated-cars-in-russia-a93223)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Labour-leiderschapsverkiezing begint na aftreden premier Starmer** Premier **Keir Starmer** trad op **22 juni** af als Labour-leider en premier na instortende peilingen en de opkomst van **Reform UK**. Nominaties openen op **9 juli**; oud-burgemeester van Manchester **Andy Burnham** won een tussentijdse verkiezing en stelt zich kandidaat. De Britse dienstensector kromp naar **PMI 48,8** in juni, het sterkste verlies sinds 2023, gedrukt door het **Iran-conflict** en een hittegolf. (Wikipedia/CPA, juli 2026, https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_election_(UK))
+- **Andy Burnham staat op het punt premier te worden na vertrek Starmer** **Andy Burnham** verzekerde zich van de steun van **322 van 403** Labour-parlementsleden en wordt naar verwachting op **20 juli** officieel premier. Zijn concrete beleidsplannen blijven onduidelijk, slechts **10 dagen** voor zijn verwachte aantreden. (Bloomberg, 11 juli 2026, https://www.bloomberg.com/news/articles/2026-07-11/burnham-s-grip-on-no-10-is-firm-but-his-plans-are-not)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Hooggerechtshof verbiedt Trumps IEEPA-tarieven; handelsoorlog gaat door via alternatieve wetten** Het Supreme Court oordeelde in februari met **6-3** dat de **IEEPA-wet** de president niet machtigt tot het opleggen van brede tarieven. Trump reageerde binnen uren met nieuwe **10%-tarieven** onder Section 122 van de Trade Act, die een federale rechtbank in mei eveneens **onwettig** verklaarde. De effectieve tariefdruk steeg van **2,1%** naar **11,7%** en de Fed overweegt nu renteverhogingen na een inflatiestijging naar **3,8%**. (CFR/Brookings, juli 2026, https://www.cfr.org/articles/the-supreme-court-clipped-trumps-tariff-powers-and-opened-new-trade-battle-fronts)
+- **Trump verklaart staakt-het-vuren met Iran 'voorbij' na nieuwe aanvallen** President **Trump** zei op de **NAVO-top** in Ankara dat het bestand met Iran voorbij is, nadat Iran drie commerciële schepen in de **Straat van Hormuz** aanviel. De VS voerden vergeldingsaanvallen uit op Iraanse doelen; Iran reageerde met raketten op **Koeweit en Bahrein** waar Amerikaanse bases liggen. (NPR, 11 juli 2026, https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference)
 ---
 
 ## 🇮🇳 India
-- **India zet in op biofarma en productie met recordbudget van meer dan INR 1 lakh crore voor gezondheidszorg** Minister van Financien **Nirmala Sitharaman** presenteerde haar negende begroting op rij, met een recordallocatie van meer dan **INR 1 lakh crore** (circa USD 12 miljard) voor de gezondheidszector. Het nieuwe **Biopharma SHAKTI-programma** krijgt **INR 10.000 crore** over vijf jaar. De economie groeide **7,7%** in FY26; voor FY27 wordt **6,8-7,2%** verwacht. (Invest India/KPMG, februari-juli 2026, https://www.investindia.gov.in/team-india-blogs/indias-union-budget-fy-2026-27-key-highlights)
+- **Modi bezoekt Nieuw-Zeeland: eerste Indiase premier in vier decennia** Premier **Narendra Modi** bracht een historisch bezoek aan **Nieuw-Zeeland**, het eerste van een Indiase premier in **40 jaar**. Beide landen ondertekenden een strategisch partnerschap en een vrijhandelsakkoord met als doel de bilaterale handel te verhogen naar **7 miljard NZD** (ca. ₹35.000 crore) tegen 2030. (India TV News, 11 juli 2026, https://www.indiatvnews.com/news/world/trade-trust-and-security-what-are-pm-modi-s-10-major-decisions-during-visit-to-new-zealand-2026-07-11-1047899)
 ---
 
 ## 🇨🇳 China
-- **Export van Chinese graafmachines stijgt 33% in eerste helft 2026 door omslag naar elektrisch** De Chinese export van graafmachines steeg met **33%** in de eerste zes maanden van 2026, aangedreven door de verschuiving naar **elektrisch aangedreven** machines. Tegelijkertijd publiceerde het SCMP dat China het potentieel heeft om **'s werelds grootste consumentenmarkt** te worden dankzij de transitie naar een diensteneconomie. Een voormalige topambtenaar, **Yang Youlin**, kreeg de **doodstraf** voor het aannemen van **2,214 miljard yuan** (USD 323 miljoen) aan smeergeld. (SCMP, 7 juli 2026, https://www.scmp.com/economy/china-economy)
+- **Volkswagen-leveringen in China dalen 26% naar laagste punt sinds 2010** De leveringen van **Volkswagen** in China kelderden met **26%** op jaarbasis, het laagste volume in meer dan **16 jaar**. De Europese autofabrikant verliest steeds meer marktaandeel aan binnenlandse EV-producenten in de snel veranderende Chinese automarkt. (SCMP, 11 juli 2026, https://www.scmp.com/business/china-business/article/3360214/volkswagen-china-deliveries-see-26-drop-year-year-lowest-point-2010)
 ---
 
 ## 🇯🇵 Japan
-- **Japan niet bezig rente laag te houden, zegt minister; banken verwachten recordwinst** Minister van Economisch Beleid **Kiuchi** benadrukte op 7 juli dat de regering **niet aanstuurt op lage rentes**, ondanks speculatie dat premier **Sanae Takaichi** de Bank of Japan onder druk zet. Japan's grootste banken, waaronder **MUFG**, voorspellen opnieuw **recordwinsten** nu de rente stijgt. Japan gebruikte meer dan **9 biljoen yen** voor valuta-interventies tussen januari en juli, een record. (Japan Times, 7 juli 2026, https://www.japantimes.co.jp/business/2026/07/07/economy/kiuchi-interest-reports-accuracy/)
+- **Japans ruimteagentschap voert succesvolle test uit met herbruikbare raket** Het Japanse ruimteagentschap **JAXA** voltooide een geslaagde testvlucht met een **herbruikbare raket**, een mijlpaal in de ontwikkeling van eigen lanceercapaciteit. De test vermindert Japans afhankelijkheid van internationale partners voor toegang tot de ruimte en toont technologische vooruitgang in de luchtvaart- en ruimtevaartsector. (Nikkei Asia, 11 juli 2026, https://asia.nikkei.com/business/aerospace-defense-industries/japan-space-agency-conducts-successful-reusable-rocket-test-flight)
 ---
 
 ---
 ## 📊 Marktoverzicht
 
-| Instrument | Koers | Δ |
+| Instrument | Koers | Dagverandering |
 |---|---|---|
-| Bitcoin (BTC) | $64.341 | +2,7% (week) |
-| Ethereum (ETH) | $1.796 | +3,2% (week) |
-| Goud | $4.111/oz | −0,3% |
-| Brent | $76,80/vat | −3,1% |
-| EUR/USD | 1,1441 | +0,1% |
-| S&P 500 | 7.543,64 | +0,8% |
-| AEX | 1.083,57 | +0,3% |
-| DAX | 25.184 | +0,3% |
-| Nikkei 225 | 68.557 | +1,2% |
+| Bitcoin (BTC) | $64.374 | +0,50% |
+| Ethereum (ETH) | $1.822 | +1,73% |
+| Goud (XAU) | ~$3.770/oz | — |
+| Brent Crude | $75,48 | — |
+| EUR/USD | 1,1418 | — |
+| S&P 500 | 7.575 | +0,42% |
+| AEX | 1.084 | +0,08% |
+| DAX | 25.067 | −0,13% |
+| Nikkei 225 | 68.558 | +1,58% |
 
 ---
 ## 🔗 De Grote Lijnen
 
-Defensie domineert het nieuws: België, Turkije en India tekenen grote wapendeals terwijl de NAVO-top in Ankara als katalysator werkt — het Nasam-akkoord verbindt Den Haag en Brussel, terwijl Ankaras Aselsan en Delhi's nucleaire deal met Canberra laten zien dat herbewapening een mondiale trend is die industriebeleid en beurzen stuurt. Tegelijk kantelt het politieke landschap in Europa: Starmers val in Londen, Le Pens juridische maar niet politieke nederlaag in Parijs en Berlijn dat spaart op gezondheidszorg weerspiegelen kiezersonvrede over koopkracht en institutioneel vertrouwen. China's succesvolle boosterlanding op zee en Amerika's chipsubsidies van $250 mrd markeren een nieuwe fase in de technologiewedloop, terwijl dalende olieprijzen (Brent −3%) en stabiel goud ($4.111) erop wijzen dat markten geopolitieke risico's voorlopig verdisconteren. Ruslands krimpende groei (0,2%) en naderende Doema-verkiezingen vormen het spiegelbeeld: waar het Westen investeert, worstelt Moskou met de economische gevolgen van de oorlog.
+De escalatie tussen de VS en Iran domineert het wereldtoneel: Trumps verklaring dat het staakt-het-vuren "voorbij" is en de aanvallen op schepen in de Straat van Hormuz jagen de olieprijs op en raken de wereldhandel. Europa worstelt ondertussen met binnenlandse uitdagingen — Frankrijk zucht onder een derde hittegolf in twee maanden terwijl Duitsland een omstreden zorgbezuinigingspakket door het parlement loodst, en het VK zich opmaakt voor een machtswisseling naar Andy Burnham. Op het vlak van technologie en industrie tekent zich een patroon af: Apple klaagt OpenAI aan voor diefstal van bedrijfsgeheimen in Nederland, BMW ontdekt gepirateerde productie in Rusland, en Volkswagen verliest dramatisch terrein in China aan lokale EV-makers — westerse bedrijven worden op meerdere fronten uitgedaagd. Azië biedt een contrasterend beeld met India dat historische handelsakkoorden sluit met Nieuw-Zeeland en Japan dat succesvolle tests doet met herbruikbare raketten, terwijl de Nikkei stevig stijgt.
 
 ---
-*Samengesteld op 10 juli 2026 — bronnen: Reuters, Bloomberg, NOS, VRT, France24, SCMP, Japan Times*
+*Samengesteld op 11 juli 2026 — bronnen: Reuters, Bloomberg, NOS, VRT, NPR, SCMP, Nikkei Asia*
