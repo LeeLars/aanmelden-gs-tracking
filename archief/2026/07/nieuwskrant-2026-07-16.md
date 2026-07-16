@@ -71,7 +71,3 @@ Economische onzekerheid en koopkrachtdruk vormen een rode draad door Europa: in 
 Geopolitiek verschuiven de handelslijnen zichtbaar: Duitsland exporteert voor bijna 14 miljard euro aan wapens (vooral naar Oekraine), terwijl India inmiddels meer dan 40% van zijn olie uit Rusland betrekt en de China-VS-handel juist groeit met bijna 14%. De economische blokvorming die velen voorspelden, maakt in de praktijk plaats voor pragmatisch handeldrijven over geopolitieke scheidslijnen heen.
 
 Op de markten heerst nervositeit: de Nikkei verloor bijna 3% en chipsectoren trokken de Nasdaq omlaag na twijfels over AI-investeringstempo, terwijl de AEX als positieve uitschieter 0,9% won. De cyberaanval op Japans Nichirei, die KFC-restaurants dreigt plat te leggen, illustreert hoe kwetsbaar mondiale toeleveringsketens blijven voor digitale dreigingen.
-
----
-
-*Samengesteld op 2026-07-16 UTC*
