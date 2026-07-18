@@ -1,72 +1,45 @@
-# MIJN NIEUWSKRANT
-### Vrijdag 17 juli 2026
----
-# Nieuwsoverzicht 2026-07-16
+# Nieuwsoverzicht 2026-07-18
 
-## :belgium: Belgie
-- **Chinese automerken en Vlaamse subsidies na Volvo-deal** Na de overname van de Volvo-fabriek in Gent onderzoeken **Chinese autofabrikanten** mogelijkheden om met **Vlaamse subsidies** de Belgische auto-industrie nieuw leven in te blazen. De vraag is of publieke steun aan buitenlandse spelers de sector duurzaam kan redden. (VRT NWS, 16 jul 2026, https://www.vrt.be/vrtnws/nl/2026/07/16/volvo-gent-subsidies-chinese-automerken-impact/)
+## 🇧🇪 België
+- **De Wever op NATO-top: steun voor Oekraïne, 'rode kaart voor Rusland'** Premier **Bart De Wever** benadrukte op de NAVO-top in Ankara de steun voor Oekraïne en gaf Rusland een "rode kaart". Minister van Buitenlandse Zaken **Maxime Prévot** waarschuwde dat praten over normalisering van relaties met Rusland een teken van zwakte is. (VRT NWS, 8 juli 2026, https://www.vrt.be/vrtnws/en/2026/07/08/pm-de-wever-at-nato-summit-focus-on-support-for-ukraine-red-ca/)
 ---
 
-## :netherlands: Nederland
-- **Cryptoplatform Knaken failliet: 7 miljoen euro kwijt** De rechtbank Rotterdam heeft cryptoplatform **Knaken** failliet verklaard op verzoek van het **Openbaar Ministerie**. Ongeveer **7 miljoen euro** aan klantgelden is verdwenen. (NOS, 16 jul 2026, https://nos.nl/artikel/2623199-cryptoplatform-knaken-failliet-7-miljoen-euro-van-klanten-is-zoek)
+## 🇳🇱 Nederland
+- **Huishoudens die slimme meter weigeren riskeren boetes tot €1.650** De **Rijksinspectie Digitale Infrastructuur** kan boetes opleggen aan huishoudens die weigeren hun analoge meter te vervangen. Huishoudens met zonnepanelen riskeren tot **€1.650**, zonder zonnepanelen tot **€300**. Netbeheerders sturen vanaf 2026 brieven met een termijn van zes weken. (NL Times, 18 juli 2026, https://nltimes.nl/2026/07/18/dutch-households-refusing-smart-meters-face-fines-eu1650)
 ---
 
-## :tr: Turkije
-- **Turkije installeert scheepsmonitoringsysteem voor Turks-Cypriotische belangen** Minister van Transport **Abdulkadir Uraloglu** kondigde de installatie aan van een nieuw maritiem bewakingssysteem ter bescherming van Turks-Cypriotische belangen. Het systeem versterkt de monitoring in betwiste wateren rond Cyprus. (Daily Sabah, 16 jul 2026, https://www.dailysabah.com/business/transportation/turkiye-installs-ship-monitoring-system-to-protect-turkish-cypriot-interests)
+## 🇹🇷 Turkije
+- **Erdoğan: NATO-top in Ankara versterkte internationale zichtbaarheid** President **Erdoğan** noemde de NAVO-top van **7-8 juli** in Ankara een historisch succes. NATO besloot een **Counter-Unmanned Systems Centre of Excellence** in Konya te vestigen. Erdoğan sprak de ambitie uit de bilaterale handel met de VS naar **$100 miljard** te brengen. (Daily Sabah, 13 juli 2026, https://www.dailysabah.com/politics/diplomacy/ankara-boosted-its-visibility-by-hosting-historic-nato-summit-erdogan)
 ---
 
-## :fr: Frankrijk
-- **Macron kondigt 'zero tolerance' aan voor brandstichting** President **Emmanuel Macron** heeft strenge handhaving aangekondigd tegen brandstichting na een golf van branden tijdens de huidige **hittegolf en droogte** in meerdere departementen. De maatregelen zijn gericht op het bestrijden van opzettelijk aangestoken bosbranden. (The Local France, 16 jul 2026, https://www.thelocal.fr/20260716/macron-pledges-zero-tolerance-for-arson-after-spate-of-fires-in-france)
+## 🇫🇷 Frankrijk
+- **Duitsland neemt deel aan Franse nucleaire militaire oefening** Frankrijk en Duitsland verdiepen hun defensiesamenwerking: Duitse troepen nemen dit jaar voor het eerst deel aan een **Franse nucleaire militaire oefening**. De stap onderstreept de groeiende Europese defensie-integratie na de NAVO-top en de aanhoudende dreiging uit Rusland. (France 24, 17 juli 2026, https://www.france24.com/en/europe/20260717-germany-join-french-military-nuclear-exercise-bid-boost-defence-cooperation)
 ---
 
-## :de: Duitsland
-- **Uber neemt Delivery Hero over voor 12,7 miljard euro** **Uber** heeft de Duitse bezorgdienst **Delivery Hero** overgenomen voor **EUR 12,7 miljard**. De deal betekent een grote consolidatie in de Europese food-delivery- en logistieke sector en versterkt Ubers positie op het continent. (The Local Germany, 16 jul 2026, https://www.thelocal.de/20260716/uber-buys-germanys-delivery-hero-for-e12-7-billion)
+## 🇩🇪 Duitsland
+- **Helsing haalt $1,8 miljard op en wordt Europa's waardevolste defensie-startup** Het Münchense AI-defensiebedrijf **Helsing** haalde in een Series E-ronde **$1,8 miljard** op, waardoor de waardering steeg naar **$18 miljard**. Investeerders zijn onder meer **JPMorgan Chase** en **Lightspeed Venture Partners**. Helsing maakt de HX-2 aanvalsdrone en de AI-gevechtssoftware Altra. (Handelsblatt, 13 juli 2026, https://www.handelsblatt.com/unternehmen/start-ups/ruestung-helsing-sammelt-rekordsumme-von-18-milliarden-dollar-ein/100239633.html)
 ---
 
-## :ru: Rusland
-- **Aandeel Gazprom zakt naar historisch dieptepunt** Het aandeel **Gazprom** daalde meer dan **5%** tot **83,98 roebel**, onder het eerdere record van 84 roebel. De koersval weerspiegelt de aanhoudende problemen van de Russische energiesector onder sancties en geopolitieke druk. (The Moscow Times, 16 jul 2026, https://www.themoscowtimes.com/2026/07/16/gazproms-shares-sink-to-record-low-a93266)
+## 🇷🇺 Rusland
+- **Russische oorlogsschulden dreigen bankencrisis te veroorzaken** Bedrijfsschulden stegen met **93%** sinds 2021, huishoudschulden met **57%**. Een record van **636.000 Russen** ging in 2025 failliet (+30%). Naar schatting is **10% van de bedrijfsleningen** — circa **12 biljoen roebel ($153,6 miljard)** — van twijfelachtige kwaliteit. (The Moscow Times, 17 juli 2026, https://www.themoscowtimes.com/2026/07/17/could-russias-wartime-debt-boom-trigger-a-banking-crisis-a93271)
 ---
 
-## :gb: VK
-- **Britse regering nationaliseert British Steel** De Britse overheid heeft **British Steel** genationaliseerd, een ingrijpende interventie in de industriele sector. De stap markeert een beleidsomslag naar meer **staatsdeelname in de maakindustrie** en pakt jarenlange problemen in de staalsector aan. (City A.M., 16 jul 2026, https://www.cityam.com/government-nationalises-british-steel/)
+## 🇬🇧 VK
+- **Andy Burnham bevestigd als Labour-leider, wordt maandag premier** **Andy Burnham**, voormalig burgemeester van Manchester, werd op 17 juli gekozen tot Labour-leider met steun van **379 van de 403** Labour-parlementsleden. Hij vervangt **Keir Starmer** en wordt de **zevende premier** in tien jaar. Burnham beloofde "hoop in elk hart en groei in elke postcode". (Al Jazeera, 17 juli 2026, https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm)
 ---
 
-## :us: VS
-- **Bevestigingshoorzitting Todd Blanche als minister van Justitie** Waarnemend minister van Justitie **Todd Blanche** werd kritisch ondervraagd tijdens zijn Senaatshoorzitting. Een **Epstein-overlevende** en een ontslagen gratieambtenaar getuigden over Blanches kwalificaties en mogelijke belangenverstrengeling. (PBS NewsHour, 16 jul 2026, https://www.pbs.org/newshour/politics/watch-live-epstein-survivor-fired-doj-pardon-attorney-testify-at-blanche-confirmation-hearing)
+## 🇺🇸 VS
+- **Trump zaait twijfel over verkiezingsintegriteit in primetime toespraak** President **Trump** herhaalde in een toespraak vanuit het Witte Huis onbewezen claims over verkiezingsfraude in 2020 en trok de integriteit van de **midterms van november 2026** in twijfel. De Republikeinen bouwden een oorlogskas van **$1,1 miljard** op, meer dan drie keer het bedrag van de Democraten. (Bloomberg, 17 juli 2026, https://www.bloomberg.com/news/articles/2026-07-17/trump-stokes-doubts-on-us-election-security-in-combative-speech)
 ---
 
-## :india: India
-- **NMC stelt 137.000 MBBS-plaatsen beschikbaar** De **National Medical Commission** heeft **137.000 MBBS-plaatsen** genotificeerd, een forse uitbreiding van de medische opleidingscapaciteit. De maatregel moet het chronische **artsentekort** in India aanpakken en de gezondheidszorg toegankelijker maken. (Business Standard, 16 jul 2026, https://www.business-standard.com/india-news/nmc-mbbs-seats-india-doctor-shortage-medical-education-126071600861_1.html)
+## 🇮🇳 India
+- **Skyroot's Vikram-1 bereikt baan om aarde als eerste Indiase privéraket** **Skyroot Aerospace** lanceerde de **Vikram-1** succesvol vanuit Sriharikota, waarmee India het derde land werd met private orbitale lanceercapaciteit. De **22 meter hoge** raket bracht **zes commerciële satellieten** in een lage aardbaan. De missie heet "Aagaman" (Sanskriet voor "aankomst"). (Space.com, 18 juli 2026, https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1)
 ---
 
-## :cn: China
-- **Xi Jinping ontmoet Kazachse president in Shanghai** President **Xi Jinping** ontving de Kazachse president **Kassym-Jomart Tokayev** in **Shanghai** voor bilateraal overleg. De ontmoeting onderstreept de diplomatieke banden tussen beide landen in het kader van de Belt and Road-samenwerking. (Global Times, 16 jul 2026, https://www.globaltimes.cn/page/202607/1366103.shtml)
+## 🇨🇳 China
+- **Xi Jinping lanceert AI-samenwerkingsorganisatie op World AI Conference** President **Xi Jinping** sprak voor het eerst persoonlijk op de **World AI Conference** in Shanghai en riep op tot mondiale AI-samenwerking. **29 landen** ondertekenden een akkoord voor een **World Artificial Intelligence Cooperation Organization** met hoofdkwartier in Shanghai. Xi beloofde **30 landen** toegang tot een Chinees AI-meteorologisch waarschuwingssysteem. (SCMP, 17 juli 2026, https://www.scmp.com/tech/tech-war/article/3360870/top-takeaways-xi-jinpings-opening-address-world-ai-conference-shanghai)
 ---
 
-## :jp: Japan
-- **Prada-ontwerper geeft zustermerk Uniqlo een make-over** **GU**, het zustermerk van **Uniqlo** (Fast Retailing), heeft een ontwerper met **Prada-ervaring** aangesteld om de herfst/wintercollectie 2026 te vernieuwen. De strategische zet moet GU hoger positioneren in de modesector. (Nikkei Asia, 16 jul 2026, https://www.nikkei.com/business/retail/prada-experienced-designer-revamps-uniqlo-s-sister-brand)
----
-
----
-
-## 📊 Marktoverzicht
-
-| Instrument | Koers | Dagverandering |
-|---|---|---|
-| Bitcoin (BTC) | $63.208 | -2,32% |
-| Ethereum (ETH) | $1.820 | -3,51% |
-| Goud | $4.018,72/oz | +0,67% |
-| Brent olie | $86,48/vat | +2,67% |
-| EUR/USD | 1,1441 | ~ |
-| S&P 500 | 7.482,75 | -0,68% |
-| AEX | 1.089,59 | -1,16% |
-| DAX | 24.777,66 | -0,53% |
-| Nikkei 225 | 64.141,12 | -3,88% |
-
----
-
-## 🔗 De Grote Lijnen
-
-Het conflict tussen de VS en Iran domineert vandaag alle markten: de olieprijzen schieten omhoog (+2,67%) terwijl Nederland kampt met gasreserves van slechts 33% — een dubbele kwetsbaarheid voor Europese energiezekerheid. Tegelijk trekt een wereldwijde tech-uitverkoop een spoor van Tokio (-3,88%) via Frankfurt en Amsterdam naar Wall Street, waarbij de Nikkei zelfs correctiegebied betreedt. Politiek verschuift de aarde onder de voeten: in het VK neemt Burnham het stokje over van Starmer, Turkije host de NAVO-top, en in Washington blokkeren Republikeinse dissidenten hun eigen partij. China's groeivertraging naar 4,3% in Q2 en Ruslands stagflatie (0,2% groei, oplopende inflatie) tonen dat de twee grote niet-westerse economieën onder druk staan — zij het om heel verschillende redenen. De tegenbeweging is er ook: India's handelsverdrag met het VK, Japans ¥1 biljoen AI-investering en Duitslands voorzichtige opening naar de Unicredit-deal laten zien dat landen zich actief herpositioneren in een verschuivend geopolitiek landschap.
-
+## 🇯🇵 Japan
+- **Minister van Financiën dringt aan op binnenlandse investeringen door pensioenfondsen** Minister **Satsuki Katayama** riep het **GPIF** (¥293,6 biljoen / $1,81 biljoen aan activa) op meer in Japanse activa te investeren om de yen te stutten. **Société Générale** schat dat GPIF voor **¥12,3 biljoen ($76 miljard)** aan extra staatsobligaties kan kopen binnen de huidige allocatie. Herhaalde valuta-interventies — een record van **$73,6 miljard** in één maand — konden de yenverzwakking niet stoppen. (Japan Times, 14 juli 2026, https://www.japantimes.co.jp/business/2026/07/14/economy/japan-finance-minister-gpif-portfolio-review/)
 ---
