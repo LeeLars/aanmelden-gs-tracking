@@ -50,28 +50,27 @@
 
 ## Marktoverzicht
 
-| Instrument | Koers | Verandering |
-|---|---|---|
+| Markt | Koers | Verandering |
+|-------|-------|-------------|
 | Bitcoin (BTC) | $64.376 | +0,4% |
 | Ethereum (ETH) | $1.866 | +0,8% |
-| Goud | $4.017/oz | +1,0% |
-| Brent | $88,10/vat | +4,6% |
-| EUR/USD | 1,1446 | -0,1% |
+| Goud | ~€113/gram | -0,5% |
+| Brent olie | $88,10/vat | +4,6% |
+| EUR/USD | 1,1446 | |
 | S&P 500 | 7.458 | -1,0% |
 | AEX | 1.093 | -0,9% |
 | DAX | 24.831 | -0,3% |
-| Nikkei 225 | 64.141 | -4,0% |
+| Nikkei | 64.141 | -4,0% |
 
-*Koersen per sluiting 18 juli 2026.*
 ---
 
 ## De Grote Lijnen
 
-Geopolitieke spanningen stuwen de oliemarkt: Brent steeg deze week met 14% tot boven de $88 na Iraanse aanvallen op Amerikaanse doelen in het Midden-Oosten en Amerikaanse vergeldingsacties tegen Iraanse militaire installaties. De escalatie drukt zwaar op aandelenmarkten wereldwijd -- de Nikkei verloor 4%, de S&P 500 ruim 1%, terwijl goud door de $4.000-grens schoot als vlucht naar veiligheid.
+Geopolitieke spanningen stuwen de oliemarkt: Brent steeg deze week met 14% tot boven de $88 na Iraanse aanvallen op Amerikaanse doelen in het Midden-Oosten en Amerikaanse vergeldingsacties tegen Iraanse militaire installaties. De escalatie drukt zwaar op aandelenmarkten wereldwijd -- de Nikkei verloor 4%, de S&P 500 ruim 1%.
 
 Overheden grijpen steeds actiever in de markt in: het VK nationaliseert British Steel, Belgie lokt Chinese autofabrikanten met Vlaamse subsidies naar de Volvo-fabriek, en Uber consolideert de Europese bezorgsector met een overname van EUR 12,7 miljard. De lijn tussen markt en staat vervaagt verder in een tijdperk van industriepolitiek.
 
-Ondertussen blijft de energiesector een spiegel van geopolitieke machtsblokken: Gazprom zakt naar een historisch dieptepunt onder sanctiedruk, terwijl stijgende olieprijzen de wereldhandel onder druk zetten. De diplomatieke ontmoeting tussen Xi en Tokayev in Shanghai past in het patroon van verschuivende allianties langs energie- en handelslijnen, terwijl Europa met defensiesamenwerking en industriesteun probeert de eigen weerbaarheid te vergroten.
+Ondertussen blijft de energiesector een spiegel van geopolitieke machtsblokken: Gazprom zakt naar een historisch dieptepunt onder sanctiedruk, terwijl stijgende olieprijzen de landen die buiten westerse sancties vallen -- India, China -- juist duurder uitkomen. De diplomatieke ontmoeting tussen Xi en Tokayev in Shanghai past in dit patroon van verschuivende allianties langs energie- en handelslijnen.
 
 ---
 
