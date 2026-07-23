@@ -1,77 +1,45 @@
-# MIJN NIEUWSKRANT
-### Zondag 19 juli 2026
----
+# Nieuwsoverzicht 2026-07-23
 
-# Nieuwsoverzicht 2026-07-16
-
-## 🇧🇪 Belgie
-- **Chinese automerken en Vlaamse subsidies na Volvo-deal** Na de overname van de Volvo-fabriek in Gent onderzoeken **Chinese autofabrikanten** mogelijkheden om met **Vlaamse subsidies** de Belgische auto-industrie nieuw leven in te blazen. De vraag is of publieke steun aan buitenlandse spelers de sector duurzaam kan redden. (VRT NWS, 16 jul 2026, https://www.vrt.be/vrtnws/nl/2026/07/16/volvo-gent-subsidies-chinese-automerken-impact/)
+## 🇧🇪 België
+- **Europese Commissie legt Google boete op van €890 miljoen** De Europese Commissie heeft Google een boete van **€890 miljoen** opgelegd wegens het voortrekken van eigen diensten boven concurrenten. Het is de eerste handhavingsactie onder de **Digital Markets Act** en treft het zoek- en advertentieplatform van de techgigant. (VRT NWS, 23 jul 2026, https://www.vrtnws.be/vrtnws/nl/2026/07/23/europese-commissie-legt-google-boete-op-van-890-miljoen-euro/)
 ---
 
 ## 🇳🇱 Nederland
-- **Cryptoplatform Knaken failliet: 7 miljoen euro kwijt** De rechtbank Rotterdam heeft cryptoplatform **Knaken** failliet verklaard op verzoek van het **Openbaar Ministerie**. Ongeveer **7 miljoen euro** aan klantgelden is verdwenen. (NOS, 16 jul 2026, https://nos.nl/artikel/2623199-cryptoplatform-knaken-failliet-7-miljoen-euro-van-klanten-is-zoek)
+- **Bijna 900 miljoen aan EU-boetes voor Google vanwege voortrekken eigen diensten** De EU legde Google een boete op van bijna **€900 miljoen** voor het oneerlijk bevoordelen van eigen diensten in zoekresultaten. De zaak richt zich op **mededingingspraktijken** waarbij Google zijn eigen producten structureel voorrang gaf boven die van concurrenten. (NOS, 23 jul 2026, https://nos.nl/artikel/2624124-bijna-900-miljoen-aan-eu-boetes-voor-google-vanwege-voortrekken-eigen-diensten)
 ---
 
 ## 🇹🇷 Turkije
-- **Turkije installeert scheepsmonitoringsysteem voor Turks-Cypriotische belangen** Minister van Transport **Abdulkadir Uraloglu** kondigde de installatie aan van een nieuw maritiem bewakingssysteem ter bescherming van Turks-Cypriotische belangen. Het systeem versterkt de monitoring in betwiste wateren rond Cyprus. (Daily Sabah, 16 jul 2026, https://www.dailysabah.com/business/transportation/turkiye-installs-ship-monitoring-system-to-protect-turkish-cypriot-interests)
+- **Turkse centrale bank houdt beleidsrente vast op 37 procent** De **Turkse centrale bank** handhaafde de beleidsrente op **37%**, een signaal van vastberadenheid in de strijd tegen de hoge inflatie. De beslissing weerspiegelt de aanhoudende economische druk door stijgende energieprijzen en regionale geopolitieke spanningen. (Hürriyet Daily News, 23 jul 2026, https://www.hurriyetdailynews.com/turkish-central-bank-keeps-policy-rate-unchanged-at-37-percent-224720)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Macron kondigt 'zero tolerance' aan voor brandstichting** President **Emmanuel Macron** heeft strenge handhaving aangekondigd tegen brandstichting na een golf van branden tijdens de huidige **hittegolf en droogte** in meerdere departementen. De maatregelen zijn gericht op het bestrijden van opzettelijk aangestoken bosbranden. (The Local France, 16 jul 2026, https://www.thelocal.fr/20260716/macron-pledges-zero-tolerance-for-arson-after-spate-of-fires-in-france)
+- **Frankrijk evacueert meer dan 10.000 mensen door bosbrand nabij Bordeaux** Een grote bosbrand nabij **Bordeaux** heeft de Franse autoriteiten gedwongen om meer dan **10.000 inwoners** te evacueren. De nooddiensten zijn grootschalig ingezet terwijl het vuur zich blijft uitbreiden in de regio. (TRT World, 23 jul 2026, https://trtworld.com/article/96715b43a203)
 ---
 
 ## 🇩🇪 Duitsland
-- **Uber neemt Delivery Hero over voor 12,7 miljard euro** **Uber** heeft de Duitse bezorgdienst **Delivery Hero** overgenomen voor **EUR 12,7 miljard**. De deal betekent een grote consolidatie in de Europese food-delivery- en logistieke sector en versterkt Ubers positie op het continent. (The Local Germany, 16 jul 2026, https://www.thelocal.de/20260716/uber-buys-germanys-delivery-hero-for-e12-7-billion)
+- **EU legt Google boete van €890 miljoen op — zorgen over reactie Trump-regering** De Europese Unie heeft Google een boete van **€890 miljoen** opgelegd onder de nieuwe **Digital Markets Act**. De timing wekt zorgen over mogelijke vergeldingsmaatregelen van de **Trump-administratie** tegen Europese handelspartners. (Handelsblatt, 23 jul 2026, https://www.handelsblatt.com/politik/international/tech-konzern-eu-verhaengt-strafe-in-hoehe-von-890-millionen-gegen-google/100242299.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Aandeel Gazprom zakt naar historisch dieptepunt** Het aandeel **Gazprom** daalde meer dan **5%** tot **83,98 roebel**, onder het eerdere record van 84 roebel. De koersval weerspiegelt de aanhoudende problemen van de Russische energiesector onder sancties en geopolitieke druk. (The Moscow Times, 16 jul 2026, https://www.themoscowtimes.com/2026/07/16/gazproms-shares-sink-to-record-low-a93266)
+- **Kremlin verlaagt verkiezingsdoel voor regerende partij nu steun voor Poetin afneemt** Het Kremlin heeft de verkiezingsdoelen voor de regerende partij **naar beneden bijgesteld** nu de populariteit van president **Poetin** daalt. Functionarissen vrezen dat een overweldigende overwinning ongeloofwaardig zou overkomen en de **legitimiteit** van de verkiezingsresultaten zou ondermijnen. (Meduza, 23 jul 2026, https://meduza.io/en/feature/2026/07/23/as-support-for-putin-slips-the-kremlin-lowers-the-ruling-party-s-election-target-amid-fears-a-landslide-victory-would-look-suspicious)
 ---
 
-## 🇬🇧 VK
-- **Britse regering nationaliseert British Steel** De Britse overheid heeft **British Steel** genationaliseerd, een ingrijpende interventie in de industriele sector. De stap markeert een beleidsomslag naar meer **staatsdeelname in de maakindustrie** en pakt jarenlange problemen in de staalsector aan. (City A.M., 16 jul 2026, https://www.cityam.com/government-nationalises-british-steel/)
+## 🇬🇧 Verenigd Koninkrijk
+- **Noordzee-olieveld wordt grote test voor premier Burnham** De nieuwe Britse premier **Burnham** overweegt toestemming te geven voor boringen in de **Noordzee**, een beslissing die interesse wekt bij **Donald Trump** en lokale gemeenschappen verdeelt. Het project zet milieubelangen tegenover economische groei en energieonafhankelijkheid. (Al Jazeera, 23 jul 2026, https://www.aljazeera.com/news/2026/7/23/why-a-north-sea-oilfield-is-emerging-as-british-pm-burnhams-big-test)
 ---
 
-## 🇺🇸 VS
-- **Bevestigingshoorzitting Todd Blanche als minister van Justitie** Waarnemend minister van Justitie **Todd Blanche** werd kritisch ondervraagd tijdens zijn Senaatshoorzitting. Een **Epstein-overlevende** en een ontslagen gratieambtenaar getuigden over Blanches kwalificaties en mogelijke belangenverstrengeling. (PBS NewsHour, 16 jul 2026, https://www.pbs.org/newshour/politics/watch-live-epstein-survivor-fired-doj-pardon-attorney-testify-at-blanche-confirmation-hearing)
+## 🇺🇸 Verenigde Staten
+- **House Judiciary verwijst Jack Smith strafrechtelijk wegens vermeende meineed** Het **House Judiciary Committee** onder voorzitter **Jim Jordan** heeft een strafrechtelijke verwijzing uitgevaardigd tegen voormalig speciaal aanklager **Jack Smith** wegens vermeinde meineed. De stap markeert een escalatie in de politieke spanningen rond de lopende onderzoeken naar de rechtspraak. (ABC News, 23 jul 2026, https://abcnews.com/Politics/house-judiciary-committee-chairman-jim-jordan-issues-criminal/story?id=135006808)
 ---
 
 ## 🇮🇳 India
-- **NMC stelt 137.000 MBBS-plaatsen beschikbaar** De **National Medical Commission** heeft **137.000 MBBS-plaatsen** genotificeerd, een forse uitbreiding van de medische opleidingscapaciteit. De maatregel moet het chronische **artsentekort** in India aanpakken en de gezondheidszorg toegankelijker maken. (Business Standard, 16 jul 2026, https://www.business-standard.com/india-news/nmc-mbbs-seats-india-doctor-shortage-medical-education-126071600861_1.html)
+- **Demonstranten eisen hervormingen: "Onze strijd is het systeem te repareren"** In meerdere Indiase steden kwamen demonstranten op straat met de eis voor **institutionele verantwoording** en **systeemhervormingen**. De protesten richten zich op structurele tekortkomingen in bestuur en overheidsinstanties, niet op incidenten. (Al Jazeera, 23 jul 2026, https://www.aljazeera.com/video/newsfeed/2026/7/23/our-fight-is-to-fix-the-system-india-protesters-demand-accountability)
 ---
 
 ## 🇨🇳 China
-- **Xi Jinping ontmoet Kazachse president in Shanghai** President **Xi Jinping** ontving de Kazachse president **Kassym-Jomart Tokayev** in **Shanghai** voor bilateraal overleg. De ontmoeting onderstreept de diplomatieke banden tussen beide landen in het kader van de Belt and Road-samenwerking. (Global Times, 16 jul 2026, https://www.globaltimes.cn/page/202607/1366103.shtml)
+- **Filipijnen provoceren opnieuw bij Huangyan Dao, brandstoflek vervuilt wateren** Twee Filipijnse overheidsschepen (**MMOV 3012** en **MMOV 3018**) negeerden herhaalde Chinese waarschuwingen bij het betwiste **Huangyan Dao** (Scarborough Shoal), wat leidde tot brandstofvervuiling in het zeegebied. Peking beschuldigt Manila van het escaleren van de spanningen in de **Zuid-Chinese Zee**. (Global Times, 23 jul 2026, https://www.globaltimes.cn/page/202607/1366636.shtml)
 ---
 
 ## 🇯🇵 Japan
-- **Prada-ontwerper geeft zustermerk Uniqlo een make-over** **GU**, het zustermerk van **Uniqlo** (Fast Retailing), heeft een ontwerper met **Prada-ervaring** aangesteld om de herfst/wintercollectie 2026 te vernieuwen. De strategische zet moet GU hoger positioneren in de modesector. (Nikkei Asia, 16 jul 2026, https://www.nikkei.com/business/retail/prada-experienced-designer-revamps-uniqlo-s-sister-brand)
+- **Ministers van Buitenlandse Zaken van Japan en China spreken voor het eerst sinds Taiwan-crisis** De Japanse en Chinese **ministers van Buitenlandse Zaken** voerden hun eerste gesprek sinds de recente spanningen over **Taiwan**. Het overleg markeert een voorzichtige diplomatieke dooi na maanden van frictie over regionale veiligheidskwesties. (Nikkei Asia, 23 jul 2026, https://asia.nikkei.com/politics/international-relations/japan-china-tensions/japan-and-china-foreign-ministers-hold-first-chat-since-taiwan-row)
 ---
-
-## Marktoverzicht
-
-| Markt | Koers | Verandering |
-|-------|-------|-------------|
-| Bitcoin (BTC) | $64.376 | +0,4% |
-| Ethereum (ETH) | $1.866 | +0,8% |
-| Goud | ~€113/gram | -0,5% |
-| Brent olie | $88,10/vat | +4,6% |
-| EUR/USD | 1,1446 | |
-| S&P 500 | 7.458 | -1,0% |
-| AEX | 1.093 | -0,9% |
-| DAX | 24.831 | -0,3% |
-| Nikkei | 64.141 | -4,0% |
-
----
-
-## De Grote Lijnen
-
-Geopolitieke spanningen stuwen de oliemarkt: Brent steeg deze week met 14% tot boven de $88 na Iraanse aanvallen op Amerikaanse doelen in het Midden-Oosten en Amerikaanse vergeldingsacties tegen Iraanse militaire installaties. De escalatie drukt zwaar op aandelenmarkten wereldwijd -- de Nikkei verloor 4%, de S&P 500 ruim 1%.
-
-Overheden grijpen steeds actiever in de markt in: het VK nationaliseert British Steel, Belgie lokt Chinese autofabrikanten met Vlaamse subsidies naar de Volvo-fabriek, en Uber consolideert de Europese bezorgsector met een overname van EUR 12,7 miljard. De lijn tussen markt en staat vervaagt verder in een tijdperk van industriepolitiek.
-
-Ondertussen blijft de energiesector een spiegel van geopolitieke machtsblokken: Gazprom zakt naar een historisch dieptepunt onder sanctiedruk, terwijl stijgende olieprijzen de landen die buiten westerse sancties vallen -- India, China -- juist duurder uitkomen. De diplomatieke ontmoeting tussen Xi en Tokayev in Shanghai past in dit patroon van verschuivende allianties langs energie- en handelslijnen.
-
----
-
-*Samengesteld op 2026-07-19 UTC*
