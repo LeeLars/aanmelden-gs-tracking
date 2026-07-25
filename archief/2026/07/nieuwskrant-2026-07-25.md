@@ -47,7 +47,6 @@
 - **Japanse investeringsgolf in VS trekt Citi en JPMorgan aan** Japanse investeerders hebben financiering veiliggesteld voor een **tweede ronde energieprojecten** in de Verenigde Staten, met steun van **Citibank** en **JPMorgan**. De deal markeert een uitbreiding van Japanse investeringen in de Amerikaanse energie-infrastructuur. (Nikkei Asia, 25-07-2026, https://asia.nikkei.com/business/finance/japanese-investment-drive-in-us-brings-in-citi-and-jpmorgan)
 ---
 
----
 ## 📊 Marktoverzicht
 
 | Markt | Koers |
