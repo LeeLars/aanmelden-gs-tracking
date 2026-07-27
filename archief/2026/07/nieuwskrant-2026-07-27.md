@@ -45,8 +45,6 @@
 - **Japan koopt 27.500 Nvidia Rubin-chips voor soeverein AI-model met 44 bedrijven** De Japanse overheid investeert tot **¥1 biljoen** ($6,1 mld) over vijf jaar in het Noetra-project: een soeverein AI-model gericht op "physical AI" (robots, zelfrijdende auto's). **44 bedrijven** waaronder **SoftBank, Sony, Honda en NEC** doen mee. Onderdeel van een 14-jarige groeistrategie met **¥370 biljoen** ($2,3 biljoen) aan publiek-private investeringen in 17 sectoren. (Japan Times, 16 juli 2026, https://www.japantimes.co.jp/business/2026/07/16/japan-nvidia-rubin-chips-robots/)
 ---
 
----
-
 ## 📊 Marktoverzicht
 
 | Instrument | Koers |
