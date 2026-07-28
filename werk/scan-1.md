@@ -1,43 +1,45 @@
-## 🇧🇪 België
-- **Inflatie stijgt naar 3,2% door energiecrisis** Het Planbureau voorspelt dat de gemiddelde inflatie in België in 2026 uitkomt op **3,2%**, fors hoger dan de eerdere raming van 1,9%. Stijgende energieprijzen door het **Midden-Oostenconflict** zorgen voor twee spilindexoverschrijdingen: in juli en december. De loonindexering wordt begrensd via een "geldindex" van maximaal **€4.000** bruto per maand. (VRT NWS, 7 april 2026, https://www.vrt.be/vrtnws/en/2026/04/07/spiralling-energy-costs-are-driving-up-inflation-second-index-r/)
+# Nieuwsoverzicht 2026-07-28
+
+## 🇧🇪 Belgie
+- **Mark van Bommel nieuwe bondscoach Rode Duivels** **Mark van Bommel** (49) is aangesteld als nieuwe bondscoach van de Belgische **Rode Duivels**, als opvolger van **Rudi Garcia**. Hij tekende een contract tot het einde van het **EK 2028** en brengt onder meer **Boudewijn Zenden**, **Reinier Robbemond** en **Maarten Martens** mee in zijn staf. (VRT NWS, 21-07-2026, https://www.vrt.be/vrtnws/nl/2026/07/21/rode-duivels-hebben-nieuwe-bondscoach-nederlander-mark-van-bomm/)
 ---
 
 ## 🇳🇱 Nederland
-- **Amsterdam host eerste WorldPride: 1 miljoen bezoekers verwacht** Amsterdam organiseert van **25 juli tot 8 augustus** het grootste lhbti-evenement ooit. Koningin **Máxima** opende het festival in het Vondelpark onder het thema "Unity". Nederland viert drie jubilea: **80 jaar COC**, 30 jaar Pride Amsterdam en **25 jaar** openstelling van het burgerlijk huwelijk voor paren van gelijk geslacht. (NOS, 25 juli 2026, https://nos.nl/artikel/2624334-amsterdam-viert-eerste-worldpride-grootste-lhbti-evenement-ooit-is-meer-dan-een-feest)
+- **Kabinet maakt zich op voor pittige begrotingszomer, maar Jetten is optimistisch** Het kabinet-**Jetten** bereidt zich voor op een moeilijke begrotingszomer, waarbij het minderheidskabinet steun zoekt bij de oppositie voor bezuinigingen van **6,5 miljard euro** op de sociale zekerheid. Premier **Jetten** en minister van Financien **Heinen** bezoeken verschillende oppositiefracties om steun te werven voor de begroting. (NOS, juli 2026, https://nos.nl/artikel/2622532-kabinet-maakt-zich-op-voor-pittige-begrotingszomer-maar-jetten-is-optimistisch)
 ---
 
 ## 🇹🇷 Turkije
-- **NATO-top in Ankara bevestigt Turkije als diplomatiek knooppunt** De **NATO Ankara Summit** op **7-8 juli** bracht wereldleiders samen in de Turkse hoofdstad voor "NATO 3.0"-gesprekken. President **Erdoğan** benadrukte Turkije's rol als bemiddelaar tussen het Euro-Atlantische en het Midden-Oostenblok, onder meer rond de toekomst van **Syrië**. De defensie-industrie produceert inmiddels **80%** binnenlands. (Daily Sabah, juli 2026, https://www.dailysabah.com/politics/erdogan-sees-bright-future-for-turkiye-in-turbulent-world/news)
+- **Terror-free Turkiye law set to be drafted soon** President **Recep Tayyip Erdogan** heeft de **AK Party** opdracht gegeven een kaderwet af te ronden voor het terror-free Turkiye-initiatief gericht op ontwapening van de **PKK**. Het wetsvoorstel wordt naar verwachting voor het parlementaire reces op **31 juli 2026** ingediend. (Daily Sabah, juli 2026, https://www.dailysabah.com/politics/war-on-terror/terror-free-turkiye-law-set-to-be-drafted-soon)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Frankrijk bezuinigt €3 miljard extra om begrotingstekort te dichten** De regering verlaagde de groeiprognose voor 2026 naar **0,7%** door de vertraagde begroting en het Midden-Oostenconflict. Minister van Financiën **Roland Lescure** kondigde **€3 miljard** ($3,4 mld) aan extra bezuinigingen aan. Het IMF waarschuwde dat het tekort hoog blijft; in de peilingen leidt **Jordan Bardella** (RN) de presidentsrace na de mogelijke uitsluiting van **Marine Le Pen** op 7 juli. (Bloomberg, 7 juli 2026, https://www.bloomberg.com/news/articles/2026-07-07/france-unveils-new-cuts-as-weaker-growth-imperils-deficit-goal)
+- **Bijna 4.000 mensen geevacueerd rond Lacanau wegens bosbranden** De Franse autoriteiten evacueerden bijna **4.000 mensen** van campings en vakantieverblijven rond **Lacanau** aan de Atlantische kust, terwijl een nieuwe hittegolf de bosbranden verergert. De megabrand in **Gironde** heeft sinds 22 juli **42.000 hectare** verwoest; temperaturen stijgen naar **33-35 graden**. (France 24, 28-07-2026, https://www.france24.com/en/europe/20260728-live-massive-wildfires-near-bordeaux-still-under-control-after-calm-night-local-authorities-say)
 ---
 
 ## 🇩🇪 Duitsland
-- **CDU/CSU wijzen belastingverhoging af en eisen bezuinigingen** Bondskanselier **Friedrich Merz** staat onder druk: de CDU/CSU fractie weigert hogere belastingen en eist besparingen in de federale begroting. De **woningbouw** stagneert terwijl prijzen stijgen — wonen wordt in 2026 merkbaar duurder. De farmaceutische industrie dreigt met **miljardenbezuinigingen** op investeringen in Duitsland. (Handelsblatt, juli 2026, https://www.handelsblatt.com/politik/deutschland/)
+- **Markus Soeder will nicht mehr als Kanzler kandidieren** **CSU-voorzitter Markus Soeder** heeft in een interview met het Handelsblatt verklaard niet meer als bondskanselier te willen kandideren. Hij noemt dit hoofdstuk **"afgesloten"** en sluit daarmee een hernieuwde kandidatuur definitief uit. (Handelsblatt, juli 2026, https://www.handelsblatt.com/politik/deutschland/interview-markus-soeder-will-nicht-mehr-als-kanzler-kandidieren/100241832.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Centrale Bank verlaagt rente naar 14% ondanks oplopende inflatie** De Russische Centrale Bank knipte op **24 juli** de rente met 25 basispunten van 14,25% naar **14%** — de tiende verlaging sinds oktober 2024. De inflatie steeg naar **5,9%** (per 20 juli), met een verwachting van **6-7%** tegen jaareinde. De bbp-groeiprognose werd verlaagd naar **0-1%** door dalende olie-inkomsten en de oorlogseconomie. (The Moscow Times, 24 juli 2026, https://www.themoscowtimes.com/2026/07/24/russian-central-bank-warns-of-higher-inflation-as-it-lowers-key-rate-to-14-a93329)
+- **Russisch bedrijf wint $194 miljoen-rechtszaak tegen Euroclear in Moskou** Een Moskouse rechtbank veroordeelde de Belgische financiele groep **Euroclear** tot betaling van **$194,2 miljoen** aan een Russische onderneming. De uitspraak past in een reeks Russische rechterlijke uitspraken tegen Euroclear over bevroren activa onder **westerse sancties**. (The Moscow Times, 28-07-2026, https://www.themoscowtimes.com/2026/07/28/russian-firm-wins-194m-lawsuit-against-euroclear-in-moscow-a93360)
 ---
 
-## 🇬🇧 Verenigd Koninkrijk
-- **Reform UK leidt peilingen: Labour zakt naar 20%** Slechts **20%** van de Britten zou op de regerende **Labour**-partij stemmen, achter **Reform** (25%) en de **Conservatieven** (21%). Een MRP-peiling projecteert Labour op **217 zetels** — 109 tekort voor een meerderheid — terwijl Reform doorbreekt naar **127 zetels**. Premier **Keir Starmer** kampt met de laagste goedkeuringsrating van alle partijleiders. (Electoral Calculus / Statista, juli 2026, https://www.electoralcalculus.co.uk/blogs/ec_vipoll_20260708.html)
+## 🇬🇧 VK
+- **Lord Vallance benoemd tot voorzitter van nieuwe AI Taskforce** Premier **Andy Burnham** lanceerde een nieuwe **AI Taskforce** met **Lord Patrick Vallance** als voorzitter, rechtstreeks rapporterend vanuit het Cabinet Office. De eenheid, onder toezicht van AI-minister **Kanishka Narayan**, moet AI-adoptie in de publieke sector versnellen en het **AI Security Institute** overzien. (GOV.UK, 24-07-2026, https://www.gov.uk/government/news/ai-to-power-change-at-the-heart-of-government-as-lord-vallance-appointed-chair-of-new-pm-ai-taskforce)
 ---
 
-## 🇺🇸 Verenigde Staten
-- **Fed onder druk om rente te verhogen bij oplaaiende inflatie** De Federal Reserve staat voor een controversieel besluit op de vergadering van **28-29 juli**: stijgende olieprijzen door het Midden-Oostenconflict, AI-gedreven vraag en nieuwe **tarieven op 60 economieën** voeden de inflatiedruk. Het begrotingstekort loopt op tot **5,7% van het bbp**, ver boven de **3%-doelstelling** van minister **Scott Bessent**. President **Trump** weigerde verlenging van het USMCA-handelsverdrag met Canada en Mexico. (Bloomberg, 26 juli 2026, https://www.bloomberg.com/news/articles/2026-07-26/fed-faces-growing-pressure-to-hike-rates-as-price-risks-rebound)
+## 🇺🇸 VS
+- **Senatoren bereiken deal over nieuwe sanctiewet tegen Rusland en Iran** Een **bipartijdige groep senatoren** presenteerde wetgeving waarmee president **Donald Trump** verdere beperkingen kan opleggen aan grote afnemers van **Russische energie** en aan **Iran**. Het wetsvoorstel komt te midden van aanhoudende diplomatieke spanningen. (Bloomberg, 28-07-2026, https://www.bloomberg.com/news/articles/2026-07-28/us-senators-announce-deal-on-new-russia-iran-sanctions-bill)
 ---
 
 ## 🇮🇳 India
-- **Premier richt taskforce op voor hervorming examenstelsel onder leiding Nilekani** Premier **Modi** kondigde een taskforce aan onder leiding van Infosys-medeoprichter **Nandan Nilekani** om het systeem van openbare examens te moderniseren met technologie. Het team omvat experts van **ISRO, IIT** en inlichtingendiensten. Daarnaast werd de boeddhistische site **Sarnath** (Varanasi) uitgeroepen tot India's **45e UNESCO-werelderfgoedlocatie**. (InsightsOnIndia, 27 juli 2026, https://www.insightsonindia.com/2026/07/27/upsc-current-affairs-27-july-2026/)
+- **Gujarat lanceert scheepsbouwbeleid 2026 met mega-investering van Rs 27.000 crore** **Chief Minister Bhupendra Patel** onthulde het **Shipbuilding and Repair Policy 2026** met plannen voor **twee Integrated Mega Shipbuilding Parks** en een capaciteitsverhoging tot meer dan **50 lakh DWT**. De totale investering bedraagt circa **Rs 27.000 crore** met vaardigheidstraining voor **5 lakh mensen**. (Business Standard, 27-07-2026, https://www.business-standard.com/india-news/gujarat-unveils-shipbuilding-policy-eyes-more-than-27-000-cr-investment-126072700650_1.html)
 ---
 
 ## 🇨🇳 China
-- **Chipmaker CXMT schiet 471% omhoog bij beursdebuut Shanghai** China's grootste geheugenchipproducent **ChangXin Memory Technologies (CXMT)** debuteerde op de STAR Market en zag de koers op dag één met meer dan **471%** stijgen. Ondertussen krimpen infrastructuurinvesteringen met **2,4%** in de eerste helft van 2026. Kleinere steden en gemeenten concurreren nu met grote steden om **AI-datacenters** aan te trekken. (SCMP, juli 2026, https://www.scmp.com/economy/china-economy)
+- **China verviervoudigt drempel voor vervolging handel met voorkennis** China heeft de drempel voor vervolging van insiderhandel **verviervoudigd**, aldus Caixin Global. De maatregel wijst op een herkalibrering van het Chinese handhavingskader voor effecten, te midden van hervormingen om de financiele markten te stabiliseren. (Caixin Global, 28-07-2026, https://www.caixinglobal.com/2026-07-28/china-quadruples-insider-trading-prosecution-threshold-102468753.html)
 ---
 
 ## 🇯🇵 Japan
-- **Japan koopt 27.500 Nvidia Rubin-chips voor soeverein AI-model met 44 bedrijven** De Japanse overheid investeert tot **¥1 biljoen** ($6,1 mld) over vijf jaar in het Noetra-project: een soeverein AI-model gericht op "physical AI" (robots, zelfrijdende auto's). **44 bedrijven** waaronder **SoftBank, Sony, Honda en NEC** doen mee. Onderdeel van een 14-jarige groeistrategie met **¥370 biljoen** ($2,3 biljoen) aan publiek-private investeringen in 17 sectoren. (Japan Times, 16 juli 2026, https://www.japantimes.co.jp/business/2026/07/16/japan-nvidia-rubin-chips-robots/)
+- **Wet voor tweede hoofdstad aangenomen; steden strijden om aanwijzing** Na de goedkeuring van Japan's **secondary-capital bill** concurreren steden als **Fukuoka**, **Sapporo**, **Nagoya** en **Osaka** om aangewezen te worden als reservehoofdstad voor het geval een ramp **Tokyo** treft. De wetgeving moet de continuiteit van de regering waarborgen. (The Japan Times, 28-07-2026, https://www.japantimes.co.jp/news/2026/07/28/japan/politics/second-capital-race/)
 ---
