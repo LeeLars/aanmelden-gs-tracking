@@ -1,6 +1,3 @@
-# MIJN NIEUWSKRANT
-### Donderdag 30 juli 2026
----
 # Nieuwsscan 2026-07-30
 
 ## 🇧🇪 België
@@ -45,26 +42,4 @@
 
 ## 🇯🇵 Japan
 - **Takaichi zet in op historische verlaging voedsbelasting** Minister **Takaichi** werkt aan een ongekende **verlaging van de voedselbelasting** om Japanse consumenten te ontlasten van aanhoudende inflatie. De maatregel is een belangrijke **fiscale stap** gericht op huishoudens die kampen met hoge prijzen voor basisproducten. (Nikkei Asia, 30-07-2026, https://www.asia.nikkei.com/politics/takaichi-bets-on-historic-food-tax-cut-to-ease-japan-inflation-pain)
----
-
-## Marktoverzicht
-
-| Markt | Koers | Dag |
-|-------|-------|-----|
-| Bitcoin | $64.654 | +0,98% |
-| Ethereum | $1.915 | +1,22% |
-| Goud | $4.157 /oz | +1,49% |
-| Brent olie | $90,21 /vat | -0,58% |
-| EUR/USD | 1,1516 | — |
-| S&P 500 | 7.372 | +0,77% |
-| AEX | 1.105 | +1,12% |
-| DAX | 25.574 | +0,45% |
-| Nikkei 225 | 61.867 | +0,24% |
-
----
-
-## De Grote Lijnen
-
-De **AI-wedloop** domineert beide zijden van de Atlantische Oceaan: terwijl de EU met zeven gigafabrieken inzet op eigen rekenkracht, worstelt Washington met de veiligheidsrisico's van AI-agents die bedrijven binnendringen — de deadline van 1 augustus nadert. **Monetair beleid** blijft voorzichtig: de Bank of England houdt de rente stil op 3,75%, terwijl Japan juist via belastingverlaging consumenten probeert te ontlasten — twee tegengestelde instrumenten voor hetzelfde inflatieprobleem. **Geopolitieke spanningen** raken steeds meer verweven met handel: India's wapenleveranties aan Israël trekken internationale kritiek, en in Rusland pakt het Kremlin eigen defensieleveranciers op wegens fraude — een teken dat de oorlogseconomie onder druk staat. De **Europese economie** toont een gemengd beeld: KLM draait goed ondanks dure kerosine, maar Adidas keldert op de beurs en Franse bosbranden treffen tienduizenden bedrijven bij Bordeaux.
-
 ---
