@@ -1,45 +1,45 @@
-# Nieuwsscan 2026-07-30
+# Nieuwsoverzicht 2026-07-31
 
 ## 🇧🇪 België
-- **EU lanceert aanbesteding voor 7 AI-gigafabrieken** De Europese Unie zoekt bouwers voor **7 enorme AI-computerfabrieken** verspreid over het continent. Het project markeert een **mijlpaal** in Europa's strategie om eigen AI-infrastructuur op te bouwen en de afhankelijkheid van buitenlandse technologiemachten te verminderen. (VRT NWS, 30-07-2026, https://www.vrt.be/vrtnws/nl/2026/07/30/eu-lanceert-aanbesteding-voor-ai-gigafabrieken/)
+- **Opzegtermijn terug naar 1 week en gas duurder door accijnsverhoging** Vanaf **1 augustus** veranderen de regels voor Belgische consumenten: de opzegtermijn voor contracten daalt naar **één week** en de gasprijs stijgt door een **accijnsverhoging**. De wijzigingen raken huishoudens direct in hun portemonnee. (VRT NWS, 31 juli 2026, https://www.vrt.be/vrtnws/nl/2026/07/28/opzegtermijn-valt-terug-tot-1-week-en-gas-factuur-wordt-duurder/)
 ---
 
 ## 🇳🇱 Nederland
-- **KLM boekt meer winst ondanks hoge kerosinekosten** Het aantal **KLM-reizigers** is gestegen en de luchtvaartmaatschappij behaalde meer winst, ondanks aanhoudend **hoge brandstofkosten**. KLM toonde financiële veerkracht in een uitdagende markt met dure kerosine. (NOS, 30-07-2026, https://www.nos.nl/artikel/2624948-aantal-klm-reizigers-stijgt-ondanks-hoge-kerosinekosten-meer-winst)
+- **Laatste dag Nederland-ticket: blijven reizigers fan van de trein?** Vandaag is de **laatste verkoopdag** van het voordelige Nederland-ticket. Vanaf morgen stijgt de prijs naar het reguliere tarief van **€127,95 per maand**, waardoor de overheid evalueert of het treingebruik op peil blijft na de actieperiode. (NOS, 31 juli 2026, https://nos.nl/artikel/2625064-laatste-dag-van-het-nederland-ticket-maar-blijven-de-reizigers-ook-fan-van-de-trein)
 ---
 
 ## 🇹🇷 Turkije
-- **Parlementsvoorzitter: terreurwet opent 'nieuw tijdperk'** Parlementsvoorzitter **Numan Kurtulmuş** sprak in Ankara over wetgeving gericht op een terreurvrij Turkije. Het initiatief is een **grote beleidsstap** van de regering om veiligheidsproblemen via nieuwe juridische maatregelen aan te pakken. (Daily Sabah, 30-07-2026, https://www.dailysabah.com/politics/legislation/turkish-parliament-speaker-says-terror-free-bill-will-open-new-era)
+- **Eigen Kaan-gevechtsvliegtuig voltooit taxitests voor eerste vlucht** Het Turkse **Kaan-gevechtsvliegtuig**, volledig binnenlands ontwikkeld, heeft in **Ankara** de pre-flight taxitests succesvol afgerond. De mijlpaal brengt het toestel dichter bij operationele inzet en versterkt Turkijes onafhankelijke defensie-industrie. (Daily Sabah, 31 juli 2026, https://www.dailysabah.com/business/economy/turkiyes-homegrown-kaan-fighter-jet-completes-pre-flight-taxi-tests)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Bosbranden treffen 40.000 bedrijven bij Bordeaux** Bosbranden in de regio **Bordeaux** hebben circa **40.000 bedrijven** getroffen, met groeiende economische schade. De verstoring breidt zich uit over de regio en raakt zowel lokale ondernemers als toeleveringsketens. (Euronews, 29-07-2026, https://www.euronews.com/business/2026/07/29/french-wildfires-affect-40000-businesses-as-disruption-spreads)
+- **Rekenkamer waarschuwt: quantumstrategie te traag tegenover mondiale concurrentie** De Franse **Cour des Comptes** oordeelt dat de nationale quantumstrategie goed wordt beheerd, maar waarschuwt dat de internationale concurrentie sneller evolueert. **Pasqal** sloot deals met Zuid-Korea, terwijl **Quobly** een overeenkomst van **$5 miljoen** tekende met SEALSQ voor post-quantumbeveiliging. (The Quantum Insider, 31 juli 2026, https://thequantuminsider.com/2026/07/31/french-national-quantum-update-july-2026/)
 ---
 
 ## 🇩🇪 Duitsland
-- **Adidas-aandeel keldert tot 20% ondanks WK-succes** Het aandeel **Adidas** daalde met bijna **20%** ondanks recordverkopen tijdens het WK voetbal. CEO noemde het toernooi "als een sprookje", maar beleggers reageerden op **tegenvallende cijfers** en het vertrek van een topbestuurder. (Handelsblatt, 30-07-2026, https://www.handelsblatt.com/unternehmen/handel-konsumgueter/adidas-aktie-boersenkurs-bricht-trotz-wm-erfolgen-ein/100242502.html)
+- **Minister Reiche wil meer grondstoffen in eigen land laten delven** Economieminister **Reiche** dringt aan op hervormingen van de Duitse mijnbouwwetgeving om binnenlandse grondstofwinning te vergemakkelijken. De industrie stelt dat de huidige regelgeving winning belemmert; Reiche plant daarnaast aanvullende **elektriciteitsprijsverlagingen**. (Handelsblatt, 31 juli 2026, https://www.handelsblatt.com/politik/deutschland/industrie-reiche-will-mehr-rohstoffe-in-deutschland-abbauen-lassen/100244107.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Hoge ambtenaar droneproductie gearresteerd voor fraude** Een **hoge handelsambtenaar** belast met toezicht op droneproductie bij Transportation of the Future is gearresteerd wegens fraude. Ook **miljardair Kustov** en directeuren van Efko werden opgepakt, wat wijst op verscherpt toezicht op defensieleveranciers in oorlogstijd. (The Moscow Times, 30-07-2026, https://www.themoscowtimes.com/2026/07/30/senior-russian-trade-official-overseeing-drone-production-arrested-for-fraud-a93380)
+- **Mobiele operators schrappen datakosten voor staatsapp Max** Vanaf **1 augustus** bieden Ruslands grote telecomproviders — **MTS, MegaFon en Beeline** — gratis dataverbruik aan voor de door de staat gesteunde Max-messenger. Bellen, berichten en bestandsoverdracht via het platform worden kosteloos voor alle abonnees. (The Moscow Times, 31 juli 2026, https://www.themoscowtimes.com/2026/07/31/russian-mobile-carriers-waive-data-fees-for-state-backed-max-messenger-a93386)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Bank of England houdt rente op 3,75%** Het Monetary Policy Committee van de **Bank of England** handhaafde de rente op **3,75%**, verwijzend naar meevallende inflatiecijfers. Beleidsmakers waarschuwden echter dat de **rentestrategie kan veranderen** bij nieuwe prijsdruk in de tweede helft van het jaar. (City AM, 30-07-2026, https://www.cityam.com/bank-of-england-holds-interest-rates-at-3-75/)
+- **Bank of England houdt rente op 3,75% voor vijfde keer dit jaar** Het MPC stemde met **6 tegen 3** om de rente op **3,75%** te handhaven; drie leden wilden verhogen naar 4%. De centrale bank houdt de rente stabiel na een grotere-dan-verwachte daling van de inflatie, maar waarschuwt voor opwaartse risico's door het conflict in **Iran**. (Bank of England, 30 juli 2026, https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Sam Altman spreekt met Congres over AI-veiligheid** OpenAI-CEO **Sam Altman** ontmoette Amerikaanse wetgevers na onthullingen over beveiligingsinbreuken door AI-agents. President **Trump** overweegt **"AI-controls"** in te voeren, met een deadline van **1 augustus** voor AI-leiders om een veiligheidskader te ontwikkelen. (Al Jazeera, 29-07-2026, https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies)
+- **Fed houdt rente vast; bbp-groei valt tegen op 1,5%** De Federal Reserve hield de rente ongewijzigd, terwijl het **bbp** in het tweede kwartaal slechts **1,5%** groeide — onder de verwachte **1,8%**. De PCE-prijsindex daalde **0,1%** op maandbasis, maar de jaarlijkse inflatie blijft op **3,7%**. President **Trump** reageerde: "Kevin's fantastic, but he's got a board." (CNBC, 30 juli 2026, https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html)
 ---
 
 ## 🇮🇳 India
-- **Amnesty: Indiase wapenverkoop aan Israël riskeert medeplichtigheid** Amnesty International waarschuwt dat India's **wapenverkopen aan Israël** het land medeplichtig kunnen maken aan vermeende genocide in Gaza. Het rapport belicht de **militair-commerciële relatie** tussen India en Israël, versterkt onder premier **Narendra Modi**. (Al Jazeera, 30-07-2026, https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says)
+- **Kabinet keurt Semicon 2.0 goed: ₹1,27 biljoen voor chipindustrie** Het Indiase kabinet keurde **Semicon 2.0** goed met een budget van **₹1.27.500 crore** (US$ 13,2 miljard) voor chipdesign, fabricage en displayproductie. Tegelijk werd het **Mobile Phone Manufacturing Scheme** van **₹62.500 crore** goedgekeurd om India als mondiale speler in elektronica te positioneren. (Organiser / Medium, juli 2026, https://medium.com/geopolitics-beyond/indias-power-week-inside-the-major-policy-and-global-tech-shifts-of-july-2026-da1d6952c540)
 ---
 
 ## 🇨🇳 China
-- **CPC stelt economische prioriteiten vast voor H2 2026** Het Politbureau van de **Communistische Partij** analyseerde de economische situatie en stelde strategische prioriteiten vast voor de **tweede helft van 2026**. De nadruk ligt op het behouden van economisch momentum met focus op **nieuwe groeimotoren**. (Global Times, 30-07-2026, https://www.globaltimes.cn/page/202607/1367182.shtml)
+- **Chipgigant CXMT doorbreekt marktwaarde van 4 biljoen yuan** De Chinese geheugenchipmaker **CXMT** bereikte kort een marktkapitalisatie van meer dan **4 biljoen yuan** (US$ 592 miljard), met een aandeelkoers van **60 yuan per aandeel**. Het bedrijf is daarmee het grootste op de Chinese A-aandelenmarkt, terwijl de gehele geheugenchipsector rally't. (Global Times, 31 juli 2026, https://www.globaltimes.cn/page/202607/1367252.shtml)
 ---
 
 ## 🇯🇵 Japan
-- **Takaichi zet in op historische verlaging voedsbelasting** Minister **Takaichi** werkt aan een ongekende **verlaging van de voedselbelasting** om Japanse consumenten te ontlasten van aanhoudende inflatie. De maatregel is een belangrijke **fiscale stap** gericht op huishoudens die kampen met hoge prijzen voor basisproducten. (Nikkei Asia, 30-07-2026, https://www.asia.nikkei.com/politics/takaichi-bets-on-historic-food-tax-cut-to-ease-japan-inflation-pain)
+- **BOJ-gouverneur signaleert opwaartse inflatierisico's; snellere renteverhogingen mogelijk** De **Bank of Japan** hield de beleidsrente ongewijzigd maar waarschuwde voor opwaartse inflatierisico's en mogelijke **versnelde renteverhogingen**. De centrale bank monitort de yenkoers, AI-ontwikkelingen en geopolitieke spanningen rond **Iran** bij haar beleidsafwegingen. (Nikkei Asia, 31 juli 2026, https://asia.nikkei.com/economy/bank-of-japan/boj-chief-flags-upside-inflation-risks-faster-hikes-possible)
 ---
