@@ -1,68 +1,45 @@
-# MIJN NIEUWSKRANT
-### Vrijdag 31 juli 2026
----
-# Nieuwsoverzicht 2026-07-31
+# Nieuwsoverzicht 2026-08-01
 
 ## 🇧🇪 België
-- **Opzegtermijn terug naar 1 week en gas duurder door accijnsverhoging** Vanaf **1 augustus** veranderen de regels voor Belgische consumenten: de opzegtermijn voor contracten daalt naar **één week** en de gasprijs stijgt door een **accijnsverhoging**. De wijzigingen raken huishoudens direct in hun portemonnee. (VRT NWS, 31 juli 2026, https://www.vrt.be/vrtnws/nl/2026/07/28/opzegtermijn-valt-terug-tot-1-week-en-gas-factuur-wordt-duurder/)
+- **Massale stakingsgolf houdt aan: 15e protest in 18 maanden tegen Arizona-coalitie** De vakbonden blijven de druk opvoeren op premier **Bart De Wever**: sinds 2025 zijn er **15 massademonstraties** geweest, waarvan de grootste op 12 maart met **100.000 deelnemers** in Brussel. Hoofdpunten: **bevriezing van de loonindexering**, pensioenhervorming (pensioenleeftijd 67) en bezuinigingen op sociale budgetten. (Peoples Dispatch, 13 mei 2026, https://peoplesdispatch.org/2026/05/13/brussels-protest-marks-15th-demonstration-against-austerity-in-18-months/)
 ---
 
 ## 🇳🇱 Nederland
-- **Laatste dag Nederland-ticket: blijven reizigers fan van de trein?** Vandaag is de **laatste verkoopdag** van het voordelige Nederland-ticket. Vanaf morgen stijgt de prijs naar het reguliere tarief van **€127,95 per maand**, waardoor de overheid evalueert of het treingebruik op peil blijft na de actieperiode. (NOS, 31 juli 2026, https://nos.nl/artikel/2625064-laatste-dag-van-het-nederland-ticket-maar-blijven-de-reizigers-ook-fan-van-de-trein)
+- **DSM-Firmenich schrapt 1.000 banen wereldwijd in €100 mln besparingsplan** Het Nederlands-Zwitserse bedrijf **DSM-Firmenich** kondigt op 30 juli aan tot **1.000 functies** te schrappen in 18-24 maanden na de verkoop van de diervoedingsdivisie. De reorganisatie moet jaarlijks **€100 miljoen** besparen; in Nederland werken nog circa **1.800 mensen** bij het bedrijf, vooral in Delft. (NL Times, 30 juli 2026, https://nltimes.nl/2026/07/30/dsm-firmenich-cut-1000-jobs-worldwide-eu100-million-cost-saving-plan)
 ---
 
 ## 🇹🇷 Turkije
-- **Eigen Kaan-gevechtsvliegtuig voltooit taxitests voor eerste vlucht** Het Turkse **Kaan-gevechtsvliegtuig**, volledig binnenlands ontwikkeld, heeft in **Ankara** de pre-flight taxitests succesvol afgerond. De mijlpaal brengt het toestel dichter bij operationele inzet en versterkt Turkijes onafhankelijke defensie-industrie. (Daily Sabah, 31 juli 2026, https://www.dailysabah.com/business/economy/turkiyes-homegrown-kaan-fighter-jet-completes-pre-flight-taxi-tests)
+- **Nationale Inlichtingenacademie pleit voor onafhankelijke AI-doctrine** Op 31 juli publiceerde de **National Intelligence Academy (MIA)** onder prof. **Talha Köse** het rapport "Technopolitical Order Debates". Het dringt aan op een **eigen technopolitieke strategie** met nationale AI-infrastructuur, datagovernance en verminderde afhankelijkheid van buitenlandse tech-leveranciers om de opkomende wereldorde mede vorm te geven. (Daily Sabah, 31 juli 2026, https://www.dailysabah.com/politics/report-urges-turkiye-to-develop-its-own-ai-era-technopolitical-doctrine/news)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Rekenkamer waarschuwt: quantumstrategie te traag tegenover mondiale concurrentie** De Franse **Cour des Comptes** oordeelt dat de nationale quantumstrategie goed wordt beheerd, maar waarschuwt dat de internationale concurrentie sneller evolueert. **Pasqal** sloot deals met Zuid-Korea, terwijl **Quobly** een overeenkomst van **$5 miljoen** tekende met SEALSQ voor post-quantumbeveiliging. (The Quantum Insider, 31 juli 2026, https://thequantuminsider.com/2026/07/31/french-national-quantum-update-july-2026/)
+- **Lecornu sluit energiedeal met Marokko; Pegasus-schandaal laait op** Premier **Sébastien Lecornu** bezocht op 16 juli Rabat voor een nieuw project om **hernieuwbare elektriciteit van Marokko naar Frankrijk** te exporteren. Het bezoek werd overschaduwd door verse beschuldigingen dat Marokko **Pegasus-spyware** gebruikte tegen Franse ministers — inclusief sporen op Lecornu's eigen telefoon. Marokko ontkent. (France24, 16 juli 2026, https://www.france24.com/en/france/20260716-french-pm-lecornu-seeks-deeper-ties-energy-cooperation-on-morocco-visit)
 ---
 
 ## 🇩🇪 Duitsland
-- **Minister Reiche wil meer grondstoffen in eigen land laten delven** Economieminister **Reiche** dringt aan op hervormingen van de Duitse mijnbouwwetgeving om binnenlandse grondstofwinning te vergemakkelijken. De industrie stelt dat de huidige regelgeving winning belemmert; Reiche plant daarnaast aanvullende **elektriciteitsprijsverlagingen**. (Handelsblatt, 31 juli 2026, https://www.handelsblatt.com/politik/deutschland/industrie-reiche-will-mehr-rohstoffe-in-deutschland-abbauen-lassen/100244107.html)
+- **Bundesbank: economie groeit minimaal, inflatie stijgt naar 3%** De Bundesbank meldde op 28 juli dat het bbp in Q2 2026 slechts **0,1%** groeide (na 0,3% in Q1); voor heel 2026 wordt **0,7%** verwacht. Ondanks het **Iranconflict** en hoge energieprijzen blijven export en consumptie overeind, maar de inflatie zal stijgen tot circa **3%** door de energieprijsschok. (Handelsblatt, 28 juli 2026, https://www.handelsblatt.com/politik/konjunktur/bundesbank-wirtschaft-waechst-wohl-weiter-inflation-wird-noch-steigen/100243387.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Mobiele operators schrappen datakosten voor staatsapp Max** Vanaf **1 augustus** bieden Ruslands grote telecomproviders — **MTS, MegaFon en Beeline** — gratis dataverbruik aan voor de door de staat gesteunde Max-messenger. Bellen, berichten en bestandsoverdracht via het platform worden kosteloos voor alle abonnees. (The Moscow Times, 31 juli 2026, https://www.themoscowtimes.com/2026/07/31/russian-mobile-carriers-waive-data-fees-for-state-backed-max-messenger-a93386)
+- **Begrotingstekort explodeert naar $100 mrd; Financiën kan geen obligaties plaatsen** Het Russische begrotingstekort liep op tot **8 biljoen roebel ($99,9 mrd)** — meer dan dubbel het geplande tekort. Rentelasten bereikten **3,9 biljoen roebel ($49 mrd)**, hoger dan het hele geplande tekort. De centrale bank verlaagde de rente naar **14%**, maar het ministerie kon in juli geen staatsobligaties kwijt bij yields van **16,5-16,75%**. (The Moscow Times, 29 juli 2026, https://www.themoscowtimes.com/2026/07/29/where-can-russia-find-more-money-for-war-a93371)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Bank of England houdt rente op 3,75% voor vijfde keer dit jaar** Het MPC stemde met **6 tegen 3** om de rente op **3,75%** te handhaven; drie leden wilden verhogen naar 4%. De centrale bank houdt de rente stabiel na een grotere-dan-verwachte daling van de inflatie, maar waarschuwt voor opwaartse risico's door het conflict in **Iran**. (Bank of England, 30 juli 2026, https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026)
+- **Andy Burnham beëdigd als 7e premier in 10 jaar** Op 20 juli 2026 werd **Andy Burnham** (56) premier na een ontmoeting met Koning Charles III. Hij volgt **Keir Starmer** op, die aftrad na verkiezingsnederlagen en schandalen. De voormalig burgemeester van Greater Manchester beloofde in zijn inaugurele speech dat het VK "**opnieuw stabiliteit kan vinden**". (NPR, 19 juli 2026, https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Fed houdt rente vast; bbp-groei valt tegen op 1,5%** De Federal Reserve hield de rente ongewijzigd, terwijl het **bbp** in het tweede kwartaal slechts **1,5%** groeide — onder de verwachte **1,8%**. De PCE-prijsindex daalde **0,1%** op maandbasis, maar de jaarlijkse inflatie blijft op **3,7%**. President **Trump** reageerde: "Kevin's fantastic, but he's got a board." (CNBC, 30 juli 2026, https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html)
+- **Fed-dissidenten eisen renteverhoging tegen hardnekkige inflatie** Op 31 juli waarschuwden drie Fed-bestuurders — onder wie Cleveland Fed-president **Beth Hammack** — dat langer wachten op actie het risico vergroot op nog agressievere maatregelen later. De Fed hield de rente ongewijzigd, maar de **drie dissidenten** braken openlijk met het afwachtende beleid: "hoe langer hoge inflatie aanhoudt, hoe kostbaarder het terugdringen wordt." (Bloomberg, 31 juli 2026, https://www.bloomberg.com/news/articles/2026-07-31/fed-dissenters-say-hikes-needed-to-tackle-persistent-inflation)
 ---
 
 ## 🇮🇳 India
-- **Kabinet keurt Semicon 2.0 goed: ₹1,27 biljoen voor chipindustrie** Het Indiase kabinet keurde **Semicon 2.0** goed met een budget van **₹1.27.500 crore** (US$ 13,2 miljard) voor chipdesign, fabricage en displayproductie. Tegelijk werd het **Mobile Phone Manufacturing Scheme** van **₹62.500 crore** goedgekeurd om India als mondiale speler in elektronica te positioneren. (Organiser / Medium, juli 2026, https://medium.com/geopolitics-beyond/indias-power-week-inside-the-major-policy-and-global-tech-shifts-of-july-2026-da1d6952c540)
+- **RBI-rentebesluit op 5 augustus; CKYC 2.0 gaat in per 1 augustus** De **Reserve Bank of India** vergadert van 3-5 augustus over monetair beleid, met de rentebeslissing op **5 augustus**. Per 1 augustus treedt ook het nieuwe **CKYC 2.0**-systeem in werking voor gecentraliseerde klantverificatie bij banken. India's bbp groeide in 2025 met **6,8%** — het snelst van alle grote economieën, voor het derde opeenvolgende jaar. (BusinessToday, 31 juli 2026, https://www.businesstoday.in/personal-finance/investment/story/august-2026-and-your-finances-itr-deadline-ckyc-2-0-rollout-rbi-policy-lpg-prices-and-other-key-financial-changes-to-watch-546473-2026-07-31)
 ---
 
 ## 🇨🇳 China
-- **Chipgigant CXMT doorbreekt marktwaarde van 4 biljoen yuan** De Chinese geheugenchipmaker **CXMT** bereikte kort een marktkapitalisatie van meer dan **4 biljoen yuan** (US$ 592 miljard), met een aandeelkoers van **60 yuan per aandeel**. Het bedrijf is daarmee het grootste op de Chinese A-aandelenmarkt, terwijl de gehele geheugenchipsector rally't. (Global Times, 31 juli 2026, https://www.globaltimes.cn/page/202607/1367252.shtml)
+- **DeepSeek lanceert officiële V4-Flash met 50% lagere API-kosten** Op 1 augustus bracht AI-startup **DeepSeek** de officiële versie van het **V4-Flash**-model uit, met verbeterde autonome agent-capaciteiten en **50% lagere API-kosten**. Het bedrijf haalde recent **$7,4 miljard** funding op (waardering: **350 mrd yuan**) met steun van Tencent en NetEase. V4-Flash was zeven weken het meestgebruikte model op OpenRouter. (Caixin Global, 1 augustus 2026, https://www.caixinglobal.com/2026-08-01/deepseek-releases-official-v4-flash-model-as-chinas-ai-race-intensifies-102470292.html)
 ---
 
 ## 🇯🇵 Japan
-- **BOJ-gouverneur signaleert opwaartse inflatierisico's; snellere renteverhogingen mogelijk** De **Bank of Japan** hield de beleidsrente ongewijzigd maar waarschuwde voor opwaartse inflatierisico's en mogelijke **versnelde renteverhogingen**. De centrale bank monitort de yenkoers, AI-ontwikkelingen en geopolitieke spanningen rond **Iran** bij haar beleidsafwegingen. (Nikkei Asia, 31 juli 2026, https://asia.nikkei.com/economy/bank-of-japan/boj-chief-flags-upside-inflation-risks-faster-hikes-possible)
+- **Premier Takaichi lanceert National Intelligence Bureau voor cyberdefensie** Op 31 juli richtte premier **Sanae Takaichi** het **National Intelligence Bureau** op — een samenvoeging van inlichtingendiensten gericht op cyberveiligheid. Takaichi streeft naar "**een van 's werelds hoogste niveaus van cyberdefensie**". De oprichting past in haar bredere investeringsplan van **¥2,3 biljoen** in AI, halfgeleiders en defensie over 14 jaar. (The Japan Times, 31 juli 2026, https://www.japantimes.co.jp/news/2026/07/31/japan/politics/new-intel-bureau-launched/)
 ---
-
-## 📊 Marktoverzicht
-
-| Instrument | Koers |
-|---|---|
-| Bitcoin (BTC) | $62.526 |
-| Ethereum (ETH) | $1.854 |
-| Goud | $4.101/oz |
-| Brent olie | $87,80/vat |
-| EUR/USD | 1,1504 |
-| S&P 500 | 7.426 |
-| AEX | 1.097 |
-| DAX | 25.700 |
-| Nikkei 225 | 64.362 |
-
----
-
-## 🔗 De Grote Lijnen
-
-Centrale banken aan beide zijden van de Atlantische Oceaan houden de rente ongewijzigd — de Fed, de Bank of England en de BOJ kiezen voor afwachten, maar Japan en het VK waarschuwen dat de Iran-crisis en hardnekkige inflatie een versnelde verkrapping kunnen afdwingen. De halfgeleiderrace verdiept zich: India pompt $13,2 miljard in Semicon 2.0, China's CXMT breekt records op de beurs, en Frankrijk krijgt van de eigen Rekenkamer te horen dat het te langzaam beweegt in quantum. Ondertussen zoeken Duitsland en Turkije strategische autonomie — Berlijn in grondstoffen, Ankara in gevechtsvliegtuigen — terwijl Rusland de digitale controle aanscherpt door staatsapp Max gratis dataverbruik te geven. De consument voelt het direct: Belgische gasrekeningen stijgen per 1 augustus en Nederlandse treinreizigers verliezen hun voordelige ticket, terwijl goud boven $4.100 noteert als veilige haven in een onzekere zomer.
