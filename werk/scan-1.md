@@ -1,45 +1,45 @@
-# Nieuwsoverzicht 2026-08-02
+# Nieuwsoverzicht 2026-08-03
 
 ## 🇧🇪 België
-- **Europese AI Act treedt in werking, maar België heeft nog geen toezichthouder** De Europese AI-verordening is vandaag officieel van kracht, met **strengere regels voor kunstmatige intelligentie** in de hele EU. België heeft echter nog **geen dedicated toezichthouder** aangesteld om de nieuwe wetgeving te handhaven, ondanks eerdere regulering. (VRT NWS, 2 augustus 2026, https://www.vrt.be/vrtnws/nl/2026/07/29/geen-toezichthouder-wel-al-strengere-regels-hoe-ver-staat-belg/)
+- **Vakbonden kondigen nieuwe stakingen aan na de zomer** De Belgische vakbonden plannen industriële acties na het zomerreces en stellen dat de regering van premier **Bart De Wever** doorgaat met besparingen. De acties komen bovenop aanhoudende spanningen over het begrotingstekort, dat zonder correcties **5,5% van het bbp** dreigt te bereiken in 2026. (VRT NWS, 3 augustus 2026, https://www.vrt.be/vrtnws/en/categories/home-news/)
 ---
 
 ## 🇳🇱 Nederland
-- **AI-telefonist moet zich voortaan direct prijsgeven** Vanaf vandaag zijn bedrijven verplicht om te melden wanneer klanten met een **AI-systeem** bellen in plaats van met een mens. De nieuwe transparantieregel moet consumenten beschermen tegen **onbewuste interactie met geautomatiseerde systemen**. (NOS, 2 augustus 2026, https://nos.nl/artikel/2625224-geen-twijfel-ai-telefonist-moet-zich-voortaan-direct-prijsgeven)
+- **EU AI-transparantieregels treden in werking** Vanaf **3 augustus** moeten AI-chatbots, virtuele receptionisten en AI-gegenereerde media in de EU verplicht melden dat ze **niet menselijk** zijn. Nederland implementeert de regels als onderdeel van de bredere **EU AI Act**, die hoge eisen stelt aan transparantie en verantwoord AI-gebruik. (NL Times, 3 augustus 2026, https://nltimes.nl/)
 ---
 
 ## 🇹🇷 Turkije
-- **Erdoğan: AKP 'veruit de grootste partij van Turkije'** President **Recep Tayyip Erdoğan** heeft verklaard dat zijn **AKP** de dominante positie in het Turkse politieke landschap behoudt. De uitspraak komt te midden van voortdurende discussies over partijverhoudingen en de politieke dynamiek in Turkije. (Hürriyet Daily News, 2 augustus 2026, https://www.hurriyetdailynews.com/erdogan-says-akp-by-far-leading-party-in-turkiye-225121)
+- **Oppositieleider Özel richt nieuwe partij op, haalt ₺113,8 miljoen op in 24 uur** Voormalig CHP-leider **Özgür Özel** lanceerde de **Nieuwe Partij** en haalde in de eerste 24 uur **113,8 miljoen Turkse lira** ($2,4 miljoen) op via crowdfunding. De partij heeft geen toegang tot staatsfinanciering maar claimt **meer dan 40%** van de kiezers te kunnen bereiken. (Daily Sabah, augustus 2026, https://www.dailysabah.com/politics/turkiyes-penniless-new-party-sets-the-bar-high/news)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Frankrijk stelt verlaging tandartsvergoedingen voor vanaf 2027** De Franse overheid heeft een voorstel ingediend om de **vergoedingen voor tandheelkundige zorg** te verlagen vanaf 2027. De maatregel zou de dekking van de **sociale zekerheid** voor tandheelkundige ingrepen aanzienlijk wijzigen. (The Connexion, 2 augustus 2026, https://www.connexionfrance.com/news/france-proposes-reducing-dental-care-reimbursements-from-2027/805865)
+- **Parlement verbiedt sociale media voor kinderen onder 15** Het Franse parlement keurde op **21 juli** een verbod goed op sociale media voor kinderen onder **15 jaar**, als eerste EU-land. Nieuwe accounts worden geblokkeerd vanaf **1 september 2026**; bestaande accounts volgen in **januari 2027**. President **Macron** noemde het een "grote stap voorwaarts". (France 24, 21 juli 2026, https://www.france24.com/en/france/20260721-french-lawmakers-expected-to-pass-social-media-ban-for-children-under-15)
 ---
 
 ## 🇩🇪 Duitsland
-- **Kinderboekenuitgever eist onderwijshervorming: 'We worden door middelmatigheid geregeerd'** **Julia Bielenberg**, CEO van uitgeverij Oetinger, bekritiseert het Duitse onderwijsbeleid als **'Trippelschritte'** (kleine stapjes). Zij pleit voor een brede hervorming terwijl haar bedrijf nieuwe verdienmodellen zoekt in een uitdagende markt. (Handelsblatt, 2 augustus 2026, https://www.handelsblatt.com/unternehmen/it-medien/medien-vom-mittelmass-regiert-verlegerin-fordert-bildungsreform/100238487.html)
+- **IW verlaagt groeiprognose naar 0,4% door Iran-oorlog en energiecrisis** Het Institut der deutschen Wirtschaft (IW) heeft de groeiprognose voor 2026 verlaagd naar slechts **0,4%**. Econoom **Michael Grömling** waarschuwt dat de Iran-oorlog het prille herstel wurgt: stijgende energieprijzen en verstoorde toeleveringsketens treffen een economie die na **drie jaar recessie** nauwelijks buffers heeft. De inflatie wordt geraamd op **3%**. (Handelsblatt, 2026, https://www.handelsblatt.com/politik/konjunktur/wirtschaft-iw-senkt-konjunkturprognose-fuer-2026-deutlich/100223061.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Russische providers schrappen datakosten voor staatsmessenger Max** Telecomproviders **MTS, MegaFon en Beeline** bieden vanaf 1 augustus gratis data aan voor spraakoproepen en berichten via de door de staat gesteunde **Max-messenger**. De maatregel is onderdeel van de Russische strategie om een binnenlands alternatief voor westerse communicatieplatforms te promoten. (The Moscow Times, 31 juli 2026, https://www.themoscowtimes.com/2026/07/31/russian-mobile-carriers-waive-data-fees-for-state-backed-max-messenger-a93386)
+- **Oekraïense drones doden 8 mensen en raken Wildberries-magazijn** Oekraïense droneaanvallen doodden minstens **8 mensen** in Russische regio's en troffen een magazijn van **Wildberries**, Ruslands grootste online retailer, in de regio **Samara**. Ruslands defensieministerie meldde **635 drones** te hebben neergehaald. Het begrotingstekort bereikte in het eerste halfjaar bijna **6 biljoen roebel** ($77,4 miljard) door recorduitgaven aan defensie. (The Moscow Times, 2 augustus 2026, https://www.themoscowtimes.com/2026/08/02/ukrainian-drones-kill-8-in-russia-and-strike-wildberries-warehouse-a93396)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **VK investeert £8 miljard in nucleaire onderzeeërs** Premier **Andy Burnham** bezocht de Submarine Academy van **BAE Systems** om een investering van **£8 miljard** in de ontwikkeling van nucleaire onderzeeërs aan te kondigen. De investering versterkt de Britse defensie-infrastructuur en marinecapaciteit aanzienlijk. (Euronews, 31 juli 2026, https://www.euronews.com/2026/07/31/uk-announces-8-billion-investment-in-nuclear-submarines)
+- **Labour-crisis: meer dan 95 parlementsleden eisen vertrek Starmer** De Labourpartij van premier **Keir Starmer** verkeert in een diepe crisis: meer dan **95 parlementariërs** hebben opgeroepen tot zijn aftreden. **Reform UK** van **Nigel Farage** is inmiddels de populairste partij van het land, terwijl Labour sinds de verkiezingswinst van 14 maanden geleden **een derde** van zijn steun heeft verloren. (Wikipedia / Brookings, augustus 2026, https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_crisis)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Democraten zien kans op Huis-zetel nu beschuldigingen tegen GOP-lid groeien** Meerdere beschuldigingen van huiselijk geweld zijn opgedoken tegen een **Republikeins congreslid uit Ohio**, wat Democraten een kans biedt om een zetel in het Huis van Afgevaardigden over te nemen. De groeiende druk bemoeilijkt de **herverkiezingscampagne** van de Republikein aanzienlijk. (ABC News, 2 augustus 2026, https://abcnews.com/Politics/wireStory/democrats-chance-flip-us-house-seat-abuse-claims-135283671)
+- **VS koopt voor het eerst sinds 1998 yen op valutamarkt** Minister van Financiën **Scott Bessent** voerde de eerste aankoop van Japanse yen door de VS uit sinds **1998**, tijdens de Aziatische financiële crisis. De interventie markeert een nieuwe fase in het valutabeleid van de Trump-administratie, terwijl de **Magnificent 7**-aandelen, consumentenvertrouwen en de economie allemaal neerwaarts bewegen. (Bloomberg, 3 augustus 2026, https://www.bloomberg.com/news/newsletters/2026-08-03/bessent-plays-currency-market-chess-with-likely-eye-on-us-treasury-yields)
 ---
 
 ## 🇮🇳 India
-- **Modi lanceert landelijke campagne tegen drugsgebruik onder jongeren** Premier **Narendra Modi** heeft een nationale campagne gestart om jongeren te ontmoedigen drugs te gebruiken. Het initiatief richt zich op **bewustwording en preventie** en past in een breder **volksgezondheidsbeleid** tegen middelenmisbruik. (Business Standard, 2 augustus 2026, https://www.business-standard.com/india-news/pm-modi-launches-nationwide-campaign-urging-youth-to-shun-substance-abuse-126080200218_1.html)
+- **Kabinet keurt 'Samudra Manthan' goed: offshoreplan van ₹84.084 crore** Het kabinet van premier **Narendra Modi** keurde het **Samudra Manthan**-plan goed, een nationaal offshoreonderzoeksprogramma met een budget van **₹84.084 crore** (ca. $10 miljard). Het programma richt zich op diepwater-exploratie van olie en gas en moet meer dan **600 miljoen ton olie-equivalent** aan reserves opleveren voor **2031**. (PMIndia.gov.in, 2 augustus 2026, https://www.pmindia.gov.in/en/news_updates/cabinet-approves-samudra-manthan-national-offshore-exploration-scheme-with-an-outlay-of-rs-84084-crore/)
 ---
 
 ## 🇨🇳 China
-- **China Cotton Association veroordeelt VS-sancties tegen 43 Chinese bedrijven** De VS heeft **43 Chinese bedrijven**, waaronder katoentextielondernemingen, op de **Entity List** geplaatst wegens vermeende dwangarbeid. De China Cotton Association noemt de sancties **ongegrond** en waarschuwt dat ze de mondiale katoenketen ernstig ondermijnen. (Global Times, 2 augustus 2026, https://www.globaltimes.cn/page/202608/1367345.shtml)
+- **Politburo belooft macro-steun na vertraging bbp-groei naar 4,3%** Het Chinese Politburo beloofde het tempo van fiscale uitgaven te versnellen nadat de **bbp-groei** in het tweede kwartaal terugviel naar **4,3%**, tegenover **5%** in Q1. Peking kiest voor een gerichte aanpak met focus op **AI en halfgeleiders** in plaats van brede stimulering. De particuliere investeringen en vastgoedsector blijven zwak. (South China Morning Post, augustus 2026, https://www.scmp.com/economy/policy/article/3362364/chinas-politburo-pledges-policy-support-spending-counteract-sluggish-growth)
 ---
 
 ## 🇯🇵 Japan
-- **Opstand in LDP tegen Takaichi's plan om voedselbelasting te verlagen naar 1%** Premier **Takaichi**'s voorstel om de **voedselbelasting te verlagen naar 1%** stuit op fors verzet binnen haar eigen **Liberaal-Democratische Partij**. Parlementsleden vrezen dat de gederfde inkomsten later gecompenseerd moeten worden met **belastingverhogingen**. (Nikkei Asia, 2 augustus 2026, https://asia.nikkei.com/politics/ldp-revolt-grows-in-japan-over-takaichi-plan-to-cut-food-tax-to-1)
+- **Grootste valuta-interventie ooit: Japan verdedigt de yen** Premier **Sanae Takaichi** gaf opdracht tot wat mogelijk de **grootste eendaagse valuta-interventie** in de Japanse geschiedenis is, om de yen te stutten die naar een **40-jarig dieptepunt** was gezakt. De regering verlaagde de groeiprognose voor fiscaal 2026 van **1,3% naar 0,9%**. Het nieuwe minimumloon voor meer dan **50 miljoen werknemers** gaat in vanaf oktober. (Bloomberg, 3 augustus 2026, https://www.bloomberg.com/news/newsletters/2026-08-03/japan-s-takaichi-now-owes-trump-after-yen-intervention)
 ---
