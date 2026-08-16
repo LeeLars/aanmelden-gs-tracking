@@ -45,20 +45,19 @@
 - **Takaichi onthult investeringsplan van ¥370 biljoen met nadruk op AI en chips** Premier **Sanae Takaichi** presenteerde een groeistrategie van **¥370 biljoen ($2,3 biljoen)** aan publieke en private investeringen tot **2041**, verdeeld over **17 strategische sectoren**. Van het totaal gaat **¥101,6 biljoen** naar AI en halfgeleiders. De strategie focust op **"physical AI"** — de integratie van kunstmatige intelligentie met robotica — als kern van Japans industrieel herstel. (Nikkei Asia, augustus 2026, https://asia.nikkei.com/spotlight/policy-asia/can-takaichi-s-2.3tn-bet-on-industrial-policy-revive-growth-in-japan)
 ---
 
-## 📊 Marktoverzicht
-*Slotkoersen vrijdag 14 augustus / za 16 augustus 2026*
+## 📊 Marktoverzicht (slotkoersen vr 14 aug / za 16 aug)
 
-| Markt | Koers |
-|-------|-------|
-| Bitcoin (BTC) | $63.059 |
-| Ethereum (ETH) | $1.882 |
-| Goud | $4.389/oz |
-| Brent crude | $88,52/vat |
-| EUR/USD | 1,1577 |
-| S&P 500 | 7.785,76 |
-| AEX | 1.117,82 |
-| DAX | 26.440,31 |
-| Nikkei 225 | 68.741 |
+| Instrument | Koers | |
+|---|---|---|
+| Bitcoin (BTC) | $63.059 | |
+| Ethereum (ETH) | $1.882 | |
+| Goud | $4.389/oz | |
+| Brent crude | $88,52/vat | |
+| EUR/USD | 1,1577 | |
+| S&P 500 | 7.785,76 | |
+| AEX | 1.117,82 | |
+| DAX | 26.440,31 | |
+| Nikkei 225 | 68.741 | |
 
 ---
 
