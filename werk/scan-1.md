@@ -17,7 +17,7 @@
 ---
 
 ## 🇩🇪 Duitsland
-- **ZEW-conjunctuurbarometer stijgt naar hoogste stand sinds februari; Volksbanken verdubbelen groeiprognose** Het ZEW-conjunctuursentiment steeg in augustus met **7,9 punten** naar **+34,2**, de vierde maand op rij van herstel en het hoogste niveau sinds februari. De **Volksbanken en Raiffeisenbanken** verdubbelden hun groeiprognose ondanks de Iran-oorlog en lage waterstanden. Ex-vicekanselier **Habeck** vertrekt naar de private sector als Senior Advisor bij Urban Partners. (Handelsblatt, augustus 2026, https://www.handelsblatt.com/politik/deutschland/deutsche-wirtschaft-zew-konjunkturbarometer-steigt-auf-hoechststand-seit-februar/100248017.html)
+- **ZEW-conjunctuurbarometer stijgt naar hoogste stand sinds februari; Volksbanken verdubbelen groeiprognose** Het ZEW-conjunctuursentiment steeg in augustus met **7,9 punten** naar **+34,2**, de vierde maand op rij van herstel en het hoogste niveau sinds februari. De **Volksbanken en Raiffeisenbanken** verdubbelden hun groeiprognose ondanks de Iran-oorlog en lage waterstanden. Ex-vicekanselier **Habeck** vertrekt naar de private sector als Senior Advisor bij Urban Partners. (Handelsblatt, augustus 2026, https://www.handelsblatt.com/politik/deutschland/deutsche-wirtschaft-zew-konjunkturbarometer-steigt-op-hoechststand-seit-februar/100248017.html)
 ---
 
 ## 🇷🇺 Rusland
