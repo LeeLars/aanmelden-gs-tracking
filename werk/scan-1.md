@@ -1,6 +1,3 @@
-# MIJN NIEUWSKRANT
-### Zondag 23 augustus 2026
----
 # Nieuwsoverzicht 2026-08-23
 
 ## :belgium: België
@@ -45,28 +42,4 @@
 
 ## :jp: Japan
 - **Behoud van door atoombom getroffen gebouwen in Japan kampt met kostenprobleem** Japan worstelt met de **financiële uitdagingen** van het onderhouden van door de atoombom beschadigde gebouwen als historische monumenten. De conserveringsinspanningen vereisen **aanzienlijke investeringen** om deze belangrijke oorlogsmonumenten intact te houden voor toekomstige generaties. (Nikkei Asia, 23 augustus 2026, https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge)
----
-
----
-
-## Marktoverzicht
-
-| Markt | Koers | |
-|-------|------:|---|
-| Bitcoin (BTC) | $76.536 | |
-| Ethereum (ETH) | $2.426 | |
-| Goud (oz) | $4.602 | +1,9% |
-| Brent olie (bbl) | $93,87 | |
-| EUR/USD | 1,1690 | |
-| S&P 500 | 7.674 | |
-| AEX | 1.103 | |
-| DAX | 26.137 | +0,6% |
-| Nikkei 225 | 65.988 | |
-
----
-
-## De Grote Lijnen
-
-Van Amsterdam tot Ankara verschuift overheidsmacht: burgemeesters in het Verenigd Koninkrijk krijgen planningsbevoegdheid, het Indiase Hooggerechtshof trekt het taalbeleid in twijfel en Turkije hervormt zijn goudbeleid — overal herschikken staten de relatie tussen centraal gezag en burgerrechten. Tegelijkertijd worden markten gedreven door technologie en geopolitiek: Alibaba's AI-offensief van $10 miljard weerspiegelt de mondiale chiprace, terwijl Brent-olie boven $93 noteert door aanhoudende spanningen rond de Straat van Hormuz. De Europese politiek bereidt zich voor op een nieuw seizoen — Merz zet in op groei in Berlijn, Glucksmann springt in de Franse presidentsrace — terwijl Poetins nieuwe mobilisatieplannen het conflict in Oost-Europa verder laten escaleren. De rode draad: overheden zoeken economische slagkracht in een wereld waar handelsbelangen, veiligheid en technologische soevereiniteit onlosmakelijk verweven raken.
-
 ---
