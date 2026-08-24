@@ -1,45 +1,45 @@
-# Nieuwsoverzicht 2026-08-23
+# Nieuwsoverzicht 2026-08-24
 
 ## :belgium: België
-- **Trump deed in juni meer dan 1.000 beurstransacties: opnieuw vragen over belangenvermenging** De voormalige Amerikaanse president voerde in juni meer dan **1.000 aandelentransacties** uit, wat opnieuw zorgen oproept over mogelijke belangenvermenging. De handelsactiviteiten roepen vragen op over ethische complicaties en de verwevenheid van zijn financiële belangen met zijn politieke posities. (VRT NWS, 23 augustus 2026, https://www.vrt.be/vrtnws/nl/2026/08/23/trump-deed-in-juni-meer-dan-1-000-beurstransacties/)
+- **België lanceert nieuwe staatsbon met netto rendement van 1,93%** De Belgische overheid heeft een nieuwe **1-jarige staatsbon** uitgegeven met een netto rendement van **1,93%**. Het aanbod past in de strategie van het **Agentschap van de Schuld** voor kortlopende schuldfinanciering en trekt vooral particuliere beleggers aan. (VRT NWS, 24 augustus 2026, https://www.vrt.be/vrtnws/nl/2026/08/24/staatsbon-1-jaar-10-jaar-rendement/)
 ---
 
 ## :netherlands: Nederland
-- **Amsterdam heeft straks bijna de hoogste toeristenbelasting ter wereld** Amsterdam verhoogt de toeristenbelasting van **12,5% naar 20%**, waarmee de stad een van de duurste ter wereld wordt voor toeristen. De maatregel is bedoeld om het aantal bezoekers terug te dringen en tegelijk meer inkomsten te genereren via hogere verblijfsbelasting. (NOS, 23 augustus 2026, https://nos.nl/artikel/2627947-amsterdam-heeft-straks-bijna-de-hoogste-toeristenbelasting-ter-wereld)
+- **Amsterdamse sportschoolketen Saints & Stars krijgt ruim drie ton aan boetes** De Amsterdamse fitnessketen **Saints & Stars** heeft boetes opgelegd gekregen van in totaal **€316.875** wegens diverse overtredingen. Medewerkers bleken niet over de juiste **certificeringen en vergunningen** te beschikken, wat leidde tot handhavingsmaatregelen. (NOS, 24 augustus 2026, https://nos.nl/artikel/2628120-ruim-drie-ton-aan-boetes-voor-amsterdamse-sportschoolketen-saints-and-stars)
 ---
 
 ## :turkey: Turkije
-- **Centrale Bank beëindigt fysiek goudconversieprogramma** De Turkse **Centrale Bank** heeft haar programma voor fysieke goudconversie stopgezet. Deze beleidswijziging markeert een belangrijke verandering in Turkijes aanpak van gouddiensten en de toegankelijkheid van edele metalen voor burgers. (Hürriyet Daily News, 23 augustus 2026, https://www.hurriyetdailynews.com/central-bank-ends-physical-gold-conversion-scheme-225921)
+- **Turkse centrale bank hervat repo-veilingen na pauze van bijna zes maanden** De **Centrale Bank van Turkije** heeft na een onderbreking van bijna **zes maanden** haar repo-veilingen weer opgestart. De hervatting signaleert een verschuiving in het monetaire beleid en de **liquiditeitsbeheerstrategie** van de bank. (Daily Sabah, 24 augustus 2026, https://www.dailysabah.com/business/economy/turkish-central-bank-resumes-repo-auctions-after-nearly-6-month-pause)
 ---
 
 ## :fr: Frankrijk
-- **Centrumlinkse Glucksmann stapt in overvolle Franse presidentsrace** **Raphaël Glucksmann**, centrumlinkse politicus, heeft aangekondigd mee te doen aan de **presidentsverkiezingen van 2027** in Frankrijk. Zijn kandidatuur voegt nog een naam toe aan het al drukke kandidatenveld voor de komende verkiezingscyclus. (The Local France, 23 augustus 2026, https://www.thelocal.fr/20260823/centre-left-glucksmann-to-enter-frances-crowded-presidential-race)
+- **Frankrijk riskeert begrotingstekort zonder begroting vóór verkiezingen** Zonder goedkeuring van een **begroting voor 2027** dreigt het Franse begrotingstekort met minstens **0,5% van het bbp** op te lopen, aldus de **Cour des Comptes**. De politieke impasse rond premier **Sébastien Lecornu** bemoeilijkt hervormingen, terwijl de **Banque de France** slechts **0,5% groei** voorspelt. (Bloomberg, 20 augustus 2026, https://www.bloomberg.com/news/articles/2026-08-20/france-risks-deficit-blowout-without-budget-before-elections)
 ---
 
 ## :de: Duitsland
-- **Merz verklaart groei en werkgelegenheid tot topprioriteiten** Bondskanselier **Friedrich Merz** is terug van zomervakantie en ontmoet vanaf dinsdag zijn nieuw samengestelde kabinet. Hij heeft **economische groei en werkgelegenheid** als belangrijkste prioriteiten aangemerkt voor de komende vergaderingen. (Handelsblatt, 23 augustus 2026, https://www.handelsblatt.com/politik/deutschland/bundeskanzler-merz-erklaert-wachstum-und-beschaeftigung-zu-prioritaeten/100249077.html)
+- **Merz wil coalitie eensgezind achter economische groei scharen** Bondskanselier **Friedrich Merz** werkt eraan zijn coalitiepartners op één lijn te krijgen rond **economische groei** als topprioriteit. De zwart-rode regering staat voor grote uitdagingen bij het doorvoeren van hervormingen op het gebied van **pensioenen, gezondheidszorg en belastingen**. (Handelsblatt, 24 augustus 2026, https://www.handelsblatt.com/politik/deutschland/reformen-merz-will-koalitionaere-auf-wirtschaftswachstum-einschwoeren/100249333.html)
 ---
 
 ## :ru: Rusland
-- **Poetin wil 300.000 nieuwe soldaten oproepen, zegt Zelensky** Oekraïens president **Volodymyr Zelensky** verklaarde dat Poetin van plan is **300.000 extra soldaten** op te roepen, met een mogelijk totaal van **500.000 tegen 2027**. Dit signaleert Ruslands voortdurende militaire expansie te midden van het aanhoudende conflict met Oekraïne. (The Moscow Times, 23 augustus 2026, https://www.themoscowtimes.com/2026/08/23/putin-wants-to-draft-300k-new-troops-zelensky-says-a93562)
+- **Russische overheid stelt belastingverlichting voor aan Wildberries na droneaanvallen** Minister van Financiën **Anton Siluanov** kondigde steunmaatregelen aan voor e-commerceplatforms die getroffen zijn door Oekraïense droneaanvallen. Het pakket omvat **uitstel van belastingen en verzekeringspremies** en een **bevriezing van belastingcontroles** voor getroffen bedrijven zoals **Wildberries**. (The Moscow Times, 24 augustus 2026, https://www.themoscowtimes.com/2026/08/24/russian-government-proposes-tax-relief-for-wildberries-and-sellers-after-drone-attacks-a93564)
 ---
 
 ## :gb: Verenigd Koninkrijk
-- **Burnham geeft burgemeesters macht om gemeenteraden te overrulen bij bouwplannen** Premier **Andy Burnham** verleent regionale burgemeesters in **13 regio's**, waaronder Manchester, Liverpool en de West Midlands, de bevoegdheid om lokale gemeenteraden te overrulen bij planningsbeslissingen voor grootschalige bouwprojecten. (City AM, 23 augustus 2026, https://www.cityam.com/burnham-to-hand-mayors-power-to-overrule-local-councils-planning-decisions/)
+- **Premier Burnham staat voor economische afrekening met naderende begroting** De nieuwe premier **Andy Burnham** profiteert van gunstige peilingen, maar de **begroting** over twee maanden wordt een vuurproef. De **werkloosheid** bleef stabiel op **4,9%**, terwijl de **jeugdwerkloosheid** steeg naar **16,4%** en het bbp slechts **0,7%** groeide over drie maanden. (Bloomberg, 24 augustus 2026, https://www.bloomberg.com/opinion/articles/2026-08-24/uk-budget-burnham-s-poetic-beginning-will-soon-turn-to-prose)
 ---
 
 ## :us: Verenigde Staten
-- **Abbott verwerpt GOP-zorgen: Texaanse kiezers zullen massaal stemmen voor Paxton** Gouverneur **Greg Abbott** toonde zich vol vertrouwen over de Republikeinse vooruitzichten in Texas en wuifde zorgen binnen de partij weg. Hij stelde dat Texaanse kiezers enthousiast de kandidaat zullen steunen, en besprak ook het functioneren van president **Trump**. (ABC News, 23 augustus 2026, https://abcnews.com/Politics/gov-abbott-dismisses-gop-worries-texas-voters-rushing/story?id=135872747)
+- **Amerikaanse staatsschuld bereikt recordhoogte van $40 biljoen** De federale schuld van de VS bereikte deze week een historisch record van **$40 biljoen**, een verdubbeling sinds 2017. De jaarlijkse **rentelasten** bedragen inmiddels meer dan **$1 biljoen**, terwijl handelsgesprekken met **Canada** zijn vastgelopen en vergeldingstarieven op **8 september** ingaan. (CNBC, 24 augustus 2026, https://www.cnbc.com/us-economy/)
 ---
 
 ## :india: India
-- **Hooggerechtshof uit zorgen over CBSE-drietalenbeleid** Het Indiase **Hooggerechtshof** heeft vraagtekens gezet bij het drietalenbeleid van de **CBSE**, specifiek over de verplichting van Engels als niet-moedertaal vanaf de **zesde klas**. De uitspraak weerspiegelt toenemende rechterlijke controle op het onderwijsbeleid in India. (Business Standard, 23 augustus 2026, https://www.business-standard.com/education/news/supreme-court-cbse-three-language-policy-english-non-native-class-six-126082100664_1.html)
+- **BJP regeert nu 21 deelstaten na verovering van West-Bengalen** De **BJP** van premier **Narendra Modi** bestuurt na de recente deelstaatverkiezingen nu **21 van de Indiase deelstaten**, alleen of in coalitie. De verovering van **West-Bengalen** maakt de Modi-regering de sterkste sinds **2019**, terwijl **Deloitte** een bbp-groei van **6,5% tot 6,8%** verwacht dit fiscale jaar. (The Print, augustus 2026, https://theprint.in/opinion/between-political-lines/the-modi-paradox-in-2026/2947630/)
 ---
 
 ## :cn: China
-- **Alibaba geeft $10 miljard aan nieuwe aandelen uit voor wereldwijde AI-push** De Chinese techgigant kiest voor een **"full stack"-aanpak** en beweegt voorbij retail richting chips, clouddiensten en grote taalmodellen. De stijgende AI-uitgaven drukken op de **kwartaalwinsten** van het bedrijf, terwijl het deze ambitieuze technologische diversificatie nastreeft. (South China Morning Post, 23 augustus 2026, https://www.scmp.com/tech/big-tech/article/3364957/alibaba-issue-hk80-billion-new-shares-global-ai-push)
+- **Bankenveteraan Li Yun benoemd op topposities in Shenzhen voor APEC-top** **Li Yun**, een bankier met **21 jaar ervaring**, heeft de topposities in Shenzhen overgenomen van **Qin Weizhong**. De leiderschapswissel is onderdeel van de voorbereidingen voor de **APEC-top** die China in **november 2026** organiseert. (South China Morning Post, 24 augustus 2026, https://scmp.com/news/china/politics/article/3365065/banking-veteran-li-yun-fills-senior-shenzhen-posts-countdown-apec)
 ---
 
 ## :jp: Japan
-- **Behoud van door atoombom getroffen gebouwen in Japan kampt met kostenprobleem** Japan worstelt met de **financiële uitdagingen** van het onderhouden van door de atoombom beschadigde gebouwen als historische monumenten. De conserveringsinspanningen vereisen **aanzienlijke investeringen** om deze belangrijke oorlogsmonumenten intact te houden voor toekomstige generaties. (Nikkei Asia, 23 augustus 2026, https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge)
+- **Takaichi-regering boekt wetgevend schone lei: alle 65 wetten aangenomen** Premier **Sanae Takaichi** slaagde erin alle **65 wetsvoorstellen** door het parlement te loodsen. Japan en de VS voerden een **gezamenlijke yeninterventie** uit — de eerste sinds **1998** — ter waarde van naar schatting **8-9 biljoen yen**, waarna de yen van ¥164 naar **¥157,74** steeg. (Langley Esquire, 9 augustus 2026, https://langleyesquire.com/en/japanese-politics-updates-20260809/)
 ---
