@@ -1,45 +1,45 @@
-# Nieuwsoverzicht 2026-09-01
+# Nieuwsoverzicht 2026-09-02
 
 ## 🇧🇪 België
-- **Heylen Group koopt Audi-site in Vorst** De **Heylen Group**, een divers conglomeraat actief in barbecues, heftrucks en magazijnen, neemt de voormalige **Audi-fabriek in Vorst** over. De overname is een belangrijke economische ontwikkeling voor de regio na het vertrek van Audi. (VRT NWS, 1 september 2026, https://www.vrt.be/vrtnws/nl/2026/09/01/heylen-group-portret-overname-audi-vorst/)
+- **Benzineprijs stijgt boven 2 euro, hoogste niveau sinds 2022** De benzineprijs in België stijgt woensdag boven de **€2 per liter**, het **hoogste niveau sinds 2022**. De stijging weerspiegelt bredere energieprijsverhogingen die consumenten en bedrijven in heel België treffen. (VRT NWS, 2 september 2026, https://www.vrt.be/vrtnws/nl/liveblog/benzineprijs-stijgt-morgen-boven-2-euro-hoogste-niveau-sinds-20~1774343778229/)
 ---
 
 ## 🇳🇱 Nederland
-- **Bezuinigingen sociale zekerheid grotendeels geschrapt** Eerste details van de **Prinsjesdagstukken** zijn uitgelekt: geplande bezuinigingen op de sociale zekerheid worden **grotendeels teruggedraaid**. Dit markeert een significante beleidswijziging ten opzichte van eerdere begrotingsplannen van het kabinet. (NOS, 1 september 2026, https://nos.nl/artikel/2629262-bezuinigingen-sociale-zekerheid-grotendeels-geschrapt-eerste-details-prinsjesdagstukken-uitgelekt)
+- **Nederland haalt groot deel goudvoorraad weg uit VS en Canada** De **Nederlandsche Bank** verplaatste **86 ton goud** — ruim een kwart van de voorraad in New York en Canada — naar **Londen** en de kluis in **Zeist**. Het aandeel in New York daalde van **31,3% naar 18,5%** van de totale reserves. DNB wil "beter voorbereid zijn op ernstige crises"; circa **27 ton** werd fysiek naar Zeist getransporteerd. (NOS, 2 september 2026, https://nos.nl/artikel/2629369-nederland-haalt-groot-deel-van-de-goudvoorraad-weg-uit-de-vs-en-canada)
 ---
 
 ## 🇹🇷 Turkije
-- **Erdoğan ontmoet Poetin bij SCO-top in Bisjkek** President **Recep Tayyip Erdoğan** sprak met de Russische president **Vladimir Poetin** tijdens de **Shanghai Cooperation Organisation**-top in Bisjkek, Kirgizië. Erdoğan benadrukte de versterking van de diplomatieke banden tussen Turkije en Rusland. (Daily Sabah, 1 september 2026, https://www.dailysabah.com/politics/diplomacy/erdogan-meets-putin-in-bishkek-hails-advanced-ties)
+- **Turkije lanceert 'Eeuw van Justitie' met gerechtelijke hervormingen** Minister van Justitie **Akın Gürlek** presenteerde hervormingsplannen bij de opening van het gerechtelijk jaar, waaronder de **'Alo Adalet 135'-klachtenlijn** (pilot in Ankara, Izmir en Kayseri, landelijke uitrol in **oktober 2026**). Nieuwe efficiëntiekantoren monitoren doorlooptijden van rechtszaken en forensische technologie wordt ingezet voor onopgeloste zaken. (Daily Sabah, 2 september 2026, https://www.dailysabah.com/politics/turkiye-aims-for-century-of-justice-with-judicial-reforms-minister/news)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Economie domineert eerste presidentieel debat** Zeven kandidaten — waaronder **Marine Le Pen**, **Jean-Luc Mélenchon**, **Gabriel Attal** en **Édouard Philippe** — clashen over economie, staatsschuld en pensioenhervorming in een debat gehost door **MEDEF** op Roland-Garros. Le Pen wil de Franse EU-bijdrage van **€29 miljard naar €5 miljard** verlagen; Mélenchon pleit voor pensioenleeftijd **60 jaar**. (Euronews, 28 augustus 2026, https://www.euronews.com/my-europe/2026/08/28/economy-dominates-first-debate-of-french-presidential-candidates)
+- **Macron bezoekt Bayeux-tentoonstelling in Londen en ontmoet Burnham** President **Emmanuel Macron** reist naar Londen voor de **Bayeux Tapestry-tentoonstelling** en ontmoet **Andy Burnham**, burgemeester van Greater Manchester. Burnham wordt daarmee de eerste **Britse regionale leider** die een grote Europese regeringsleider ontvangt — een diplomatiek signaal richting het post-Brexit VK. (Euronews, 2 september 2026, https://www.euronews.com/my-europe/2026/09/02/macron-set-to-be-first-european-leader-to-meet-andy-burnham-during-london-trip-for-bayeux-)
 ---
 
 ## 🇩🇪 Duitsland
-- **AfD peilt boven 40% voor verkiezingen Saksen-Anhalt** De **AfD** staat op meer dan **40%** in peilingen voor de deelstaatverkiezingen in **Saksen-Anhalt op 6 september** — genoeg voor een absolute meerderheid. Dit zou een historisch precedent zijn: nog nooit regeerde de extreemrechtse partij alleen. Verdere verkiezingen volgen in **Berlijn** en **Mecklenburg-Vorpommern** op 20 september. (The Local, 26 augustus 2026, https://www.thelocal.de/20260826/analysis-the-five-big-challenges-facing-germany-this-september)
+- **Kabinet beschließt hervorming inkomstenbelasting** Minister van Financiën **Lars Klingbeil** presenteerde een hervorming van de inkomstenbelasting gericht op **lage en middeninkomens**. Het bedrijfsleven reageerde met forse kritiek op het voorstel van de regering en uitte zorgen over de economische gevolgen van de lastenverlichting. (Handelsblatt, 2 september 2026, https://www.handelsblatt.com/politik/deutschland/bundesregierung-kabinett-beschliesst-reform-der-einkommensteuer/100251469.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Bessent waarschuwt Rusland: geen economische steun zolang oorlog duurt** De Amerikaanse minister van Financiën **Bessent** heeft de Russische minister **Siluanov** meegedeeld dat er geen economische hulplijnen komen zolang de **oorlog in Oekraïne** voortduurt. De boodschap werd overgebracht tijdens de **G20-top** van ministers van Financiën. (The Moscow Times, 1 september 2026, https://www.themoscowtimes.com/2026/09/01/bessent-reportedly-tells-russian-finance-minister-no-economic-lifelines-until-ukraine-war-ends-a93611)
+- **Poetin noemt mobilisatiegeruchten 'complete onzin'** President **Vladimir Poetin** verwierp speculatie over een nieuwe mobilisatie als een **"informatieaanval op Rusland"**. Oekraïense inlichtingendiensten waarschuwden dat Rusland plannen treft om **600.000 mannen** te mobiliseren in 2026-2027. In september 2022 mobiliseerde Poetin **300.000 reservisten**; het Kremlin voerde inmiddels digitale oproepsystemen en jaarronde dienstplichtverwerking in. (The Moscow Times, 2 september 2026, https://www.themoscowtimes.com/2026/09/02/complete-nonsense-putin-dismisses-mobilization-rumors-a93621)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **House of Lords debatteert AI-regulering en datacenter-aansprakelijkheid** Het Britse **House of Lords** begint deze week (1-4 september) met gedetailleerde behandeling van wetgeving over **kunstmatige intelligentie**, incidenten bij datacenters en **aansprakelijkheid van bestuurders**. De groei voor **2026** wordt geschat op **1,1%**, lager dan de eerder voorspelde 1,4%. (UK Parliament, 1 september 2026, https://www.parliament.uk/business/news/2026/august-2026/whats-on-in-the-lords-1-september-4-september/)
+- **Milo Yiannopoulos spreekt zich uit na deportatie uit VS** De Britse extreemrechtse commentator **Milo Yiannopoulos** sprak zich publiekelijk uit nadat hij uit de **Verenigde Staten** werd gedeporteerd. Hij verklaarde "echt doodsbang" te zijn over zijn situatie — de deportatie markeert een opmerkelijke politieke ommekeer voor de voormalige **Breitbart**-figuur. (Al Jazeera, 2 september 2026, https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Wall Street opent september met forse daling door olieprijzen** De **Dow Jones** verloor **301 punten (-0,6%)**, de **S&P 500** daalde **0,7%** en de **Nasdaq** zakte **1,1%** op de eerste handelsdag van september. Stijgende olieprijzen (rond **$85/vat**) en spanningen in het Midden-Oosten duwden de **10-jaars Treasury-rente** naar **4,756%**, wat vrees voor verdere Fed-verkrapping aanwakkert. (CNBC, 1 september 2026, https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html)
+- **Trump $1-munten in omloop, bevestigt US Mint** De **US Mint** bevestigde dat **$1-munten met het portret van president Donald Trump** per 2 september in omloop zijn gebracht. De munten zijn ook beschikbaar via de website van de Mint — het is de nieuwste toevoeging aan de **Presidential $1 Coin**-serie. (ABC News, 2 september 2026, https://abcnews.com/Politics/trump-1-coins-circulation-us-mint/story?id=136142051)
 ---
 
 ## 🇮🇳 India
-- **VB-GRAM G Act vervangt MGNREGA: werkgarantie onder druk** De Indiase overheid verving de **MGNREGA** door de **Viksit Bharat — Guarantee for Rozgar & Ajeevika Mission (Gramin) Act** per 1 juli 2026. Werkdagen stortten in met **68%** (van 65,74 crore naar 14,94 crore persoonsdagen). Het **Hooggerechtshof** onderzoekt of het **recht op werk** gelijkgesteld moet worden met Artikel 21 (recht op leven). (Legacy IAS, 1 september 2026, https://www.legacyias.com/current-affairs-01-september-2026/)
+- **AI drijft salarisstijgingen in India door schaarste aan talent** Indiase werkgevers verhogen salarissen voor **AI-specialisten** fors vanwege het beperkte aanbod van gekwalificeerd personeel. **Kunstmatige intelligentie** is de snelst groeiende vaardigheid op de arbeidsmarkt; bedrijven bieden **premiumpakketten** om schaars talent aan te trekken in de concurrentiestrijd om digitale transformatie. (Business Standard, 2 september 2026, https://www.business-standard.com/industry/news/ai-leads-salary-growth-in-india-as-employers-pay-more-for-scarce-skills-126090200640_1.html)
 ---
 
 ## 🇨🇳 China
-- **China ontdekt groot koper- en goudveld in Anhui** Het Ministerie van Natuurlijke Hulpbronnen maakte de ontdekking bekend van het **Chating-veld** in Xuancheng, provincie **Anhui**: meer dan **1 miljoen ton koper** en **200 ton goud**. De vondst is strategisch belangrijk in de race met de VS om kritieke grondstoffen. (South China Morning Post, 1 september 2026, https://www.scmp.com/economy/china-economy/article/3365997/race-us-critical-resources-china-discovers-major-copper-and-gold-deposit)
+- **China dringt aan op mondiale AI-samenwerking vóór Xi-Trump-top** Minister van Wetenschap en Technologie **Yin Hejun** pleitte voor samenwerking rond kunstmatige intelligentie op een **G20-innovatietop** in Chapel Hill, North Carolina. Met een ontmoeting tussen **Xi Jinping** en **Donald Trump** op komst en oplopende techspanningen, gebruikte Beijing het forum om **coöperatie boven rivaliteit** te stellen. (South China Morning Post, 2 september 2026, https://scmp.com/tech/tech-war/article/3366143/china-urges-global-ai-cooperation-not-rivalry-ahead-xi-trump-summit)
 ---
 
 ## 🇯🇵 Japan
-- **Sumitomo-CEO: van verdediging naar aanval in kapitaalefficiëntie** CEO **Shingo Ueno** van handelshuis **Sumitomo** verklaarde dat het "tijd is om van **verdediging naar aanval** over te schakelen" wat betreft kapitaalefficiëntie. Het bedrijf herverdeelt actief activa om operationele prestaties te verbeteren en kansen in opkomende markten te benutten. (Nikkei Asia, 1 september 2026, https://asia.nikkei.com/editor-s-picks/interview/sumitomo-boosts-capital-efficiency-by-actively-shifting-assets-ceo)
+- **BOJ-gouverneur: renteverhoging op tafel bij elke vergadering** Bank of Japan-gouverneur **Kazuo Ueda** verklaarde dat renteverhogingen **bij elke beleidsvergadering** overwogen worden, inclusief de bijeenkomst later deze maand. De uitspraak onderstreept het streven van de BOJ om het **monetaire beleid te normaliseren** na jaren van ultrasoepel beleid. (Nikkei Asia, 2 september 2026, https://asia.nikkei.com/economy/bank-of-japan/boj-chief-says-rate-hikes-on-table-at-every-meeting-including-this-month-s)
 ---
