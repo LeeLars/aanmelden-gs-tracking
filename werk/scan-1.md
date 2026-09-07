@@ -1,6 +1,3 @@
-# MIJN NIEUWSKRANT
-### Maandag 7 september 2026
----
 # Nieuwsscan 7 september 2026
 
 ## :belgium: België
@@ -46,25 +43,3 @@
 ## :jp: Japan
 - **VS eist 3,5% bbp defensieuitgaven; Japan zoekt creatieve oplossingen** Hoewel het Japanse defensiebudget dit jaar naar verwachting de **¥10 biljoen** overschrijdt, blijft dat ver onder de **3,5% bbp** die **Washington** eist. Japan verkocht vermoedelijk **$87,8 miljard** aan Amerikaanse staatsobligaties in augustus om record-yeninterventies te financieren. Tegelijk won **Yuichiro Tamaki** een derde termijn als leider van oppositiepartij **DPP** en noemde zijn mandaat tot 2029 "een periode om de machtsovername voor te bereiden." (Japan Times, 7 sep 2026, https://www.japantimes.co.jp/news/2026/09/07/japan/politics/japan-defense-budget-us-demands/)
 ---
-
-## Marktoverzicht (7 september 2026)
-
-| Markt | Koers | Verandering |
-|-------|-------|-------------|
-| Bitcoin (BTC) | $79.350 | +0,7% |
-| Ethereum (ETH) | $2.498 | +1,4% |
-| Goud (XAU) | $4.477 | — |
-| Brent olie | $97,39 | +1,15% |
-| EUR/USD | 1,1614 | — |
-| S&P 500 | 7.718,60 | — |
-| AEX | ~1.102 | -0,09% |
-| DAX | 26.046 | +0,17% |
-| Nikkei 225 | 66.300 | +2,0% |
-
-*Slotkoersen vr 4/5 sep voor westerse markten (weekend); Nikkei en crypto intraday ma 7 sep.*
-
----
-
-## De Grote Lijnen
-
-De wereldwijde **halfgeleiderwedloop** tekent zich vandaag scherper af dan ooit: terwijl België een chipspion oppakt, opent India een halfgeleidertop, en China's DeepSeek V4 de AI-markt opschudt — precies het soort concentratierisico waarvoor de Bank of England nu waarschuwt. **Geopolitieke fragmentatie** versnelt: de VS-Canada handelsoorlog escaleert met vergeldingstarieven op 8 september, Japan verkoopt massaal Amerikaanse staatsobligaties om de yen te verdedigen, en Turkije zoekt met thoriumtechnologie energieonafhankelijkheid van traditionele leveranciers. In Europa laat de **AfD-doorbraak in Saksen-Anhalt** zien hoe economische onzekerheid en migratiedruk radicale partijen voeden, terwijl Rusland met het schrappen van Jabloko elke democratische façade laat varen voor de Doemaverkiezingen. De **olieprijsstijging** (Brent boven $97) weerspiegelt de aanhoudende VS-Iran-spanningen en drukt op de groeiverwachtingen die Rabobank net had opgewaardeerd. Ondertussen raakt de **klimaatcrisis** nu ook Europa's traditionele sectoren: de slechtste Franse wijnoogst in 70 jaar is niet alleen een landbouwprobleem, maar een signaal dat extreme hitte structureel economische schade aanricht.
