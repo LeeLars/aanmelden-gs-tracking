@@ -43,3 +43,49 @@
 ## 🇯🇵 Japan
 - **Voormalige CDP-leden vormen nieuwe partij vanuit Centristische Hervormingsalliantie** Oud-leden van de **Constitutional Democratic Party** binnen de **Centrist Reform Alliance**, samen met **28 Komeito-gelieerde Lagerhuisleden**, bereiden de oprichting van een nieuwe partij voor. Ze keren waarschijnlijk terug naar **Komeito** vóór de volgende parlementszitting. Ondertussen liepen de verliezen door **goudbaarfraude** in Japan in H1 2026 op tot **¥8,13 miljard**, meer dan heel 2025. (The Japan Times, 16 sep 2026, https://www.japantimes.co.jp/news/2026/09/16/japan/politics/cra-members-new-party/)
 ---
+
+# Nieuwsoverzicht 17 september 2026
+
+## 🇧🇪 Belgie
+- **Kamervoorzitter De Roover boos na uitspraken Anders-voorzitter De Gucht** Kamervoorzitter **Peter De Roover (N-VA)** reageerde fel op beschuldigingen van Anders-voorzitter **De Gucht** over parlementair vakantiegedrag. De Roover ontkent **2 maanden vakantie** te hebben gehad en verdedigt het werkritme van het parlement. (VRT NWS, 17 september 2026, https://www.vrt.be/vrtnws/nl/liveblog/kamervoorzitter-peter-de-roover-nva-boos-na-uitspraken-anders~1780024580839/)
+---
+
+## 🇳🇱 Nederland
+- **Aantal werkenden vlakt af, mannen werken minder** Het aantal werkenden in Nederland stagneert en mannen verminderen hun **werkuren per week**. De trend weerspiegelt verschuivende arbeidspatronen in de Nederlandse economie. (NOS, 17 september 2026, https://nos.nl/artikel/2631353-aantal-werkenden-vlakt-af-mannen-werken-minder)
+---
+
+## 🇹🇷 Turkije
+- **Erdogan en Trump plannen ontmoeting in New York** President **Recep Tayyip Erdogan** en de Amerikaanse president **Donald Trump** komen volgende week bijeen in **New York**. De diplomatieke ontmoeting richt zich op bilaterale kwesties en internationale aangelegenheden in de Turks-Amerikaanse betrekkingen. (Daily Sabah, 17 september 2026, https://www.dailysabah.com/politics/diplomacy/erdogan-trump-set-for-ny-meeting-next-week)
+---
+
+## 🇫🇷 Frankrijk
+- **Franse vissers blokkeren havens om stijgende brandstofkosten** Franse vissers hebben havens geblokkeerd uit protest tegen de stijgende **brandstofprijzen**, terwijl een groot begrotingsdebat nadert. De acties onderstrepen de economische druk op de visserijsector te midden van aankomende fiscale onderhandelingen. (France24, 17 september 2026, https://www.france24.com/en/france/20260917-french-fishermen-blockade-ports-over-soaring-fuel-costs-as-budget-fight-looms)
+---
+
+## 🇩🇪 Duitsland
+- **DAX stijgt ondanks Fed-rentebesluit en dreigende handelstarieven** De Duitse **DAX-index** steeg met **0,77%** ondanks het rentebesluit van de Amerikaanse Federal Reserve en dreigementen rond handelstarieven. Een bouwbedrijf-aandeel stortte echter tot **26 procent** in waarde in. (Handelsblatt, 17 september 2026, https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-liegt-trotz-us-zinsentscheid-und-zolldrohung-im-plus/100255231.html)
+---
+
+## 🇷🇺 Rusland
+- **Raiffeisen Bank hielp Rusland sancties omzeilen, claimt rapport** Short-sellingfirma **Grizzly Research** beschuldigt de Oostenrijkse **Raiffeisen Bank** ervan meer dan **$1 miljard** aan Russische handel te hebben gefaciliteerd die westerse sancties omzeilde. Het rapport roept vragen op over de rol van financiele instellingen bij sanctieontwijking. (The Moscow Times, 17 september 2026, https://www.themoscowtimes.com/2026/09/17/raiffeisen-bank-helping-russia-circumvent-sanctions-report-claims-a93738)
+---
+
+## 🇬🇧 Verenigd Koninkrijk
+- **Premier Burnham navigeert buitenlands beleid en binnenlandse prioriteiten** Premier **Andy Burnham**, sinds juli 2026 Brittanniejs zevende premier, leidde het parlementsdebat bij terugkeer van het reces. De regering kondigde sancties aan tegen **nederzettingen op de Westelijke Jordaanoever** en Burnham presenteerde defensie- en veiligheidsprioriteiten. (ECIKS, 17 september 2026, https://eciks.org/27231-united-kingdom-political-roundup)
+---
+
+## 🇺🇸 Verenigde Staten
+- **Federal Reserve verhoogt rente met 0,25 procentpunt naar 3,75-4%** Fed-voorzitter **Kevin Warsh** kondigde de eerste renteverhoging in **drie jaar** aan, gedreven door aanhoudende inflatie door tarieven, energiekosten en AI-investeringen. President **Trump** bekritiseerde het besluit als politiek gemotiveerd, **zeven weken** voor de tussentijdse verkiezingen. (Substack/ru4people, 17 september 2026, https://ru4people.substack.com/p/morning-news-update-september-17)
+---
+
+## 🇮🇳 India
+- **Ministerie stelt Artikel 371K voor: speciale status voor Ladakh** Het ministerie van Binnenlandse Zaken bereikte een principebesluit met burgergroeperingen in **Ladakh** om een nieuw **Artikel 371K** in de Grondwet op te nemen. Dit voorziet in een direct gekozen raad met wetgevende bevoegdheid over land, cultuur, milieu en lokaal bestuur — een primeur voor een **Union Territory** zonder eigen parlement. (Insights on India, 17 september 2026, https://www.insightsonindia.com/2026/09/17/upsc-current-affairs-17-september-2026/)
+---
+
+## 🇨🇳 China
+- **Recordaantal afgestudeerden duwt jeugdwerkloosheid naar 18,9%** De jeugdwerkloosheid in China bereikte **18,9%** door een recordaantal universitair afgestudeerden op de arbeidsmarkt. De stijging weerspiegelt zorgen over **AI** die instapfuncties bedreigt, naast bestaande economische uitdagingen door zwakke binnenlandse vraag. (South China Morning Post, 17 september 2026, https://scmp.com/economy/economic-indicators/article/3367869/record-influx-university-graduates-pushes-chinas-youth-unemployment-rate-189)
+---
+
+## 🇯🇵 Japan
+- **Takaichi benadrukt continuiteit bij eerste kabinetswijziging** Premier **Sanae Takaichi** voerde op 17 september haar eerste kabinetswijziging door, met nadruk op stabiliteit in diplomatie en handel. Ze behield sleutelposities om consistent bestuur te waarborgen tijdens een periode van geopolitieke en economische uitdagingen. (Nikkei Asia, 17 september 2026, https://asia.nikkei.com)
+---
