@@ -1,6 +1,3 @@
-# MIJN NIEUWSKRANT
-### Maandag 5 oktober 2026
----
 # Nieuwsoverzicht 2026-10-04
 
 ## 🇧🇪 België
@@ -46,28 +43,3 @@
 ## 🇯🇵 Japan
 - **Premier Takaichi protesteert bij VS over arrestatie marinier op Okinawa** **Premier Takaichi** heeft formeel geprotesteerd bij de Verenigde Staten over de **arrestatie van een Amerikaans militair** op verdenking van moord in Okinawa. Het incident vormt een diplomatiek spanningspunt tussen **Japan en de VS** over het gedrag van Amerikaans militair personeel gestationeerd in de regio. (Nikkei Asia, 4 oktober 2026, https://asia.nikkei.com)
 ---
-
----
-
-## 📊 Marktoverzicht
-
-| Markt | Koers | Verandering |
-|-------|-------|-------------|
-| Bitcoin (BTC) | $86.564 | +2,1% |
-| Ethereum (ETH) | $2.717 | -1,5% |
-| Goud | $4.139/oz | -0,03% |
-| Brent olie | $101,31/vat | -0,9% |
-| EUR/USD | 1,12 | stabiel |
-| S&P 500 | 7.722 | +0,4% |
-| AEX | 1.117 | +1,3% |
-| DAX | 25.231 | +1,2% |
-| Nikkei 225 | 69.995 | +2,5% |
-
----
-
-## 🔗 De Grote Lijnen
-
-De Europese begrotingsdruk domineert deze week: België worstelt met een besparingsoperatie van €10 miljard terwijl Duitsland miljarden aan militaire hulp voor Oekraïne toezegt — een spanning tussen bezuinigen en geopolitieke investeringen die de hele EU raakt. De oorlog in Oekraïne blijft het geopolitieke zwaartepunt: Merz' bezoek aan Kyiv onder droneaanvallen onderstreept dat Europa zich opmaakt voor een langdurig conflict, met directe gevolgen voor energieprijzen (Brent boven $100) en defensiebegrotingen. Op technologisch vlak laat zowel Turkije (52% elektrische autoverkoop) als China (Huawei's Tau-chips) zien dat de verschuiving naar autonome technologieketens versnelt, los van westerse dominantie. De digitale kwetsbaarheid groeit ondertussen: Nederland kampt met massale hacks terwijl burgers 'datalekmoe' worden — een gevaarlijke apathie nu cyberdreigingen toenemen. De dalende goedkeuring van Trump (31%) en stijgende benzineprijzen in de VS wijzen op een breder westers onbehagen over kosten van levensonderhoud, dat ook in de Europese begrotingsdebatten doorklinkt.
-
----
-*Samengesteld op 2026-10-05*
