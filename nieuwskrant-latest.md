@@ -1,5 +1,5 @@
 # MIJN NIEUWSKRANT
-### Woensdag 7 oktober 2026
+### Donderdag 8 oktober 2026
 ---
 
 ## 🇧🇪 België
@@ -46,22 +46,27 @@
 - **Premier Takaichi verdedigt plan voor btw-verlaging op voedsel naar 1%** Premier **Sanae Takaichi** verdedigde in het parlement haar plan om de **consumptiebelasting op voedsel te verlagen naar 1%** vanaf april 2027, gecombineerd met **inkomensafhankelijke uitkeringen**. De **reële lonen** stegen voor de **achtste maand op rij** met **1,5%** in augustus — de langste stijging in bijna tien jaar. Tegelijkertijd kampt Takaichi met een schandaal rond landbouwminister **Kazuo Yana**, die het wegenbudget van gemeenten in Tochigi zou hebben gekort als politieke vergelding.
 ---
 
-## 📊 Marktoverzicht
+## Marktoverzicht (indicatief, 8 oktober 2026)
 
 | Instrument | Koers | Verandering |
 |---|---|---|
-| Bitcoin (BTC) | $83.076 | -5% |
-| Ethereum (ETH) | $2.617 | -5,3% |
-| Goud | $4.164/oz | +0,6% |
-| Brent olie | $101,24/vat | +0,7% |
-| EUR/USD | 1,1252 | -0,1% |
-| S&P 500 | 7.825 | +0,1% |
-| AEX | 1.128 | +0,4% |
-| DAX | 25.449 | +0,8% |
-| Nikkei 225 | 70.150 | -0,9% |
+| Bitcoin (BTC) | ~$83.000 | -5% |
+| Ethereum (ETH) | ~$2.700 | -5% |
+| Goud (XAU) | ~$4.430/oz | +0,6% |
+| Brent olie | ~$101/vat | +0,7% |
+| EUR/USD | 1,1613 | ▼ licht verzwakt |
+| S&P 500 | 7.802 | ▲ nabij record (7.819) |
+| AEX | 1.122 | ▲ nabij 52w-hoogte |
+| DAX | 26.331 | ▲ nabij hoogste stand |
+| Nikkei 225 | ~67.500 | ▲ sterk |
+
+*Bronnen: CoinGecko, FRED, Investing.com, Yahoo Finance, commodity.com, stock3.com. Koersen zijn indicatief en kunnen gedurende de handelsdag afwijken.*
 
 ---
 
-## 🔗 De Grote Lijnen
+## De Grote Lijnen
 
 Begrotingscrisis is de rode draad door Europa: België worstelt met een tekort van 5,2% van het bbp vlak voor de deadline van 13 oktober, Nederland mist opnieuw zijn begrotingsdeadline, en het VK bereidt onder zijn zevende premier in tien jaar een herfstbegroting voor met een gat van £22 miljard — overal dezelfde spanning tussen bezuinigen en sociale bescherming. De olieprijzen boven $100 per vat vormen een sluimerend gevaar: in Washington waarschuwen strategen al voor een correctie van 15% op aandelenmarkten als de combinatie van dure olie, hoge Treasury-rentes en een sterke dollar aanhoudt. Opvallend contrast tussen Oost en West: India verhoogt zijn groeiprognose naar 7,1% en Japan noteert recordstanden op de Nikkei met stijgende reële lonen, terwijl Duitsland al blij is met 1,3% groei en China vertraagt naar 4,6%. De crypto-markt corrigeert fors met BTC en ETH elk circa 5% lager, deels door angst voor een Fed-renteverhoging eind oktober. Frankrijk escaleert binnenlands met scholierenprotesten en politiegeweld rond schokgranaten, terwijl Rusland via Rosatom zijn strategische logistiek consolideert maar tegelijk kampt met een pestuitbraak in Irkoetsk die internationale alarm veroorzaakt.
+
+---
+*Samengesteld op donderdag 8 oktober 2026.*
