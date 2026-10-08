@@ -1,70 +1,45 @@
-# MIJN NIEUWSKRANT
-### Dinsdag 6 oktober 2026
----
-# Nieuwsoverzicht 2026-10-04
+# Nieuwsoverzicht 2026-10-08
 
 ## 🇧🇪 België
-- **Federale topministers hervatten onderhandelingen over begroting** Topministers kwamen op 4 oktober opnieuw samen om te onderhandelen over een **besparingsoperatie van €10 miljard tegen 13 oktober**. De gesprekken verlopen moeizaam, met geschillen over **btw-verhogingen, besparingen in de gezondheidszorg en vermogensbijdragen**. Het Brusselse begrotingstekort moet beperkt worden tot **€719 miljoen tegen eind 2027**. (VRT, 4 oktober 2026, https://www.vrt.be/vrtnws/nl/liveblog/federale-topministers-zitten-weer-samen-onderhandelingen-over-b~1790599460224/)
+- **Federale kern zonder begrotingsakkoord, deadline 13 oktober dreigt** De federale topministers gingen op 7 oktober uiteen **zonder akkoord over het werkkader** voor de begroting. Premier **Bart De Wever** moet circa **10 miljard euro** besparen; een akkoord is nodig tegen **13 oktober** voor de regeringsverklaring. De Belgische tienjaarsrente staat rond **4,4%**, het hoogste niveau in vijftien jaar. (VRT NWS, 8 oktober 2026, https://www.vrt.be/vrtnws/nl/liveblog/begrotingsoverleg-tussen-topministers-is-afgelopen-zonder-akkoo~1790599460224/)
 ---
 
 ## 🇳🇱 Nederland
-- **Bedrijven massaal gehackt, consument maakt het weinig uit: 'We zijn datalekmoe'** Meerdere grote Nederlandse bedrijven waaronder **Flink, DA, Polarsteps** en logistieke partners van **Bol en de Bijenkorf** werden in 2026 gehackt. Bij het Flink-incident eisten hackers **10-15 euro per persoon** in cryptovaluta rechtstreeks van klanten — de eerste directe afpersing van individuen in plaats van bedrijven. Consumentenpsycholoog **Patrick Wessels** spreekt van datalekmoeheid. (NOS, 4 oktober 2026, https://nos.nl/artikel/2633445-bedrijven-massaal-gehackt-consument-maakt-het-weinig-uit-we-zijn-datalekmoe)
+- **BAM koopt leidingspecialist A. Hak voor half miljard euro** Bouwbedrijf **BAM** neemt **A. Hak** over, specialist in kabels en leidingen voor water, warmte en energie. De overname kost **een half miljard euro** en versterkt BAM's positie in de energietransitie. (NOS, 8 oktober 2026, https://nos.nl/artikel/2634099-bouwbedrijf-bam-koopt-voor-half-miljard-specialist-transportleidingen-en-warmtenetten)
 ---
 
 ## 🇹🇷 Turkije
-- **Elektrische en hybride auto's goed voor 52% van Turkse autoverkoop in 9 maanden** Elektrische en hybride voertuigen vertegenwoordigen nu **52% van de Turkse autoverkoop** over de eerste **9 maanden van 2026**, wat duidt op een sterke verschuiving naar milieuvriendelijke voertuigen in de Turkse automarkt. (Daily Sabah, 4 oktober 2026, https://www.dailysabah.com/business/automotive/electric-hybrid-cars-account-for-52-of-turkish-car-sales-in-9-months)
+- **Terugbetaling aan beleggers na liquidatie van 131 beleggingsfondsen** De Turkse autoriteiten hebben **131 beleggingsfondsen** van zeven vermogensbeheerders geliquideerd. De eerste uitbetaling van maximaal **1 miljoen TL (~$20.326) per belegger per fonds** is gestart voor **455.758 gedupeerden**; vicepresident **Cevdet Yılmaz** benadrukt dat het **niet met overheidsgeld** wordt gefinancierd. **85 personen** zitten vast. (Daily Sabah, 8 oktober 2026, https://www.dailysabah.com/business/economy/inside-turkiyes-plan-to-repay-investors-caught-up-in-fund-turmoil)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Bondskanselier Merz bezoekt Kyiv terwijl Rusland Noord-brug aanvalt** De Duitse bondskanselier **Friedrich Merz** bracht op 4 oktober een onaangekondigd bezoek aan **Kyiv** om Europese steun voor Oekraïne te tonen. Rusland viel de **Noord-brug van Kyiv** aan met drones, hoewel het verkeer uiteindelijk hervat werd. **Merz kondigde circa €1 miljard aan militaire hulp** en een energiesteunpakket aan. (France 24, 4 oktober 2026, https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky)
+- **Lycéenmobilisatie: noodplan voor vervanging afwezige leraren** Op 8 oktober zijn in Frankrijk **224 scholen volledig gesloten** en 151 gedeeltelijk. Onderwijsminister **Édouard Geffray** kondigde een **"plan d'urgence"** aan voor docentenvervanging, terwijl premier **Sébastien Lecornu** het politieoptreden verdedigde. Organisatoren spreken van **450.000 deelnemers**; het ministerie telt 256.000. (France 24, 8 oktober 2026, https://www.france24.com/fr/france/20261008-en-direct-etudiants-lyceens-appeles-de-nouveau-mobiliser-jeudi-acte-iv-mouvement-france-sebastien-lecornu-syndicats-manifestations-parcoursup)
 ---
 
 ## 🇩🇪 Duitsland
-- **Kanselier Merz in Kyiv tegen Poetin: "Stop deze zinloze oorlog"** Bondskanselier **Friedrich Merz** bracht een verrassingsbezoek aan **Kyiv** op 4 oktober, ondanks **Russische droneaanvallen** op de stad. Tijdens zijn bezoek voerde **Rusland meerdere aanvallen uit op kritieke infrastructuur**, maar Merz bleef ter plaatse. Het incident onderstreept de aanhoudende spanning tussen Duitsland en Rusland over de **veiligheid van Oekraïne**. (Handelsblatt, 4 oktober 2026, https://www.handelsblatt.com/politik/deutschland/kiew-besuch-merz-appell-an-putin-hoeren-sie-diesen-sinnlosen-krieg-auf/100259485.html)
+- **Regering verhoogt groeiprognose 2026 naar 1,3 procent** Minister van Economische Zaken **Katherina Reiche** presenteerde de herfstprognose: de Duitse economie groeit naar verwachting **1,3%** in 2026, tegen **0,5%** in de vorige raming. Voor 2027 wordt **1,1%** verwacht. Reiche waarschuwt dat het herstel **broos** blijft en pleit voor structurele hervormingen. (Handelsblatt, 8 oktober 2026, https://www.handelsblatt.com/politik/konjunktur/konjunktur-regierung-rechnet-mit-13-prozent-wachstum-fuer-2026/100259724.html)
 ---
 
 ## 🇷🇺 Rusland
-- **OPEC+ houdt productiedoelen voor november stabiel** OPEC+ handhaafde stabiele productiedoelen voor **november** na verhogingen gedurende heel **2026**, hoewel de meeste verhogingen niet daadwerkelijk op de markt kwamen. Als groot OPEC+-lid wordt Rusland direct geraakt door deze productiebeslissingen. (The Moscow Times, 4 oktober 2026, https://www.themoscowtimes.com/2026/10/04/opec-agrees-to-keep-november-oil-output-targets-steady-a93865)
+- **Oekraïense drones treffen Yandex-datacenter in Sasovo** Oekraïense drones zetten een **Yandex-datacenter in Sasovo (regio Ryazan)** in brand; Yandex schortte de activiteiten daar op. Downdetector registreerde **meer dan 1.300 storingsmeldingen** bij Yandex Cloud en Documents. Het aandeel Yandex daalde **meer dan 3,4%** aan de Moskouse beurs; het Russische ministerie van Defensie meldde dat **399 drones** boven 18 regio's werden onderschept. (The Moscow Times, 8 oktober 2026, https://www.themoscowtimes.com/2026/10/08/ukrainian-drones-hit-yandex-data-center-after-wave-of-russian-attacks-a93915)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **VAE dreigen miljarden uit VK terug te trekken na Man City-veroordeling** De Verenigde Arabische Emiraten dreigden substantiële investeringen in het Oxford-Cambridge technologiecorridor-project terug te trekken na het **schuldige verdict van Manchester City** voor financiële regelverstoten. **Sheikh Mansour** en voorzitter **Khaldoon Al Mubarak** uitten hun ongenoegen. VAE-functionarissen waarschuwden **premier Andy Burnham** dat het verdict de bereidheid voor **miljarden ponden** aan geplande investeringen had ondermijnd. (AOL News UK, 2 oktober 2026, https://www.aol.co.uk/articles/uae-threat-pull-billions-uk-204639000.html)
+- **Kanselier Healey bereidt eerste begroting voor onder druk** Kanselier **John Healey** presenteert op **28 oktober** de eerste begroting onder premier **Andy Burnham**. De overheidsfinanciën staan onder druk: alleen al in augustus bedroeg het overheidstekort **£18,3 miljard**, **£3,5 miljard** meer dan verwacht. Er wordt gespeculeerd over een **"mansion tax"** op woningen boven **£2 miljoen**. (ii.co.uk / Bloomberg, oktober 2026, https://www.ii.co.uk/analysis-commentary/budget-2026-what-might-burnham-and-healey-have-store-ii540459)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Peilingen Trump bereiken historisch dieptepunt door economische zorgen** Een **AP-NORC-peiling van 4 oktober 2026** toont een goedkeuringspercentage van slechts **31%** voor president Trump, met economische goedkeuring op **26%**. Volgens de peiling geeft **65% van de Amerikanen Trump de schuld** van de aanhoudend hoge kosten van levensonderhoud, en zegt **57% er financieel op achteruit te zijn gegaan**. De benzineprijs steeg naar **$4,43 per gallon** door tarieven en het conflict met Iran. (Patch, 4 oktober 2026, https://patch.com/us/across-america/inching-toward-election-day-issues-sunday-political-brunch-october-4-2026)
+- **Werkgelegenheid groeit met slechts 29.000 banen in september** De Amerikaanse economie voegde in september **slechts 29.000 banen** toe, ver onder de verwachte **90.000**. De werkloosheid steeg van 4,1% naar **4,2%**; het gemiddelde uurloon groeide met **3%** op jaarbasis, het laagste sinds 2021. Cijfers van de twee voorgaande maanden werden met **60.000 banen** naar beneden bijgesteld. De dollar daalde **0,3%**. (Bloomberg, 2 oktober 2026, https://www.bloomberg.com/news/articles/2026-10-02/us-firms-add-just-29-000-jobs-unemployment-rate-ticks-up)
 ---
 
 ## 🇮🇳 India
-- **India sluit Aziatische Spelen af met 85 medailles, Neeru Dhanda draagt vlag** Schutster **Neeru Dhanda** droeg de Indiase vlag bij de sluitingsceremonie van de **Aziatische Spelen 2026** in Aichi-Nagoya. Zij werd de **eerste Indiase vrouw met individueel goud** in trapshieten en won **2 gouden en 1 zilveren medaille**. India eindigde **vierde in het medailleklassement met 85 medailles: 21 goud, 27 zilver, 37 brons**. (India.com, 4 oktober 2026, https://www.india.com/sports/others/asian-games-2026-neeru-dhanda-leads-indias-contingent-as-flag-bearer-at-closing-ceremony-with-aichi-nagoya-edition-closed-8532719/)
+- **Onderwijsminister Pradhan stapt op na massale Gen-Z-protesten** Onderwijsminister **Dharmendra Pradhan** is afgetreden na wijdverspreide protesten tegen **examenfraudeschandalen**. De protestbeweging, gestart als satirische partij door **Gen Z**, groeide uit tot een nationale beweging. Oppositieleiders **Rahul Gandhi** en **Priyanka Gandhi Vadra** sloten zich aan bij sit-ins; in **Odisha** werd een bandh uitgeroepen. (CNN / NDTV, oktober 2026, https://www.cnn.com/world/india)
 ---
 
 ## 🇨🇳 China
-- **Huawei onthult Mate 90-serie met Tau-chips en logic folding-technologie** Techgigant **Huawei** presenteerde de nieuwe **Mate 90-serie** smartphones met eigen **Tau-processors** die innovatieve **logic folding-technologie** gebruiken voor verbeterde rekenkracht. De lancering markeert Huawei's voortdurende push om onafhankelijk te worden van westerse chiptechnologie. (Global Times, 4 oktober 2026, https://www.globaltimes.cn/page/202610/1371635.shtml)
+- **Washington en Brussel smeden coalitie tegen Chinese industriële overcapaciteit** Volgens SCMP hebben Washington en Brussel een **multilaterale coalitie** gevormd tegen Chinese industriële overcapaciteit. **Het grootste deel van de G20-leden**, waaronder de EU, ondertekende een door de VS geleide verklaring om overcapaciteit te elimineren. Deskundigen waarschuwen dat **Beijing** mogelijk met tegenmaatregelen reageert. (South China Morning Post, 8 oktober 2026, https://www.scmp.com/economy/policy/article/3370184/washington-brussels-forge-multilateral-coalition-against-chinas-industrial-surge)
 ---
 
 ## 🇯🇵 Japan
-- **Premier Takaichi protesteert bij VS over arrestatie marinier op Okinawa** **Premier Takaichi** heeft formeel geprotesteerd bij de Verenigde Staten over de **arrestatie van een Amerikaans militair** op verdenking van moord in Okinawa. Het incident vormt een diplomatiek spanningspunt tussen **Japan en de VS** over het gedrag van Amerikaans militair personeel gestationeerd in de regio. (Nikkei Asia, 4 oktober 2026, https://asia.nikkei.com)
+- **Takaichi: Japan heeft geen reflatiebeleid meer nodig** Premier **Sanae Takaichi** verklaarde in het parlement dat de economie niet langer monetaire versoepeling en fiscale expansie vereist. **Swapcontracten wijzen op ~90% kans op nog een renteverhoging** van de Bank of Japan voor december. De BoJ verhoogde haar economische beoordeling voor **Tohoku en Shikoku**, mede door sterke vraag naar AI-gerelateerde chips. (The Japan Times, 8 oktober 2026, https://japantimes.co.jp/business/2026/10/08/economy/takaichi-no-reflation-policy)
 ---
-
----
-
-## 📊 Marktoverzicht
-
-| Markt | Koers |
-|-------|-------|
-| Bitcoin (BTC) | $86.327 |
-| Ethereum (ETH) | $2.717 |
-| Goud | $4.191 |
-| Brent olie | $98,47 |
-| EUR/USD | 1,1273 |
-| S&P 500 | 7.842 |
-| AEX | 1.128 |
-| DAX | 25.463 |
-| Nikkei 225 | 70.683 |
-
----
-
-## 🔗 De Grote Lijnen
-
-De geopolitieke spanningen rond Oekraïne blijven het Europese toneel domineren: het verrassingsbezoek van bondskanselier Merz aan Kyiv — midden in Russische droneaanvallen — onderstreept de verharding van Europa tegenover Moskou, terwijl OPEC+ voorzichtig de oliekraan dichthoudt en Brent rond de $98 noteert. Tegelijkertijd worstelen zowel België als de VS met binnenlandse economische druk: Brussel zoekt €10 miljard aan besparingen terwijl Trumps goedkeuring een historisch dieptepunt bereikt door stijgende kosten van levensonderhoud. De techsector vertoont een duidelijke oost-west-splitsing, met Huawei dat eigen chiparchitectuur lanceert om westerse sancties te omzeilen, en India dat via de Aziatische Spelen zijn groeiende regionale invloed toont. In het Verenigd Koninkrijk dreigt het Man City-verdict de band met Golfstaatinvesteerders te beschadigen, terwijl Nederland kampt met een golf van cyberaanvallen waarbij consumenten steeds onverschilliger worden — een zorgwekkend teken voor de digitale weerbaarheid van Europa. De markten weerspiegelen deze onrust: goud klimt naar $4.191 als veilige haven, crypto herstelt voorzichtig, en aandelenindices noteren gemengd positief ondanks de onderliggende spanningen.
