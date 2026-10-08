@@ -1,60 +1,59 @@
 # MIJN NIEUWSKRANT
 ### Donderdag 8 oktober 2026
 ---
-# Nieuwsoverzicht 2026-10-04
 
 ## 🇧🇪 België
-- **Federale topministers hervatten onderhandelingen over begroting** Topministers kwamen op 4 oktober opnieuw samen om te onderhandelen over een **besparingsoperatie van €10 miljard tegen 13 oktober**. De gesprekken verlopen moeizaam, met geschillen over **btw-verhogingen, besparingen in de gezondheidszorg en vermogensbijdragen**. Het Brusselse begrotingstekort moet beperkt worden tot **€719 miljoen tegen eind 2027**. (VRT, 4 oktober 2026, https://www.vrt.be/vrtnws/nl/liveblog/federale-topministers-zitten-weer-samen-onderhandelingen-over-b~1790599460224/)
+- **Begrotingsdeadline 13 oktober nadert: De Wever zoekt €10 miljard** De federale regering onder **premier Bart De Wever** (N-VA) heeft **13 oktober** als deadline gesteld voor de meerjarenbegroting, maar speelde het belang ervan zelf al naar beneden: "Ik wil geen overhaast akkoord, ik wil een goed akkoord." Het **begrotingstekort bedraagt 5,2% van het bbp**, het hoogste in de eurozone, en de **staatsschuld stijgt boven 110% van het bbp**. Coalitiepartners Vooruit en MR liggen zwaar overhoop over besparingen.
 ---
 
 ## 🇳🇱 Nederland
-- **Bedrijven massaal gehackt, consument maakt het weinig uit: 'We zijn datalekmoe'** Meerdere grote Nederlandse bedrijven waaronder **Flink, DA, Polarsteps** en logistieke partners van **Bol en de Bijenkorf** werden in 2026 gehackt. Bij het Flink-incident eisten hackers **10-15 euro per persoon** in cryptovaluta rechtstreeks van klanten — de eerste directe afpersing van individuen in plaats van bedrijven. Consumentenpsycholoog **Patrick Wessels** spreekt van datalekmoeheid. (NOS, 4 oktober 2026, https://nos.nl/artikel/2633445-bedrijven-massaal-gehackt-consument-maakt-het-weinig-uit-we-zijn-datalekmoe)
+- **Coalitie mist opnieuw begrotingsdeadline, spanning loopt op** Het minderheidskabinet van **D66, VVD en CDA** slaagt er niet in een begrotingsakkoord te sluiten met oppositiepartijen en verschuift de deadline opnieuw. Kerngeschillen gaan over de **vermogensbelasting in box 3** en de sociale zekerheid. De begroting wordt nu zonder meerderheid in het parlement ingediend. Ondertussen verkocht de staat zijn belang in **ABN Amro verder van 20,7% naar 10,5%**.
 ---
 
 ## 🇹🇷 Turkije
-- **Elektrische en hybride auto's goed voor 52% van Turkse autoverkoop in 9 maanden** Elektrische en hybride voertuigen vertegenwoordigen nu **52% van de Turkse autoverkoop** over de eerste **9 maanden van 2026**, wat duidt op een sterke verschuiving naar milieuvriendelijke voertuigen in de Turkse automarkt. (Daily Sabah, 4 oktober 2026, https://www.dailysabah.com/business/automotive/electric-hybrid-cars-account-for-52-of-turkish-car-sales-in-9-months)
+- **FTSE Russell handhaaft status 'Advanced Emerging Market' voor Turkije** Indexaanbieder **FTSE Russell** besloot Turkije niet op de watchlist te plaatsen en de status van **Advanced Emerging Market** te behouden, een positief signaal voor buitenlandse investeerders. Centraal Bankpresident **Fatih Karahan** vertelde het parlement dat geld uit fondsen grotendeels naar **bankdeposito's** is verhuisd. De **Wereldbank** verwacht dat de groei vertraagt naar **2,8% in 2026** (van 3,7% in 2025) door strak monetair beleid.
 ---
 
 ## 🇫🇷 Frankrijk
-- **Bondskanselier Merz bezoekt Kyiv terwijl Rusland Noord-brug aanvalt** De Duitse bondskanselier **Friedrich Merz** bracht op 4 oktober een onaangekondigd bezoek aan **Kyiv** om Europese steun voor Oekraïne te tonen. Rusland viel de **Noord-brug van Kyiv** aan met drones, hoewel het verkeer uiteindelijk hervat werd. **Merz kondigde circa €1 miljard aan militaire hulp** en een energiesteunpakket aan. (France 24, 4 oktober 2026, https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky)
+- **Frankrijk schort gebruik schokgranaten op na verwonding scholier** De regering schorste het gebruik van **schokgranaten** (GLI-F4) bij scholierenprotesten nadat een **15-jarige zijn hand verloor**. Er lopen **18 interne onderzoeken** naar politiegeweld. Het binnenlandministerie telde **250.000 betogers** op 6 oktober; organisatoren claimen **450.000**. Premier **Sébastien Lecornu** zal een verklaring afleggen over de crisis en de overheidsfinanciën.
 ---
 
 ## 🇩🇪 Duitsland
-- **Kanselier Merz in Kyiv tegen Poetin: "Stop deze zinloze oorlog"** Bondskanselier **Friedrich Merz** bracht een verrassingsbezoek aan **Kyiv** op 4 oktober, ondanks **Russische droneaanvallen** op de stad. Tijdens zijn bezoek voerde **Rusland meerdere aanvallen uit op kritieke infrastructuur**, maar Merz bleef ter plaatse. Het incident onderstreept de aanhoudende spanning tussen Duitsland en Rusland over de **veiligheid van Oekraïne**. (Handelsblatt, 4 oktober 2026, https://www.handelsblatt.com/politik/deutschland/kiew-besuch-merz-appell-an-putin-hoeren-sie-diesen-sinnlosen-krieg-auf/100259485.html)
+- **Deutschland-Gipfel: Merz belooft 30% minder rapportageverplichtingen** Op de grote **Deutschland-Gipfel** van Handelsblatt spreken kanselier **Friedrich Merz**, VW-CEO **Oliver Blume** en Deutsche Bank-CEO **Christian Sewing** over investeringen en innovatie. Economieminister **Katherina Reiche** meldt dat instituten de groeiverwachting voor 2026 **meer dan verdubbeld** hebben naar **1,3%**. De **Ifo-index** steeg voor de vijfde maand op rij. De regering wil rapportageverplichtingen voor bedrijven met **30% verminderen** via een nieuwe wet in december.
 ---
 
 ## 🇷🇺 Rusland
-- **OPEC+ houdt productiedoelen voor november stabiel** OPEC+ handhaafde stabiele productiedoelen voor **november** na verhogingen gedurende heel **2026**, hoewel de meeste verhogingen niet daadwerkelijk op de markt kwamen. Als groot OPEC+-lid wordt Rusland direct geraakt door deze productiebeslissingen. (The Moscow Times, 4 oktober 2026, https://www.themoscowtimes.com/2026/10/04/opec-agrees-to-keep-november-oil-output-targets-steady-a93865)
+- **Rosatom neemt volledige controle over transportconcern Delo voor $900 miljoen** Russisch staatsnucleairbedrijf **Rosatom** voltooide de overname van het resterende **51%-belang** van oprichter **Sergei Shishkarev** in transportconglomeraat **Delo Group** voor **$900 miljoen**. Delo beheert havens en logistiek door heel Rusland. Gelijktijdig waarschuwde de **Amerikaanse ambassade** burgers Rusland te verlaten wegens **pestverdenking** na de dood van een laboratoriummedewerker in Irkoetsk; bijna **200 personen** staan onder observatie.
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **VAE dreigen miljarden uit VK terug te trekken na Man City-veroordeling** De Verenigde Arabische Emiraten dreigden substantiële investeringen in het Oxford-Cambridge technologiecorridor-project terug te trekken na het **schuldige verdict van Manchester City** voor financiële regelverstoten. **Sheikh Mansour** en voorzitter **Khaldoon Al Mubarak** uitten hun ongenoegen. VAE-functionarissen waarschuwden **premier Andy Burnham** dat het verdict de bereidheid voor **miljarden ponden** aan geplande investeringen had ondermijnd. (AOL News UK, 2 oktober 2026, https://www.aol.co.uk/articles/uae-threat-pull-billions-uk-204639000.html)
+- **Premier Burnham bereidt herfstbegroting voor op 28 oktober** Nieuwe premier **Andy Burnham** (Labour) en kanselier **John Healey** presenteren op **28 oktober** hun eerste Autumn Budget, gericht op het verschuiven van macht en geld buiten Westminster. Er worden **geen verhogingen** van inkomstenbelasting, btw of nationale verzekering verwacht. Burnham is de **zevende premier in tien jaar**; hij beloofde de **manifesto-beloften van 2024** te respecteren ondanks een geschat **begrotingsgat van £22 miljard**.
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Peilingen Trump bereiken historisch dieptepunt door economische zorgen** Een **AP-NORC-peiling van 4 oktober 2026** toont een goedkeuringspercentage van slechts **31%** voor president Trump, met economische goedkeuring op **26%**. Volgens de peiling geeft **65% van de Amerikanen Trump de schuld** van de aanhoudend hoge kosten van levensonderhoud, en zegt **57% er financieel op achteruit te zijn gegaan**. De benzineprijs steeg naar **$4,43 per gallon** door tarieven en het conflict met Iran. (Patch, 4 oktober 2026, https://patch.com/us/across-america/inching-toward-election-day-issues-sunday-political-brunch-october-4-2026)
+- **Warren confronteert minister Bessent over "chaotische" Treasury-opkopen** Senator **Elizabeth Warren** (D) eiste uitleg van minister van Financiën **Scott Bessent** over wat zij **"ongekende en chaotische" interventies** in de Treasury-markt noemt, en vroeg of het ministerie van plan is de kasreserves te verkleinen om terugkopen te financieren. Ondertussen waarschuwde strateeg **Jim Paulsen** dat **olieprijs boven $100**, **Treasury-rentes van 5%** en een sterke dollar een **correctie van 15%** op aandelenmarkten kunnen veroorzaken.
 ---
 
 ## 🇮🇳 India
-- **India sluit Aziatische Spelen af met 85 medailles, Neeru Dhanda draagt vlag** Schutster **Neeru Dhanda** droeg de Indiase vlag bij de sluitingsceremonie van de **Aziatische Spelen 2026** in Aichi-Nagoya. Zij werd de **eerste Indiase vrouw met individueel goud** in trapshieten en won **2 gouden en 1 zilveren medaille**. India eindigde **vierde in het medailleklassement met 85 medailles: 21 goud, 27 zilver, 37 brons**. (India.com, 4 oktober 2026, https://www.india.com/sports/others/asian-games-2026-neeru-dhanda-leads-indias-contingent-as-flag-bearer-at-closing-ceremony-with-aichi-nagoya-edition-closed-8532719/)
+- **RBI verhoogt groeiprognose naar 7,1% voor boekjaar 2026-27** Gouverneur **Sanjay Malhotra** van de Reserve Bank of India verhoogde de **reële bbp-groeiprognose** met **40 basispunten naar 7,1%** voor het lopende boekjaar, ondanks mondiale tegenwind. In Delhi werden oppositieleiders **Rahul Gandhi** en **Priyanka Gandhi** met **260 anderen** gearresteerd tijdens een mars van het INDIA-blok zonder vergunning, uit protest tegen vermeende **verkiezingsfraude**.
 ---
 
 ## 🇨🇳 China
-- **Huawei onthult Mate 90-serie met Tau-chips en logic folding-technologie** Techgigant **Huawei** presenteerde de nieuwe **Mate 90-serie** smartphones met eigen **Tau-processors** die innovatieve **logic folding-technologie** gebruiken voor verbeterde rekenkracht. De lancering markeert Huawei's voortdurende push om onafhankelijk te worden van westerse chiptechnologie. (Global Times, 4 oktober 2026, https://www.globaltimes.cn/page/202610/1371635.shtml)
+- **Peterson Institute: Chinese groei vertraagt naar 4,6% door tanende export** Het **Peterson Institute for International Economics** voorspelt dat China's bbp-groei vertraagt naar **4,6% in 2026** en **4,3% in 2027**, na **5% in 2025**. De exportboom ebt weg door toenemende **handelsbeperkingen**, terwijl de binnenlandse vraag zwak blijft. Na de top tussen **Trump en Xi Jinping** plannen de VS en China tarieven op circa **$30 miljard** aan wederzijdse importen te verlagen. Minister van Financiën **Lan Foan** kiest voor gerichte fiscale steun in plaats van een groot stimuluspakket.
 ---
 
 ## 🇯🇵 Japan
-- **Premier Takaichi protesteert bij VS over arrestatie marinier op Okinawa** **Premier Takaichi** heeft formeel geprotesteerd bij de Verenigde Staten over de **arrestatie van een Amerikaans militair** op verdenking van moord in Okinawa. Het incident vormt een diplomatiek spanningspunt tussen **Japan en de VS** over het gedrag van Amerikaans militair personeel gestationeerd in de regio. (Nikkei Asia, 4 oktober 2026, https://asia.nikkei.com)
+- **Premier Takaichi verdedigt plan voor btw-verlaging op voedsel naar 1%** Premier **Sanae Takaichi** verdedigde in het parlement haar plan om de **consumptiebelasting op voedsel te verlagen naar 1%** vanaf april 2027, gecombineerd met **inkomensafhankelijke uitkeringen**. De **reële lonen** stegen voor de **achtste maand op rij** met **1,5%** in augustus — de langste stijging in bijna tien jaar. Tegelijkertijd kampt Takaichi met een schandaal rond landbouwminister **Kazuo Yana**, die het wegenbudget van gemeenten in Tochigi zou hebben gekort als politieke vergelding.
 ---
 
 ## Marktoverzicht (indicatief, 8 oktober 2026)
 
-| Instrument | Koers | Richting |
+| Instrument | Koers | Verandering |
 |---|---|---|
-| Bitcoin (BTC) | ~$83.000 | ▼ licht dalend |
-| Ethereum (ETH) | ~$2.725 | ▼ dalend |
-| Goud (XAU) | ~$4.430/oz | ▲ hersteld na dip |
-| Brent olie | ~$100/vat | ▲ stijgend (Hormuz-risico) |
+| Bitcoin (BTC) | ~$83.000 | -5% |
+| Ethereum (ETH) | ~$2.700 | -5% |
+| Goud (XAU) | ~$4.430/oz | +0,6% |
+| Brent olie | ~$101/vat | +0,7% |
 | EUR/USD | 1,1613 | ▼ licht verzwakt |
 | S&P 500 | 7.802 | ▲ nabij record (7.819) |
 | AEX | 1.122 | ▲ nabij 52w-hoogte |
@@ -67,7 +66,7 @@
 
 ## De Grote Lijnen
 
-Geopolitieke spanning blijft de rode draad door alle markten: de oorlog in Oekraine drijft de Europese defensie-uitgaven op — Merz' bezoek aan Kyiv met €1 miljard militaire hulp onderstreept dat — terwijl het Iran-conflict en Hormuz-risico's de olieprijs richting $100 per vat duwen, wat direct doorwerkt in de Amerikaanse benzineprijs ($4,43/gallon) en Trumps dalende peilingen. Tegelijkertijd laten de aandelenmarkten een opmerkelijke veerkracht zien: de S&P 500, AEX en DAX noteren allen nabij recordstanden, gedreven door techwinsten en de verwachting dat centrale banken soepeler worden. De technologische ontkoppeling tussen Oost en West versnelt — Huawei's eigen Tau-chiparchitectuur en Turkije's snelle EV-adoptie tonen dat landen actief alternatieven opbouwen buiten westerse toeleveringsketens. Ondertussen groeit de kwetsbaarheid van digitale infrastructuur: de golf van hacks bij Nederlandse bedrijven en de verschuiving naar directe afpersing van consumenten signaleert een nieuw dreigingslandschap waar bedrijven en burgers onvoldoende op voorbereid zijn.
+Begrotingscrisis is de rode draad door Europa: België worstelt met een tekort van 5,2% van het bbp vlak voor de deadline van 13 oktober, Nederland mist opnieuw zijn begrotingsdeadline, en het VK bereidt onder zijn zevende premier in tien jaar een herfstbegroting voor met een gat van £22 miljard — overal dezelfde spanning tussen bezuinigen en sociale bescherming. De olieprijzen boven $100 per vat vormen een sluimerend gevaar: in Washington waarschuwen strategen al voor een correctie van 15% op aandelenmarkten als de combinatie van dure olie, hoge Treasury-rentes en een sterke dollar aanhoudt. Opvallend contrast tussen Oost en West: India verhoogt zijn groeiprognose naar 7,1% en Japan noteert recordstanden op de Nikkei met stijgende reële lonen, terwijl Duitsland al blij is met 1,3% groei en China vertraagt naar 4,6%. De crypto-markt corrigeert fors met BTC en ETH elk circa 5% lager, deels door angst voor een Fed-renteverhoging eind oktober. Frankrijk escaleert binnenlands met scholierenprotesten en politiegeweld rond schokgranaten, terwijl Rusland via Rosatom zijn strategische logistiek consolideert maar tegelijk kampt met een pestuitbraak in Irkoetsk die internationale alarm veroorzaakt.
 
 ---
 *Samengesteld op donderdag 8 oktober 2026.*
