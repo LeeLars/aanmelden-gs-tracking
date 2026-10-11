@@ -1,72 +1,70 @@
 # MIJN NIEUWSKRANT
-### Zaterdag 10 oktober 2026
+### Zondag 11 oktober 2026
 ---
-# Nieuwsoverzicht 2026-10-10
+# Nieuwsoverzicht 2026-10-11
 
 ## 🇧🇪 België
-- **Moody's houdt rating België op A1 ondanks hoog begrotingstekort** Kredietbeoordelaar **Moody's** handhaaft de Belgische rating op **A1**, ondanks een aanhoudend tekort van circa **5,3% van het bbp** en oplopende schulden. De rente op **10-jarige Belgische staatsobligaties** steeg naar **4,35%**, ruim **0,85 procentpunt** meer dan begin dit jaar. Het bericht komt terwijl de federale regering rond de begroting onderhandelt. (VRT NWS, 10 oktober 2026, https://www.vrt.be/vrtnws/nl/2026/10/10/moody-s-verlaagt-rating-van-belgie-niet/)
+- **Begrotingsdeadline dreigt te mislukken: "totale verlamming"** Premier **Bart De Wever** staat onder druk om dinsdag zijn State of the Union te houden, maar coalitiepartners zijn verdeeld over een besparingspakket van minstens **€10 miljard**. MR verzet zich tegen btw-hervorming, terwijl Vooruit en Les Engagés hogere belastingen voor vermogens willen. Vakbonden organiseren een nationale actiedag met stakingen op 9 en 12 oktober. (VRT NWS, 9 oktober 2026, https://vrt.be/vrtnws/nl/2026/10/09/federale-regering-begrotingsonderhandelingen-deadline-stand-van)
 ---
 
 ## 🇳🇱 Nederland
-- **Nieuw voorstel voor miljarden minder EU-budget nog niet voldoende voor kabinet** Ierland stelt voor **140 miljard euro** uit het meerjarige EU-begrotingskader te schrappen. Het Nederlandse kabinet vindt het voorstel **nog niet voldoende** en stuurt het "per ommegaande retour". De onderhandelingen over de EU-meerjarenbegroting lopen daarmee verder vast. (NOS, 10 oktober 2026, https://nos.nl/artikel/2634422-nieuw-voorstel-voor-miljarden-minder-eu-budget-nog-niet-voldoende-voor-kabinet)
+- **Nederlandse industrie groeit in september op hoogste tempo sinds 2022** De industriële productie liet een sterke stijging zien, terwijl de inflatie boven de **3%** blijft en zorgen over hogere voedselprijzen toenemen. Nederland verwierp een Iers voorstel om **€140 miljard** te schrappen uit de meerjarige EU-begroting. De regering worstelt met het box 3-vermogensbelastingplan, waarbij besloten is kleine spaarders te ontzien. (FD/NOS, oktober 2026, https://fd.nl/economie)
 ---
 
 ## 🇹🇷 Turkije
-- **Turkije breidt hogesnelheidsspoornet uit tot EU-grens** Turkije opende een **153 km** lang traject van de Halkalı-Kapıkule-lijn, van Çerkezköy tot de Bulgaarse grens bij Kapıkule. President **Recep Tayyip Erdoğan**, EU-commissaris **Marta Kos** en transportminister **Abdulkadir Uraloğlu** waren aanwezig. Het traject is **medegefinancierd door Turkije en de EU** en brengt het totaal op **14 provincies** met hogesnelheidsverbinding. (Daily Sabah, 9 oktober 2026, https://dailysabah.com/business/economy/turkiye-extends-high-speed-rail-network-to-eu-border)
+- **Kabinet bijeen over geliquideerde investeringsfondsen en terrorismebestrijding** President **Erdoğan** roept het kabinet bijeen na twee weken pauze. Hoofdpunten zijn een onderzoek naar **214 personen en bedrijven** die circa **$3,8 miljard** verdienden aan problematische fondsen, en een wetsvoorstel voor tussentijdse betalingen tot **TL 1 miljoen** per belegger. De inflatie daalde voor het eerst in bijna 5 jaar onder de **30%**. (Daily Sabah, 9-11 oktober 2026, https://www.dailysabah.com/politics/troubled-funds-terror-free-turkiye-on-the-agenda-as-the-cabinet-meets/news)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Cyberaanval op stemplatform sociaaldemocratische voorverkiezing** Het stemplatform voor de **sociaaldemocratische voorverkiezing** werd op **9 oktober** getroffen door een cyberaanval die een **"massale nepstroom aan verbindingen"** veroorzaakte, aldus commissievoorzitter **Patrick Mennucci**. De eerste ronde is verlengd tot **zondag 17 oktober 18:00**. PS, Place publique en GRS hebben klacht ingediend en het cyberveiligheidsagentschap **ANSSI** is ingeschakeld. (France 24, 9 oktober 2026, https://www.france24.com/fr/france/20261009-france-primaire-sociale-democrate-plateforme-de-vote-victime-cyberattaque)
+- **Staatsschuld op 120% bbp: Moody's-oordeel op 23 oktober** Premier **Sébastien Lecornu** presenteerde een begrotingsplan 2027 met bevroren ambtenarensalarissen en nieuwe belastingen om het tekort terug te brengen naar **5% van het bbp** via **€43 miljard** aan bezuinigingen. De rente op 10-jarige staatsobligaties flirt met **5%**, het hoogste niveau sinds 2002. Tegelijkertijd protesteren honderdduizenden scholieren; meer dan **6.800 arrestaties**, waarvan 86% minderjarigen. (France 24, 9 oktober 2026, https://www.france24.com/en/live-news/20261009-massive-debt-puts-france-in-a-bind-as-investor-doubts-deepen)
 ---
 
 ## 🇩🇪 Duitsland
-- **Bundesregierung schroeft groeiprognose fors op** De Duitse regering verhoogde haar herfstprojectie en verwacht nu **1,3% groei** voor 2026 (eerder: 0,5%), **1,1%** voor 2027 en **0,6%** voor 2028. Economieminister **Katherina Reiche** waarschuwt dat de situatie fragiel blijft. De **DIHK** noemt het optimisme overdreven omdat het herstel drijft op **schuldengedreven overheidsuitgaven**, terwijl de export in augustus daalde met **0,8%** naar **137,6 miljard euro**. (Handelsblatt, 8 oktober 2026, https://www.handelsblatt.com/politik/deutschland/konjunktur-bundesregierung-schraubt-wachstumserwartungen-deutlich-hoch/100260728.html)
+- **"Made for Germany"-initiatief wil €850 miljard investeren tot 2028** Het bedrijfsleven lanceerde een grootschalig investeringsprogramma voor de Duitse economie, terwijl bondskanselier **Merz** de nieuwe EU-begroting met honderden miljarden wil korten. De werkloosheid steeg boven de **3 miljoen** en de staatsschuld bereikte een recordhoogte. Groeiende bezorgdheid dat Duitsland zijn **AAA-kredietrating** kan verliezen. (Handelsblatt, 30 september 2026, https://www.handelsblatt.com/politik/deutschland/standort-deutschland-initiative-made-for-germany-will-850-milliarden-investieren/100258643.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Poetin biedt VS olie aan na telefoontje met Trump** Poetin en Trump hadden hun **zesde telefoongesprek dit jaar** op **9 oktober 2026**, gericht op energie. Het Kremlin bevestigde Ruslands bereidheid om **olie en olieproducten** te leveren aan de VS en wereldmarkt. Vicepremier **Alexander Novak** meldde dat Rusland deze maand **300.000 ton diesel** kan verschepen, oplopend tot **500.000 ton in november**. (TASS, 9 oktober 2026, https://tass.com/economy/2200067)
+- **Yandex-datacenter in Vladimir platgelegd door droneaanval** Techbedrijf **Yandex** meldde dat een droneaanval zijn datacenter in de regio Vladimir volledig heeft uitgeschakeld — het derde grote datacenter dat in enkele dagen werd getroffen. Eerder deze week legden alle **4 Moskouse luchthavens** tijdelijk vluchten stil vanwege droneaanvallen. Het ontwerpbegroting 2027 reserveert een naoorlogs record van **17,1 biljoen roebel ($205,2 miljard)** voor defensie. (The Moscow Times, 11 oktober 2026, https://www.themoscowtimes.com/2026/10/11/russias-yandex-says-data-center-in-vladimir-shut-down-after-drone-attack-a93942)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Minister Healey bereidt eerste Begroting voor op 28 oktober** Chancellor **John Healey** werkt aan de eerste Begroting onder premier **Andy Burnham** op **28 oktober 2026**. Het bbp groeide met **0,4%** in Q2 2026 na **0,6%** in Q1. Healey moet manifesto-beloften waarmaken (geen verhoging inkomstenbelasting of btw) terwijl het begrotingstekort op **£11 tot £51 miljard** wordt geschat en een defensieplan van **£4,7 miljard** moet worden gefinancierd. (The Star/Reuters, 7 september 2026, https://www.thestar.com.my/news/world/2026/09/07/uk039s-finance-minister-healey-walks-fiscal-tightrope-before-first-budget)
+- **Premier Burnham bereidt eerste herfstbegroting voor op 28 oktober** **Andy Burnham** werd op 20 juli 2026 premier na het aftreden van Keir Starmer. Het bbp groeide slechts **0,1%** in het derde kwartaal en de werkloosheid steeg naar **5,0%**. Zijn eerste Autumn Budget, gepresenteerd door kanselier **John Healey**, wordt op **28 oktober** verwacht met waarschijnlijke belastingverhogingen om de zwakke economie te stutten. (Evelyn Partners, oktober 2026, https://www.evelyn.com/insights-and-events/insights/the-people-behind-the-autumn-budget-2026/)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Consumentenvertrouwen VS zakt naar laagste punt in vijf maanden** De voorlopige consumentenvertrouwensindex van de **University of Michigan** daalde in oktober naar **46,3**, het laagste niveau sinds mei en onder de verwachte **47,6**. De perceptie van de huidige economische omstandigheden bereikte een **historisch dieptepunt** door aanhoudende inflatie. Tegelijkertijd vielen de banengroei en loongroei in september **tegen**. (Bloomberg, 9 oktober 2026, https://bloomberg.com/news/articles/2026-10-09/us-consumer-sentiment-falls-to-five-month-low-in-october)
+- **Inflatie trekt aan: CPI-stijging van 0,6% verwacht door hogere benzineprijzen** Economen verwachten dat het consumentenprijsindexcijfer van september een maandelijkse stijging van **0,6%** laat zien, na **0,4%** in augustus, grotendeels door hogere benzineprijzen als gevolg van de **Iran-crisis bij de Straat van Hormuz**. De tussentijdse verkiezingen domineren het politieke landschap, waarbij Trump megaprojecten promoot terwijl kiezers klagen over gas- en voedselprijzen. (Bloomberg, 10 oktober 2026, https://bloomberg.com/news/articles/2026-10-10/us-cpi-to-show-overall-inflation-boosted-by-higher-gasoline-prices)
 ---
 
 ## 🇮🇳 India
-- **Wereldbank verhoogt groeiprognose India naar 7,1%** De **Wereldbank** heeft de groeiprognose voor India voor fiscaal jaar **2026-27** verhoogd naar **7,1%**, eerder **6,6%** in april 2026. De opwaartse bijstelling komt door **sterker dan verwachte economische prestaties**. India blijft daarmee een van de snelst groeiende grote economieën ter wereld. (Adda247/Current Affairs, oktober 2026, https://currentaffairs.adda247.com/?p=286561)
+- **RBI verhoogt rente met 25 basispunten naar 5,50% — eerste verhoging sinds 2023** De Reserve Bank of India verhoogde op 7 oktober de beleidsrente van **5,25% naar 5,50%** en verschoof de koers naar **"calibrated tightening"**, waardoor renteverlagingen voorlopig van de baan zijn. De beslissing was unaniem, maar de koerswijziging verdeelde het comité **4-2**. De RBI verhoogde de groeiprognose voor FY27 naar **7,1%** en de inflatieverwachting naar **5,2%**. (Outlook Money, 7 oktober 2026, https://www.outlookmoney.com/banking/rbi-mpc-october-2026-key-things-to-know-ahead-of-policy-decision)
 ---
 
 ## 🇨🇳 China
-- **China en EU bereiken 16-puntenconsensus over handel en zeldzame aardmetalen** China en de EU sloten een **16-puntenakkoord** over handel, investeringen en exportcontroles na overleg in Peking op **8-9 oktober 2026**, geleid door handelsminister **Wang Wentao** en EU-commissaris **Maros Sefcovic**. Chinese **hybride-autoexport** naar de EU wordt met **meer dan de helft** teruggebracht, en er komt een sneller "groen kanaal" voor **zeldzame aardmetalen**. Een derde handelsronde is gepland voor **maart 2027**. (Global Times, 10 oktober 2026, https://www.globaltimes.cn/page/202610/1371929.shtml)
+- **EU-handelsdeadline nadert: Šefčovič in Beijing voor cruciale gesprekken** EU-handelscommissaris **Maroš Šefčovič** reisde op 8-9 oktober naar Beijing voor onderhandelingen met minister van Handel **Wang Wentao** over het handelsoverschot van **€360,6 miljard** (2025, +15%). Europa bereidt nieuwe instrumenten voor tegen Chinese handelspraktijken, verwacht in december. Beijing uitte zorgen over de EU-Cybersecuritywet en de Industrial Accelerator Act. (SCMP, oktober 2026, https://scmp.com/news/china/diplomacy/article/3369303/eu-weighs-sweeping-new-trade-powers-against-china-make-or-break-october)
 ---
 
 ## 🇯🇵 Japan
-- **Tokyo eist respect van Peking na aanspreken premier Takaichi zonder titel** Japan vroeg China om **gepast respect** te tonen voor premier **Sanae Takaichi** nadat een Chinese woordvoerder haar zonder eretitel bij naam noemde. Het incident weerspiegelt de **aanhoudende spanningen** in de Chinees-Japanse betrekkingen. Takaichi kondigde eerder een **verlaging van de consumptiebelasting op voedsel** aan in een toespraak op 5 oktober. (The Japan Times, 8 oktober 2026, https://www.japantimes.co.jp/news/2026/10/08/japan/japan-tells-china-respect-pm/)
+- **Premier Takaichi in spagaat: VS dreigt Internationaal Strafhof te "beëindigen"** Premier **Sanae Takaichi** staat onder druk nu de VS sancties oplegde aan het **Internationaal Strafhof (ICC)**, waarvan de president een Japanse staatsburger is. Ondertussen nadert de Bank of Japan een mogelijke verklaring dat de onderliggende inflatie de **2%-doelstelling** heeft bereikt (verwacht **30 oktober**). De CPI steeg **2,7%** in september, boven de verwachte 2,4%, en de beleidsrente staat op **1,25%**. (The Japan Times, 11 oktober 2026, https://japantimes.co.jp/news/2026/10/11/japan/politics/japan-us-icc-takaichi-trump)
 ---
 
-## 📊 Marktoverzicht
+## Marktoverzicht
 
-| Markt | Koers | Δ |
-|-------|------:|---|
-| Bitcoin (BTC) | $82.750 | ▼ −0,3% |
-| Ethereum (ETH) | $2.335 | ▲ +0,2% |
-| Goud | $4.194/oz | ▲ +1,5% |
-| Brent | $104,43/vat | ▲ +0,1% |
-| EUR/USD | 1,1193 | ▼ −0,2% |
-| S&P 500 | 7.812 | ▲ +0,6% |
-| AEX | 1.118 | ▼ −0,2% |
-| DAX | 25.087 | ▲ +1,1% |
-| Nikkei 225 | 68.994 | ▼ −0,1% |
+| Markt | Waarde | Verandering |
+|-------|--------|-------------|
+| Bitcoin (BTC) | $83.060 | +0,3% |
+| Ethereum (ETH) | $2.725 | -0,4% |
+| Goud | $4.194/oz | +0,1% |
+| Brent-olie | $104,72/vat | +0,4% |
+| EUR/USD | 1,1196 | -0,1% |
+| S&P 500 | 7.811,54 | +0,6% |
+| AEX | 1.130,95 | +0,9% |
+| DAX | 25.087 | +1,1% |
+| Nikkei 225 | 69.031 | -0,02% |
 
-*Koersen per sluiting 9-10 oktober 2026. Bronnen: Yahoo Finance, Trading Economics, CoinDesk, Fortune.*
-
----
-
-## 🔗 De Grote Lijnen
-
-Begrotingsdruk is het dominante thema deze week: van België (tekort 5,3% bbp, Moody's houdt de rating nog net vast) en het VK (Healey's eerste begroting nadert) tot de vastgelopen EU-meerjarenbegroting waar Nederland nog harder wil bezuinigen. Tegelijk zoeken grootmachten pragmatische deals — China en de EU sluiten een 16-puntenconsensus over handel en zeldzame aardmetalen, terwijl het Kremlin olie aan Washington aanbiedt na weer een Trump-Poetin-telefoontje. De energiemarkt (Brent boven $104) en het dalende consumentenvertrouwen in de VS (Michigan-index op 46,3, historisch lage perceptie) tonen dat inflatie en geopolitieke onzekerheid de burger blijven raken. Ondertussen bouwen Turkije en de EU stilletjes aan fysieke verbindingen — het hogesnelheidsspoor tot de Bulgaarse grens — terwijl digitale kwetsbaarheden oplichten in de Franse cyberaanval op een democratisch stemplatform.
+*Slotkoersen vrijdag 9 oktober 2026; crypto en grondstoffen 24u-verandering.*
 
 ---
+
+## De Grote Lijnen
+
+De rode draad deze week is de wereldwijde worsteling met begrotingen en staatsschuld: van België's €10 miljard besparingspakket, via Frankrijk's 120% bbp-schuld, tot Duitslands dreigende verlies van zijn AAA-rating — overal in Europa snijden regeringen in uitgaven terwijl de rente op staatsobligaties stijgt. Tegelijkertijd drijft de Iran-crisis bij de Straat van Hormuz de Brent-olieprijs boven $104 per vat, wat de inflatie in de VS en Europa verder aanwakkert en centrale banken (India's RBI voorop) dwingt om de rente te verhogen in plaats van te verlagen. De geopolitieke spanningen reiken verder dan het Midden-Oosten: Russische datacenters worden systematisch door drones uitgeschakeld terwijl Moskou een recorddefensiebudget van $205 miljard voorbereidt, en de VS legt sancties op aan het ICC — wat Japan's premier Takaichi in een diplomatieke spagaat dwingt. Op de handelsas Europa-China nadert een cruciale deadline die bepaalt of het EU-handelsoverschot van €360 miljard via nieuwe instrumenten wordt aangepakt, terwijl Bitcoin rond $83.000 stagneert en goud op $4.194 per ounce een veilige haven blijft in onzekere tijden.
