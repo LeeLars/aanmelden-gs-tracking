@@ -1,5 +1,5 @@
 # MIJN NIEUWSKRANT
-### Maandag 5 oktober 2026
+### Maandag 12 oktober 2026
 ---
 # Nieuwsoverzicht 2026-10-04
 
@@ -47,27 +47,23 @@
 - **Premier Takaichi protesteert bij VS over arrestatie marinier op Okinawa** **Premier Takaichi** heeft formeel geprotesteerd bij de Verenigde Staten over de **arrestatie van een Amerikaans militair** op verdenking van moord in Okinawa. Het incident vormt een diplomatiek spanningspunt tussen **Japan en de VS** over het gedrag van Amerikaans militair personeel gestationeerd in de regio. (Nikkei Asia, 4 oktober 2026, https://asia.nikkei.com)
 ---
 
----
-
 ## 📊 Marktoverzicht
+| Instrument | Koers | Bron |
+|---|---|---|
+| Bitcoin (BTC) | ~$83.400 | Coinbase/CoinGecko |
+| Ethereum (ETH) | ~$2.545 | Coinbase |
+| Goud (XAU) | ~$4.175/oz | Kitco/CNBC |
+| Brent crude | ~$103/vat | ICE/TASS |
+| EUR/USD | ~1,12 | Marktdata |
+| S&P 500 | 7.811 | Slot 9 okt |
+| AEX | ~1.092 | Laatste beschikbaar |
+| DAX | ~24.831 | Laatste beschikbaar |
+| Nikkei 225 | 69.042 | Slot 9 okt |
 
-| Markt | Koers | Verandering |
-|-------|-------|-------------|
-| Bitcoin (BTC) | $86.564 | +2,1% |
-| Ethereum (ETH) | $2.717 | -1,5% |
-| Goud | $4.139/oz | -0,03% |
-| Brent olie | $101,31/vat | -0,9% |
-| EUR/USD | 1,12 | stabiel |
-| S&P 500 | 7.722 | +0,4% |
-| AEX | 1.117 | +1,3% |
-| DAX | 25.231 | +1,2% |
-| Nikkei 225 | 69.995 | +2,5% |
-
+> *Koersen indicatief; markten vandaag (maandag) nog niet volledig geopend.*
 ---
 
 ## 🔗 De Grote Lijnen
 
-De Europese begrotingsdruk domineert deze week: België worstelt met een besparingsoperatie van €10 miljard terwijl Duitsland miljarden aan militaire hulp voor Oekraïne toezegt — een spanning tussen bezuinigen en geopolitieke investeringen die de hele EU raakt. De oorlog in Oekraïne blijft het geopolitieke zwaartepunt: Merz' bezoek aan Kyiv onder droneaanvallen onderstreept dat Europa zich opmaakt voor een langdurig conflict, met directe gevolgen voor energieprijzen (Brent boven $100) en defensiebegrotingen. Op technologisch vlak laat zowel Turkije (52% elektrische autoverkoop) als China (Huawei's Tau-chips) zien dat de verschuiving naar autonome technologieketens versnelt, los van westerse dominantie. De digitale kwetsbaarheid groeit ondertussen: Nederland kampt met massale hacks terwijl burgers 'datalekmoe' worden — een gevaarlijke apathie nu cyberdreigingen toenemen. De dalende goedkeuring van Trump (31%) en stijgende benzineprijzen in de VS wijzen op een breder westers onbehagen over kosten van levensonderhoud, dat ook in de Europese begrotingsdebatten doorklinkt.
-
+Overheden in Europa staan onder druk van twee kanten: in België, Frankrijk en het VK worstelen regeringen met begrotingsdiscipline terwijl vakbonden en studenten de straat opgaan tegen bezuinigingen en onderwijshervormingen. Tegelijkertijd verschuift de geopolitieke aandacht: Oekraïense droneaanvallen op Russische datacenters markeren een nieuwe fase in de digitale oorlogsvoering, terwijl Turkije zijn defensie-industrie versneld uitbouwt. In Azië tekenen zich twee divergerende trends af — Japan overweegt het einde van het ultra-lage-rentebeleid nu inflatie structureel boven de 2% ligt, terwijl Chinese techgiganten massaal inzetten op AI-agents als volgende groeifase. India's democratische spanningen en het FBI-onderzoek naar een Amerikaans Congreslid onderstrepen dat politieke instabiliteit ook in gevestigde democratieën oplaait. De rode draad: overal zoeken overheden en bedrijven naar grip op inflatie, technologische verschuiving en maatschappelijke onrust — en nergens is een eenvoudig antwoord.
 ---
-*Samengesteld op 2026-10-05*
