@@ -1,5 +1,9 @@
 # MIJN NIEUWSKRANT
+<<<<<<<< HEAD:archief/2026/10/nieuwskrant-2026-10-14.md
 ### Woensdag 14 oktober 2026
+========
+### Dinsdag 13 oktober 2026
+>>>>>>>> fe96dac2798461d15131f9ea2cde9e8e52a5f827:archief/2026/10/nieuwskrant-2026-10-13.md
 ---
 # Nieuwsoverzicht 2026-10-13
 
@@ -48,6 +52,7 @@
 ---
 
 ## 📊 Marktoverzicht
+<<<<<<<< HEAD:archief/2026/10/nieuwskrant-2026-10-14.md
 | Instrument | Koers | Verandering |
 |---|---|---|
 | Bitcoin (BTC) | ~$81.800 | ▼ dalend na hete CPI |
@@ -61,9 +66,37 @@
 | Nikkei 225 | ~70.684 | ▲ +1,05% |
 
 > *Koersen indicatief; Europese indices intraday, overige op basis van meest recente beschikbare data. Amerikaanse CPI-inflatie van 3,7% in september boven verwachting (3,6%), wat druk legt op risicovolle activa.*
+========
+
+| Markt | Koers | Dag |
+|-------|-------|-----|
+| Bitcoin (BTC) | $83.400 | -0,7% |
+| Ethereum (ETH) | $2.545 | ±0% |
+| Goud (XAU) | $4.165 | -0,1% |
+| Brent crude | $105,22 | -1,3% |
+| EUR/USD | 1,1195 | +0,4% |
+| S&P 500 | 7.805 | ±0% |
+| AEX | 1.133 | n.b. |
+| DAX | 25.278 | +0,8% |
+| Nikkei 225 | 67.778 | -1,8% |
+
+*Koersen indicatief, ochtend 13 oktober 2026.*
+
+>>>>>>>> fe96dac2798461d15131f9ea2cde9e8e52a5f827:archief/2026/10/nieuwskrant-2026-10-13.md
 ---
 
 ## 🔗 De Grote Lijnen
 
+<<<<<<<< HEAD:archief/2026/10/nieuwskrant-2026-10-14.md
 Het IMF domineert deze week de koppen: de World Economic Outlook schetst een wereld die uit de pas loopt — Nederland en Duitsland krijgen hogere groeicijfers terwijl China en Turkije juist worden teruggeschroefd, en Japan balanceert op de rand van een langverwachte renteverhoging. Dwars door deze groeiverschillen loopt een hardnekkig inflatieprobleem: de Amerikaanse CPI van 3,7% voedt speculatie over nóg een renteverhoging van de Fed, Duitsland ziet inflatie boven de 3% terugkeren, en zelfs in Rusland schiet de inflatie door de eigen bandbreedte. Europa worstelt simultaan met begrotingsdiscipline — in België is de State of the Union afgelast, in Frankrijk flirt de 10-jaarsrente met 5% terwijl de Socialisten het begrotingsdebat dreigen te blokkeren, en het VK krijgt een IMF-waarschuwing. Geopolitiek verschuift het conflict steeds meer naar het digitale domein: Oekraïense drones die Russische datacenters raken en de Albert Heijn-hack in Nederland illustreren hoe cyberoorlog en cybercrime de dagelijkse economie binnendringen. Van Delhi tot Brussel staat democratische legitimiteit onder druk, terwijl markten nerveus schommelen tussen hoopvolle groeicijfers en een inflatiespook dat maar niet wijkt.
 ---
+========
+Het **IMF** domineert het wereldnieuws vandaag: in bijna elk land kleurt de nieuwe World Economic Outlook het debat — Nederland en Duitsland veren op dankzij verhoogde groeiramingen, terwijl China en Turkije neerwaartse bijstellingen verwerken. Die uiteenlopende prognoses versterken een bredere tweedeling tussen westerse economieën die stijgende rentes en begrotingstekorten opvangen, en opkomende markten waar inflatie (Rusland 7,1%, Turkije 29,7%) en geopolitieke spanningen de groei drukken.
+
+Begrotingsimpasses vormen de rode draad van Brussel tot Den Haag en Parijs: in België sneuvelt de State of the Union, in Frankrijk flirt de 10-jaarsrente met 5%, en in Nederland zoekt het kabinet-Jetten nog een meerderheid. De hoge obligatierentes die de Fed "nuttig" noemt, stralen door naar de Europese kapitaalmarkten — Brent boven de $105 voedt de inflatiedruk verder.
+
+Geopolitiek escaleert op twee fronten: de Britse beschuldiging aan het adres van Iran rond RAF Fairford en de Oekraïense droneaanvallen op Russische datacenters laten zien dat het hybride conflict steeds meer de digitale en economische infrastructuur raakt, met directe gevolgen voor betalingsverkeer en energieprijzen wereldwijd.
+
+---
+*Samengesteld op 13 oktober 2026.*
+>>>>>>>> fe96dac2798461d15131f9ea2cde9e8e52a5f827:archief/2026/10/nieuwskrant-2026-10-13.md
