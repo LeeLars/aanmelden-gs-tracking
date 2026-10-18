@@ -1,5 +1,5 @@
 # MIJN NIEUWSKRANT
-### Zaterdag 17 oktober 2026
+### Zondag 18 oktober 2026
 ---
 
 
@@ -48,26 +48,26 @@
 ---
 
 
-## Marktoverzicht
+## 📊 Marktoverzicht (slotkoersen vr 16 okt / zo 18 okt)
 
-| Markt | Koers | Beweging |
-|-------|-------|----------|
-| Bitcoin (BTC) | $81.500 | ▼ zwak, ETF-uitstroom |
-| Ethereum (ETH) | $2.430 | ▼ mee met BTC |
-| Goud (XAU) | $4.187/oz | ▲ +0,4% |
-| Brent-olie | $110/vat | ▲ +3,6%, Midden-Oosten |
-| EUR/USD | 1,1250 | ◆ stabiel |
-| S&P 500 | 7.659 | ▼ −1,1% |
-| AEX | ~960 | ▲ recordniveau |
-| DAX | 25.623 | ▲ +0,95% |
-| Nikkei 225 | 65.324 | ▲ +1,4% |
+| Instrument   | Koers              | Verandering       |
+|--------------|--------------------|-------------------|
+| Bitcoin      | $81.737            | ▼ zwak, ETF-uitstroom |
+| Ethereum     | $2.430             | ▼ mee met BTC     |
+| Goud         | $4.187/oz          | ▲ +0,4%           |
+| Brent        | $110/vat           | ▲ +3,6%, Midden-Oosten |
+| EUR/USD      | 1,1250             | ◆ stabiel         |
+| S&P 500      | 7.659              | ▼ −1,1%           |
+| AEX          | ~960               | ▲ recordniveau    |
+| DAX          | 25.623             | ▲ +0,95%          |
+| Nikkei 225   | 65.324             | ▲ +1,4%           |
 
 *Koersen bij sluiting 16/17 okt 2026. Bronnen: Investing.com, Trading Economics, Bloomberg.*
-
 ---
 
-## De Grote Lijnen
+## 🔗 De Grote Lijnen
 
 De rode draad deze week is een wereld die op twee fronten onder druk staat: **geopolitieke spanningen** en **begrotingscrises**. De Midden-Oostenconflicten jagen de olieprijs boven $110, wat de koopkrachtprotesten in Frankrijk en de begrotingsproblemen in België, Duitsland en het VK direct verergert. Tegelijkertijd toont de mondiale economie een scherpe tweedeling: terwijl India (7,1% groei) en China (chipexport +136%) doorstomen, worstelen westerse landen met inflatie, stijgende defensiebudgetten en ontevreden burgers.
 
 Opvallend is hoe financiële markten onder stress staan: de Turkse fondscrisis (131 fondsen bevroren) en Ruslands dalende beurs laten zien dat het vertrouwen van beleggers broos is, terwijl de S&P 500 ook zijn slechtste week sinds juni noteert. De goudprijs op bijna $4.200 en de recordstanden van de AEX zijn twee kanten van dezelfde medaille — beleggers zoeken veilige havens en concentreren zich op een handvol sterke markten. Ondertussen zet de AI-wedloop zich voort, van Trumps risicorapport tot China's rekensatellieten, als misschien wel de enige sector die alle geopolitieke blokken verbindt.
+---
