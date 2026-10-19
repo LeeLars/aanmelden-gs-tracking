@@ -1,73 +1,67 @@
 # MIJN NIEUWSKRANT
-### Zondag 18 oktober 2026
+### Maandag 19 oktober 2026
 ---
-
-
 ## 🇧🇪 België
-- **Begrotingscrisis: De Wever dreigt met 'schuldenrem'** Premier **Bart De Wever** slaagt er niet in een meerjarenbegroting rond te krijgen en dreigt met een automatisch schuldenplafond als noodmaatregel. De State of the Union van dinsdag werd uitgesteld. Ondertussen kondigden **GSK** (1.200 banen) en **Covestro** (309 banen in Antwerpse haven) zware ontslagrondes aan. (VRT NWS, 15 okt, https://www.vrt.be/vrtnws/en/)
+- **Nationale staking legt openbare sector deels lam** Op **12 oktober** legden vakbonden het openbaar vervoer en delen van de publieke sector plat uit protest tegen de besparingsplannen van premier **Bart De Wever**, die **€10 miljard** wil besparen. Eerder, op 9 oktober, botsten politie en betogers in Brussel toen tienduizenden de straat op gingen tegen stijgende kosten. (US News / Euronews, 12 okt 2026, https://www.usnews.com/news/world/articles/2026-10-12/belgium-strike-partly-shuts-public-sector-as-budget-deal-delayed)
 ---
 
 ## 🇳🇱 Nederland
-- **Zelensky vraagt Europa om €70 miljard extra steun** Terwijl de relatie met de VS bekoelt, vraagt de Oekraïense president **Zelensky** Europa om **€70 miljard** extra militaire steun. In eigen land sloot de AEX op een recordniveau ondanks druk op chipfondsen, en het **IMF** verhoogde de Nederlandse groeiprognose naar **1,5%**. (NOS, 17 okt, https://nos.nl/)
+- **Albert Heijn getroffen door cyberaanval** Supermarktketen **Albert Heijn** verlengde haar bezorgstop nadat experts bevestigden dat het IT-incident "zeer waarschijnlijk een cyberaanval" was. Ondertussen verhoogde het **IMF** de groeiprognose voor Nederland naar **1,5%** voor 2026. (NL Times, okt 2026, https://nltimes.nl/)
 ---
 
 ## 🇹🇷 Turkije
-- **Fondscrisis: 131 beleggingsfondsen bevroren, 80+ arrestaties** De Turkse kapitaalmarktautoriteit heeft de handel in **131 fondsen** van zeven vermogensbeheerders opgeschort, waardoor bijna **een half miljoen beleggers** getroffen zijn. Meer dan **80 topbestuurders** zijn gearresteerd. President **Erdoğan** noemde terugbetaling van beleggers zijn eerste prioriteit. (Daily Sabah, 16 okt, https://dailysabah.com/business/economy/erdogan-lists-3-priorities-as-authorities-handle-fund-turmoil)
+- **Fondsschandaal schokt politiek en beurs** Turkse rechtbanken hebben **85 mensen** opgepakt in het groeiende beleggingsfondsschandaal dat de **Borsa Istanbul** circa **20%** van haar waarde kostte. De **IMF** verhoogde de inflatieprognose naar **31,2%** en verlaagde de groeiverwachting naar **2,7%**. De regerende AKP verbrak banden met voormalig minister **Fatma Betül Sayan Kaya**. (Turkish Minute, 13-17 okt 2026, https://www.turkishminute.com/2026/10/13/imf-raises-turkeys-inflation-forecast-to-31-2-percent/)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Gewelddadige koopkrachtprotesten in heel Frankrijk** Op zaterdag 17 oktober braken in meer dan **140 steden** protesten uit tegen de stijgende kosten van levensonderhoud. In Parijs zette de politie waterkanonnen en traangas in; in Marseille drongen betogers het stadhuis binnen. Landelijk werden **meer dan 160 mensen** opgepakt. De protestbeweging verenigt studenten en de **Gele Hesjes**. (France 24, 17 okt, https://www.france24.com/en/live-news/20261017-french-protesters-clash-with-police-during-nationwide-demonstrations)
+- **Begrotingsdebat 2027 beheerst Assemblée** De **Assemblée Nationale** begon op **13 oktober** met het debat over de inkomstenkant van de begroting voor 2027, terwijl Frankrijk kampt met een tekort van **5,1% bbp** en een staatsschuld van **115,6%**. Leenkosten bereikten het hoogste niveau in bijna **25 jaar**. (CNBC, 13 okt 2026, https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html)
 ---
 
 ## 🇩🇪 Duitsland
-- **Coalitie Merz wankelt door belastingstrijd** De coalitie van kanselier **Friedrich Merz** (CDU/SPD) dreigt te vallen over een pakket belastingverhogingen van meer dan **€4 miljard** per jaar om het begrotingsgat te dichten. Merz is de **minst populaire kanselier** ooit gemeten, terwijl de economie voorzichtig herstelt maar de auto-industrie zwaar lijdt onder **Trump-tarieven**. (Bloomberg, 15 okt, https://www.bloomberg.com/news/features/2026-10-15/germany-s-economic-recovery-may-be-too-late-for-friedrich-merz)
+- **Regering verhoogt groeiprognose naar 1,3%** De Duitse regering verhoogde haar groeiraming voor 2026 van **0,5%** naar **1,3%**, gedragen door schuld-gefinancierde infrastructuurinvesteringen en defensie-uitgaven. Economieminister **Katherina Reiche** zei dat de Iran-oorlog de economie minder raakt dan gevreesd. Het **IMF** bevestigde de opwaartse bijstelling. (Reuters/StreetInsider, okt 2026, https://www.streetinsider.com/Reuters/German+government+raises+growth+forecasts+for+2026+and+2027/27163193.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Poetin prijst aandelenmarkt terwijl MOEX 13,6% daalt** President **Poetin** noemde de Russische aandelenmarkt "stabiel", maar de **MOEX-index** is dit jaar **13,6%** gedaald en **37%** sinds eind 2021. Zijn doel van een beurskapitalisatie van **66% van het bbp** tegen 2030 is volgens ambtenaren onhaalbaar. Tegelijk stijgt het defensiebudget voor 2027 naar een recordhoogte van **17,1 biljoen roebel** (€205 mrd). (The Moscow Times, 16 okt, https://www.themoscowtimes.com/2026/10/16/putin-praises-russias-stock-market-as-shares-slide-and-growth-target-slips-away-a93999)
+- **Trump schort sancties tegen Rusland op** President **Trump** tekende op **17 oktober** een executive order die de recent aangenomen **Graham Act-sancties** tegen Rusland opschort, als onderdeel van een deal voor de aankoop van Russische diesel. Zowel Republikeinen als Democraten bekritiseerden het besluit. Oekraïne voerde op **18 oktober** een grote droneaanval uit op een Russisch olieterminal. (CNN/Al Jazeera, 17-18 okt 2026, https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Minister Healey bereidt eerste begroting voor onder druk van £35 mrd gat** Kanselier van de Schatkist **John Healey** presenteert op **28 oktober** zijn eerste begroting. Het IFS becijfert een tekort van **£35 miljard** om Labour's uitgavenplannen te financieren. Het bbp groeide **0,4%** in Q2 2026, maar de energieprijsschok door het Midden-Oostenconflict drukt de vooruitzichten. (Institute for Government / Saxo, okt 2026, https://www.instituteforgovernment.org.uk/budget-2026)
+- **Bedrijfsleven dringt aan op belastingverlaging voor begroting** Britse werkgeversorganisaties roepen minister van Financiën **Healey** op tot belastingverlagingen om het aannemen van personeel te stimuleren, terwijl consumenten voorzichtiger worden door aanhoudende kostendruk. Premier **Andy Burnham** bood **Zelensky** Britse steun aan in "donkere en moeilijke dagen". (Bloomberg, 12-15 okt 2026, https://www.bloomberg.com/uk-politics)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Trumps AI-taskforce bestelt risicorapport over kunstmatige intelligentie** President **Trumps** AI-taskforce gaf na haar eerste vergadering opdracht voor een rapport over cybersecurity- en biosecurity-risico's van AI. Tegelijk dient het Congres een wetsvoorstel in om Trumps **dieseldeal met Poetin** te blokkeren, terwijl Brent-olie boven **$110** steeg en de S&P 500 de slechtste week sinds juni noteerde. (Bloomberg, 16 okt, https://bloomberg.com/news/articles/2026-10-16/trump-s-ai-task-force-to-commission-report-on-technology-s-risks)
+- **Inflatie stijgt naar 3,7% vlak voor tussentijdse verkiezingen** De consumentenprijzen stegen in september naar **3,7%**, het laatste CPI-rapport voor de **midterms van november**. Fed-voorzitter **Kevin Warsh** gaf geen hint over een volgende renteverhoging. In Texas staat de Senaatsrace tussen **Ken Paxton** en **James Talarico** gelijk. (CBS News/NBC, okt 2026, https://www.cbsnews.com/politics/)
 ---
 
 ## 🇮🇳 India
-- **Wereldbank voorspelt 7,1% groei voor India in FY27** De **Wereldbank** projecteert een groei van **7,1%** voor het fiscale jaar 2027, gedreven door binnenlandse vraag en export. Minister van Financiën **Sitharaman** noemde op de IMF-top in Bangkok handelsbarrières het grootste obstakel in de relatie met China, en wees op non-tarifaire blokkades voor Indiase generieke medicijnen en landbouwproducten. (World Bank, 6 okt, https://www.worldbank.org/en/news/press-release/2026/10/06/india-development-update-oct-2026)
+- **Wereldbank voorspelt 7,1% groei voor India** De **Wereldbank** projecteert **7,1% groei** voor fiscaal jaar 2027, gedragen door robuuste binnenlandse vraag en sterke export. Risico's zijn onder meer olieprijzen en El Niño. In Delhi groeit het protest: de **Cockroach Janta Party** eist het ontslag van de hoofdverkiezingscommissaris. (World Bank, 6 okt 2026, https://www.worldbank.org/en/news/press-release/2026/10/06/india-development-update-oct-2026)
 ---
 
 ## 🇨🇳 China
-- **Chipexport explodeert: +136% naar $45 miljard in september** China's chipexport steeg in september met **136%** tot **$45 miljard** dankzij de mondiale AI-vraag. De totale export groeide **36%**. Binnenslands lanceerde China **acht rekensatellieten** als eerste stap naar een constellatie van **2.800 AI-satellieten**. Ondertussen dreigt een Amerikaans Congreslid **58 Chinese universiteiten** op een veiligheidslijst te zetten. (SCMP, 17 okt, https://scmp.com/news/china/diplomacy/article/3371212/china-pushes-back-us-lawmaker-seeks-blacklist-universities-and-tech-labs)
+- **Economie groeit 4,5% in derde kwartaal, boven verwachtingen** China's bbp groeide **4,5%** jaar-op-jaar in Q3, boven de verwachte **4,4%**, gedreven door een exportboom (**+36,3%** in september). Binnenlandse vraag blijft zwak: retailverkopen stegen slechts **1,1%** en vaste investeringen krompen **7,2%**. Peking overweegt exportbeperkingen op **14 technologieën** waaronder AI. (Al Jazeera/SCMP, 18-19 okt 2026, https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts)
 ---
 
 ## 🇯🇵 Japan
-- **IMF verhoogt Japanse groeiprognose; kabinet wil btw op voedsel naar 1%** Het **IMF** verhoogde de groeiraming voor Japan in 2026 naar **0,7%**. Het kabinet van premier **Sanae Takaichi** keurde een wetsvoorstel goed dat de **btw op voedsel** verlaagt van 8% naar **1%** voor twee jaar vanaf april 2027. Minister van Financiën **Katayama** waarschuwde speculanten op de IMF-top in Bangkok dat Japan klaarstaat om opnieuw in te grijpen op de valutamarkt. (Japan Times, 17 okt, https://japantimes.co.jp/business/2026/10/17/economy/imf-official-japan-tax-cut-plan)
+- **Premier Takaichi opent parlement met offensief begrotingsbeleid** Premier **Sanae Takaichi** presenteerde op **5 oktober** een "proactief begrotingsbeleid" gericht op investeringsstimulering, ondanks zorgen over de zwakke yen. Het **IMF** verhoogde de groeiprognose naar **0,7%**. Minister van Financiën **Katayama** waarschuwde speculanten dat Japan klaarstaat om opnieuw in valutamarkten in te grijpen. (Japan Times/Bloomberg, 5-16 okt 2026, https://www.japantimes.co.jp/news/2026/10/05/japan/politics/prime-minister-speech-autumn-diet/)
 ---
 
-
-## 📊 Marktoverzicht (slotkoersen vr 16 okt / zo 18 okt)
-
-| Instrument   | Koers              | Verandering       |
-|--------------|--------------------|-------------------|
-| Bitcoin      | $81.737            | ▼ zwak, ETF-uitstroom |
-| Ethereum     | $2.430             | ▼ mee met BTC     |
-| Goud         | $4.187/oz          | ▲ +0,4%           |
-| Brent        | $110/vat           | ▲ +3,6%, Midden-Oosten |
-| EUR/USD      | 1,1250             | ◆ stabiel         |
-| S&P 500      | 7.659              | ▼ −1,1%           |
-| AEX          | ~960               | ▲ recordniveau    |
-| DAX          | 25.623             | ▲ +0,95%          |
-| Nikkei 225   | 65.324             | ▲ +1,4%           |
-
-*Koersen bij sluiting 16/17 okt 2026. Bronnen: Investing.com, Trading Economics, Bloomberg.*
 ---
+## 📊 Marktoverzicht
+*Slotkoersen vrijdag 16 oktober / crypto 19 oktober 2026*
 
+| Markt | Koers | Dag |
+|-------|-------|-----|
+| Bitcoin (BTC) | $82.400 | +0,8% |
+| Ethereum (ETH) | $2.420 | +0,4% |
+| Goud | $4.169/oz | +0,1% |
+| Brent | $107,11/vat | −2,5% |
+| EUR/USD | 1,163 | — |
+| S&P 500 | 7.659 | −1,1% |
+| DAX | 25.623 | +1,0% |
+| Nikkei 225 | 65.324 | +1,4% |
+| AEX | ~1.115 | — |
+
+---
 ## 🔗 De Grote Lijnen
 
-De rode draad deze week is een wereld die op twee fronten onder druk staat: **geopolitieke spanningen** en **begrotingscrises**. De Midden-Oostenconflicten jagen de olieprijs boven $110, wat de koopkrachtprotesten in Frankrijk en de begrotingsproblemen in België, Duitsland en het VK direct verergert. Tegelijkertijd toont de mondiale economie een scherpe tweedeling: terwijl India (7,1% groei) en China (chipexport +136%) doorstomen, worstelen westerse landen met inflatie, stijgende defensiebudgetten en ontevreden burgers.
-
-Opvallend is hoe financiële markten onder stress staan: de Turkse fondscrisis (131 fondsen bevroren) en Ruslands dalende beurs laten zien dat het vertrouwen van beleggers broos is, terwijl de S&P 500 ook zijn slechtste week sinds juni noteert. De goudprijs op bijna $4.200 en de recordstanden van de AEX zijn twee kanten van dezelfde medaille — beleggers zoeken veilige havens en concentreren zich op een handvol sterke markten. Ondertussen zet de AI-wedloop zich voort, van Trumps risicorapport tot China's rekensatellieten, als misschien wel de enige sector die alle geopolitieke blokken verbindt.
----
+De rode draad deze week is **begrotingsdruk versus groeiambities**: van België's staking tegen €10 miljard bezuinigingen, via het Franse tekort van 5,1% bbp, tot Duitslands schuld-gefinancierde groeisprong — overal worstelen overheden met de balans tussen bezuinigen en stimuleren. Ondertussen tekent zich een **geopolitiek energieschaakspel** af: Trumps opschorting van Rusland-sancties voor diesel drukt de olieprijs (-2,5%), terwijl Oekraïne Russische olie-infrastructuur aanvalt — een spanning die Brent volatiel houdt rond $107. De **opkomende markten** tonen uiteenlopende trajecten: India's 7,1% groei en China's exportboom (+36,3%) contrasteren scherp met Turkije's fondsschandaal en 31,2% inflatie. Tot slot valt op dat **inflatie** een gedeeld thema is — van 3,7% in de VS vlak voor de midterms tot de Britse kostendruk die bedrijven om belastingverlaging doet smeken — wat de houdbaarheid van de huidige rentestand onder druk zet. De AEX-notering is indicatief.
