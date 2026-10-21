@@ -1,72 +1,77 @@
 # MIJN NIEUWSKRANT
-### Dinsdag 20 oktober 2026
+### Woensdag 21 oktober 2026
 ---
 ## 🇧🇪 België
-- **Begrotingscrisis: De Wever speelt alles of niets** Premier **Bart De Wever** liet zijn noodplan van **€4 miljard** varen na verzet binnen de coalitie en richt zich nu op een meerjarenbegroting van **€10 miljard**. Een algemene btw-verhoging lijkt van tafel na verzet van **MR-leider Bouchez**, maar als de bilaterale gesprekken mislukken dreigt een politieke crisis. (VRT NWS, 18 oktober 2026, https://vrt.be/vrtnws/nl/2026/10/18/eerste-minister-de-wever-speelt-alles-of-niets)
+- **Begrotingsonderhandelingen vastgelopen: De Wever hervat bilaterale gesprekken** Premier **Bart De Wever** sloot zondag de begrotingsgesprekken af zonder akkoord over een extra **€10 miljard** aan besparingen tegen 2029. Werkgroepen buigen zich over de twistpunten: **Vooruit** en **Les Engagés** verzetten zich tegen €2 miljard zorgbezuinigingen, terwijl de **MR** een btw-verhoging van 21% naar 22% blokkeert. België moet het herziene budget bij de Europese Commissie indienen. (Brussels Times, 21 okt 2026, https://brusselstimes.com/belgium/2346711/belgiums-e10-billion-budget-talk-what-happened-in-the-weekend/)
 ---
 
 ## 🇳🇱 Nederland
-- **NS-treinkaartjes opnieuw fors duurder: gemiddeld 4,7% prijsstijging** De **Nederlandse Spoorwegen** verhogen de ticketprijzen met gemiddeld **4,7%**, terwijl de gasvulling op **64%** het minimale streefdoel haalt. Ondertussen heeft **Albert Heijn** een kwart marktaandeel verloren na een hack, aldus onderzoeksbureau Hiiper. (NOS, 20 oktober 2026, https://nos.nl/)
+- **Overheidswebsites offline door kritiek softwarelek** Een ernstige kwetsbaarheid in veelgebruikte software heeft onder meer **DigiD** en **MijnOverheid** platgelegd. Meerdere overheids- en onderwijswebsites zijn uit voorzorg offline gehaald vanwege het risico op hacks. Het **NCSC** onderzoekt de impact terwijl burgers tijdelijk geen toegang hebben tot digitale overheidsdiensten. (NOS, 21 okt 2026, https://nos.nl/)
 ---
 
 ## 🇹🇷 Turkije
-- **Fondsschandaal raakt half miljoen beleggers** Minister van Financiën **Mehmet Şimşek** meldde dat de liquidatie van **131 fondsen** bij zeven bedrijven op schema ligt; **85 personen** zijn gearresteerd. Een wetsvoorstel in het parlement maakt tussentijdse uitbetalingen tot **₺1 miljoen** mogelijk, terwijl beleggers met winsten boven **₺10 miljoen** het geld moeten terugbetalen. (Daily Sabah, 20 oktober 2026, https://dailysabah.com/business/economy/turkiye-to-seek-return-of-excessive-gains-as-fund-payouts-advance)
+- **Turkije presenteert begrotingsvoorstel 2027 met recorddefensiebudget** Het parlement behandelt het begrotingsvoorstel voor 2027, waarin **$44,5 miljard** is gereserveerd voor defensie. Tegelijkertijd daalde de inflatie voor het eerst in bijna vijf jaar onder de **30%**, een teken dat het strakke monetaire beleid van de centrale bank effect heeft. Minister van Justitie **Akın Gürlek** riep op de OECD-top in Istanbul op tot actie voor Gaza. (Daily Sabah, 21 okt 2026, https://dailysabah.com/politics/turkish-minister-calls-on-oecd-to-raise-voice-for-gaza/news)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Massale rellen en avondklok na protesten tegen bezuinigingen** Na een protestmars van een half miljoen mensen op 17 oktober zijn er **1.800 arrestaties** verricht en **1.500 bedrijven** beschadigd. Parijs, Lille en Lyon kregen een **avondklok**; president **Macron** reist naar Golfstaten om olie- en dieselprijzen te drukken terwijl de staatsschuld op een naoorlogs record van **119% bbp** staat. (France 24, 20 oktober 2026, https://www.france24.com/en/live-news/20261020-an-unhappy-republic-france-s-troubles-extend-beyond-the-street)
+- **Rellen en stakingsdreiging: vakbonden verwerpen aanbod premier Lecornu** Premier **Sébastien Lecornu** ontmoette vakbondsleiders, maar **CGT-voorzitter Sophie Binet** verklaarde dat de regering geen concessies deed en riep op tot stakingen op **5 november**. De rente op **10-jaars staatsobligaties** steeg boven de **5%**, supermarktketen **Carrefour** verloor meer dan **13%** op de beurs, en het ratingbureau **Moody's** overweegt een verlaging van de Franse kredietbeoordeling. Avondklokken gelden in delen van Parijs en Lyon. (France24, 21 okt 2026, https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests)
 ---
 
 ## 🇩🇪 Duitsland
-- **Merz werft investeerders met Nvidia en BlackRock op 'Invest in Germany'-top** Bondskanselier **Friedrich Merz** ontving **BlackRock-CEO Larry Fink** en **Nvidia-CEO Jensen Huang** op een investeringstop in Berlijn om internationaal kapitaal aan te trekken. De regering kondigde een **AI-partnerschap met Nvidia** aan om de industriële concurrentiekracht te versterken, terwijl het ondernemersvertrouwen voorzichtig verbetert. (Handelsblatt, 20 oktober 2026, https://www.handelsblatt.com/themen/deutschland)
+- **Merz opent eerste Invest in Germany Summit met Nvidia-deal** Bondskanselier **Friedrich Merz** ontving circa **200 internationale CEO's** op de eerste investeringstop in Berlijn. **Nvidia-CEO Jensen Huang** was eregast; de regering sloot een samenwerkingsovereenkomst met Nvidia op het gebied van **AI**. De groeiprognose voor 2026 is verhoogd naar **1,3%**, mede dankzij het schuld­gefinancierde investeringsprogramma van **€500 miljard**. (ESMT Berlin / Handelsblatt, 20-21 okt 2026, https://esmt.berlin/about/press/invest-germany-summit-esmt-berlin-host-german-governments-first-investor-summit)
 ---
 
 ## 🇷🇺 Rusland
-- **Chabarovsk schrapt directe burgemeestersverkiezingen** De gemeenteraad van **Chabarovsk** stemde voor afschaffing van directe burgemeestersverkiezingen; alleen **Abakan** en **Anadyr** behouden dit recht nog. Ondertussen stijgt het defensiebudget voor 2027 naar **17,1 biljoen roebel ($205 miljard)**, een stijging van **26%**, gefinancierd door een extra belasting op cement, kunstmest en goud. (The Moscow Times, 20 oktober 2026, https://www.themoscowtimes.com/2026/10/20/khabarovsk-scraps-direct-mayoral-elections-a94030)
+- **VS-gezant Witkoff ontmoet Poetin in Sint-Petersburg over vredesplan Oekraïne** Speciaal gezant **Steve Witkoff** arriveerde in Sint-Petersburg voor gesprekken met president **Poetin** in het Konstantinovski-paleis. Hij presenteert naar verluidt een **bijgewerkt vredesplan** voor de oorlog in Oekraïne. Tegelijkertijd vertrekt de eerste Russische **diesellading naar de VS** op 22 oktober – onderdeel van een deal voor **300.000 ton** brandstof, gevolgd door **500.000 ton** in november. (Meduza, 21 okt 2026, https://meduza.io/en/news/2026/10/21/witkoff-arrives-in-st-petersburg-for-talks-with-putin-where-he-s-expected-to-present-an-updated-plan-to-end-the-war)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Premier Burnham presenteert begroting met hogere bankenbelasting** De Britse begroting op **28 oktober** bevat een verhoging van de bankenbelasting; banken waarschuwen voor een **£6 miljard** klap voor de economie. De werkloosheid staat op **4,7%**, het consumentenvertrouwen daalde naar het laagste punt in drie jaar (**41,3**), en de Brent-olieprijs boven **$110 per vat** houdt de inflatiedruk hoog. (Bloomberg, 20 oktober 2026, https://www.bloomberg.com/latest/uk-economy)
+- **Begrotingsdruk stijgt: minister Healey bereidt Autumn Budget voor op 28 oktober** Minister van Financiën **John Healey** bereidt zijn eerste begroting voor, terwijl de **begrotingsruimte** door de Iran-oorlog is gehalveerd van **£23,6 miljard** naar circa **£12 miljard**. Per 1 oktober is de btw op huishoudelijke elektriciteit verlaagd van **5% naar 0%**, wat huishoudens circa **£45 per jaar** bespaart. De **OBR** publiceert nieuwe ramingen bij de begroting op 28 oktober. (Institute for Government / Simply Business, okt 2026, https://www.instituteforgovernment.org.uk/budget-2026)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Trump opent deur voor top met Poetin en Xi over kernwapens** President **Donald Trump** verklaarde bereid te zijn tot een trilaterale ontmoeting met **Poetin** en **Xi Jinping**, maar wil de focus op **nucleaire ontwapening** leggen in plaats van op de oorlog in Oekraïne. Tegelijk reist **Zelenski** naar Oslo voor vredesbesprekingen waar VS-gezant **Steve Witkoff** dinsdag wordt verwacht. (Bloomberg, 19 oktober 2026, https://bloomberg.com/news/articles/2026-10-19/trump-open-to-putin-xi-summit-but-would-focus-on-nuclear-arms)
+- **SpaceX-kwartaalcijfers stuwen futures omhoog; Trump-PAC pompt $277 miljoen in tussentijdse verkiezingen** De Nasdaq 100-futures stegen circa **0,6%** na sterke kwartaalcijfers van **SpaceX**, terwijl beleggers uitkijken naar resultaten van **Meta** en **Tesla**. Politiek gaf **MAGA Inc.** in zes weken **$277 miljoen** uit om Republikeinse kandidaten te steunen bij de midterms. Het ministerie van Energie leent **315.000 vaten** uit de strategische stookoliereserve vanwege stijgende brandstofprijzen, met WTI-ruwe olie op **$98,26**. (Bloomberg, 21 okt 2026, https://www.bloomberg.com/news/articles/2026-10-21/us-futures-climb-with-spacex-results-helping-boost-ai-sentiment)
 ---
 
 ## 🇮🇳 India
-- **Inflatie schiet omhoog: WPI boven 12%, CPI boven 6%** Ratingbureau **Ind-Ra** verwacht dat de groothandelsinflatie in oktober boven **12%** uitkomt en de consumenteninflatie de **6%-grens** doorbreekt, gedreven door energie, weer en basiseffecten. De regering verhoogde de exportbelasting op benzine naar **₹2,50 per liter**; premier **Modi** besprak met Canada een handelsdeal (CEPA) vóór eind 2026. (Business Standard, oktober 2026, https://www.business-standard.com/economy)
+- **VS-India handelsdeal "zeer dichtbij" volgens minister Rubio** De Amerikaanse minister van Buitenlandse Zaken **Marco Rubio** verklaarde in Mumbai dat een handelsdeal met India **zeer dichtbij** is. Minister van Financiën **Nirmala Sitharaman** bevestigde dat de deal zo snel mogelijk wordt afgerond en uitte bezorgdheid over Chinese **non-tarifaire barrières** op Indiase export. **Deloitte** voorspelt een bbp-groei van **7,1-7,3%** voor boekjaar 2027. (Indian Opinion / World Bank, 21 okt 2026, https://indianopinion.org/today-in-india-21-october-2026/)
 ---
 
 ## 🇨🇳 China
-- **Staatsfonds van $9 miljard begint te investeren in AI-modelbouwers** China's door de staat gesteunde AI-investeringsfonds van **60 miljard yuan ($9 miljard)** heeft kapitaal ingezet bij top-ontwikkelaars van grote taalmodellen. Tegelijk kondigde het ministerie van Handel exportbeperkingen aan voor **14 technologieën** waaronder AI, biotech en zonne-energie, hoewel de "overgrote meerderheid" van AI-technologieën exporteerbaar blijft. (Caixin Global, 20 oktober 2026, https://caixinglobal.com/2026-10-20/china-steps-up-ai-investment-with-9-billion-fund-backing-model-developers-102495295.html)
+- **China richt staatsbedrijf op in Xiongan voor nationale AI-datastrategie** De **National Data Group Co** is gelanceerd in Xiongan New Area (Hebei) met als opdracht de ontwikkeling en exploitatie van **dataresources voor AI**. Tegelijkertijd overweegt Peking **exportbeperkingen op 14 technologieën**, waaronder AI en zonne-energie, en hebben de VS opdracht gegeven **DeepSeek** van federale systemen te verwijderen wegens nationale veiligheidsrisico's. (SCMP, 21 okt 2026, https://scmp.com/tech/policy/article/3371540/china-creates-state-owned-firm-xiongan-develop-nations-ai-data-resources)
 ---
 
 ## 🇯🇵 Japan
-- **Japan investeert $21 miljard in chipfabrieken in New York** Japan investeert tot **$21 miljard** in twee chipfabrieken in de staat New York via een deal met **GlobalFoundries**, als onderdeel van afspraken met de VS over halfgeleidersamenwerking. Intussen daalde de steun voor premier **Sanae Takaichi** onder **50%** na het aftreden van de landbouwminister wegens een subsidie-schandaal. (The Japan Times, 20 oktober 2026, https://www.japantimes.co.jp/business/2026/10/20/tech/japan-chip-industry-reboot/)
+- **Japanse export stijgt 16,7% in september, gedragen door chips en auto's** De Japanse export groeide in september met **16,7%** op jaarbasis – de **dertiende maand op rij** van groei – gedreven door **halfgeleiders** en auto's, al bleef het onder de verwachte 21,3%. Daarnaast gaan het **LSTC**, de Universiteit van Hokkaido en **Fujifilm** samenwerken aan een **AI-gebaseerd medisch beeldverwerkingssysteem** met geavanceerde chips voor realtime verwerking in ziekenhuizen. (Japan Times, 21 okt 2026, https://www.japantimes.co.jp/business/2026/10/21/economy/japan-exports-growth-september/)
 ---
 
 ---
-## 📊 Marktoverzicht (20 oktober 2026)
 
-| Instrument | Koers | Richting |
+## 📊 Marktoverzicht
+
+| Instrument | Koers | Verandering |
 |---|---|---|
-| Bitcoin (BTC) | $81.257 | ▼ -1,4% |
-| Ethereum (ETH) | ~$2.725 | ▼ dalend |
-| Goud | $4.135/oz | ▼ -0,6% |
-| Brent-olie | $109,55/vat | ▼ -0,3% |
-| EUR/USD | ~1,16 | → stabiel |
-| S&P 500 | 7.690,73 | ▲ +0,4% |
-| AEX | 1.134,47 | ▼ -0,6% |
-| DAX | ~25.000 (indicatie) | ▼ -1,2% |
-| Nikkei 225 | 64.917 | ▼ -0,6% |
+| Bitcoin (BTC) | $83.405 | +0,8% |
+| Ethereum (ETH) | $2.335 | ~stabiel |
+| Goud | $4.138/oz | ~vlak |
+| Brent-olie | $110,13/vat | +1,2% |
+| WTI-olie | $98,26/vat | -1,5% |
+| EUR/USD | 1,1235 | nabij maandlaagte |
+| S&P 500 | 7.742 | +0,4% |
+| AEX | 1.141 | +0,7% |
+| DAX | 25.256 | -0,2% |
+| Nikkei 225 | 64.621 | +0,9% |
 
-> *Bronnen: Fortune, CNBC, Saxo, MarketScreener, NordFX (19-20 okt 2026). Indicatieve koersen; raadpleeg een live bron voor actuele prijzen.*
+*Koersen van 21 oktober 2026, intraday. Bronnen: Fortune, Investing.com, TradingEconomics, CoinGecko, CNBC.*
+
 ---
+
 ## 🔗 De Grote Lijnen
 
-Energie domineert de geopolitiek: de Brent-prijs boven $109 zet landen onder druk. Macron reist naar de Golf om brandstofprijzen te drukken terwijl Frankrijk al kreunt onder een staatsschuld van 119% bbp, en het VK worstelt met dezelfde olie-inflatie bij een dalend consumentenvertrouwen. Begrotingspijn is de rode draad van Brussel tot Londen — De Wever zoekt €10 miljard aan besparingen, Burnham verhoogt de bankenbelasting, en India's inflatie schiet boven de 6%.
+**Begrotingen onder druk, geopolitiek als katalysator.** In België, Frankrijk én het VK worstelen regeringen met krappe begrotingsruimte — in alle drie gevallen verergerd door geopolitieke spanningen (Iran-oorlog, energieprijzen, defensie-uitgaven). De Franse rente boven 5% en een mogelijke Moody's-verlaging onderstrepen hoe snel markten het vertrouwen verliezen als begrotingsdiscipline ontbreekt.
 
-Technologie wordt ingezet als reddingsboei: Duitsland trekt Nvidia en BlackRock aan, Japan pompt $21 miljard in chipfabrieken en China zet $9 miljard in op AI-modelbouwers — een stille wapenwedloop om industriële relevantie. Ondertussen krimpt de democratische ruimte: Rusland schrapt weer directe verkiezingen terwijl het defensiebudget met 26% stijgt, en Turkije verwerkt een fondsschandaal dat het vertrouwen in de financiële markten ondermijnt.
+**AI en chips als economische hefboom.** Duitsland trekt Nvidia aan met een investeringstop, Japan ziet exportgroei door halfgeleiders, en China richt een staatsbedrijf op voor AI-data. De technologie-as verschuift: de VS verbiedt DeepSeek op overheidssystemen terwijl Peking exportbeperkingen op AI overweegt — het techno-nationalisme verhardt aan beide kanten.
 
-De diplomatieke kaarten worden herschud: Trump biedt een top aan Poetin en Xi aan over kernwapens, terwijl Zelenski in Oslo onderhandelt — een teken dat het Oekraïne-dossier steeds meer wordt losgekoppeld van de bredere nucleaire agenda.
----
+**Energie en diplomatie verweven.** De Witkoff-missie naar Poetin combineert een Oekraïne-vredesplan met een Russische dieseldeal naar de VS — een impliciete erkenning dat energiebelangen het diplomatieke speelveld vormgeven. Brent boven $110 houdt de druk op huishoudbudgetten overal ter wereld, maar geeft Rusland en de Golfstaten onderhandelingsmacht.
+
+**Handel als troefkaart.** De naderende VS-India deal, Turkse recorddefensie-uitgaven en het Duitse investeringsoffensief wijzen op een wereldorde waarin bilaterale deals en strategische investeringen de multilaterale orde steeds meer vervangen.
