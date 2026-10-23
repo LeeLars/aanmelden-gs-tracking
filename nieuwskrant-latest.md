@@ -1,76 +1,77 @@
 # MIJN NIEUWSKRANT
-### Donderdag 22 oktober 2026
+### Vrijdag 23 oktober 2026
 ---
+
+## Nieuwsscan 2026-10-23
+
 ## 🇧🇪 België
-- **Begrotingscrisis: Arizona-coalitie faalt opnieuw in vinden van €10 miljard** De federale regering onder premier **Bart De Wever** slaagt er niet in een begrotingsakkoord te sluiten. Na urenlange onderhandelingen blijft de kloof tussen besparingen en nieuwe belastingen onoverbrugbaar. De **Belgische 10-jaarsrente** steeg tot **4,4%**, hoger dan die van Griekenland, terwijl **S&P** vrijdag een nieuw ratingoordeel uitbrengt. (Brussels Times / Belga, oktober 2026, https://www.brusselstimes.com/belgium/2346711/belgiums-e10-billion-budget-talk-what-happened-in-the-weekend)
+- **Begrotingsonderhandelingen opnieuw vastgelopen** Premier **Bart De Wever** herstart bilaterale gesprekken nadat de federale begrotingsgesprekken maandag 19 oktober zonder akkoord eindigden. De Wever houdt vast aan een **schuldenrem** als een meerjarenbegrotingsakkoord uitblijft. Drie grote vakbonden kondigen een **nationale betoging op 23 november** aan. (VRT NWS, 23 okt 2026)
 ---
 
 ## 🇳🇱 Nederland
-- **Premier Jetten noemt Amerikaanse sancties tegen ICC 'zeer betreurenswaardig'** Premier **Rob Jetten** (D66) heeft de Amerikaanse sancties tegen het Internationaal Strafhof scherp veroordeeld en pleit voor dialoog met Washington. De **minderheidscoalitie** van D66, VVD en CDA (66 van 150 zetels) zoekt steun bij oppositiepartijen om wetgeving door het parlement te krijgen. (NL Times, 10 oktober 2026, https://nltimes.nl/2026/10/10/dutch-pm-jetten-calls-us-sanctions-icc-highly-regrettable-seeks-dialogue)
+- **Kabinet ontziet kleine spaarder bij box 3-hervorming** Het kabinet besluit toch om kleine spaarders te beschermen in de hervorming van de **vermogensrendementsheffing** (box 3). Daarnaast daalt de AEX **1,1%**, met name door verliezen bij chipfondsen en banken. **ASML** dreigt klem te raken tussen de VS en China in het escalerende chipconflict. (FD, 23 okt 2026)
 ---
 
 ## 🇹🇷 Turkije
-- **Centrale bank verlaagt rente naar 36% na vijf pauzes** De Turkse centrale bank heeft de beleidsrente met **100 basispunten** verlaagd naar **36%**, de eerste verlaging in maanden. Recente inflatiecijfers en voorlopende indicatoren bevestigen volgens de bank een vertraging van de **onderliggende inflatietrend**. Minister van Financiën **Mehmet Şimşek** benadrukte dat Turkije's lage schuld de veerkracht versterkt. (TRT World, oktober 2026, https://trtworld.com/article/82dab60801ba)
+- **Canada en Turkije upgraden relatie naar strategisch partnerschap** Tijdens het eerste bilaterale bezoek van een Canadese premier aan Ankara tekenden **Mark Carney** en president **Erdoğan** een strategisch partnerschap op het gebied van handel, defensie, veiligheid en energie. Volgende maand beginnen de eerste **vrijhandelsonderhandelingen** in Ankara. (Daily Sabah, 23 okt 2026)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Protesten verboden in meerdere steden na gewelddadig weekend met 1.800 arrestaties** De regering-**Lecornu** heeft demonstraties verboden in diverse steden en delen van Parijs, met avondklokken na het gewelddadigste protestweekend in jaren: **1.800 arrestaties**, een historisch stadhuis in brand en wijdverbreide plundering. Vakbond **CGT** riep op tot stakingen op **5 november**. Rating-bureau **Moody's** beslist op 23 oktober over de Franse kredietwaardigheid, terwijl de **10-jaarsrente** de grens van **5%** nadert. (France 24, 21 oktober 2026, https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests)
+- **Macron ontvangt studenten terwijl 70.000 agenten worden gemobiliseerd** President **Macron** ontving voor het eerst studentenorganisaties op het Élysée na meer dan een maand protesten. Minister **Laurent Nunez** kondigde aan dat **70.000 veiligheidstroepen** worden ingezet voor de demonstraties van zaterdag. De rente op **10-jaars staatsobligaties** steeg boven de **5%**, het hoogste niveau sinds 2002. (France 24, 23 okt 2026)
 ---
 
 ## 🇩🇪 Duitsland
-- **Merz en Macron sluiten autodeal: versoepeling verbrandingsmotor, strengere 'Made in EU'-regels** Bondskanselier **Friedrich Merz** en de Franse president hebben een compromis bereikt voor de Europese auto-industrie. Duitsland krijgt **versoepelingen voor verbrandingsmotoren**, terwijl Frankrijk **strengere 'Made in EU'-eisen** afdwingt. De **DIHK** verlaagde ondertussen de groeiprognose voor 2026 naar **0,3%**. (Handelsblatt, oktober 2026, https://www.handelsblatt.com/themen/deutschland)
+- **PHP-beveiligingslek veroorzaakt miljoenen aanvallen** Cloudflare meldt een golf van **miljoenen cyberaanvallen** door een kritieke PHP-kwetsbaarheid. Onder de getroffen bedrijven bevindt zich **Volkswagen**. Politici spreken van een keerpunt in de cyberveiligheid. De **DAX** sloot rond **25.370 punten** na verliezen door stijgende olieprijzen en tech-onrust. (Handelsblatt, 23 okt 2026)
 ---
 
 ## 🇷🇺 Rusland
-- **Eerste Russische diesellevering aan VS vertrekt op 22 oktober onder Trump-Poetin deal** Rusland verscheept voor het eerst diesel naar de Verenigde Staten als onderdeel van een bilaterale energiedeal tussen **Trump** en **Poetin**. Analisten betwijfelen of Rusland genoeg brandstof heeft om de leveringen vol te houden. De **btw** is dit jaar verhoogd van **20% naar 22%** en de **vennootschapsbelasting** ging in 2025 van 20% naar **25%**. (TASS, 22 oktober 2026, https://tass.com/economy/2206259)
+- **Centrale bank houdt rente op 14%** De **Bank van Rusland** handhaaft de beleidsrente op **14%** vanwege aanhoudende prijsdruk. De jaarlijkse inflatie bereikte **6,8%** en de prognose is opwaarts bijgesteld naar **7,1-7,6%**. De BBP-groei voor 2026 wordt geschat op **0,5-1%**. De roebel verloor aan kracht na het rentebesluit. (The Moscow Times, 23 okt 2026)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Herfstbegroting op 28 oktober: kanselier Healey erft £5 miljard defensiegat** Premier **Andy Burnham** en kanselier **John Healey** bereiden de Autumn Budget van **28 oktober** voor, met een geschat **defensietekort van £5 miljard** nagelaten door voorganger Starmer. De **inflatie** steeg in september naar **3,5%**, aangejaagd door brandstofprijzen, terwijl analisten verwachten dat dalende giltrentes **£10-12 miljard** begrotingsruimte kunnen herstellen. (Which? / Bloomberg, oktober 2026, https://www.which.co.uk/news/article/autumn-budget-2026-when-is-it-and-what-will-it-contain-aQqC47O24jnl)
+- **Autumn Budget op 28 oktober onder nieuwe premier Burnham** Het VK bereidt zich voor op de begroting van **28 oktober**, de eerste onder premier **Andy Burnham** en minister van Financiën **John Healey**. Een **btw-verlaging op elektriciteit** en **20% korting op business rates** voor pubs zijn al aangekondigd. De economie groeide slechts **0,1%** in mei na een krimp in april. (Hargreaves Lansdown, 23 okt 2026)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Wall Street daalt: tech-earnings stellen teleur, olieprijzen stijgen door Midden-Oostenspanning** Aandelen zakten breed na tegenvallende kwartaalcijfers van techbedrijven; chipmachinefabrikant **Lam Research** leidde het verlies. De **30-jaarsrente** daalde naar **5,38%**, het laagste niveau sinds 23 september, door vlucht naar veilige havens. **Meta** verhoogde de AI-investeringen en kondigde een **nieuwe aandelenklasse** aan. Met de **tussentijdse verkiezingen** over minder dan een maand vreest Wall Street een Democratische dubbele meerderheid. (Bloomberg, 22 oktober 2026, https://www.bloomberg.com/news/articles/2026-10-21/stock-market-today-dow-s-p-live-updates)
+- **Fed worstelt met AI-onzekerheid, inflatie en stijgende olieprijzen** De Federal Reserve staat voor een complexe rentebeslissing: consumentenbestedingen zijn sterk maar het sentiment is zwak, terwijl de **10-jaarsrente** naar **4,99%** steeg. **Goud** schommelt rond **$4.000 per ounce** en olie steeg boven **$101 per vat**. **Elon Musk** heeft meer dan **$445 miljoen** gedoneerd aan de Republikeinse partij voor de tussentijdse verkiezingen. (Bloomberg, 23 okt 2026)
 ---
 
 ## 🇮🇳 India
-- **Cyberaanval op State Bank of India: bijna 4.000 klantgegevens op dark web** **SBI**, India's grootste bank, bevestigde een datalek waarbij gegevens van **3.897 klanten** op het dark web verschenen — namen, telefoonnummers, geboortedata en leninggegevens. De bank zegt dat **saldi veilig** zijn en dat de kernactiviteiten niet zijn geraakt. **CERT-In** en het **Defence Cyber Agency** waarschuwden al op **16 oktober**. (Deccan Herald / The Print, 22 oktober 2026, https://www.deccanherald.com/business/cyberattack-hits-sbi-nearly-4k-customers-data-leaked-to-dark-web-4190687)
+- **RBI verhoogt rente voor het eerst sinds 2023** De Reserve Bank of India verhoogde de repo-rente met **25 basispunten** naar **5,50%** — de eerste verhoging sinds februari 2023. De inflatie bereikte **4,82%** in augustus, boven het doel van 4%. Het BBP groeide **7,8%** in Q1 FY27 en de groeiprognose is opwaarts bijgesteld naar **7,1%**. (Outlook Money, okt 2026)
 ---
 
 ## 🇨🇳 China
-- **DeepSeek V4.1-Flash draait op zowel Nvidia- als Huawei-chips** AI-bedrijf **DeepSeek** meldt dat zijn nieuwste model **V4.1-Flash** werkt op zowel **Nvidia SM100 Blackwell GPU's** als **Huawei Ascend 950**-chips, een doorbraak voor China's chipautonomie. Oud-centralebank-gouverneur **Zhou Xiaochuan** waarschuwde dat mislukte AI-investeringen **financiële turbulentie** kunnen veroorzaken. Beijing bereidt **exportcontroles** op AI- en zonnetechnologie voor. (SCMP / Caixin Global, oktober 2026, https://www.scmp.com/tech)
+- **Zhou Xiaochuan waarschuwt: mislukte AI-investeringen kunnen financiële onrust veroorzaken** Voormalig centraal-bankpresident **Zhou Xiaochuan** waarschuwde dat mislukte AI-investeringen tot financiële turbulentie kunnen leiden. De **Hang Seng Index** kende de sterkste daling in **7 maanden** nu hoop op sterke stimuleringsmaatregelen uit Beijing afneemt. De **CSI 300** is officieel in een **bearmarkt** na een daling van 20%. (SCMP, 23 okt 2026)
 ---
 
 ## 🇯🇵 Japan
-- **Kritieke PHP-kwetsbaarheden leggen bankensites en overheidsdiensten plat** Grote Japanse bedrijven van **Sega** tot **ANA** en **MUFG Bank** schorten websites op na openbaarmaking van kritieke kwetsbaarheden in PHP. Het **ministerie van Financiën** en **Volksgezondheid** waren tijdelijk onbereikbaar. Premier **Takaichi** drong aan op onmiddellijke updates. Tegelijk overweegt Tokyo de definitie van defensie-uitgaven te verbreden richting een doel van **3,5% bbp**, inclusief AI, satellieten en R&D. (Japan Times / Nikkei Asia, 22 oktober 2026, https://www.japantimes.co.jp/business/2026/10/22/tech/japan-php-vulnerabilities/)
----
-
+- **Kabinet presenteert energiewitboek: urgente versterking energiestructuur** Het Japanse kabinet keurde het energiewitboek voor fiscaal jaar 2025 goed, met een oproep tot **fundamentele versterking** van de energie-aanbodstructuur. Japan overweegt om **AI-, satelliet- en infrastructuuruitgaven** mee te tellen als defensie-uitgaven om richting **3,5% van het BBP** te bewegen. De export steeg **16,7%** in september, aangedreven door **AI-gerelateerde vraag**. (The Japan Times, 23 okt 2026)
 ---
 
 ## 📊 Marktoverzicht
-| Instrument | Koers | Verandering |
-|---|---|---|
-| Bitcoin (BTC) | $81.739 | −2% (24u) |
-| Ethereum (ETH) | ~$3.600 | ±0% |
-| Goud (spot) | ~$4.176/oz | +0,3% |
-| Brent crude | $107,80/vat | −1,8% |
-| EUR/USD | ~1,141 | — |
-| S&P 500 | 7.757 | +0,58% |
-| AEX | ~1.142 | +0,77% |
-| DAX | 25.645 | +1,35% |
-| Nikkei 225 | 62.908 | −2,65% |
 
-*Slotkoersen 21-22 okt 2026. Bronnen: Fortune, Yahoo Finance, Investing.com, TradingView, Analytics Insight.*
+| Instrument | Koers | Richting |
+|---|---|---|
+| Bitcoin (BTC) | $81.546 | 📉 -0,2% |
+| Ethereum (ETH) | ~$1.940 | 📉 |
+| Goud (spot) | ~$4.017/oz | 📈 |
+| Brent crude | ~$104/vat | 📈 |
+| EUR/USD | 1,1211 | 📉 |
+| S&P 500 | 7.663 | 📉 -1,2% |
+| AEX | ~1.130 | 📉 -1,1% |
+| DAX | ~25.370 | 📉 |
+| Nikkei 225 | ~62.322 | 📉 -0,7% |
+
+*Koersen zijn indicatief en gebaseerd op meest recente beschikbare data.*
 
 ---
 
 ## 🔗 De Grote Lijnen
 
-De rode draad van vandaag is **begrotingsdruk en politieke instabiliteit** die dwars door westerse economieën snijdt: België worstelt met een gat van €10 miljard, Frankrijk balanceert op de rand van een kredietverlaging bij Moody's terwijl protesten escaleren, en het VK bereidt een herfstbegroting voor met een defensietekort van £5 miljard — overal stijgen rentelasten sneller dan politici kunnen bezuinigen.
+Het dominante thema vandaag is de **spanning tussen inflatie, energieprijzen en monetair beleid** die dwars door alle regio's snijdt: van de Fed die worstelt met een rente van bijna 5% op 10-jaars Treasuries, via de Russische centrale bank op 14%, tot de RBI in India die voor het eerst sinds 2023 verhoogt. De **olieprijzen boven $100** drukken niet alleen op de DAX en AEX, maar voeden ook de begrotingscrises in België en Frankrijk, waar vakbondsprotesten en studentendemonstraties de politieke druk opvoeren.
 
-Tegelijk verschuift de **geopolitieke energiekaart**: Rusland levert voor het eerst diesel aan de VS onder een Trump-Poetin deal, terwijl Brent boven de $107 blijft en olieprijzen de inflatie aanwakkeren van Londen tot Ankara. De Turkse renteverlaging naar 36% toont hoe ver sommige landen moeten gaan om hun economie draaiende te houden.
+Tegelijkertijd vormt **AI** een rode draad met twee gezichten: in Japan en de VS drijft AI-vraag de export en investeringen aan, maar in China waarschuwt Zhou Xiaochuan dat mislukte AI-bets een nieuwe financiële crisis kunnen ontketenen — een angst die ook de Hang Seng en CSI 300 naar bearmarktniveaus duwt. De **cyberaanvallen in Duitsland** onderstrepen hoe kwetsbaar de digitale infrastructuur blijft in tijden van technologische transformatie.
 
-Op het **technologiefront** loopt een nieuwe breuklijn: China's DeepSeek draait AI-modellen op zowel Nvidia- als Huawei-chips, wat de westerse chipcontroles ondermijnt, terwijl kritieke PHP-kwetsbaarheden in Japan en een massaal datalek bij India's grootste bank laten zien dat digitale infrastructuur overal kwetsbaar blijft. De Nikkei verloor bijna 3% mede door deze cyberschok.
+Tot slot verschuiven **geopolitieke allianties**: het strategisch partnerschap Canada-Turkije signaleert een breder patroon waarin middelgrote machten hun eigen handels- en veiligheidsblokken vormen, terwijl het ASML-dilemma in Nederland laat zien dat chipbeleid het nieuwe slagveld is in de economische koude oorlog tussen de VS en China.
 
-De **Europese auto-industrie** wordt het nieuwe onderhandelterrein tussen Parijs en Berlijn: Merz en Macron ruilen versoepeling van verbrandingsmotorregels tegen strengere 'Made in EU'-eisen — een compromis dat de contouren schetst van een protectionistischer Europa dat zich schrap zet tegen Chinese concurrentie.
-
+---
