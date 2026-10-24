@@ -1,77 +1,75 @@
 # MIJN NIEUWSKRANT
-### Vrijdag 23 oktober 2026
+### Zaterdag 24 oktober 2026
 ---
-
-## Nieuwsscan 2026-10-23
+# Nieuwsoverzicht 24 oktober 2026
 
 ## 🇧🇪 België
-- **Begrotingsonderhandelingen opnieuw vastgelopen** Premier **Bart De Wever** herstart bilaterale gesprekken nadat de federale begrotingsgesprekken maandag 19 oktober zonder akkoord eindigden. De Wever houdt vast aan een **schuldenrem** als een meerjarenbegrotingsakkoord uitblijft. Drie grote vakbonden kondigen een **nationale betoging op 23 november** aan. (VRT NWS, 23 okt 2026)
+- **Nationale staking verlamt openbare sector nu begrotingsdeal uitblijft** Op **12 oktober** legden vakbonden het openbaar vervoer, scholen en Brussels Airport plat uit protest tegen de besparingen van premier **Bart De Wever**. De coalitie moet minstens **€10 miljard** besparen maar raakt het niet eens; De Wever stelde zijn State of the Union uit. Vakbonden eisen een vermogensbelasting in plaats van ingrepen in de gezondheidszorg en de automatische loonindexering. (Reuters via The Star, 12 okt 2026, https://www.thestar.com.my/news/world/2026/10/12/belgium-strike-partly-shuts-public-sector-as-budget-deal-delayed)
 ---
 
 ## 🇳🇱 Nederland
-- **Kabinet ontziet kleine spaarder bij box 3-hervorming** Het kabinet besluit toch om kleine spaarders te beschermen in de hervorming van de **vermogensrendementsheffing** (box 3). Daarnaast daalt de AEX **1,1%**, met name door verliezen bij chipfondsen en banken. **ASML** dreigt klem te raken tussen de VS en China in het escalerende chipconflict. (FD, 23 okt 2026)
+- **Minderheidscoalitie-Jetten onder druk: PRO leidt in peilingen met 18,7%** Premier **Rob Jetten** (D66) regeert met slechts **66 van 150 zetels** samen met VVD en CDA, waardoor elk begrotingsvoorstel oppositiesteun nodig heeft. Een gewogen peiling van **24 oktober** toont nieuwkomer **PRO op 18,7%**, gevolgd door PVV (**12,3%**) en JA21 (**11,7%**). De vorige verkiezingen van 29 oktober 2025 eindigden in een nek-aan-nekrace tussen D66 en PVV, elk met 26 zetels. (PolitPro polling, 24 okt 2026, https://politpro.eu/en/netherlands)
 ---
 
 ## 🇹🇷 Turkije
-- **Canada en Turkije upgraden relatie naar strategisch partnerschap** Tijdens het eerste bilaterale bezoek van een Canadese premier aan Ankara tekenden **Mark Carney** en president **Erdoğan** een strategisch partnerschap op het gebied van handel, defensie, veiligheid en energie. Volgende maand beginnen de eerste **vrijhandelsonderhandelingen** in Ankara. (Daily Sabah, 23 okt 2026)
+- **Centrale bank verlaagt rente met 100 basispunten naar 36%** De Turkse centrale bank verlaagde de beleidsrente van **37% naar 36%**, de eerste verlaging na vijf pauzes. Vicepremier **Cevdet Yılmaz** presenteerde het begrotingsvoorstel voor 2027 op 16 oktober. Ondertussen keurde het parlement op **22 oktober** een wetsvoorstel goed dat investeerders voorschotten tot **1 miljoen lira** geeft. De economie groeide **2,3%** in het tweede kwartaal. (Daily Sabah / Hürriyet Daily News, okt 2026, https://www.hurriyetdailynews.com/economy/)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Macron ontvangt studenten terwijl 70.000 agenten worden gemobiliseerd** President **Macron** ontving voor het eerst studentenorganisaties op het Élysée na meer dan een maand protesten. Minister **Laurent Nunez** kondigde aan dat **70.000 veiligheidstroepen** worden ingezet voor de demonstraties van zaterdag. De rente op **10-jaars staatsobligaties** steeg boven de **5%**, het hoogste niveau sinds 2002. (France 24, 23 okt 2026)
+- **Ergste onrust in jaren: Macron verbiedt 'onwettige' protesten na 2.500 arrestaties** Massale protesten tegen de hoge kosten van levensonderhoud escaleerden tot geweld; **één dode** en **2.397 arrestaties** op 17 oktober alleen. De staatsschuld bereikte een record van **€3,6 biljoen** (**119% bbp**), en het begrotingstekort stijgt naar **5,4%**, boven de doelstelling van 5%. Macron kondigde aan dat alleen door vakbonden aangevraagde demonstraties worden toegestaan op 24 oktober. (CNBC, 19 okt 2026, https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html)
 ---
 
 ## 🇩🇪 Duitsland
-- **PHP-beveiligingslek veroorzaakt miljoenen aanvallen** Cloudflare meldt een golf van **miljoenen cyberaanvallen** door een kritieke PHP-kwetsbaarheid. Onder de getroffen bedrijven bevindt zich **Volkswagen**. Politici spreken van een keerpunt in de cyberveiligheid. De **DAX** sloot rond **25.370 punten** na verliezen door stijgende olieprijzen en tech-onrust. (Handelsblatt, 23 okt 2026)
+- **Merz organiseert eerste investeerdersconferentie om groei aan te jagen** Bondskanselier **Friedrich Merz** hield in Berlijn de eerste investeerdersconferentie van de regering, gericht op het aantrekken van kapitaal voor **AI en technologie**. Hij benadrukte dat de EU haar marktomvang moet benutten om de technologische achterstand in te halen en kondigde een hervorming van het sociale zekerheidsstelsel aan. Op een **CSU-congres** waarschuwde Merz voor de dreiging van Rusland en extremisme. (Bloomberg, 19-20 okt 2026, https://www.bloomberg.com/news/articles/2026-10-19/merz-vows-to-tap-german-economic-strength-to-revive-investments)
 ---
 
 ## 🇷🇺 Rusland
-- **Centrale bank houdt rente op 14%** De **Bank van Rusland** handhaaft de beleidsrente op **14%** vanwege aanhoudende prijsdruk. De jaarlijkse inflatie bereikte **6,8%** en de prognose is opwaarts bijgesteld naar **7,1-7,6%**. De BBP-groei voor 2026 wordt geschat op **0,5-1%**. De roebel verloor aan kracht na het rentebesluit. (The Moscow Times, 23 okt 2026)
+- **Drie tankers met Russische diesel onderweg naar Noord-Amerika na opheffing sancties** Vicepremier **Alexander Novak** bevestigde dat drie tankers met Russische diesel koers zetten naar Noord-Amerika, na een deal van president **Trump** om brandstofprijzen te verlagen. Washington hief tijdelijk sancties op Russische brandstof op. Ondertussen beschadigde een Oekraïense droneaanval de **Tolyattikauchuk-petrochemiefabriek** in Tolyatti. Het Russische ministerie van Defensie meldde **1.297 onderschepte drones** in 24 uur. (The Moscow Times, 24 okt 2026, https://www.themoscowtimes.com/2026/10/24/3-tankers-of-russian-diesel-headed-for-north-america-russian-deputy-pm-says-a94073)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Autumn Budget op 28 oktober onder nieuwe premier Burnham** Het VK bereidt zich voor op de begroting van **28 oktober**, de eerste onder premier **Andy Burnham** en minister van Financiën **John Healey**. Een **btw-verlaging op elektriciteit** en **20% korting op business rates** voor pubs zijn al aangekondigd. De economie groeide slechts **0,1%** in mei na een krimp in april. (Hargreaves Lansdown, 23 okt 2026)
+- **Kanselier Healey bereidt eerste begroting voor op 28 oktober; Starmer treedt af** Kanselier **John Healey** presenteert op **28 oktober** zijn eerste begroting, met onder meer een verhoging van de drempel voor zakelijke belastingen van **£12.000 naar £18.000**. Het defensiedoel van **3% van het nationaal inkomen** wordt uitgesteld naar 2030. Premier **Keir Starmer** kondigde eerder zijn vertrek aan; **Andy Burnham** is de enige bekende kandidaat om hem op te volgen. (LBC / Bloomberg, okt 2026, https://www.lbc.co.uk/article/the-budget-what-can-we-expect-5HjdkN9_2/)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Fed worstelt met AI-onzekerheid, inflatie en stijgende olieprijzen** De Federal Reserve staat voor een complexe rentebeslissing: consumentenbestedingen zijn sterk maar het sentiment is zwak, terwijl de **10-jaarsrente** naar **4,99%** steeg. **Goud** schommelt rond **$4.000 per ounce** en olie steeg boven **$101 per vat**. **Elon Musk** heeft meer dan **$445 miljoen** gedoneerd aan de Republikeinse partij voor de tussentijdse verkiezingen. (Bloomberg, 23 okt 2026)
+- **Economie domineert midterms: Trump-goedkeuring zakt naar 33%, benzine $4,29** Uit een CNBC-peiling van **22 oktober** blijkt dat **80% van de Amerikanen** de economie als "matig tot slecht" beoordeelt — het hoogste percentage sinds december 2023. Benzine kost **$4,29 per gallon**, olie staat op **$107 per vat**, en hypotheekrentes liggen rond **7%**. Kiezers geven de voorkeur aan Democratische controle van het Congres met **52% tegen 45%**. Corruptie is het belangrijkste thema (**36%**), gevolgd door boodschappenkosten (**34%**). (CNBC, 22-23 okt 2026, https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html)
 ---
 
 ## 🇮🇳 India
-- **RBI verhoogt rente voor het eerst sinds 2023** De Reserve Bank of India verhoogde de repo-rente met **25 basispunten** naar **5,50%** — de eerste verhoging sinds februari 2023. De inflatie bereikte **4,82%** in augustus, boven het doel van 4%. Het BBP groeide **7,8%** in Q1 FY27 en de groeiprognose is opwaarts bijgesteld naar **7,1%**. (Outlook Money, okt 2026)
+- **Wereldbank voorspelt 7,1% groei voor FY27; defensie-export bereikt record** De Wereldbank projecteert in haar **India Development Update** van oktober een groei van **7,1%** voor fiscaal jaar 2027, ondanks risico's van hoge olieprijzen en El Niño. Defensie-export bereikte een record van **₹38.424 crore**. RBI-gouverneur **Sanjay Malhotra** bevestigde dat grote NBFC's, waaronder **Tata Sons**, verplicht een beursnotering moeten krijgen. India's import van West-Aziatische ruwe olie keerde terug naar het niveau van vóór de oorlog. (World Bank, 6 okt 2026, https://www.worldbank.org/en/news/press-release/2026/10/06/india-development-update-oct-2026)
 ---
 
 ## 🇨🇳 China
-- **Zhou Xiaochuan waarschuwt: mislukte AI-investeringen kunnen financiële onrust veroorzaken** Voormalig centraal-bankpresident **Zhou Xiaochuan** waarschuwde dat mislukte AI-investeringen tot financiële turbulentie kunnen leiden. De **Hang Seng Index** kende de sterkste daling in **7 maanden** nu hoop op sterke stimuleringsmaatregelen uit Beijing afneemt. De **CSI 300** is officieel in een **bearmarkt** na een daling van 20%. (SCMP, 23 okt 2026)
+- **Nieuwe regels voor buitenlandse investeringen verstrengen controle op kapitaaluitstroom** De Staatsraad voerde op **1 juli** de eerste allesomvattende regelgeving voor uitgaande investeringen in (Order No. 837), met verboden op export van gevoelige technologie via investeringen en boetes inclusief **meerjarige investeringsverboden**. De NDRC publiceerde op **21 augustus** conceptuitvoeringsmaatregelen ter vervanging van de regels uit 2018; de consultatie sloot op **20 september**. Chinese techbedrijven zoeken ondertussen alternatieven voor **Nvidia AI-chips** nu de VS exportbeperkingen handhaaft. (Charltons Law / SCMP, okt 2026, https://www.charltonslaw.com/chinas-2026-outbound-investment-regulations/)
 ---
 
 ## 🇯🇵 Japan
-- **Kabinet presenteert energiewitboek: urgente versterking energiestructuur** Het Japanse kabinet keurde het energiewitboek voor fiscaal jaar 2025 goed, met een oproep tot **fundamentele versterking** van de energie-aanbodstructuur. Japan overweegt om **AI-, satelliet- en infrastructuuruitgaven** mee te tellen als defensie-uitgaven om richting **3,5% van het BBP** te bewegen. De export steeg **16,7%** in september, aangedreven door **AI-gerelateerde vraag**. (The Japan Times, 23 okt 2026)
+- **Regering heroverweegt benzinesubsidies nu fonds van ¥560 miljard opraakt** Premier **Sanae Takaichi** gaf de minister van Industrie opdracht de brandstofsubsidies te herzien; het subsidiefonds had eind september nog **¥560 miljard** maar raakt snel uitgeput door stijgende olieprijzen. Tegelijk overweegt Tokio om **energie- en AI-uitgaven mee te tellen als defensie-uitgaven**, als stap richting het doel van **3,5% van het bbp**. De inflatie bereikte in september **2%**, en meer dan 80% van de analisten verwacht een renteverhoging door de Bank of Japan in **december**. (The Japan Times, 24 okt 2026, https://www.japantimes.co.jp/news/2026/10/24/japan/gas-subsidies-review/)
 ---
 
-## 📊 Marktoverzicht
+---
+
+## Marktoverzicht (slotkoersen 23 oktober 2026)
 
 | Instrument | Koers | Richting |
 |---|---|---|
-| Bitcoin (BTC) | $81.546 | 📉 -0,2% |
-| Ethereum (ETH) | ~$1.940 | 📉 |
-| Goud (spot) | ~$4.017/oz | 📈 |
-| Brent crude | ~$104/vat | 📈 |
-| EUR/USD | 1,1211 | 📉 |
-| S&P 500 | 7.663 | 📉 -1,2% |
-| AEX | ~1.130 | 📉 -1,1% |
-| DAX | ~25.370 | 📉 |
-| Nikkei 225 | ~62.322 | 📉 -0,7% |
+| Bitcoin (BTC) | ~$81.700 | ▼ dalend (oliecrisis drukt risico-assets) |
+| Ethereum (ETH) | ~$2.400 | ▼ dalend |
+| Goud (XAU) | ~$4.062/oz | ▼ dalend (hogere rente-verwachtingen) |
+| Brent-olie | $116,72/vat | ▲ 6-maands hoogtepunt (Midden-Oosten) |
+| EUR/USD | ~1,15 | ≈ stabiel |
+| S&P 500 | 7.614 | ▼ -0,65% |
+| AEX | 1.131 | ≈ +0,17% |
+| DAX | 25.182 | ▼ -0,75% |
+| Nikkei 225 | 62.693 | ▼ -0,34% |
 
-*Koersen zijn indicatief en gebaseerd op meest recente beschikbare data.*
-
----
-
-## 🔗 De Grote Lijnen
-
-Het dominante thema vandaag is de **spanning tussen inflatie, energieprijzen en monetair beleid** die dwars door alle regio's snijdt: van de Fed die worstelt met een rente van bijna 5% op 10-jaars Treasuries, via de Russische centrale bank op 14%, tot de RBI in India die voor het eerst sinds 2023 verhoogt. De **olieprijzen boven $100** drukken niet alleen op de DAX en AEX, maar voeden ook de begrotingscrises in België en Frankrijk, waar vakbondsprotesten en studentendemonstraties de politieke druk opvoeren.
-
-Tegelijkertijd vormt **AI** een rode draad met twee gezichten: in Japan en de VS drijft AI-vraag de export en investeringen aan, maar in China waarschuwt Zhou Xiaochuan dat mislukte AI-bets een nieuwe financiële crisis kunnen ontketenen — een angst die ook de Hang Seng en CSI 300 naar bearmarktniveaus duwt. De **cyberaanvallen in Duitsland** onderstrepen hoe kwetsbaar de digitale infrastructuur blijft in tijden van technologische transformatie.
-
-Tot slot verschuiven **geopolitieke allianties**: het strategisch partnerschap Canada-Turkije signaleert een breder patroon waarin middelgrote machten hun eigen handels- en veiligheidsblokken vormen, terwijl het ASML-dilemma in Nederland laat zien dat chipbeleid het nieuwe slagveld is in de economische koude oorlog tussen de VS en China.
+*Bron: Yahoo Finance, Trading Economics, CNBC, Fortune, Investing.com — 23 okt 2026*
 
 ---
+
+## De Grote Lijnen
+
+Olie is de rode draad die alle continenten verbindt: Brent op $116 door escalerende Midden-Oostenspanningen treft zowel de Amerikaanse consument (benzine $4,29, goedkeuring Trump 33%) als het Japanse subsidiebudget (¥560 miljard raakt op) en drijft de Russische diesel richting Noord-Amerika nu sancties worden opgeheven. De hoge energiekosten voeden in Europa een protestgolf — van de Belgische nationale staking tot de ergste onrust in Frankrijk in jaren — terwijl regeringen als die van Merz in Duitsland en Healey in het VK juist nu bezuinigen en investeerders moeten lokken. Opvallend is de spagaat tussen opkomende machten en gevestigde economieën: India groeit met 7,1% en breekt defensie-exportrecords, terwijl China de kapitaaluitstroom probeert te beteugelen en Europa worstelt met begrotingstekorten boven de 5%. De financiële markten weerspiegelen deze onzekerheid: goud daalt ondanks geopolitieke onrust door hogere renteverwachtingen, crypto verliest terrein, en de Nikkei staat 11% onder zijn record van juni.
+
+---
+*Samengesteld door een geautomatiseerd nieuwsoverzicht — 24 oktober 2026*
