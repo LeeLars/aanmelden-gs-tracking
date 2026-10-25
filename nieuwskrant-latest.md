@@ -1,75 +1,73 @@
 # MIJN NIEUWSKRANT
-### Zaterdag 24 oktober 2026
+### Zondag 25 oktober 2026
 ---
-# Nieuwsoverzicht 24 oktober 2026
-
 ## 🇧🇪 België
-- **Nationale staking verlamt openbare sector nu begrotingsdeal uitblijft** Op **12 oktober** legden vakbonden het openbaar vervoer, scholen en Brussels Airport plat uit protest tegen de besparingen van premier **Bart De Wever**. De coalitie moet minstens **€10 miljard** besparen maar raakt het niet eens; De Wever stelde zijn State of the Union uit. Vakbonden eisen een vermogensbelasting in plaats van ingrepen in de gezondheidszorg en de automatische loonindexering. (Reuters via The Star, 12 okt 2026, https://www.thestar.com.my/news/world/2026/10/12/belgium-strike-partly-shuts-public-sector-as-budget-deal-delayed)
+- **Kernkabinet uiteen zonder begrotingsakkoord** Premier **Bart De Wever** slaagde er niet in een begrotingsdeal te sluiten; het kernkabinet ging uiteen zonder akkoord en hij schakelde over op bilaterale gesprekken met vicepremiers. Ratingbureau **S&P** behield de kredietscore van België op **AA-** maar waarschuwt voor nieuwe vertragingen. **Vooruit** ligt dwars en CD&V-voorzitter **Sammy Mahdi** eist snellere voortgang. (VRT NWS, 25 okt 2026, https://vrt.be/vrtnws/nl/liveblog/de-wever-hoopt-morgen-begrotingsakkoord-rond-te-hebben-belgie-l~1790599460224)
 ---
 
 ## 🇳🇱 Nederland
-- **Minderheidscoalitie-Jetten onder druk: PRO leidt in peilingen met 18,7%** Premier **Rob Jetten** (D66) regeert met slechts **66 van 150 zetels** samen met VVD en CDA, waardoor elk begrotingsvoorstel oppositiesteun nodig heeft. Een gewogen peiling van **24 oktober** toont nieuwkomer **PRO op 18,7%**, gevolgd door PVV (**12,3%**) en JA21 (**11,7%**). De vorige verkiezingen van 29 oktober 2025 eindigden in een nek-aan-nekrace tussen D66 en PVV, elk met 26 zetels. (PolitPro polling, 24 okt 2026, https://politpro.eu/en/netherlands)
+- **Kabinet nodigt zeven oppositiepartijen uit voor belastingplan** Het minderheidskabinet-**Jetten** moet vóór **12 november** een meerderheid vinden voor het belastingplan en heeft **Pro, JA21, BBB, SGP, ChristenUnie, 50Plus en Volt** uitgenodigd. Kernpunt is de geplande inkomstenbelastingverhoging van circa **€8 miljard**; een Kamermeerderheid van links tot rechts eist aanpassing. (NOS, okt 2026, https://nos.nl/artikel/2636518-kabinet-nodigt-zeven-oppositiepartijen-uit-voor-onderhandelingen-belastingplan)
 ---
 
 ## 🇹🇷 Turkije
-- **Centrale bank verlaagt rente met 100 basispunten naar 36%** De Turkse centrale bank verlaagde de beleidsrente van **37% naar 36%**, de eerste verlaging na vijf pauzes. Vicepremier **Cevdet Yılmaz** presenteerde het begrotingsvoorstel voor 2027 op 16 oktober. Ondertussen keurde het parlement op **22 oktober** een wetsvoorstel goed dat investeerders voorschotten tot **1 miljoen lira** geeft. De economie groeide **2,3%** in het tweede kwartaal. (Daily Sabah / Hürriyet Daily News, okt 2026, https://www.hurriyetdailynews.com/economy/)
+- **Turkije dekt 70,3% van elektriciteitsbehoefte met eigen bronnen** Het ministerie van Energie meldde dat Turkije afgelopen maand **70,3%** van de stroomproductie uit binnenlandse bronnen haalde; de totale geïnstalleerde capaciteit bereikte **127.355 MW** eind september. Ondertussen bereidt het land zich voor op **COP31 in Antalya**, waarvoor **26.000** veiligheidspersoneel is ingezet en circa **100 staatshoofden** worden verwacht. (Daily Sabah, 25 okt 2026, https://www.dailysabah.com/business/energy/turkiye-meets-703-of-electricity-needs-with-domestic-resources)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Ergste onrust in jaren: Macron verbiedt 'onwettige' protesten na 2.500 arrestaties** Massale protesten tegen de hoge kosten van levensonderhoud escaleerden tot geweld; **één dode** en **2.397 arrestaties** op 17 oktober alleen. De staatsschuld bereikte een record van **€3,6 biljoen** (**119% bbp**), en het begrotingstekort stijgt naar **5,4%**, boven de doelstelling van 5%. Macron kondigde aan dat alleen door vakbonden aangevraagde demonstraties worden toegestaan op 24 oktober. (CNBC, 19 okt 2026, https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html)
+- **Le Pen lanceert presidentscampagne te midden van massaprotesten** **Marine Le Pen** opende haar campagne voor de presidentsverkiezing in **Orléans** met een toespraak voor circa **10.000** partijleden; peilingen plaatsen haar als favoriet. Gelijktijdig trokken **410.000 tot 800.000** demonstranten de straat op tegen de hoge kosten van levensonderhoud, met bijna **1.000 arrestaties** en **70.000** ingezette agenten. (France 24, 25 okt 2026, https://www.france24.com/en/live-news/20261025-far-right-leader-le-pen-kicks-off-tilt-at-french-presidency-amid-nationwide-protests)
 ---
 
 ## 🇩🇪 Duitsland
-- **Merz organiseert eerste investeerdersconferentie om groei aan te jagen** Bondskanselier **Friedrich Merz** hield in Berlijn de eerste investeerdersconferentie van de regering, gericht op het aantrekken van kapitaal voor **AI en technologie**. Hij benadrukte dat de EU haar marktomvang moet benutten om de technologische achterstand in te halen en kondigde een hervorming van het sociale zekerheidsstelsel aan. Op een **CSU-congres** waarschuwde Merz voor de dreiging van Rusland en extremisme. (Bloomberg, 19-20 okt 2026, https://www.bloomberg.com/news/articles/2026-10-19/merz-vows-to-tap-german-economic-strength-to-revive-investments)
+- **Merz-regering sluit AI-samenwerking met Nvidia** De Duitse regering plant een samenwerking met chipgigant **Nvidia** — wiens CEO **Jensen Huang** in Berlijn was — om kunstmatige intelligentie in de industrie te bevorderen. Daarnaast verhoogde het **IMF** de groeiprognose voor Duitsland naar **1,3%**, bijna het dubbele van de juli-raming. (Handelsblatt, 25 okt 2026, https://www.handelsblatt.com/technik/forschung-innovation/deutscher-umweltpreis-steinmeier-muessen-lebensweisen-ueberdenken/100264784.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Drie tankers met Russische diesel onderweg naar Noord-Amerika na opheffing sancties** Vicepremier **Alexander Novak** bevestigde dat drie tankers met Russische diesel koers zetten naar Noord-Amerika, na een deal van president **Trump** om brandstofprijzen te verlagen. Washington hief tijdelijk sancties op Russische brandstof op. Ondertussen beschadigde een Oekraïense droneaanval de **Tolyattikauchuk-petrochemiefabriek** in Tolyatti. Het Russische ministerie van Defensie meldde **1.297 onderschepte drones** in 24 uur. (The Moscow Times, 24 okt 2026, https://www.themoscowtimes.com/2026/10/24/3-tankers-of-russian-diesel-headed-for-north-america-russian-deputy-pm-says-a94073)
+- **Rusland biedt VS dieselexport aan** Vicepremier **Alexander Novak** verklaarde dat Rusland bereid is zoveel diesel te exporteren als de VS nodig heeft. Ondertussen kampt Moskou met een **begrotingstekort van 5,8 biljoen roebel** over de eerste acht maanden van 2026 — ver boven de geplande **3,8 biljoen** voor het hele jaar, gelijk aan **2,5% van het bbp**. (TASS, 25 okt 2026, https://tass.com/politics/2207549)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Kanselier Healey bereidt eerste begroting voor op 28 oktober; Starmer treedt af** Kanselier **John Healey** presenteert op **28 oktober** zijn eerste begroting, met onder meer een verhoging van de drempel voor zakelijke belastingen van **£12.000 naar £18.000**. Het defensiedoel van **3% van het nationaal inkomen** wordt uitgesteld naar 2030. Premier **Keir Starmer** kondigde eerder zijn vertrek aan; **Andy Burnham** is de enige bekende kandidaat om hem op te volgen. (LBC / Bloomberg, okt 2026, https://www.lbc.co.uk/article/the-budget-what-can-we-expect-5HjdkN9_2/)
+- **Premier Burnham presenteert eerste begroting op 28 oktober** **Andy Burnham** werd op **20 juli 2026** premier na het vertrek van **Keir Starmer** als Labour-leider; kanselier **John Healey** presenteert woensdag de Autumn Budget. Labour houdt vast aan de belofte om inkomstenbelasting, werknemers-NI en btw niet te verhogen; analisten verwachten inkomsten uit bedrijfsbelastingen en vermogensheffingen. (Coutts/Grant Thornton, okt 2026, https://www.grantthornton.co.uk/insights/autumn-budget/2026-predictions/)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Economie domineert midterms: Trump-goedkeuring zakt naar 33%, benzine $4,29** Uit een CNBC-peiling van **22 oktober** blijkt dat **80% van de Amerikanen** de economie als "matig tot slecht" beoordeelt — het hoogste percentage sinds december 2023. Benzine kost **$4,29 per gallon**, olie staat op **$107 per vat**, en hypotheekrentes liggen rond **7%**. Kiezers geven de voorkeur aan Democratische controle van het Congres met **52% tegen 45%**. Corruptie is het belangrijkste thema (**36%**), gevolgd door boodschappenkosten (**34%**). (CNBC, 22-23 okt 2026, https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html)
+- **Wall Street kijkt naar Big Tech voor AI-rendement** Beleggers wachten op kwartaalcijfers van grote techbedrijven om te zien of de enorme **AI-investeringen** zich terugbetalen. Tegelijkertijd kijkt de markt uit naar uitspraken van Fed-voorzitter **Kevin Warsh** over inflatie, terwijl geopolitieke spanningen in het Midden-Oosten de oliemarkt onder druk houden. (Bloomberg, 25 okt 2026, https://www.bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video)
 ---
 
 ## 🇮🇳 India
-- **Wereldbank voorspelt 7,1% groei voor FY27; defensie-export bereikt record** De Wereldbank projecteert in haar **India Development Update** van oktober een groei van **7,1%** voor fiscaal jaar 2027, ondanks risico's van hoge olieprijzen en El Niño. Defensie-export bereikte een record van **₹38.424 crore**. RBI-gouverneur **Sanjay Malhotra** bevestigde dat grote NBFC's, waaronder **Tata Sons**, verplicht een beursnotering moeten krijgen. India's import van West-Aziatische ruwe olie keerde terug naar het niveau van vóór de oorlog. (World Bank, 6 okt 2026, https://www.worldbank.org/en/news/press-release/2026/10/06/india-development-update-oct-2026)
+- **Buitenlandse beleggers trekken ₹48.056 crore terug uit Indiase aandelen** Foreign portfolio investors (FPI's) verkochten in oktober tot nu toe voor **₹48.056 crore** aan Indiase aandelen. Premier **Modi** riep bij het **12-jarig jubileum van Mann Ki Baat** op tot steun voor lokale producten en opende in **Varanasi** een kledingfabriek van Arvind Limited. (UNI India, 25 okt 2026, https://www.uniindia.com/national/uni-news-digest-at-1300-hrs-25di7/224788)
 ---
 
 ## 🇨🇳 China
-- **Nieuwe regels voor buitenlandse investeringen verstrengen controle op kapitaaluitstroom** De Staatsraad voerde op **1 juli** de eerste allesomvattende regelgeving voor uitgaande investeringen in (Order No. 837), met verboden op export van gevoelige technologie via investeringen en boetes inclusief **meerjarige investeringsverboden**. De NDRC publiceerde op **21 augustus** conceptuitvoeringsmaatregelen ter vervanging van de regels uit 2018; de consultatie sloot op **20 september**. Chinese techbedrijven zoeken ondertussen alternatieven voor **Nvidia AI-chips** nu de VS exportbeperkingen handhaaft. (Charltons Law / SCMP, okt 2026, https://www.charltonslaw.com/chinas-2026-outbound-investment-regulations/)
+- **Kim Jong-un bezoekt onverwacht de Chinese grensstad Dandong** De Noord-Koreaanse leider **Kim Jong-un** bracht op **24 oktober** een onaangekondigd eendaags bezoek aan **Dandong**, vlak voor de **APEC-top in Shenzhen** waar ook **Trump** wordt verwacht. Tegelijk bereidt Beijing het **vijfde plenum** van het 20e Centraal Comité voor (**26-29 oktober**), dat zich richt op partijdiscipline en bestuur. (SCMP, 24 okt 2026, https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong)
 ---
 
 ## 🇯🇵 Japan
-- **Regering heroverweegt benzinesubsidies nu fonds van ¥560 miljard opraakt** Premier **Sanae Takaichi** gaf de minister van Industrie opdracht de brandstofsubsidies te herzien; het subsidiefonds had eind september nog **¥560 miljard** maar raakt snel uitgeput door stijgende olieprijzen. Tegelijk overweegt Tokio om **energie- en AI-uitgaven mee te tellen als defensie-uitgaven**, als stap richting het doel van **3,5% van het bbp**. De inflatie bereikte in september **2%**, en meer dan 80% van de analisten verwacht een renteverhoging door de Bank of Japan in **december**. (The Japan Times, 24 okt 2026, https://www.japantimes.co.jp/news/2026/10/24/japan/gas-subsidies-review/)
+- **Oppositie eist uitleg van premier Takaichi over btw-verlaging** Oppositiepartijen drongen er zondag op aan dat premier **Sanae Takaichi** persoonlijk het wetsvoorstel voor btw-verlaging toelicht; ze vinden dat details over het compensatieprogramma en de economische impact ontbreken. Ondertussen steeg de Japanse **inflatie in september voor het eerst dit jaar boven de 2%**, wat druk zet op de **Bank of Japan** om de rente te verhogen bij de vergadering van **30 oktober**. (Japan Times, 25 okt 2026, https://www.japantimes.co.jp/news/2026/10/25/japan/politics/opposition-urges-takaichi-explain-bill/)
 ---
 
 ---
 
-## Marktoverzicht (slotkoersen 23 oktober 2026)
+## 📊 Marktoverzicht (sluiting vr 23 okt / za 25 okt 2026)
 
-| Instrument | Koers | Richting |
-|---|---|---|
-| Bitcoin (BTC) | ~$81.700 | ▼ dalend (oliecrisis drukt risico-assets) |
-| Ethereum (ETH) | ~$2.400 | ▼ dalend |
-| Goud (XAU) | ~$4.062/oz | ▼ dalend (hogere rente-verwachtingen) |
-| Brent-olie | $116,72/vat | ▲ 6-maands hoogtepunt (Midden-Oosten) |
-| EUR/USD | ~1,15 | ≈ stabiel |
-| S&P 500 | 7.614 | ▼ -0,65% |
-| AEX | 1.131 | ≈ +0,17% |
-| DAX | 25.182 | ▼ -0,75% |
-| Nikkei 225 | 62.693 | ▼ -0,34% |
+| Markt | Koers | Δ dag |
+|-------|-------|-------|
+| **Bitcoin** | $80.500 | — |
+| **Ethereum** | $2.335 | — |
+| **Goud** | $4.000/oz | — |
+| **Brent olie** | $116,72/vat | +3,1% |
+| **EUR/USD** | 1,12 | — |
+| **S&P 500** | 7.623,68 | −0,52% |
+| **AEX** | 1.131,63 | +0,17% |
+| **DAX** | 25.181,65 | −0,75% |
+| **Nikkei 225** | 62.693,16 | −0,34% |
 
-*Bron: Yahoo Finance, Trading Economics, CNBC, Fortune, Investing.com — 23 okt 2026*
-
----
-
-## De Grote Lijnen
-
-Olie is de rode draad die alle continenten verbindt: Brent op $116 door escalerende Midden-Oostenspanningen treft zowel de Amerikaanse consument (benzine $4,29, goedkeuring Trump 33%) als het Japanse subsidiebudget (¥560 miljard raakt op) en drijft de Russische diesel richting Noord-Amerika nu sancties worden opgeheven. De hoge energiekosten voeden in Europa een protestgolf — van de Belgische nationale staking tot de ergste onrust in Frankrijk in jaren — terwijl regeringen als die van Merz in Duitsland en Healey in het VK juist nu bezuinigen en investeerders moeten lokken. Opvallend is de spagaat tussen opkomende machten en gevestigde economieën: India groeit met 7,1% en breekt defensie-exportrecords, terwijl China de kapitaaluitstroom probeert te beteugelen en Europa worstelt met begrotingstekorten boven de 5%. De financiële markten weerspiegelen deze onzekerheid: goud daalt ondanks geopolitieke onrust door hogere renteverwachtingen, crypto verliest terrein, en de Nikkei staat 11% onder zijn record van juni.
+> Brent olie steeg fors na Houthi-aanvallen op Saudische installaties en vrees voor een Amerikaans militair antwoord tegen Iran. Aandelenmarkten sloten overwegend lager door geopolitieke onrust en onzekerheid over AI-rendementen bij Big Tech.
 
 ---
-*Samengesteld door een geautomatiseerd nieuwsoverzicht — 24 oktober 2026*
+
+## 🔗 De Grote Lijnen
+
+Begrotingscrises vormen de rode draad van vandaag: België, Nederland en het VK worstelen alle drie met het bij elkaar brengen van politieke meerderheden voor hun begrotingsplannen — De Wever faalt, Jetten zoekt zeven oppositiepartijen, en Burnham moet Labour-beloften rijmen met krimpende begrotingsruimte. Ondertussen zet de fors stijgende olieprijs — Brent boven $116 door escalatie in het Midden-Oosten — de Europese economieën onder druk en voedt de inflatie die Japan nu boven de 2% duwt. De geopolitieke onrust maakt de tegenstelling tussen energieafhankelijke importeurs (Europa, Japan, India) en exporteurs (Rusland, dat de VS nu diesel aanbiedt) scherper dan ooit. China manoeuvreert diplomatiek met Kim Jong-uns grensbezoek vlak voor de APEC-top, terwijl Duitsland via een Nvidia-deal probeert de AI-revolutie industrieel te verankeren — dezelfde AI-investeringen waarvan Wall Street zich afvraagt of ze ooit rendement opleveren. Frankrijk toont het breedste spectrum: Le Pen lanceert haar campagne terwijl honderdduizenden de straat op gaan tegen koopkrachtverlies, een microkosmos van de spanning tussen populisme en economische realiteit die overal sluimert.
+
+---
+*Samengesteld op zondag 25 oktober 2026.*
