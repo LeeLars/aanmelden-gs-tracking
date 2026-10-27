@@ -1,73 +1,69 @@
 # MIJN NIEUWSKRANT
-### Maandag 26 oktober 2026
+### Dinsdag 27 oktober 2026
 ---
-## 🇧🇪 België
-- **Begrotingsoverleg vastgelopen: De Wever krijgt akkoord niet rond** Premier **Bart De Wever** slaagde er na maanden onderhandelen niet in een meerjarenbegroting af te sluiten. De federale regering hervat bilaterale gesprekken, terwijl drie grote vakbonden een **nationale betoging op 23 november** aankondigen. Ondertussen dreigen meer dan **1.500 banen** te verdwijnen bij GSK en Covestro in Antwerpen. (VRT NWS, oktober 2026, https://www.vrt.be/vrtnws/en/categories/home-news/politics/)
+## 🇧🇪 Belgie
+- **Begrotingsonderhandelingen vastgelopen: De Wever dringt aan op 'schuldenrem'** Premier **Bart De Wever** hervat bilaterale gesprekken nadat de federale begrotingsonderhandelingen zonder akkoord zijn geëindigd. De Wever eist een **schuldenrem** als vangnet indien een meerjarenbegroting uitblijft. Vakbonden kondigden een nieuwe nationale betoging aan op **23 november**. (VRT NWS, oktober 2026, https://www.vrt.be/vrtnws/en/categories/home-news/politics/)
 ---
 
 ## 🇳🇱 Nederland
-- **Kabinet nodigt zeven oppositiepartijen uit voor belastingplan** Het minderheidskabinet van premier **Jetten** (D66, VVD, CDA) zoekt steun voor het belastingplan voor 2027. Oppositiepartijen leggen uiteenlopende eisen op tafel. De inflatie in september kwam uit op **3,4%** en defensiebedrijf **Robin Radar** trekt interesse van private equity. (NOS/FD, oktober 2026, https://nos.nl/artikel/2636518-kabinet-nodigt-zeven-oppositiepartijen-uit-voor-onderhandelingen-belastingplan)
+- **Kabinet zoekt steun voor belastingplan, maar doorbraak blijft uit** Het minderheidskabinet-**Jetten** hervatte gesprekken met zeven oppositiepartijen over het belastingplan, maar een akkoord is nog niet in zicht. **BBB** weigert steun zonder ingrijpende aanpassingen aan de **stikstofplannen**. Het kabinet wil daarnaast **25.000 minder ambtenaren**, met uitzondering van politie en defensie. (NOS, oktober 2026, https://nos.nl/artikel/2636799-kabinet-hervat-gesprekken-met-oppositie-maar-akkoord-nog-niet-in-zicht)
 ---
 
 ## 🇹🇷 Turkije
-- **Centrale bank verlaagt rente naar 36%, effectentoezichthouder verhoogt drempel beleggers** De Turkse centrale bank verlaagde de beleidsrente met **100 basispunten naar 36%** nu de onderliggende inflatie afneemt. De effectentoezichthouder verhoogde de drempel voor 'gekwalificeerde beleggers' met **factor vijf**. In Bursa startte Tofaş de productie van het **$300 miljoen K9-project**, goed voor 1.000 banen. (Daily Sabah, 26 oktober 2026, https://dailysabah.com/business/economy/turkiyes-securities-regulator-lifts-qualified-investor-threshold-5-fold)
+- **Turkije onthult energievisie 2040 met $100 miljard aan investeringen** Energieminister **Bayraktar** presenteert het Nationale Energie 2040-plan, dat circa **$100 miljard** aan investeringen voorziet in elektriciteitsnetwerken. Tegelijk mikt minister **Kacır** op **100.000 startups** tegen 2030. De eerste reactor van kerncentrale **Akkuyu** wordt eind dit jaar opgestart. (Daily Sabah, oktober 2026, https://www.dailysabah.com/business/economy/turkiye-to-unveil-2040-energy-vision-foreseeing-100b-investment)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Schuldencrisis in de schijnwerpers nu ECB vergadert en protesten aanhouden** De rente op Franse staatsobligaties steeg naar het **hoogste niveau sinds 2002** terwijl het begrotingsconflict escaleert. President **Macron** bezocht Marseille na gewelddadige protesten waarbij bijna **1.000 arrestaties** werden verricht. Marine **Le Pen** opende haar presidentiële campagne in Orléans, circa zes maanden voor de verkiezingen. (France 24, 26 oktober 2026, https://www.france24.com/en/live-news/20261026-france-s-debt-woes-in-focus-as-ecb-meets)
+- **Marine Le Pen start presidentiële campagne te midden van massaprotesten** Le Pen lanceerde haar campagne met de belofte de **'rechtsstaat te herstellen'**; de presidentsverkiezingen staan gepland op **18 april – 2 mei 2027**. Tegelijkertijd gingen ruim **400.000 Fransen** de straat op tegen de stijgende kosten van levensonderhoud, met meer dan **1.300 arrestaties**. De staatsschuld bereikte een naoorlogs record van **119% van het bbp**. (France 24, 25 oktober 2026, https://www.france24.com/en/live-news/20261025-far-right-leader-le-pen-kicks-off-tilt-at-french-presidency-amid-nationwide-protests)
 ---
 
 ## 🇩🇪 Duitsland
-- **Investeringstop levert €230 miljard aan toezeggingen op, waaronder €16 miljard van Amazon** De regering van kanselier **Merz** organiseerde een investeringstop met de boodschap "Deutschland ist zurück". Bedrijven zegden circa **€230 miljard** toe, met **Amazon** als grootste investeerder (**€16 miljard**). De DIHK verlaagde de groeiprognose voor 2026 naar **0,3%**, terwijl de staatsschuld een record bereikte van bijna **€32.000 per inwoner**. (Handelsblatt, oktober 2026, https://www.handelsblatt.com/politik/deutschland/investitionen-regierung-wirbt-um-investoren-deutschland-ist-zurueck/100263480.html)
+- **Kanselier Merz in Azië voor vrijhandel en minder afhankelijkheid van China** Bondskanselier **Friedrich Merz** bezoekt **Japan en Zuid-Korea** om een groot vrijhandelsakkoord met de Pacific-regio te bevorderen, gericht op economische onafhankelijkheid van China. De regering verwacht een **groei van 1,3%** dit jaar, maar private investeringen blijven ver onder het pre-coronaniveau. (Handelsblatt, oktober 2026, https://www.handelsblatt.com/politik/deutschland/)
 ---
 
 ## 🇷🇺 Rusland
-- **Defensiebegroting 2027 naar recordhoogte van 17,1 biljoen roebel** Het Russische begrotingsontwerp voor 2027 trekt **17,1 biljoen roebel ($205 miljard)** uit voor defensie — een **post-Sovjet record** — terwijl civiele programma's worden gekort. Het tekort in 2026 bedraagt **3,2% van het bbp**. Inflatieverwachtingen daalden in oktober naar **13,2%**. Putin liet een Amerikaanse gevangene vrij en stemde in met **trilaterale vredesgesprekken**. (The Moscow Times, 2 oktober 2026, https://www.themoscowtimes.com/2026/10/02/heres-how-russia-plans-to-pay-for-the-ukraine-war-in-2027-a93851)
+- **Poetin waarschuwt voor uitsluiting Rusland van wereldwijde gasmarkt** Op het **GECF-gastop** in Moskou waarschuwde president **Poetin** dat pogingen om Rusland van de gasmarkt te weren Europese consumenten zullen schaden. De EU werkt aan een volledige uitfasering van Russisch gas tegen najaar **2027**. Vicepremier **Novak** meldde dat vier tankers met **diesel** naar de VS vertrekken. (The Moscow Times, 27 oktober 2026, https://www.themoscowtimes.com/2026/10/27/putin-warns-against-attempts-to-exclude-russia-from-global-natural-gas-market-a94095)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Budget op 28 oktober: minister Healey moet £35 miljard vinden** Chancellor **John Healey** presenteert woensdag zijn eerste begroting onder premier **Andy Burnham**. Het IFS schat dat **£35 miljard** nodig is voor Labour's uitgavenplannen, terwijl de rente op 30-jarige gilts boven de **6%** steeg — het hoogste sinds 1998. Het bbp groeide **0,4%** in het tweede kwartaal. Labour beloofde geen verhoging van inkomstenbelasting, btw of National Insurance. (ICAS/BDO/Saxo, oktober 2026, https://www.icas.com/news-insights-events/news/tax/uk-budget-2026-what-to-expect/)
+- **Eerste begroting onder PM Burnham: belastingverhogingen van £25 miljard verwacht** Minister van Financiën **John Healey** presenteert op **28 oktober** de eerste begroting onder premier **Andy Burnham**. Economen verwachten belastingverhogingen tot **0,8% van het bbp** (circa **£25 miljard**). De rente op 10-jaars staatsobligaties bereikte met **5,41%** het hoogste niveau sinds 2007. (City A.M./Kuwait Times, oktober 2026, https://kuwaittimes.com/article/49886/world/uk-pm-burnham-warns-next-budget-will-be-difficult/)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Midterms in eindfase: Trump-gelieerde bedrijven bereiden zich voor op Republikeins verlies** Met de tussentijdse verkiezingen op **2 november** in zicht huren bedrijven rond de **Trump-familie** lobbyisten in voor mogelijk Democratisch toezicht. Democraten kondigden een onderzoek aan naar **Russische dieselimport**. Op de markten stegen futures licht vooruitlopend op **Big Tech-resultaten** en het **Fed-rentebesluit** woensdag. Hypotheekrentes bereikten circa **7,5%**. (Bloomberg, 26 oktober 2026, https://www.bloomberg.com/news/features/2026-10-26/trump-tied-companies-prepare-for-republican-losses-in-midterm-elections-2026)
+- **Apple lanceert M6 iMac en MacBook Pro; Anthropic dient beursgang in** **Apple** onthulde de **M6 iMac** en een instap-**MacBook Pro** met snellere chips en AI-upgrades. Tegelijk diende AI-bedrijf **Anthropic** een **IPO** in, terwijl **Meta** haar geplande aandelenuitgifte verhoogde naar bijna **$98 miljard**. De markten schommelden in afwachting van het **Fed-besluit**. (Bloomberg, 27 oktober 2026, https://www.bloomberg.com/news/articles/2026-10-27/apple-launches-m6-imac-entry-macbook-pro-ahead-of-touch-laptop)
 ---
 
 ## 🇮🇳 India
-- **IMF voorspelt 7% groei voor India in 2026 en 2027** Het IMF projecteert een bbp-groei van **7%** voor zowel 2026 als 2027. Premier **Modi** positioneert India als de op twee na grootste economie ter wereld, maar analisten wijzen op een verzwakkende **rupee** en dalende **buitenlandse investeringen**. Het bbp per hoofd wordt geschat op **$2.812** in 2026. De IT-sector staat onder druk door zorgen over de impact van AI op outsourcing. (IntelliNews/Indian Masterminds, 2026, https://indianmasterminds.com/news/india-economy-7-percent-growth-2026-2027-mohan-yadav-imf-242134/)
+- **India nu 'global co-creator' in technologie, startup-ecosysteem op plek drie** Minister **Jitendra Singh** verklaarde op het **ESTIC 2026**-congres dat India niet langer een volger is maar een mondiale medeschepper. Het startup-ecosysteem staat nu **derde wereldwijd** en India steeg op de Global Innovation Index van plek **80 naar 38**. Ondertussen test **Jio** met haar **IPO** de waarde van haar 5G-netwerk. (ANI/Digitimes, 27 oktober 2026, https://aninews.in/news/national/general-news/8220india-no-longer-a-follower-now-a-global-co-creator8221-jitendra-singh-at-estic-202620261027190230)
 ---
 
 ## 🇨🇳 China
-- **Vijfde plenum CCP geopend met focus op discipline en loyaliteit aan Xi** Het **vijfde plenum** van het 20e Centraal Comité opende maandag in Peking, gericht op partijdiscipline en corruptiebestrijding. Al **35 leden** zijn onderzocht of ontheven. Noord-Koreas **Kim Jong Un** bezocht Dandong en ontmoette **Wang Huning** over uitbreiding van handel. De export steeg **36,3%** in september, terwijl China zijn Amerikaanse staatsobligaties terugbracht tot een **18-jarig dieptepunt**. (SCMP/Caixin, 26 oktober 2026, https://www.scmp.com/news/china/politics/article/3372134/chinas-communist-party-opens-fifth-plenum-focus-discipline-and-loyalty-xi)
+- **Vijfde plenum CPC opent in Peking met focus op partijdiscipline** Het **vijfde plenum** van het 20e Centraal Comité opende maandag in Peking, met als hoofdthema streng partijbestuur. **Xi Jinping** presenteerde een werkrapport en een ontwerpbesluit. Intussen arresteerden autoriteiten een **chipsmiljardair** in een uitbreidend corruptieonderzoek in de halfgeleiderindustrie. De economie groeide **4,6%** in de eerste drie kwartalen. (SCMP/Global Times, oktober 2026, https://www.globaltimes.cn/page/202610/1373019.shtml)
 ---
 
 ## 🇯🇵 Japan
-- **Oppositie dwingt premier Takaichi tot uitleg over btw-verlaging** Oppositiepartijen eisten zondag in een televisiedebat dat premier **Sanae Takaichi** haar wetsvoorstel voor btw-verlaging persoonlijk toelicht in het parlement. Komeito waarschuwde dat er **niet gestemd** kan worden zonder duidelijkheid. De inflatie brak door de **2%-grens** en de Bank of Japan wordt op **30 oktober** verwacht de rente ongewijzigd te laten. Vakbond **Rengo** eist minstens **5-6% loonsverhoging** in de voorjaarsgesprekken. (Japan Times, 25 oktober 2026, https://japantimes.co.jp/news/2026/10/25/japan/politics/opposition-urges-takaichi-explain-bill)
+- **Japan overweegt registratie van buitenlandse agenten onder nieuwe spionagewet** Een expertpanel besprak maandag een wetsvoorstel dat buitenlandse agenten verplicht zich te registreren en heimelijke beïnvloeding van beleid en verkiezingen strafbaar stelt. Een wetsontwerp kan al in de **volgende parlementaire sessie** worden ingediend. Ondertussen werden de **exportcijfers** van september met **+16,7%** als sterk ontvangen. (Japan Times, 27 oktober 2026, https://japantimes.co.jp/news/2026/10/27/japan/politics/anti-espionage-law-proposal)
 ---
 
----
+## 📊 Marktoverzicht
+| Markt | Koers | Beweging |
+|-------|-------|----------|
+| Bitcoin (BTC) | ~$79.800 | ▼ -5,8% (maand) |
+| Ethereum (ETH) | ~$1.900 | ▼ onder $2.000 |
+| Goud (XAU) | ~$4.015/oz | ▲ historisch hoog |
+| Brent olie | ~$93/vat | ▼ slechtste maand sinds mrt 2020 |
+| EUR/USD | ~1,16 | → stabiel rond jaargemiddelde |
+| S&P 500 | 7.677 | ▲ +0,7% (26 okt) |
+| AEX | 1.137 | ▲ +0,3% |
+| DAX | 25.565 | ▲ +0,6% |
+| Nikkei 225 | 62.190 | ▲ +1,7% (herstel di.) |
 
-## 📊 Marktoverzicht (sluiting vr 23 okt / ma-ochtend 26 okt 2026)
-
-| Markt | Koers | Δ dag |
-|-------|-------|-------|
-| **Bitcoin** | $79.800 | −0,9% |
-| **Ethereum** | $2.350 | +0,6% |
-| **Goud** | $3.992/oz | −0,2% |
-| **Brent olie** | $116,63/vat | +0,5% |
-| **EUR/USD** | 1,12 | −0,1% |
-| **S&P 500** | 7.623,68 | −0,52% |
-| **AEX** | 1.131,63 | +0,17% |
-| **DAX** | 25.181,65 | −0,75% |
-| **Nikkei 225** | 62.693,16 | −0,34% |
-
-> Bitcoin zakte onder de $80.000 nu beleggers risico afbouwen richting het Fed-rentebesluit woensdag. Goud daalde licht na zes opeenvolgende recordweken. Brent blijft boven $116 door aanhoudende spanningen in het Midden-Oosten. Europese en Amerikaanse aandelenmarkten sloten de week lager door onzekerheid over Big Tech-kwartaalcijfers en geopolitieke risico's.
+*Koersen zijn indicatief, gebaseerd op beschikbare bronnen rond 27 oktober 2026.*
 
 ---
 
 ## 🔗 De Grote Lijnen
 
-Begrotingscrises domineren het nieuws van België tot het Verenigd Koninkrijk: De Wever faalt in Brussel, Jetten zoekt wanhopig oppositiesteun in Den Haag, en Healey moet woensdag £35 miljard vinden in Londen — overal botst de politieke wil tot uitgeven op krimpende begrotingsruimte en stijgende rentes. De olieprijs boven $116 door Midden-Oosten-escalatie raakt Europa en Japan het hardst: het voedt de inflatie die Japan boven de 2% duwde en vergroot de druk op de ECB, terwijl Rusland de VS cynisch diesel aanbiedt en zijn eigen defensiebegroting naar een post-Sovjet record tilt. China speelt schaak op meerdere borden tegelijk — Kim Jong-uns grensbezoek aan Dandong vlak voor de APEC-top, het vijfde plenum dat discipline boven hervorming stelt, en de afbouw van Amerikaanse staatsobligaties tot een 18-jarig dieptepunt — allemaal tekenen van een wereld die zich hergroepeert in blokken. De tegenstelling tussen Duitslands investeringstop (€230 miljard aan beloftes, Amazon voorop) en Frances schuldencrisis (rente op hoogste punt sinds 2002) toont dat zelfs binnen de eurozone de economische kloven groeien, terwijl Le Pen en honderdduizenden demonstranten de straat op gaan als twee kanten van dezelfde onvrede.
+Van Brussel tot Londen domineert **begrotingspolitiek** het nieuws: België, Nederland en het VK worstelen alle drie met de vraag hoe de overheidsfinanciën op orde te brengen zonder draagvlak te verliezen — De Wever eist een schuldenrem, Jetten zoekt oppositiesteun, en Burnham bereidt belastingverhogingen van £25 miljard voor. Tegelijk tekent zich een **geopolitiek energieschaakspel** af: Poetin waarschuwt Europa voor de gevolgen van gasontdubbeling, terwijl Turkije met een investeringsplan van $100 miljard juist inzet op energieonafhankelijkheid, en Merz in Azië handelsalternatieven zoekt om los te komen van China. Op de **techbeurzen** zorgt de gelijktijdige IPO-golf (Anthropic, Jio) en Apple's productlancering voor opwinding, maar Bitcoin en olie laten zien dat de risicobereidheid broos blijft. De rode draad: overal proberen overheden en markten zich te herpositioneren in een wereld waar oude afhankelijkheden — van Russisch gas tot Chinese chips — steeds minder houdbaar worden, maar de alternatieven nog niet op hun plaats staan.
 
 ---
-*Samengesteld op maandag 26 oktober 2026.*
