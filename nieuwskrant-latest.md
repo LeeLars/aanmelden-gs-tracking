@@ -1,69 +1,68 @@
 # MIJN NIEUWSKRANT
-### Dinsdag 27 oktober 2026
+### Woensdag 28 oktober 2026
 ---
 ## 🇧🇪 Belgie
-- **Begrotingsonderhandelingen vastgelopen: De Wever dringt aan op 'schuldenrem'** Premier **Bart De Wever** hervat bilaterale gesprekken nadat de federale begrotingsonderhandelingen zonder akkoord zijn geëindigd. De Wever eist een **schuldenrem** als vangnet indien een meerjarenbegroting uitblijft. Vakbonden kondigden een nieuwe nationale betoging aan op **23 november**. (VRT NWS, oktober 2026, https://www.vrt.be/vrtnws/en/categories/home-news/politics/)
+- **Bijna 3 op de 10 fabrieksmachienes in België staan stil** De metaal- en technologiefederatie **Agoria** noemt de industriële malaise "ongezien". Sectorfederaties vragen dringend maatregelen tegen de **hoge kosten** die de concurrentiepositie uithollen. Intussen blijven de federale **begrotingsonderhandelingen** muurvast. (VRT NWS, 28 oktober 2026, https://vrt.be/vrtnws/nl/2026/10/28/bijna-3-op-10-machines-in-belgische-fabrieken-staan-stil)
 ---
 
 ## 🇳🇱 Nederland
-- **Kabinet zoekt steun voor belastingplan, maar doorbraak blijft uit** Het minderheidskabinet-**Jetten** hervatte gesprekken met zeven oppositiepartijen over het belastingplan, maar een akkoord is nog niet in zicht. **BBB** weigert steun zonder ingrijpende aanpassingen aan de **stikstofplannen**. Het kabinet wil daarnaast **25.000 minder ambtenaren**, met uitzondering van politie en defensie. (NOS, oktober 2026, https://nos.nl/artikel/2636799-kabinet-hervat-gesprekken-met-oppositie-maar-akkoord-nog-niet-in-zicht)
+- **Kabinet nodigt zeven oppositiepartijen uit voor onderhandelingen belastingplan** Het minderheidskabinet hervatte gesprekken met onder meer **BBB, SGP, ChristenUnie** en **Volt**, maar de partijen stellen uiteenlopende eisen: van stikstofaanpassingen tot strengere asielregels. Tegelijk verwacht het **IMF** een groei van **1,5%** voor de Nederlandse economie. (NOS, oktober 2026, https://nos.nl/artikel/2636518-kabinet-nodigt-zeven-oppositiepartijen-uit-voor-onderhandelingen-belastingplan)
 ---
 
 ## 🇹🇷 Turkije
-- **Turkije onthult energievisie 2040 met $100 miljard aan investeringen** Energieminister **Bayraktar** presenteert het Nationale Energie 2040-plan, dat circa **$100 miljard** aan investeringen voorziet in elektriciteitsnetwerken. Tegelijk mikt minister **Kacır** op **100.000 startups** tegen 2030. De eerste reactor van kerncentrale **Akkuyu** wordt eind dit jaar opgestart. (Daily Sabah, oktober 2026, https://www.dailysabah.com/business/economy/turkiye-to-unveil-2040-energy-vision-foreseeing-100b-investment)
+- **Erdoğan: Turkije zal expansionistische ambities in de regio bestrijden** President **Erdoğan** verklaarde na de kabinetsvergadering dat Ankara bloedvergieten wil stoppen en zich verzet tegen regionale actoren met expansionistische doelen. Het parlement debatteert over een wet waarmee **350.000 beleggers** tot **₺1 miljoen** aan voorschotten kunnen terugkrijgen na een fondsaffaire waarbij **214 personen** zijn geïdentificeerd. (Daily Sabah, 26 oktober 2026, https://www.dailysabah.com/politics/diplomacy/turkiye-vows-to-counter-expansionist-ambitions-end-bloodshed)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Marine Le Pen start presidentiële campagne te midden van massaprotesten** Le Pen lanceerde haar campagne met de belofte de **'rechtsstaat te herstellen'**; de presidentsverkiezingen staan gepland op **18 april – 2 mei 2027**. Tegelijkertijd gingen ruim **400.000 Fransen** de straat op tegen de stijgende kosten van levensonderhoud, met meer dan **1.300 arrestaties**. De staatsschuld bereikte een naoorlogs record van **119% van het bbp**. (France 24, 25 oktober 2026, https://www.france24.com/en/live-news/20261025-far-right-leader-le-pen-kicks-off-tilt-at-french-presidency-amid-nationwide-protests)
+- **Franse obligatierente op hoogste niveau sinds 2002 nu ECB vergadert** De rente op Franse staatsobligaties steeg naar het hoogste punt sinds **2002**, terwijl de ECB deze week vergadert maar naar verwachting niet ingrijpt. De staatsschuld bereikte een naoorlogs record van **119% van het bbp**. Premier Bayrou's begroting voor 2027 voorziet in **€43 miljard** aan bezuinigingen. (France 24, 26 oktober 2026, https://www.france24.com/en/live-news/20261026-france-s-debt-woes-in-focus-as-ecb-meets)
 ---
 
 ## 🇩🇪 Duitsland
-- **Kanselier Merz in Azië voor vrijhandel en minder afhankelijkheid van China** Bondskanselier **Friedrich Merz** bezoekt **Japan en Zuid-Korea** om een groot vrijhandelsakkoord met de Pacific-regio te bevorderen, gericht op economische onafhankelijkheid van China. De regering verwacht een **groei van 1,3%** dit jaar, maar private investeringen blijven ver onder het pre-coronaniveau. (Handelsblatt, oktober 2026, https://www.handelsblatt.com/politik/deutschland/)
+- **Merz en Takaichi beloven nauwere samenwerking op economische veiligheid en technologie** Bondskanselier **Friedrich Merz** ontmoette de Japanse premier **Sanae Takaichi** in Tokio tijdens zijn eerste bezoek aan Japan. Beide leiders committeerden zich aan samenwerking op **geavanceerde technologie** en economische veiligheid, gericht op minder afhankelijkheid van China. (Japan Times, 28 oktober 2026, https://www.japantimes.co.jp/business/2026/10/28/takaichi-merz-meeting/)
 ---
 
 ## 🇷🇺 Rusland
-- **Poetin waarschuwt voor uitsluiting Rusland van wereldwijde gasmarkt** Op het **GECF-gastop** in Moskou waarschuwde president **Poetin** dat pogingen om Rusland van de gasmarkt te weren Europese consumenten zullen schaden. De EU werkt aan een volledige uitfasering van Russisch gas tegen najaar **2027**. Vicepremier **Novak** meldde dat vier tankers met **diesel** naar de VS vertrekken. (The Moscow Times, 27 oktober 2026, https://www.themoscowtimes.com/2026/10/27/putin-warns-against-attempts-to-exclude-russia-from-global-natural-gas-market-a94095)
+- **Rosatom in vergevorderde onderhandelingen over drijvende kerncentrales voor Afrika** Op de Rusland-Afrika-top in Moskou meldde **Rosatom** dat het in gesprek is met **Egypte, Togo, Namibië** en **Tanzania** over de levering van drijvende kernenergie-installaties. President **Poetin** schetste plannen voor een transportknooppunt aan de Oost-Afrikaanse kust. (The Moscow Times, 28 oktober 2026, https://www.themoscowtimes.com/2026/10/28/rosatom-says-it-is-in-advanced-talks-to-supply-floating-nuclear-power-plants-to-african-countries-a94107)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Eerste begroting onder PM Burnham: belastingverhogingen van £25 miljard verwacht** Minister van Financiën **John Healey** presenteert op **28 oktober** de eerste begroting onder premier **Andy Burnham**. Economen verwachten belastingverhogingen tot **0,8% van het bbp** (circa **£25 miljard**). De rente op 10-jaars staatsobligaties bereikte met **5,41%** het hoogste niveau sinds 2007. (City A.M./Kuwait Times, oktober 2026, https://kuwaittimes.com/article/49886/world/uk-pm-burnham-warns-next-budget-will-be-difficult/)
+- **Fed-achtig dilemma: Bank of England houdt rente vast terwijl Burnham-regering bezuinigt** Premier **Andy Burnham** – opvolger van Starmer sinds juni – bereidt de eerste begroting van zijn regering voor. Economen verwachten belastingverhogingen tot **£25 miljard** (0,8% bbp). De rente op **10-jaars staatsobligaties** bereikte **5,41%**, het hoogste niveau sinds 2007. (Kuwait Times, oktober 2026, https://kuwaittimes.com/article/49886/world/uk-pm-burnham-warns-next-budget-will-be-difficult/)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Apple lanceert M6 iMac en MacBook Pro; Anthropic dient beursgang in** **Apple** onthulde de **M6 iMac** en een instap-**MacBook Pro** met snellere chips en AI-upgrades. Tegelijk diende AI-bedrijf **Anthropic** een **IPO** in, terwijl **Meta** haar geplande aandelenuitgifte verhoogde naar bijna **$98 miljard**. De markten schommelden in afwachting van het **Fed-besluit**. (Bloomberg, 27 oktober 2026, https://www.bloomberg.com/news/articles/2026-10-27/apple-launches-m6-imac-entry-macbook-pro-ahead-of-touch-laptop)
+- **Fed houdt rente naar verwachting vast; olieprijzen stijgen door Midden-Oosten** De **Federal Reserve** vergadert deze week en een AI-model van Bloomberg voorspelt dat de rente ongewijzigd blijft. **Brent-olie** handelt rond **$115 per vat** na berichten dat de VS na de tussentijdse verkiezingen aanvallen op Iran kan hervatten. De **Wereldbank** verhoogde haar energieprijsraming met **32%** voor 2026. (Bloomberg, 28 oktober 2026, https://www.bloomberg.com/news/articles/2026-10-28/interest-rate-decision-will-hold-steady-ai-fed-model-predicts)
 ---
 
 ## 🇮🇳 India
-- **India nu 'global co-creator' in technologie, startup-ecosysteem op plek drie** Minister **Jitendra Singh** verklaarde op het **ESTIC 2026**-congres dat India niet langer een volger is maar een mondiale medeschepper. Het startup-ecosysteem staat nu **derde wereldwijd** en India steeg op de Global Innovation Index van plek **80 naar 38**. Ondertussen test **Jio** met haar **IPO** de waarde van haar 5G-netwerk. (ANI/Digitimes, 27 oktober 2026, https://aninews.in/news/national/general-news/8220india-no-longer-a-follower-now-a-global-co-creator8221-jitendra-singh-at-estic-202620261027190230)
+- **RBI verhoogt rente voor het eerst sinds 2023 naar 5,50%** De **Reserve Bank of India** verhoogde de repo-rente met **25 basispunten** naar **5,50%** – de eerste verhoging sinds februari 2023 – vanwege het Midden-Oostenconflict en mondiale onzekerheid. De inflatie bereikte **4,82%** in augustus en de RBI verhoogde haar groeiprognose voor FY2026/27 naar **7,1%**. (Trading Economics, 7 oktober 2026, https://tradingeconomics.com/india/interest-rate/news/590026)
 ---
 
 ## 🇨🇳 China
-- **Vijfde plenum CPC opent in Peking met focus op partijdiscipline** Het **vijfde plenum** van het 20e Centraal Comité opende maandag in Peking, met als hoofdthema streng partijbestuur. **Xi Jinping** presenteerde een werkrapport en een ontwerpbesluit. Intussen arresteerden autoriteiten een **chipsmiljardair** in een uitbreidend corruptieonderzoek in de halfgeleiderindustrie. De economie groeide **4,6%** in de eerste drie kwartalen. (SCMP/Global Times, oktober 2026, https://www.globaltimes.cn/page/202610/1373019.shtml)
+- **EU plant valuta-overleg met China nu zorgen over onderwaardering yuan groeien** De EU bereidt gesprekken op hoog niveau voor met Peking over de wisselkoers van de **yuan**, nadat het IMF schatte dat de munt tot **21% ondergewaardeerd** kan zijn. Ondertussen werd een topmanager van de **China Development Bank** gearresteerd op verdenking van handel met voorkennis. Voormalig vicepremier **Liu Yandong** overleed op 80-jarige leeftijd. (SCMP, 28 oktober 2026, https://www.scmp.com/news/china/diplomacy/article/3372373/eu-plans-high-level-china-currency-talks-fears-new-trade-shock-mount)
 ---
 
 ## 🇯🇵 Japan
-- **Japan overweegt registratie van buitenlandse agenten onder nieuwe spionagewet** Een expertpanel besprak maandag een wetsvoorstel dat buitenlandse agenten verplicht zich te registreren en heimelijke beïnvloeding van beleid en verkiezingen strafbaar stelt. Een wetsontwerp kan al in de **volgende parlementaire sessie** worden ingediend. Ondertussen werden de **exportcijfers** van september met **+16,7%** als sterk ontvangen. (Japan Times, 27 oktober 2026, https://japantimes.co.jp/news/2026/10/27/japan/politics/anti-espionage-law-proposal)
+- **Oppositie stemt in met afschaffing van 31 zetels in Lagerhuis** De oppositiepartij **DPP** ging akkoord met het LDP-plan om **31 zetels** in de proportionele vertegenwoordiging van het Lagerhuis te schrappen. De **Bank of Japan** vergadert deze week maar wordt niet verwacht de rente te verhogen; **83%** van de economen verwacht een verhoging pas in december. (Japan Times, 28 oktober 2026, https://japantimes.co.jp/news/2026/10/28/japan/politics/dpp-approve-seat-cut-plan)
 ---
 
 ## 📊 Marktoverzicht
-| Markt | Koers | Beweging |
-|-------|-------|----------|
-| Bitcoin (BTC) | ~$79.800 | ▼ -5,8% (maand) |
-| Ethereum (ETH) | ~$1.900 | ▼ onder $2.000 |
-| Goud (XAU) | ~$4.015/oz | ▲ historisch hoog |
-| Brent olie | ~$93/vat | ▼ slechtste maand sinds mrt 2020 |
-| EUR/USD | ~1,16 | → stabiel rond jaargemiddelde |
-| S&P 500 | 7.677 | ▲ +0,7% (26 okt) |
-| AEX | 1.137 | ▲ +0,3% |
-| DAX | 25.565 | ▲ +0,6% |
-| Nikkei 225 | 62.190 | ▲ +1,7% (herstel di.) |
 
-*Koersen zijn indicatief, gebaseerd op beschikbare bronnen rond 27 oktober 2026.*
+| Instrument | Koers | Verandering |
+|---|---|---|
+| **Bitcoin (BTC)** | $81.100 | +1,5% |
+| **Ethereum (ETH)** | $2.350 | +2,0% |
+| **Goud** | $4.038/oz | −0,6% |
+| **Brent-olie** | $115/vat | +1,2% |
+| **EUR/USD** | 1,1126 | −0,4% |
+| **S&P 500** | 7.725 | +0,6% |
+| **AEX** | ~1.140 | n.b. |
+| **DAX** | 25.591 | −0,1% |
+| **Nikkei 225** | 63.268 | +0,9% |
 
+*Koersen indicatief, diverse bronnen, 27-28 oktober 2026.*
 ---
 
 ## 🔗 De Grote Lijnen
 
-Van Brussel tot Londen domineert **begrotingspolitiek** het nieuws: België, Nederland en het VK worstelen alle drie met de vraag hoe de overheidsfinanciën op orde te brengen zonder draagvlak te verliezen — De Wever eist een schuldenrem, Jetten zoekt oppositiesteun, en Burnham bereidt belastingverhogingen van £25 miljard voor. Tegelijk tekent zich een **geopolitiek energieschaakspel** af: Poetin waarschuwt Europa voor de gevolgen van gasontdubbeling, terwijl Turkije met een investeringsplan van $100 miljard juist inzet op energieonafhankelijkheid, en Merz in Azië handelsalternatieven zoekt om los te komen van China. Op de **techbeurzen** zorgt de gelijktijdige IPO-golf (Anthropic, Jio) en Apple's productlancering voor opwinding, maar Bitcoin en olie laten zien dat de risicobereidheid broos blijft. De rode draad: overal proberen overheden en markten zich te herpositioneren in een wereld waar oude afhankelijkheden — van Russisch gas tot Chinese chips — steeds minder houdbaar worden, maar de alternatieven nog niet op hun plaats staan.
-
+Centrale banken wereldwijd staan op een kruispunt: de **Fed**, de **ECB** en de **Bank of Japan** vergaderen deze week alle drie, maar geen van hen wordt verwacht de rente te wijzigen — een zeldzame gezamenlijke pauze terwijl de geopolitieke spanningen in het Midden-Oosten de energieprijzen opdrijven. De **olieprijs rond $115 per vat** werkt als rode draad door vrijwel elk land: India verhoogde al de rente, Frankrijk ziet zijn staatsschuld naar recordhoogte stijgen, en het VK kampt met de hoogste obligatierente sinds 2007. Tegelijk zoeken zowel **Europa als Azië** naar minder afhankelijkheid van China — Duitsland sluit technologiedeals met Japan, terwijl de EU valuta-overleg met Peking voorbereidt over de onderwaardering van de yuan. Rusland vult het vacuüm op het Afrikaanse continent met nucleaire energiedeals, precies op het moment dat Westerse landen worstelen met hun eigen energietransitie. Binnenlands zijn de parallellen treffend: zowel België, Nederland als Frankrijk zoeken moeizaam naar begrotingscompromissen terwijl hun industrieën onder druk staan van hoge kosten en mondiale onzekerheid.
 ---
