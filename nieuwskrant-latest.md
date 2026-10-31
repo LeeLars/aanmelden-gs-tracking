@@ -1,72 +1,68 @@
 # MIJN NIEUWSKRANT
-### Vrijdag 30 oktober 2026
+### Zaterdag 31 oktober 2026
 ---
 ## 🇧🇪 België
-- **Begrotingscrisis: federale begroting 2027 onbepaald uitgesteld** Premier **Bart De Wever** kon geen akkoord bereiken binnen de coalitie over de federale begroting 2027. Het oorspronkelijke besparingsdoel was **€10 miljard tegen 2029**, maar partijen blokkeren op een eerste pakket van **€4 miljard**. Zonder deal dreigen voorlopige twaalfden. (Brussels Times, 29 okt 2026, https://www.brusselstimes.com/belgium/2356884/belgiums-2027-budget-statement-indefinitely-delayed-as-parties-fail-to-find-deal/)
+- **België kiest voor noodbegroting van één jaar na mislukking begrotingsakkoord** De federale regering onder premier **Bart De Wever** slaagde er op **21 oktober** niet in een volledig begrotingsakkoord voor 2027 te bereiken. Het besparingsdoel werd teruggeschroefd van **€10 miljard** naar **€3-4 miljard**, en de omstreden btw-hervorming werd geschrapt. Zonder parlementaire goedkeuring begin november dreigen **voorlopige twaalfden**. (Brussels Signal, oktober 2026, https://brusselssignal.eu/2026/10/belgium-settles-for-a-one-year-budget-as-full-agreement-stays-out-of-reach/)
 ---
 
 ## 🇳🇱 Nederland
-- **Economie groeit 0,6% in derde kwartaal** Het CBS meldde op **30 oktober** dat het bbp in Q3 met **0,6%** groeide ten opzichte van het vorige kwartaal, gedreven door de **maakindustrie**. Het IMF verhoogde de groeiprognose voor 2026 naar **1,5%**, maar de inflatie steeg naar **3,4%** in september. (NL Times, 30 okt 2026, https://nltimes.nl/2026/10/30/dutch-economy-grew-06-q3-driven-manufacturing-industry)
+- **Nederlandse economie groeit 1,7% ondanks politieke onrust** Volgens **ING** (22 oktober) draait de economie onder premier **Rob Jetten** redelijk goed, met een verwachte bbp-groei van **1,7% in 2026** en **1,6% in 2027**. De groei verschuift van consumentenbestedingen naar **export en investeringen**. Werkloosheid stijgt licht van **4,0% naar 4,1%**. (ING Research, 22 oktober 2026, https://think.ing.com/articles/dutch-economy-remains-resilient-with-exports-increasingly-taking-the-lead/)
 ---
 
 ## 🇹🇷 Turkije
-- **Turkse export bereikt record van $409,1 miljard** Handelsminister **Ömer Bolat** meldde dat de op jaarbasis berekende export van goederen en diensten een nieuw record van **$409,1 miljard** bereikte per september 2026. Tegelijkertijd nam Turkije het voorzitterschap over van de **Organisatie van Turkse Staten** op de 13e top in Ankara. (Daily Sabah, 29 okt 2026, https://www.dailysabah.com/business/economy/turkiyes-annualized-exports-hit-record-4091b-as-economy-transforms)
+- **Turkije onthult digitale-soevereiniteitsstrategie tegen cyberdreigingen** President **Erdoğan** presideerde een vergadering van de Cyberveiligheidsraad waar een nieuwe **nationale strategie voor digitale soevereiniteit** werd gepresenteerd. Het plan richt zich op versterking van cyberveiligheid, **vermindering van afhankelijkheid van buitenlandse technologie** en bescherming van kritieke infrastructuur. (Daily Sabah, oktober 2026, https://www.dailysabah.com/business/tech/turkiye-unveils-digital-sovereignty-strategy-amid-cyber-threats/amp)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Ergste onrust in jaren zet Macron onder druk** Frankrijk kampt met de **zwaarste protesten in jaren**: duizenden arrestaties, demonstratieverboden in Lyon en Marseille, en een begrotingstekort dat oploopt naar **5,4% van het bbp** in 2026. De **10-jaarsrente** steeg tot **4,92%**, ruim **1,53 procentpunt** boven Duitsland. Vertrouwen in Macron daalde naar **17%**. (CNBC, 22 okt 2026, https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html)
+- **Studentenprotesten en rellen teisteren Frankrijk; Lecornu kondigt avondklokken aan** Landelijke **studentenprotesten** en koopkrachtdemonstraties escaleerden in geweld, waarna premier **Sébastien Lecornu** prefecten toestemming gaf voor **lokale avondklokken**. Minstens **2.400 mensen** werden gearresteerd. Op **31 oktober** was een nieuwe protestdag gepland. (PBS NewsHour, oktober 2026, https://www.pbs.org/newshour/world/french-prime-minister-lecornu-calls-for-localized-curfews-in-cities-to-curb-rioting-and-looting)
 ---
 
 ## 🇩🇪 Duitsland
-- **Merz zoekt economische doorstart met investeerderstop** Kanselier **Friedrich Merz** organiseerde op 20 oktober de eerste investeerdersconferentie van zijn regering in Berlijn om groei in Europa's grootste economie te stimuleren. Op een CSU-congres noemde hij **competitieve energieprijzen**, snellere vergunningen en minder bureaucratie als prioriteiten, terwijl zijn coalitie onder druk staat door AfD-winst. (Bloomberg, 19 okt 2026, https://www.bloomberg.com/news/articles/2026-10-19/merz-vows-to-tap-german-economic-strength-to-revive-investments)
+- **Merz dringt aan op onmiddellijke economische hervormingen op CSU-congres** Bondskanselier **Friedrich Merz** riep op het CSU-congres in München (**24 oktober**) op tot urgente hervormingen: **competitieve energieprijzen**, snellere vergunningverlening en minder bureaucratie. De **ZEW-vertrouwensindex** daalde naar **28,1** in oktober (van 34,7 in september), wat wijst op een nog fragiel herstel. (Eastern Herald, 24 oktober 2026, https://easternherald.com/2026/10/24/merz-csu-congress-economy-reforms-now/)
 ---
 
 ## 🇷🇺 Rusland
-- **Novaja Gazeta, oudste onafhankelijke krant, sluit de deuren** Ruslands oudste onafhankelijke krant **Novaja Gazeta** kondigde op **30 oktober** haar sluiting aan na jarenlange staatsdruk. De redactie moet het kantoor aan de **Potapovsky-steeg** in Moskou uiterlijk **9 november** verlaten. Nobelprijswinnaar **Dmitri Muratov** was hoofdredacteur. (The Moscow Times, 30 okt 2026, https://www.themoscowtimes.com/2026/10/30/russias-oldest-independent-newspaper-novaya-gazeta-announces-closure-a94130)
+- **Russische begroting 2027 toont groeiend defensieaandeel en stijgend tekort** Het begrotingsplan voor 2027 voorziet een tekort van **5,5 biljoen roebel ($66 miljard)**, ofwel **2,2% van het bbp**. Ongeveer **één op de drie roebels** gaat naar defensie. De economie groeide slechts **0,3%** van januari tot mei, en de vennootschapsbelasting steeg van 20% naar **25%**. (The Moscow Times, oktober 2026, https://www.themoscowtimes.com/2026/10/16/russias-growing-state-sector-nears-limit-for-sustained-growth-economist-warns-a94003)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Herfstbegroting 2026 gepresenteerd op 28 oktober** De regering presenteerde de **Autumn Budget 2026** aan het Lagerhuis. Het OBR verlaagde de groeiprognose voor 2027 en verwacht gemiddeld **1,7% groei per jaar** van 2028-2031. De afschrijvingsaftrek daalt naar **12%** vanaf april 2027 en er komt **£2,6 miljard** aan energiesteun voor huishoudens in 2026/27. (House of Commons Library, 28 okt 2026, https://commonslibrary.parliament.uk/autumn-budget-2026/)
+- **Premier Burnham presenteert najaarsbegroting 2026 met focus op groei** Na het aftreden van **Keir Starmer** in juli presenteerde de nieuwe premier **Andy Burnham** op **28 oktober** zijn eerste begroting. Er komen **geen grote nieuwe belastingen**, maar wel gerichte maatregelen voor vermogende particulieren. De economie groeide **1,8% op jaarbasis** in de drie maanden tot augustus — het snelste tempo sinds 2022. (Baker McKenzie, oktober 2026, https://www.bakermckenzie.com/en/insight/publications/2026/10/united-kingdom-autumn-budget-2026)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Bbp groeit 3,4% terwijl Fed rente op 3,9% houdt** Het Amerikaanse bbp groeide in Q3 met **3,4% op jaarbasis**, gerapporteerd op 29 oktober. De **Federal Reserve** hield de rente op **circa 3,9%** ondanks aanhoudend hoge inflatie. Markten verwachten een renteverhoging in december, terwijl **84%** van de kiezers de economie als zeer belangrijk noemt voor de tussentijdse verkiezingen. (AP/White House, 29 okt 2026, https://whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high)
+- **VS-tariefbeleid verschuift opnieuw na uitspraak Hooggerechtshof** Na een uitspraak van het **Supreme Court** (20 februari) die de noodtarieven ongeldig verklaarde, schakelde de regering-**Trump** over op **Section 301**-heffingen. Het gemiddelde effectieve tarief steeg naar **7,1%** in augustus. Op Canadese goederen geldt een tarief van **50%** (Section 338). Circa **$126 miljard** aan eerder geïnde IEEPA-heffingen is terugbetaald. (Wharton PWBM, 14 oktober 2026, https://budgetmodel.wharton.upenn.edu/p/2026-10-14-effective-tariff-rates-and-revenues-updated-october-14-2026/)
 ---
 
 ## 🇮🇳 India
-- **Wereldbank verhoogt groeiprognose India naar 7,1%** De **Wereldbank** verhoogde op 6 oktober de groeiprognose voor fiscaal jaar 2027 naar **7,1%**, gedreven door binnenlandse vraag en export. De **Reserve Bank of India** verhoogde de repo-rente met **25 basispunten** naar **5,50%**. Het kabinet keurde op 29 oktober een containerproductieprogramma van **$1,05 miljard** goed. (World Bank, 6 okt 2026, https://www.worldbank.org/en/news/press-release/2026/10/06/india-development-update-oct-2026)
+- **RBI verhoogt rente voor het eerst sinds 2023 naar 5,50%** De **Reserve Bank of India** verhoogde de **repo-rente met 25 basispunten** naar **5,50%** — de eerste verhoging sinds februari 2023 — als reactie op oplopende inflatie en een dalende **roepie**. De economie blijft naar verwachting met circa **7%** groeien, maar verdere renteverlagingen zijn uitgesloten. (Asia Times, oktober 2026, https://asiatimes.com/2026/10/indias-rate-hike-a-loud-warning-shot-for-modinomics/)
 ---
 
 ## 🇨🇳 China
-- **Voormalig beurstoezichthouder krijgt doodstraf voor corruptie** Voormalig CSRC-functionaris **Wang Huimin** kreeg een **doodstraf met twee jaar uitstel** na het aannemen van enorme steekpenningen. Ondertussen bereidt de EU nieuwe handelsinstrumenten voor tegen China, terwijl Peking dreigt met **"alle noodzakelijke maatregelen"** om Chinese bedrijven te beschermen tegen bredere importbeperkingen. (SCMP, okt 2026, https://www.scmp.com/news/china/politics)
+- **Voormalig Sinopec- en CNOOC-baas Fu Chengyu (75) onder corruptieonderzoek** De **Centrale Commissie voor Discipline-inspectie** kondigde een onderzoek aan naar **Fu Chengyu**, oud-voorzitter van **Sinopec** en **CNOOC**. Het besluit valt kort na het vijfde plenum van het 20e Centraal Comité, dat discipline en corruptiebestrijding centraal stelde. Daarnaast werden **10 vacatures** in het Centraal Comité ingevuld. (South China Morning Post, oktober 2026, https://www.scmp.com/news/china/politics/article/3372837/china-places-former-sinopec-cnooc-boss-fu-chengyu-75-under-corruption-probe)
 ---
 
 ## 🇯🇵 Japan
-- **Premier Takaichi kondigt hervatting energiesubsidies aan** Premier **Sanae Takaichi** meldde op **30 oktober** dat elektriciteits- en gassubsidies in **december** worden hervat en doorlopen tot februari. Huishoudens besparen naar schatting **¥7.000** over drie maanden. De **Bank of Japan** hield de rente op **1,25%**, het hoogste niveau sinds 1995. (Japan Times, 30 okt 2026, https://www.japantimes.co.jp/business/2026/10/30/economy/electricity-gas-subsidies-december/)
+- **Bank of Japan houdt rente op 1,25% ondanks aanhoudende inflatie** De **BoJ** handhaafde het tarief op **1,25%** en meldde dat de onderliggende inflatie het **2%-doel** heeft bereikt. De **CPI van Tokio** (exclusief verse voeding) steeg **2,6%** op jaarbasis in oktober. Premier **Sanae Takaichi** kondigde aan dat **energie-subsidies** in december terugkeren om huishoudens circa **¥7.000** te besparen. (The Japan Times, 30 oktober 2026, https://japantimes.co.jp/business/2026/10/30/economy/boj-rates-steady-inflation)
 ---
 
-## Marktoverzicht
+---
 
-| Instrument | Koers | Verandering |
-|---|---|---|
-| Bitcoin (BTC) | $77.471 | -4,7% |
-| Ethereum (ETH) | ~$2.690 | negatief |
-| Goud | $3.938/oz | -$82 |
-| Brent olie | ~$93/vat | stabiel |
-| EUR/USD | 1,1535 | stabiel |
-| S&P 500 | 7.602 | -1,5% |
-| DAX | 26.040 | +1,3% |
-| AEX | ~1.145 | n.b. |
-| Nikkei 225 | ~64.500 | n.b. |
+## Marktoverzicht (slotkoersen vrijdag 30 oktober)
 
-*Crypto onder druk: Bitcoin zakte onder $78.000 na onzekerheid over Big Tech-resultaten en hernieuwde AI-zorgen. Goud verloor ruim $80 op winstnemingen na recente records. Europese indices stegen op positieve bedrijfscijfers ondanks de recessiezorgen; de S&P 500 daalde juist door de Alphabet-uitverkoop.*
+| Markt | Koers | Dagverandering |
+|-------|-------|----------------|
+| Bitcoin (BTC) | $77.500 | -7% (maand) |
+| Ethereum (ETH) | $2.247 | +1,9% |
+| Goud | $4.034/oz | -3,5% |
+| Brent-olie | $112,33/vat | +1,4% |
+| EUR/USD | 1,1158 | -0,2% |
+| S&P 500 | 7.580 | -1,8% |
+| AEX | 1.134,44 | -0,7% |
+| DAX | 25.818 | -0,9% |
+| Nikkei 225 | 63.290 | -2,1% |
 
 ---
 
 ## De Grote Lijnen
 
-Begrotingsstress is de rode draad van deze week: België stelt zijn begroting onbepaald uit, Frankrijk betaalt een recordrisicopremie op staatsleningen, en het VK tempert groeiverwachtingen in de Herfstbegroting — overal worstelen overheden met de erfenis van hoge rentes en energieprijzen. Tegelijkertijd vormen energiekosten een gedeeld zorgpunt: Japan hervat subsidies, Duitsland maakt competitieve energieprijzen tot topprioriteit, en het VK trekt £2,6 miljard uit voor huishoudelijke steun. De twee grote groeieconomieën, de VS (+3,4%) en India (+7,1%), laten zien dat momentum elders nog sterk is, maar de verwachte Fed-renteverhoging in december kan dat snel temperen. Op de achtergrond tekent zich een geopolitiek blok af: de EU bereidt nieuwe handelsinstrumenten voor tegen China, terwijl Turkije zich via de Organisatie van Turkse Staten nadrukkelijker als regionaal machtsblok profileert — een wereld die verder fragmenteert langs economische en politieke lijnen.
-
----
-
-*Samengesteld op vrijdag 30 oktober 2026.*
+Het budgettaire onvermogen dat België teistert, weerspiegelt een breder Europees patroon: ook het VK onder Burnham en Duitsland onder Merz worstelen met de spanning tussen bezuinigingsdwang en groeistimulering, terwijl Rusland zijn begroting steeds verder militariseert. Protectionisme blijft als een rode draad door de wereldeconomie lopen — de Amerikaanse tariefheffingen onder Trump stuwen prijzen op en dwingen handelspartners tot aanpassing, wat mede de renteverhoging van de Indiase centrale bank verklaart. De markten reageren nerveus: de S&P 500 en Nikkei daalden fors, Bitcoin verloor 7% in oktober, en alleen olie profiteerde van geopolitieke spanningen. Ondertussen zetten China's anticorruptiecampagne en Turkije's digitale-soevereiniteitsstrategie een trend voort waarin grote staten steeds meer grip proberen te krijgen op hun eigen economische en technologische systemen — een nationalistische reflex die de gevestigde internationale orde verder fragmenteert.
