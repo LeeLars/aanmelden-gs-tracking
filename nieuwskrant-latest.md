@@ -1,73 +1,70 @@
 # MIJN NIEUWSKRANT
-### Dinsdag 3 november 2026
+### Woensdag 4 november 2026
 ---
-## 🇧🇪 Belgie
-- **Begrotingscrisis: premier De Wever biedt ontslag aan** De Belgische coalitie is er niet in geslaagd een akkoord te bereiken over **€10 miljard aan bezuinigingen en belastingverhogingen** voor de periode tot 2029. Premier **Bart De Wever** heeft zijn ontslag aangeboden aan koning Filip, die zijn besluit uitstelt tot het einde van de week. Zonder deal dreigt een noodbegroting en een mogelijke **kredietverlaging**, met een tekort van meer dan **5% van het bbp**. (France24, 2 november 2026, https://www.france24.com/en/live-news/20261102-belgian-pm-offers-to-quit-over-budget-impasse-1)
+## 🇧🇪 België
+- **Belgische regeringscrisis: begrotingsonderhandelingen geklapt** Premier **Bart De Wever** heeft zijn ontslag aangeboden aan Koning Filip nadat de begrotingsgesprekken over **€10 miljard** aan bezuinigingen zijn mislukt. **Vooruit** eiste **€1,5 miljard** extra belasting voor de rijkste Belgen, terwijl **N-VA** en **MR** dat weigerden. Zonder akkoord dreigen voorlopige twaalfden voor 2027. (Brussels Signal, 4 november 2026, https://brusselssignal.eu/2026/11/belgian-government-faces-collapse-as-budget-talks-break-down/)
 ---
 
 ## 🇳🇱 Nederland
-- **Kabinet-Jetten vecht voor begrotingssteun** Het minderheidskabinet van **D66, VVD en CDA** onder premier **Rob Jetten** probeert met concessies oppositiesteun te winnen voor de begroting 2027. De geplande **btw-verhoging op bloembollen** is geschrapt en het nieuwe box 3-stelsel uitgesteld tot 2029. Zonder steun verliest het kabinet naar schatting **€2,5 miljard** aan belastinginkomsten, waardoor het tekort boven de EU-grens van **3%** kan uitkomen. (DutchNews.nl, 3 november 2026, https://www.dutchnews.nl/2026/11/jetten-hopes-sweeteners-will-win-opposition-backing-for-budget/)
+- **Minderheidskabinet-Jetten beëdigd na val coalitie-Schoof** Na het vertrek van **Geert Wilders' PVV** uit de coalitie in juni 2025 en maandenlange formatie is een nieuw minderheidskabinet onder centristische premier **Rob Jetten** aangetreden. Het kabinet zoekt steun per dossier in een sterk versnipperde Tweede Kamer. (CNN, november 2026, https://www.cnn.com/2025/06/03/europe/netherlands-government-collapse-geert-wilders-intl)
 ---
 
 ## 🇹🇷 Turkije
-- **Inflatie stijgt licht naar 29,77% in oktober** De Turkse consumentenprijzen stegen op jaarbasis naar **29,77%** in oktober, tegen **29,73%** in september. De maandelijkse inflatie versnelde naar **2,58%**. De centrale bank (CBRT) houdt het eindejaardoel op **24%**, maar de regering heeft haar prognose al verhoogd naar **28,4%** vanwege de **oorlog in het Midden-Oosten**. Onafhankelijk instituut ENAG schat de werkelijke inflatie op **45,12%**. (Turkish Minute, 3 november 2026, https://www.turkishminute.com/2026/11/03/turkeys-annual-inflation-rises-slightly-in-october/)
+- **AKP herstelt zich naar eerste plek in peilingen** Een **MetroPOLL**-peiling van oktober zet de **AK-Partij** op **31,9%**, boven de Nieuwe Partij (**25%**). President **Erdoğan** bezoekt Zuid-Korea met als doel een handelsvolume van **$15 miljard**; adviseur **Mehmet Uçum** noemt **16 april 2028** als mogelijke datum voor vervroegde verkiezingen. (Daily Sabah, november 2026, https://www.dailysabah.com/politics/elections/turkiyes-ruling-ak-party-rebounds-to-first-place-in-october-poll)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Lecornu onthult begroting 2027 te midden van studentenprotesten** Premier **Sébastien Lecornu** presenteerde een begroting met **€54 miljard aan bezuinigingen**, een bevriezing van ambtenarensalarissen en hogere belastingen. Gewelddadige **studentenprotesten** braken uit, met tientallen gewonden en honderden arrestaties. Eerder dit jaar overleefde Lecornu twee moties van wantrouwen bij de aanname van de begroting 2026 via **artikel 49.3**. Het begrotingstekort bedraagt **5% van het bbp** en de staatsschuld overschrijdt **115%**. (Foreign Policy, oktober 2026, https://foreignpolicy.com/2026/10/01/france-budget-proposal-2027-violent-student-protests-lecornu-macron/)
+- **BBP krimpt, inflatie stijgt: "Frankrijk koerst op een muur af"** Het Franse **BBP** daalde **0,1%** in het derde kwartaal en de inflatie steeg naar **3,4%** op jaarbasis in oktober. Minister van Financiën **Roland Lescure** waarschuwt dat het land "op een muur afkoerst" als het parlement de begroting met **€43 miljard** aan bezuinigingen niet goedkeurt. Op 31 oktober demonstreerden naar schatting **320.000 mensen** tegen de kosten van levensonderhoud. (France 24, 30 oktober 2026, https://www.france24.com/en/business/20261030-french-economy-headed-for-a-wall-as-gdp-shrinks-finance-minister-warns)
 ---
 
 ## 🇩🇪 Duitsland
-- **Merz dringt aan op investeringen terwijl groeiprognose daalt** Bondskanselier **Friedrich Merz** beloofde op een investeringstop in oktober meer geld voor **AI en hervorming van de welvaartsstaat**. Het Sachverständigenrat verlaagde echter de groeiprognose voor 2026 naar **0,5%** (eerder 0,9%). Duitsland heeft begin 2026 de **schuldenrem versoepeld** voor een fonds van circa **€500 miljard** voor defensie en infrastructuur, wat volgens analisten de enige buffer tegen recessie vormt. (Bloomberg, 19 oktober 2026, https://www.bloomberg.com/news/articles/2026-10-19/merz-vows-to-tap-german-economic-strength-to-revive-investments)
+- **Duitse economie groeit sterker dan verwacht ondanks tegenwind** De economische groei in het derde kwartaal overtrof verwachtingen, ondanks lage Rijnpeilen, zwakkere export en hoge energieprijzen. De werkloosheid daalde licht naar **6,3%**. Kanselier **Friedrich Merz** is op reis in Azië en promoot een Pacifisch vrijhandelsakkoord om minder afhankelijk te worden van **China**. (Handelsblatt, november 2026, https://www.handelsblatt.com/themen/deutschland)
 ---
 
 ## 🇷🇺 Rusland
-- **Trilaterale vredesgesprekken Rusland-Oekraine-VS op 10-11 november in Abu Dhabi** Het Kremlin bevestigde dat **Rusland, Oekraine en de VS** op **10-11 november** in Abu Dhabi bijeenkomen voor een nieuwe ronde vredesgesprekken. Amerikaans gezant **Steve Witkoff** en **Jared Kushner** vertegenwoordigen Washington. De agenda omvat een staakt-het-vuren, veiligheidsgaranties na de oorlog en humanitaire maatregelen. Eerdere rondes in januari en februari leverden geen doorbraak op; de gesprekken lagen sindsdien stil vanwege de **oorlog in Iran**. (Meduza, 3 november 2026, https://meduza.io/en/news/2026/11/03/trilateral-talks-between-russia-ukraine-and-us-set-for-november-10-11-in-abu-dhabi)
+- **VS-bemiddelde vredesgesprekken over Oekraïne hervat in Abu Dhabi** Volgens The Moscow Times worden volgende week in **Abu Dhabi** door de VS bemiddelde vredesgesprekken over Oekraïne hervat. Ondertussen nam het Kremlin de activa van **Nestlé** en **Auchan** in beslag. Rusland verhoogde op 4 november de invoertarieven op sterke drank uit "onvriendelijke" landen. De begroting voor 2027 voorziet in een tekort van **5,5 biljoen roebel** ($66 mrd). (The Moscow Times, november 2026, https://www.themoscowtimes.com/)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Premier Burnham ontkent plan voor vrij verkeer met de EU** Premier **Andy Burnham**, die in juli 2026 **Keir Starmer** opvolgde, ontkende op 3 november dat hij vrij verkeer van personen met de EU wil herinvoeren, nadat zijn bredere ambitie om **Brexit terug te draaien** tot kabinetsruzie leidde. Burnham reist naar **Antigua** voor de Commonwealth-top, waar hij openstaat voor gesprekken over een formele verontschuldiging voor de Britse rol in de **slavenhandel**. (Bloomberg, 3 november 2026, https://www.bloomberg.com/news/articles/2026-11-03/burnham-denies-plan-for-eu-free-movement-after-cabinet-pushback)
+- **Burnham volgt Starmer op als premier; inflatie stijgt naar 3,5%** **Andy Burnham** is in juli 2026 **Keir Starmer** opgevolgd als premier. De Britse **CPI** bereikte in september **3,5%**, boven verwachtingen, en de kerninflatie steeg naar **2,8%**. De olieprijs boven **$100 per vat** drukt op het consumentenvertrouwen, dat **14 punten** daalde naar **-36**. (UK Finance, november 2026, https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-november-2026)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Midtermverkiezingen: Amerika stemt vandaag** Op **3 november 2026** gaan Amerikanen naar de stembus voor de tussentijdse verkiezingen. Alle **435 zetels** in het Huis van Afgevaardigden, **35 Senaatszetels** en **36 gouverneursverkiezingen** staan op het spel. De verkiezingen vinden plaats tijdens de tweede termijn van president **Donald Trump**, met economische onzekerheid over **inflatie en olieprijzen** als gevolg van het conflict in het Midden-Oosten als belangrijk thema. (Bloomberg, 3 november 2026, https://www.bloomberg.com/graphics/2026-us-election-results/)
+- **Democraten winnen Huis én Senaat bij tussentijdse verkiezingen** De **Democraten** hebben bij de midterms van 3 november beide kamers van het Congres veroverd. Ze wonnen **218+ zetels** in het Huis; **Hakeem Jeffries** wordt verwacht als nieuwe Speaker. In de Senaat draaiden ze **7 zetels** om, waaronder Ohio (oud-senator **Sherrod Brown**) en Maine (tegen **Susan Collins**). Media beschrijven het als een afwijzing van president **Trump**. (Forbes, 4 november 2026, https://www.forbes.com/sites/saradorn/2026/11/04/midterm-election-results-live-updates-democrats-sweep-house-and-senate-in-stunning-rout/)
 ---
 
 ## 🇮🇳 India
-- **Modi noemt India snelstgroeiende economie bij opening metro Pune** Premier **Narendra Modi** opende op 3 november lijn 3 van de metro in **Pune** en noemde India de **snelstgroeiende grote economie** ter wereld. Hij claimde dat circa **50 crore mensen** (500 miljoen) in 10-12 jaar uit extreme armoede zijn getild, onder verwijzing naar een Wereldbankrapport. Critici wijzen op een **vlak investeringsniveau** en een groeiend verschil tussen politieke dominantie en economische prestaties. (The Shillong Times, 3 november 2026, https://theshillongtimes.com/2026/11/03/india-is-fastest-growing-economy-also-reducer-of-poverty-says-pm-modi-after-inaugurating-pune-metro-line-3/)
+- **RBI verhoogt rente naar 5,5% vanwege inflatie en zwakke roepie** De **Reserve Bank of India** verhoogde in oktober unaniem de repo-rente met **25 basispunten** naar **5,5%** — de eerste verhoging sinds februari 2023. De **roepie** daalde naar recorddieptepunten en de inflatieprognose voor heel FY27 is opwaarts bijgesteld naar **5,2%**. De reële BBP-groei in Q1 bedroeg **7,8%**, de jaarprognose is **7,1%**. (Asia Times, oktober 2026, https://asiatimes.com/2026/10/indias-rate-hike-a-loud-warning-shot-for-modinomics/)
 ---
 
 ## 🇨🇳 China
-- **Hong Kong boekt 15e kwartaal op rij economische groei** De economie van **Hong Kong** groeide in het derde kwartaal met **5,2%** op jaarbasis, het **15e achtereenvolgende kwartaal** van expansie. De detailhandelsomzet steeg **6,4%** in september, deels gedreven door AI-gerelateerde vraag naar chips. Ondertussen zette Beijing de yuan-koers lager nadat de offshore-yuan onder **6,65 per dollar** zakte, en worstelen **kleinere Chinese autofabrikanten** met toenemende concurrentiedruk. (SCMP, november 2026, https://scmp.com/news/hong-kong/hong-kong-economy/article/3373121/hong-kong-records-15th-straight-quarter-growth-gdp-rises-52)
+- **VS en China verlagen tarieven op $30 miljard aan import na Trump-Xi-top** Na een top tussen **Trump** en **Xi Jinping** zijn de VS en China overeengekomen wederzijds tarieven te verlagen op circa **$30 miljard** aan import. Analisten noemen het bestand "fragiel". Tegelijk daalde de Chinese bevolking met **3,39 miljoen**, de grootste daling sinds 2022, en kelderden de winsten in de auto-industrie met **68%** in september. (SCMP, november 2026, https://www.scmp.com/economy)
 ---
 
 ## 🇯🇵 Japan
-- **Japan overweegt verdubbeling defensiebudget tot $508 miljard over vijf jaar** De Japanse regering bespreekt een verhoging van de defensie-uitgaven naar **¥70-80 biljoen** ($457-508 miljard) voor de periode vanaf april 2027, bijna het dubbele van het huidige vijfjarenplan van **¥43 biljoen**. Tegelijkertijd lanceerde Japan op 2 november een nieuw **nationaal rampenbeheersagentschap** (naar Amerikaans FEMA-model) rechtstreeks onder het kabinet van premier **Sanae Takaichi**. Het defensiebudget voor 2026 bedraagt al een record van **¥9,04 biljoen**. (Japan Times, 3 november 2026, https://www.japantimes.co.jp/news/2026/11/03/japan/japan-defense-spending-hike-focus/)
+- **Nikkei daalt 4,8% na Amerikaanse midterms; Democratische overwinning schokt markten** De **Nikkei 225** verloor tot **4,8%** nadat de Democraten het Congres overnamen; chip- en AI-aandelen werden het hardst geraakt. Japanse handelshuizen waarschuwen voor meer volatiliteit in energie, valuta en investeringen. De **Bank of Japan** houdt de rente op **1,25%** — het hoogste niveau sinds 1995 — terwijl de kerninflatie in Tokyo **2,6%** bedroeg in oktober. (Japan Times, 4 november 2026, https://www.japantimes.co.jp/business/2026/11/04/markets/japan-stocks-sink/)
 ---
 
----
+## 📊 Marktoverzicht (4 november 2026)
 
-## Marktoverzicht
+| Instrument | Koers | Richting |
+|---|---|---|
+| Bitcoin (BTC) | ~$78.200 | ↑ +1,4% |
+| Ethereum (ETH) | ~$2.330 | ↑ +3,0% |
+| Goud (spot) | ~$3.946 | ↑ +0,4% |
+| Brent crude | ~$103,0/vat | ↓ -0,4% |
+| EUR/USD | 1,1190 | ↓ |
+| S&P 500 | 7.569 | ↑ +0,4% |
+| AEX | 1.131 | ↓ -0,3% |
+| DAX | 25.865 | ↓ -0,4% |
+| Nikkei 225 | ~60.128 | ↓↓ -4,7% |
 
-| Instrument     | Koers            | Bron / datum         |
-|----------------|------------------|----------------------|
-| **Bitcoin**    | $76.995          | Fortune, 3 nov       |
-| **Ethereum**   | $2.264           | Fortune, 3 nov       |
-| **Goud**       | $3.948 /oz       | Fortune, 3 nov       |
-| **Brent olie** | $104,72 /vat    | Forbes, 3 nov        |
-| **EUR/USD**    | 1,1176           | Trading Economics, 3 nov |
-| **S&P 500**    | 7.580 (−1,82%)  | Slot 30 okt          |
-| **AEX**        | 1.134 (−0,68%)  | Slot 30 okt          |
-| **DAX**        | ~25.591          | Slot 27 okt          |
-| **Nikkei 225** | 63.290 (−2,12%) | Slot 30 okt          |
-
-Aandelenbeurzen sloten de week af met brede verliezen; de Nikkei leidde de dalingen. Goud herstelde van een dip onder $3.900 na een maand van forse correctie (all-time high $5.608 in januari). Brent olie zakte onder $105 door afnemende spanningen VS-Iran. Bitcoin blijft ver onder zijn top van $126.200 en beweegt in een zijwaarts kanaal rond $77.000.
+*Indicatieve koersen op basis van meest recente bronnen; intraday-afwijkingen mogelijk.*
 
 ---
 
-## De Grote Lijnen
+## 🔗 De Grote Lijnen
 
-De rode draad van vandaag is **begrotingscrisis als Europees fenomeen**: zowel België (5% tekort, dreigend ontslag premier), Frankrijk (54 miljard aan bezuinigingen, studentenprotesten) als Nederland (kabinet-Jetten geeft concessies om oppositie over de streep te trekken) worstelen met de vraag hoe de overheidsfinanciën op orde te krijgen zonder de economie te verstikken. Duitsland kiest een tegenovergesteld pad met een half biljoen aan investeringen, maar ziet de groei toch terugvallen naar 0,5%. Geopolitiek verschuift de aandacht naar Abu Dhabi, waar Rusland, Oekraïne en de VS volgende week aan tafel gaan — het is de eerste trilaterale ontmoeting in maanden, en de uitkomst ervan zal de energiemarkten direct raken. Ondertussen stemmen Amerikanen vandaag bij de midterms, waar inflatie en olieprijzen de boventoon voeren. In Azië valt op dat India zich positioneert als snelstgroeiende grote economie terwijl Japan zijn defensiebudget verdubbelt — een teken dat de regio zich voorbereidt op een langdurig tijdperk van geopolitieke onzekerheid.
+De rode draad van vandaag is **politieke onzekerheid die financiële markten raakt op mondiaal niveau**. De verpletterende Democratische overwinning bij de Amerikaanse midterms zorgde voor een schokgolf op Aziatische beurzen — de Nikkei verloor bijna 5% — terwijl Europese markten relatief standhielden. Tegelijkertijd worstelen zowel België als Frankrijk met begrotingscrisissen die de eurozone onder druk zetten: Den Haag, Brussel én Parijs zoeken alle drie naar politieke meerderheden voor pijnlijke bezuinigingen.
 
----
-*Samengesteld op $(date '+%Y-%m-%d %H:%M UTC')*
+De hoge olieprijs (boven $100/vat) blijft als een schaduw boven de wereldeconomie hangen en voedt inflatie van Londen tot Mumbai; de RBI en de Bank of Japan houden hun rente op meerjarige pieken. Het fragiele handelsbestand tussen Washington en Peking biedt weinig verlichting, temeer omdat de Democratische Congresoverwinning het pad naar verdere tariefonderhandelingen onzekerder maakt. Goud flirt met de $4.000 als ultieme graadmeter van onrust, terwijl crypto achterblijft bij zijn vorige toppen — beleggers zoeken veilige havens, niet speculatie.
