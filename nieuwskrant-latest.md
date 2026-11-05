@@ -1,70 +1,70 @@
 # MIJN NIEUWSKRANT
-### Woensdag 4 november 2026
+### Donderdag 5 november 2026
 ---
-## 🇧🇪 België
-- **Belgische regeringscrisis: begrotingsonderhandelingen geklapt** Premier **Bart De Wever** heeft zijn ontslag aangeboden aan Koning Filip nadat de begrotingsgesprekken over **€10 miljard** aan bezuinigingen zijn mislukt. **Vooruit** eiste **€1,5 miljard** extra belasting voor de rijkste Belgen, terwijl **N-VA** en **MR** dat weigerden. Zonder akkoord dreigen voorlopige twaalfden voor 2027. (Brussels Signal, 4 november 2026, https://brusselssignal.eu/2026/11/belgian-government-faces-collapse-as-budget-talks-break-down/)
+## 🇧🇪 Belgie
+- **Regeringscrisis: premier De Wever biedt ontslag aan bij Koning Filip** Na een vastgelopen begrotingsdispuut heeft premier **Bart De Wever** zijn ontslag aangeboden. Koning Filip is deze week begonnen met consultaties met partijleiders om een uitweg te vinden. Ondertussen bereikte de **Bel-20-index** voor het eerst de grens van **6.000 punten**. (VRT NWS, 5 november 2026, https://www.vrt.be/vrtnws/en/)
 ---
 
 ## 🇳🇱 Nederland
-- **Minderheidskabinet-Jetten beëdigd na val coalitie-Schoof** Na het vertrek van **Geert Wilders' PVV** uit de coalitie in juni 2025 en maandenlange formatie is een nieuw minderheidskabinet onder centristische premier **Rob Jetten** aangetreden. Het kabinet zoekt steun per dossier in een sterk versnipperde Tweede Kamer. (CNN, november 2026, https://www.cnn.com/2025/06/03/europe/netherlands-government-collapse-geert-wilders-intl)
+- **KLM schrapt 5.000 banen, 'voortbestaan geen vanzelfsprekendheid'** Luchtvaartmaatschappij **KLM** schrapt bijna **15%** van haar personeel, circa **5.000 banen**. CEO Marjan Rintel waarschuwt dat het voortbestaan van de maatschappij niet vanzelfsprekend is. Vakbonden **CNV** en **FNV** maken zich grote zorgen; **De Unie** is opgelucht dat gedwongen ontslagen voorlopig uitblijven. (NOS, 5 november 2026, https://nos.nl/artikel/2638103-klm-schrapt-5000-banen-voortbestaan-is-geen-vanzelfsprekendheid)
 ---
 
 ## 🇹🇷 Turkije
-- **AKP herstelt zich naar eerste plek in peilingen** Een **MetroPOLL**-peiling van oktober zet de **AK-Partij** op **31,9%**, boven de Nieuwe Partij (**25%**). President **Erdoğan** bezoekt Zuid-Korea met als doel een handelsvolume van **$15 miljard**; adviseur **Mehmet Uçum** noemt **16 april 2028** als mogelijke datum voor vervroegde verkiezingen. (Daily Sabah, november 2026, https://www.dailysabah.com/politics/elections/turkiyes-ruling-ak-party-rebounds-to-first-place-in-october-poll)
+- **Turkije verwerpt EU-uitbreidingsrapport 2026 als 'bevooroordeeld en oneerlijk'** Ankara heeft het jaarlijkse voortgangsrapport van de Europese Commissie over het EU-toetredingsproces afgewezen. Het rapport uitte kritiek op **democratie, mensenrechten en de rechtsstaat**. Minister van Buitenlandse Zaken **Hakan Fidan** noemde de bevindingen eenzijdig. (Hurriyet Daily News, 4 november 2026, https://hurriyetdailynews.com/turkiye-rejects-eus-2026-report-as-biased-unfair-229055)
 ---
 
 ## 🇫🇷 Frankrijk
-- **BBP krimpt, inflatie stijgt: "Frankrijk koerst op een muur af"** Het Franse **BBP** daalde **0,1%** in het derde kwartaal en de inflatie steeg naar **3,4%** op jaarbasis in oktober. Minister van Financiën **Roland Lescure** waarschuwt dat het land "op een muur afkoerst" als het parlement de begroting met **€43 miljard** aan bezuinigingen niet goedkeurt. Op 31 oktober demonstreerden naar schatting **320.000 mensen** tegen de kosten van levensonderhoud. (France 24, 30 oktober 2026, https://www.france24.com/en/business/20261030-french-economy-headed-for-a-wall-as-gdp-shrinks-finance-minister-warns)
+- **Massale stakingen: tot 700.000 betogers verwacht terwijl vakbonden en studenten de straat opgaan** Frankrijk maakt zich op voor een grote stakingsdag: autoriteiten verwachten **500.000 tot 700.000 demonstranten** in het hele land, waarvan tot **80.000 in Parijs**. Minister van Binnenlandse Zaken **Laurent Nunez** zet **70.000 agenten** in. De protesten richten zich tegen de bezuinigingsbegroting 2027 en stijgende kosten van levensonderhoud. (France24, 5 november 2026, https://www.france24.com/en/live-news/20261105-france-braces-for-demonstrations-as-trade-unions-strike)
 ---
 
 ## 🇩🇪 Duitsland
-- **Duitse economie groeit sterker dan verwacht ondanks tegenwind** De economische groei in het derde kwartaal overtrof verwachtingen, ondanks lage Rijnpeilen, zwakkere export en hoge energieprijzen. De werkloosheid daalde licht naar **6,3%**. Kanselier **Friedrich Merz** is op reis in Azië en promoot een Pacifisch vrijhandelsakkoord om minder afhankelijk te worden van **China**. (Handelsblatt, november 2026, https://www.handelsblatt.com/themen/deutschland)
+- **CDU onder druk: verkiezingsnederlagen en belastingconflict verzwakken kanselier Merz** Binnen de **CDU** groeit de onvrede na **vernederende regionale verkiezingsnederlagen** en dalende peilingen. De partij blokkeert belastingwetten van minister van Financien **Lars Klingbeil** (SPD), waardoor onder meer een geplande plasticbelasting voor 2027 op de tocht staat. De Duitse economie groeide ondanks tegenvallende exporten en hoge energieprijzen sterker dan verwacht in Q3. (Handelsblatt, november 2026, https://www.handelsblatt.com/politik/deutschland/)
 ---
 
 ## 🇷🇺 Rusland
-- **VS-bemiddelde vredesgesprekken over Oekraïne hervat in Abu Dhabi** Volgens The Moscow Times worden volgende week in **Abu Dhabi** door de VS bemiddelde vredesgesprekken over Oekraïne hervat. Ondertussen nam het Kremlin de activa van **Nestlé** en **Auchan** in beslag. Rusland verhoogde op 4 november de invoertarieven op sterke drank uit "onvriendelijke" landen. De begroting voor 2027 voorziet in een tekort van **5,5 biljoen roebel** ($66 mrd). (The Moscow Times, november 2026, https://www.themoscowtimes.com/)
+- **Regionale begrotingsnood: massale bezuinigingen en ontslagen treffen Russische burgers** Russische regio's snijden fors in sociale uitgaven door exploderende begrotingstekorten. **Nizjni Novgorod** begroot een tekort van **31,1 miljard roebel** (ca. $385 mln) voor 2027 en plant **15% personeelsreductie** bij de overheid. Ook **Krasnojarsk** kondigt vergelijkbare ontslagen aan. De vraag is of dit tot protest leidt. (The Moscow Times, 5 november 2026, https://www.themoscowtimes.com/2026/11/05/regions-calling-budget-cuts-are-hitting-ordinary-russians-hard-will-they-protest-a94111)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Burnham volgt Starmer op als premier; inflatie stijgt naar 3,5%** **Andy Burnham** is in juli 2026 **Keir Starmer** opgevolgd als premier. De Britse **CPI** bereikte in september **3,5%**, boven verwachtingen, en de kerninflatie steeg naar **2,8%**. De olieprijs boven **$100 per vat** drukt op het consumentenvertrouwen, dat **14 punten** daalde naar **-36**. (UK Finance, november 2026, https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-november-2026)
+- **Pond op hoogste niveau sinds Brexit-referendum; Bank of England verhoogt naar verwachting de rente** Het Britse pond heeft zijn **hoogste handelsgewogen niveau sinds het Brexit-referendum van 2016** bereikt, gedreven door sterker dan verwachte groei. De **Bank of England** zal naar verwachting donderdag 5 november de rente verhogen, de **eerste verhoging in meer dan drie jaar**. De Britse economie presteerde in 2026 beter dan eerdere ramingen. (The Daily Britain, 5 november 2026, https://thedailybritain.co.uk/pound-highest-level-since-brexit-referendum-2026/)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Democraten winnen Huis én Senaat bij tussentijdse verkiezingen** De **Democraten** hebben bij de midterms van 3 november beide kamers van het Congres veroverd. Ze wonnen **218+ zetels** in het Huis; **Hakeem Jeffries** wordt verwacht als nieuwe Speaker. In de Senaat draaiden ze **7 zetels** om, waaronder Ohio (oud-senator **Sherrod Brown**) en Maine (tegen **Susan Collins**). Media beschrijven het als een afwijzing van president **Trump**. (Forbes, 4 november 2026, https://www.forbes.com/sites/saradorn/2026/11/04/midterm-election-results-live-updates-democrats-sweep-house-and-senate-in-stunning-rout/)
+- **'Blauwe tsunami': Democraten winnen Congres en veroveren Texas bij tussentijdse verkiezingen** De Democraten boekten een historische overwinning bij de midterms: ze veroverden het **volledige Congres** en wonnen gouverneurszetels in **Texas** en **Kansas**. In Texas versloeg de relatief onbekende **Gina Hinojosa** de drievoudig gouverneur **Greg Abbott**. Exit polls toonden dat onafhankelijke kiezers met **56% tegen 39%** voor de Democraten kozen, gedreven door woede over **inflatie, voedsel- en huisvestingskosten**. (Bloomberg, 5 november 2026, https://www.bloomberg.com/news/articles/2026-11-05/midterm-election-results-what-they-mean-for-your-money-and-the-economy)
 ---
 
 ## 🇮🇳 India
-- **RBI verhoogt rente naar 5,5% vanwege inflatie en zwakke roepie** De **Reserve Bank of India** verhoogde in oktober unaniem de repo-rente met **25 basispunten** naar **5,5%** — de eerste verhoging sinds februari 2023. De **roepie** daalde naar recorddieptepunten en de inflatieprognose voor heel FY27 is opwaarts bijgesteld naar **5,2%**. De reële BBP-groei in Q1 bedroeg **7,8%**, de jaarprognose is **7,1%**. (Asia Times, oktober 2026, https://asiatimes.com/2026/10/indias-rate-hike-a-loud-warning-shot-for-modinomics/)
+- **India en VS ronden handelsakkoord grotendeels af; vertrouwen bedrijfsleven herstelt voorzichtig** Minister van Handel **Piyush Goyal** verklaarde dat India en de VS de meeste onderhandelingen over een **bilateraal handelsverdrag** hebben afgerond. Een NCAER-enquete toont dat het **ondernemersvertrouwen** herstelt, maar onder het niveau van vorig jaar blijft; de werkgelegenheidsvooruitzichten blijven somber. De regering rapporteerde een **bbp-groei van 7,7%** in 2025-26. (ThePrint, oktober-november 2026, https://theprint.in/category/economy/)
 ---
 
 ## 🇨🇳 China
-- **VS en China verlagen tarieven op $30 miljard aan import na Trump-Xi-top** Na een top tussen **Trump** en **Xi Jinping** zijn de VS en China overeengekomen wederzijds tarieven te verlagen op circa **$30 miljard** aan import. Analisten noemen het bestand "fragiel". Tegelijk daalde de Chinese bevolking met **3,39 miljoen**, de grootste daling sinds 2022, en kelderden de winsten in de auto-industrie met **68%** in september. (SCMP, november 2026, https://www.scmp.com/economy)
+- **Chinese beurzen stijgen na Amerikaanse midterms en overheidssteun** De **CSI 300-index** steeg **0,4%** naar **4.115,93** en bouwde voort op een winst van **2,3%** de dag ervoor. Analisten koppelen het herstel aan **staatsingrijpen** en de uitslag van de Amerikaanse tussentijdse verkiezingen. Tegelijk waarschuwen experts dat Democratische Congreswinst strengere **tech-exportbeperkingen** naar China kan versnellen, wat Pekings **zelfredzaamheidsstrategie** voor chips versterkt. (SCMP, 5 november 2026, https://scmp.com/business/china-business/article/3373336/china-stocks-extend-rebound-state-support-us-midterm-results)
 ---
 
 ## 🇯🇵 Japan
-- **Nikkei daalt 4,8% na Amerikaanse midterms; Democratische overwinning schokt markten** De **Nikkei 225** verloor tot **4,8%** nadat de Democraten het Congres overnamen; chip- en AI-aandelen werden het hardst geraakt. Japanse handelshuizen waarschuwen voor meer volatiliteit in energie, valuta en investeringen. De **Bank of Japan** houdt de rente op **1,25%** — het hoogste niveau sinds 1995 — terwijl de kerninflatie in Tokyo **2,6%** bedroeg in oktober. (Japan Times, 4 november 2026, https://www.japantimes.co.jp/business/2026/11/04/markets/japan-stocks-sink/)
+- **Nikkei daalt tot 4,8% na Amerikaanse midterms; chipfondsen verliezen meer dan 13%** De **Nikkei 225** kelderde met **4,8%** nadat de Democratische winst in de VS vrees aanwakkerde voor strengere regulering van datacenters en chipexport. **Chip- en AI-gerelateerde aandelen** verloren meer dan **13%**. Premier **Sanae Takaichi** kondigde aan dat **elektriciteits- en gassubsidies** in december worden hervat om huishoudens te ontlasten. (Japan Times, 4-5 november 2026, https://japantimes.co.jp/business/2026/11/04/markets/japan-stocks-sink)
 ---
 
-## 📊 Marktoverzicht (4 november 2026)
+## Marktoverzicht
 
-| Instrument | Koers | Richting |
+| Instrument | Koers | Verandering |
 |---|---|---|
-| Bitcoin (BTC) | ~$78.200 | ↑ +1,4% |
-| Ethereum (ETH) | ~$2.330 | ↑ +3,0% |
-| Goud (spot) | ~$3.946 | ↑ +0,4% |
-| Brent crude | ~$103,0/vat | ↓ -0,4% |
-| EUR/USD | 1,1190 | ↓ |
-| S&P 500 | 7.569 | ↑ +0,4% |
-| AEX | 1.131 | ↓ -0,3% |
-| DAX | 25.865 | ↓ -0,4% |
-| Nikkei 225 | ~60.128 | ↓↓ -4,7% |
+| Bitcoin (BTC) | $68.006 | -2,0% |
+| Ethereum (ETH) | ~$3.634 | n.b. |
+| Goud | $4.120/oz | +1,5% |
+| Brent olie | $96,30/vat | +1,8% |
+| EUR/USD | 1,1254 | stabiel |
+| S&P 500 | 7.616 | -0,95% |
+| AEX | ~1.141 | n.b. |
+| DAX | 26.611 | +0,66% |
+| Nikkei 225 | — | -4,8% |
 
-*Indicatieve koersen op basis van meest recente bronnen; intraday-afwijkingen mogelijk.*
+*Bronnen: Yahoo Finance, Trading Economics, CoinGape, Investing.com. Koersen zijn indicatief en kunnen afwijken van slotkoersen.*
 
 ---
 
-## 🔗 De Grote Lijnen
+## De Grote Lijnen
 
-De rode draad van vandaag is **politieke onzekerheid die financiële markten raakt op mondiaal niveau**. De verpletterende Democratische overwinning bij de Amerikaanse midterms zorgde voor een schokgolf op Aziatische beurzen — de Nikkei verloor bijna 5% — terwijl Europese markten relatief standhielden. Tegelijkertijd worstelen zowel België als Frankrijk met begrotingscrisissen die de eurozone onder druk zetten: Den Haag, Brussel én Parijs zoeken alle drie naar politieke meerderheden voor pijnlijke bezuinigingen.
+De Amerikaanse tussentijdse verkiezingen domineren het wereldtoneel: de 'blauwe tsunami' stuurt schokgolven door de markten, met een Nikkei-crash van bijna 5% door angst voor strengere chipexportregels, terwijl Chinese beurzen juist stijgen op hoop dat Democratisch beleid voorspelbaarder wordt. Europa worstelt met een eigen begrotingscrisis — Frankrijk ziet honderdduizenden de straat op gaan tegen bezuinigingen, in Belgie valt de regering over het begrotingsdispuut, en in Duitsland blokkeert de CDU fiscale hervormingen. De banenschrapperij bij KLM en de massaontslagen in Russische regio's onderstrepen dat de kosten van levensonderhoud en overheidstekorten burgers overal raken. Tegelijkertijd laat het Britse pond zien dat vertrouwen fragiel maar niet onmogelijk is: het staat op het hoogste punt sinds het Brexit-referendum, gedragen door onverwacht sterke groei. De goudprijs boven $4.100 en Brent rond $96 weerspiegelen de geopolitieke onzekerheid, van mogelijke tech-sancties tegen China tot de machtswissel in Washington.
 
-De hoge olieprijs (boven $100/vat) blijft als een schaduw boven de wereldeconomie hangen en voedt inflatie van Londen tot Mumbai; de RBI en de Bank of Japan houden hun rente op meerjarige pieken. Het fragiele handelsbestand tussen Washington en Peking biedt weinig verlichting, temeer omdat de Democratische Congresoverwinning het pad naar verdere tariefonderhandelingen onzekerder maakt. Goud flirt met de $4.000 als ultieme graadmeter van onrust, terwijl crypto achterblijft bij zijn vorige toppen — beleggers zoeken veilige havens, niet speculatie.
+---
