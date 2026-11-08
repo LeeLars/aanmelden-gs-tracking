@@ -1,79 +1,79 @@
 # MIJN NIEUWSKRANT
-### Zaterdag 7 november 2026
+### Zondag 8 november 2026
 ---
+
 ## 🇧🇪 België
-- **Begrotingscrisis: koning houdt ontslag De Wever in beraad** Premier **Bart De Wever** bood op 2 november zijn ontslag aan nadat nachtelijke onderhandelingen over de begroting 2027 vastliepen op **€10 miljard** aan besparingen. Koning Filip houdt het ontslag voorlopig aan; vakbonden kondigden een nieuwe nationale staking aan voor **23 november**. (EUNews/Latin Times, 2 nov 2026, https://www.eunews.it/en/2026/11/02/belgian-government-in-turmoil-over-budget-king-puts-prime-minister-de-wevers-resignation-on-hold/)
+- **Premier De Wever biedt ontslag aan na mislukken begrotingsonderhandelingen** Bart De Wever heeft op **2 november** zijn ontslag aangeboden aan Koning Filip nadat de vijfpartijencoalitie (N-VA, Vooruit, CD&V, MR, Les Engagés) geen akkoord bereikte over de **federale begroting 2027**. De breuk draait om de verdeling van besparingen: links wil dat de sterkste schouders meer dragen, rechts verzet zich. Koning Filip startte consultatieronden met partijleiders. (VRT NWS, 2 november 2026, https://www.vrt.be/vrtnws/en/2026/11/02/prime-minister-de-wever-offers-resignation-to-king-filip/)
 ---
 
 ## 🇳🇱 Nederland
-- **Minderheidscoalitie Jetten worstelt met defensiebudget** Het kabinet-**Rob Jetten** (D66-VVD-CDA, **66 zetels**) wil defensie-uitgaven wettelijk vastleggen op **3,5% bbp** — circa **€19 miljard** extra per jaar — gefinancierd door een nieuwe "vrijheidsbijdrage"-belasting en bezuinigingen op zorg en welzijn. Wilders' PVV heeft aangekondigd alle voorstellen te blokkeren. (DutchNews/NL Times, okt 2026, https://nltimes.nl/2026/01/27/d66-vvd-cda-agree-key-points-form-new-dutch-cabinet-jetten-poised-pm)
+- **Nederland draagt Klaas Knot voor als kandidaat ECB-voorzitter** De Nederlandse regering heeft DNB-president **Klaas Knot** officieel genomineerd als opvolger van **Christine Lagarde** als president van de Europese Centrale Bank. Het kabinet stuurt daarnaast zijn belastingplannen naar de Kamer zonder steun van de oppositie; een rechtse meerderheid is de enige realistische route voor goedkeuring. (FD, november 2026, https://fd.nl)
 ---
 
 ## 🇹🇷 Turkije
-- **Inflatie stijgt licht naar 29,77% in oktober** De Turkse consumentenprijzen stegen in oktober naar **29,77%** op jaarbasis, terwijl de export klom tot **$25,9 miljard** en het handelstekort kromp. Minister van Buitenlandse Zaken **Hakan Fidan** waarschuwde op het TRT World Forum dat maritieme corridors "een slagveld kunnen worden." (Daily Sabah, 7 nov 2026, https://www.dailysabah.com/business/economy/turkiyes-economic-growth-to-stay-resilient-through-2026-eu)
+- **Parlement keurt defensiepact met Saudi-Arabië en Pakistan goed** Het Turkse parlement heeft een **gezamenlijk defensieverdrag** met Saudi-Arabië en Pakistan geratificeerd, waarin een aanval op één lid wordt beschouwd als een aanval op alle drie. Tegelijk stijgt de inflatie licht naar **29,77%** in oktober en ontvangt Turkije de **COP31-klimaattop** in Antalya. (Daily Sabah, november 2026, https://www.dailysabah.com/politics)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Gele Hesjes terug: massaprotesten en stakingen tegen bezuinigingsbegroting** Op 5 november gingen volgens de vakbonden bijna **1,6 miljoen** Fransen de straat op (overheid telde **575.000**) tegen de bezuinigingsbegroting 2027 van premier **Sébastien Lecornu** (€43 miljard aan maatregelen). De staatsschuld nadert **120% bbp** en de 10-jaarsrente flirt met **5%**. (France 24, 7 nov 2026, https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience)
+- **Massastakingen tegen kosten van levensonderhoud: tot 1,6 miljoen betogers** Op **5 november** protesteerden volgens vakbonden bijna **1,6 miljoen** Fransen (overheid telde 575.000) tegen de stijgende kosten van levensonderhoud. De 10-jaars staatsrente nadert de **5%**, het begrotingstekort bedraagt **5,4%** van het BBP, en de staatsschuld stijgt naar een recordhoogte van **121,7%** in 2027. Premier Lecornu kondigde een sociaal overleg aan. (France24, 5 november 2026, https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs)
 ---
 
 ## 🇩🇪 Duitsland
-- **Ilse Aigner voorgedragen als bondspresidente; Aiwanger overleden** De CDU-top draagt **Ilse Aigner** voor als volgende Bundespräsidentin. Tegelijkertijd overleed **Hubert Aiwanger**, de Beierse vicepremier en minister van Economische Zaken (Freie Wähler). De werkloosheid passeerde de **3 miljoen** en de overheidsschuld staat op een record van bijna **€32.000 per inwoner**. (Handelsblatt, nov 2026, https://www.handelsblatt.com/themen/deutschland)
+- **Overheid neemt wapenfabrikant KNDS volledig over** De Duitse regering heeft met de eigenaarsfamilies overeenstemming bereikt over de **volledige staatsovername** van defensiebedrijf **KNDS**, producent van de Leopard-tank. Ondertussen daalde de **detailhandelsomzet** verrassend sterk en bereidt de coalitie onder kanselier **Friedrich Merz** de begroting 2027 en pensioenhervorming voor. (Handelsblatt, 5 november 2026, https://www.handelsblatt.com/politik/deutschland/ruestung-panzerdeal-steht-einigung-auf-staatsuebernahme-von-knds/100267514.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Regionale begrotingen onder druk: bezuinigingen raken gewone Russen** Regionale overheden snijden in sociale uitgaven en basisvoorzieningen vanwege oplopende tekorten; **Nizjni Novgorod** plant **15% personeelsreductie** in 2027. Het Kremlin noemt de gesprekken met Trump over Oekraïne "inhoudelijk" en zegt open te staan voor een diplomatieke oplossing. (The Moscow Times, 5 nov 2026, https://www.themoscowtimes.com/2026/11/05/regions-calling-budget-cuts-are-hitting-ordinary-russians-hard-will-they-protest-a94111)
+- **Kremlin: telefoongesprek Poetin-Trump ging vooral over Oekraïne** Woordvoerder Peskov bevestigde dat het recente telefoongesprek tussen **Vladimir Poetin** en **Donald Trump** grotendeels ging over een mogelijke **regeling voor Oekraïne**. Rusland hief gedeeltelijk het exportverbod op diesel op en verwacht in november tot **500.000 ton** te exporteren. De Doema en Federatieraad plannen een **bezuiniging van 15%** op administratief personeel. (TASS/Meduza, november 2026, https://tass.com/politics/2214455)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Bank of England verhoogt rente naar 4% wegens energiecrisis** De Bank of England verhoogde op 5 november de basisrente met **0,25 procentpunt** naar **4%** — de eerste verhoging sinds augustus 2023. De MPC stemde **8-1**; de inflatie zal naar verwachting **5%** bereiken medio 2027 door de gevolgen van het Midden-Oostenconflict op energieprijzen. (Bank of England, 5 nov 2026, https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026)
+- **Minister Healey presenteert begroting; Bank of England verhoogt rente naar 4%** Kanselier **John Healey** presenteerde op 28 oktober zijn eerste begroting, met afschaffing van vaste kosten op huishoudelijke gasrekeningen en verhoging van het minimumloon. Het OBR voorspelt een groei van **1,2%** in 2026 en een inflatie van **3,1%**. De **Bank of England** verhoogde de basisrente naar **4%**, terwijl hypotheekrentes stijgen tot gemiddeld **5,97%**. (CPA/Westminster Report, november 2026, https://cpa.co.uk/uk-business-news-today-4-november-2026-economy-markets-insolvencies/)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Democraten winnen tussentijdse verkiezingen; Miller wordt stafchef** De Democraten veroverden bij de midterms de meerderheid in **beide kamers** van het Congres. President Trump benoemde **Stephen Miller** als nieuwe stafchef ter vervanging van Susie Wiles — analisten zien dit als signaal dat er geen beleidsmatigingen komen. Techfondsen zakten scherp; Wall Street noemt de dip een koopkans. (Bloomberg, 6-7 nov 2026, https://www.bloomberg.com/news/articles/2026-11-06/trump-taps-stephen-miller-to-replace-wiles-as-chief-of-staff)
+- **Democraten winnen tussentijdse verkiezingen; Wall Street verliest $3,7 biljoen** De Democraten verzekerden zich van minstens **228 zetels** in het Huis en **54 Senaatszetels**, in wat wordt gezien als een referendum over het economisch beleid van Trump. Kiezers uitten woede over de kosten van voedsel, brandstof en huisvesting. Na een aanvankelijke rally volgde een **uitverkoop van $3,7 biljoen**, deels door herziening van AI-datacenter-investeringen. (Bloomberg, 5-6 november 2026, https://www.bloomberg.com/news/articles/2026-11-06/anatomy-of-a-selloff-sudden-chain-reaction-rattles-wall-street)
 ---
 
 ## 🇮🇳 India
-- **Bbp groeit 7,8% in Q1 FY27, maar buitenlandse investeringen blijven zwak** India's reële bbp groeide met **7,8%** in april-juni 2026, maar netto buitenlandse directe investeringen bedroegen slechts **$3 miljard** in de eerste negen maanden van FY26. Premier **Modi** noemde India de snelstgroeiende economie ter wereld; analisten waarschuwen dat stijgende energiekosten door het Midden-Oostenconflict de groei kunnen drukken. (Bloomberg/ThePrint, nov 2026, https://www.bloomberg.com/news/articles/2026-10-12/modi-s-free-trade-push-could-lead-to-140-billion-gdp-gain-for-india)
+- **Massaal oppositieprotest eist ontslag verkiezingscommissaris** Duizenden aanhangers van oppositiepartijen verzamelden zich op **1 november** op Ramlila Maidan in New Delhi en eisten het ontslag van **hoofdverkiezingscommissaris Gyanesh Kumar** wegens omstreden kiezerslijst-herzieningen. Congresleider **Rahul Gandhi** beschuldigde de verkiezingscommissie van het onterecht verwijderen van stemgerechtigde kiezers. (Indian Opinion, 8 november 2026, https://indianopinion.org/today-in-india-8-november-2026/)
 ---
 
 ## 🇨🇳 China
-- **CPC waarschuwt voor "nultolerantie" bij verkiezingsfraude voor 21e partijcongres** De Communistische Partij kondigt **strenge selectieprocedures** aan voor afgevaardigden naar het 21e nationale congres, waar een grote reshuffle van het top- en militaire leiderschap wordt verwacht. Voormalig Politburolid **Ma Xingrui** staat terecht voor omkoping. Beijing uit "ernstige bezorgdheid" over nieuwe VS-sancties voor de Xi-Trump-ontmoeting in Shenzhen. (SCMP, 7 nov 2026, https://www.scmp.com/news/china/politics/article/3373658/chinas-communist-party-vows-zero-tolerance-election-meddling-ahead-key-congress)
+- **China blokkeert SoftBanks overname van ABB-roboticadivisie voor $5,4 miljard** Peking blokkeerde de **$5,4 miljard** grote overname van de roboticadivisie van **ABB** door het Japanse **SoftBank**, de tweede grote geblokkeerde deal dit jaar. Ondertussen bereidt de Communistische Partij het **21e Partijcongres** (2027) voor en nam het parlement een nieuwe **grensoverschrijdende anticorruptiewet** aan. Een topoverleg tussen **Trump en Xi** in Shenzhen staat gepland. (SCMP, november 2026, https://www.scmp.com/news/china)
 ---
 
 ## 🇯🇵 Japan
-- **Lagerhuis verlaagt btw op voedsel van 8% naar 1%** Het Japanse Lagerhuis keurde een wetsvoorstel goed om de consumptiebelasting op voedsel voor **twee jaar** te verlagen van **8% naar 1%**, ingaand april 2027. Tegelijk selecteerde de regering **28 prioriteitsgebieden** (waaronder halfgeleiders en AI) voor publiek-private investeringen van meer dan **¥370 biljoen**. De Nikkei 225 daalde tot **4,8%** na de Amerikaanse midterms. (Japan Times, 6-7 nov 2026, https://www.japantimes.co.jp/news/2026/11/06/japan/politics/consumption-tax-bill-passed-lower-house/)
+- **Lagerhuis verlaagt btw op voedsel van 8% naar 1%** Het Japanse Lagerhuis keurde een wetsvoorstel goed dat de **consumptiebelasting op voedsel** voor twee jaar verlaagt van **8% naar 1%**, een kernmaatregel van premier **Sanae Takaichi** tegen de hoge kosten van levensonderhoud. De oppositie stemde tegen. De BOJ verklaarde dat de onderliggende inflatie voor het eerst het **2%-doel** bereikte, terwijl de **Nikkei 225** tot **4,8%** daalde na de Amerikaanse tussentijdse verkiezingen. (Japan Times, 6 november 2026, https://www.japantimes.co.jp/news/2026/11/06/japan/politics/consumption-tax-bill-passed-lower-house/)
 ---
 
 ---
 
-## 📊 Marktoverzicht (7 november 2026)
+## 📊 Marktoverzicht
+*Slotkoersen vrijdag 7 november 2026*
 
-| Instrument | Koers | Richting |
+| Markt | Koers | Dagverandering |
 |---|---|---|
-| Bitcoin (BTC) | ~$75.900 | ↓ onder druk na tech-uitverkoop |
-| Ethereum (ETH) | ~$2.230 | ↓ mee omlaag met crypto-markt |
-| Goud | ~$4.050/oz | → stabiel, licht gedaald |
-| Brent olie | ~$99,90/vat | ↑ geopolitieke spanning Hormuz |
-| EUR/USD | ~1,1225 | → zijwaarts |
-| S&P 500 | ~7.354 | ↓↓ zwaarste dag sinds apr 2025 |
-| AEX | ~1.120 | ↓ -0,77% na volatiele week |
-| DAX | ~26.325 | ↓ licht lager |
-| Nikkei 225 | ~61.078 | ↓ chipfondsen onderuit |
+| 🪙 Bitcoin (BTC) | $75.900 | ~ -1% |
+| 🔷 Ethereum (ETH) | $2.235 | ~ -0,5% |
+| 🥇 Goud | $4.070/oz | -0,5% |
+| 🛢️ Brent olie | $98,32 | +0,03% |
+| 💱 EUR/USD | 1,1143 | -0,67% |
+| 🇺🇸 S&P 500 | 7.377 | +0,31% |
+| 🇳🇱 AEX | 1.120,55 | -0,77% |
+| 🇩🇪 DAX | 25.820 | -1,92% |
+| 🇯🇵 Nikkei 225 | 57.435 | -5,96% |
 
-*Koersen zijn richtinggevend; raadpleeg een live bron voor actuele standen.*
+> Dollar en rente stegen na sterker dan verwachte banengroei in de VS (+165.000). Europese en Japanse beurzen daalden fors; de Nikkei kende de zwaarste daling door zorgen over de gevolgen van de Amerikaanse tussentijdse verkiezingen voor handelsbeleid. Goud verloor terrein door een sterkere dollar.
 
 ---
 
 ## 🔗 De Grote Lijnen
 
-**Bezuinigingen als rode draad:** van België's vastgelopen begroting via Frankrijk's massaprotesten tot Duitslands recordstaatsschuld en Russische regionale tekorten — overal worstelen overheden met krimpende budgetten en groeiend maatschappelijk verzet. De begrotingscrisis is niet nationaal maar continentaal.
+Vier rode draden lopen door het wereldnieuws van deze week. **Ten eerste** worstelen democratieën aan beide kanten van de Atlantische Oceaan met politieke instabiliteit: in België bood premier De Wever zijn ontslag aan na begrotingsruzie, in Frankrijk gingen 1,6 miljoen mensen de straat op tegen de kosten van levensonderhoud, en in de VS draaiden kiezers zich massaal tegen het economische beleid van Trump — overal is de burger de rekening van inflatie en begrotingstekorten beu.
 
-**Geopolitiek drijft markten:** de stijging van Brent richting $100 door spanningen rond de Straat van Hormuz raakt direct de Britse inflatie (BoE verhoogt rente) en bedreigt India's groeiverhaal. Ondertussen voedt de Amerikaanse midterms-uitslag onzekerheid op Wall Street, met een S&P 500 die ruim 4% daalde en crypto mee de diepte in trok.
+**Ten tweede** tekent zich een verschuiving af in het mondiale veiligheidslandschap: Duitsland nationaliseert wapenfabrikant KNDS, Turkije sluit een defensiepact met Saudi-Arabië en Pakistan, en China blokkeert strategische overnames — de wedloop om militaire en technologische soevereiniteit versnelt.
 
-**Azië zoekt eigen koers:** Japan verlaagt de btw op voedsel en investeert massaal in halfgeleiders en AI, terwijl China's partijcongres een interne machtswissel voorbereidt. Beide landen proberen binnenlandse stabiliteit te waarborgen te midden van een verslechterende wereldhandel en stijgende energieprijzen.
+**Ten derde** zijn de kosten van levensonderhoud wereldwijd het dominante thema: Japan halveert de voedsel-btw van 8% naar 1%, Frankrijk kampt met massaprotesten, het VK worstelt met stijgende hypotheekrentes, en in India eisen burgers transparantie van de verkiezingscommissie — overal dwingt de burger de politiek tot actie.
 
-**Democratische druk neemt toe:** of het nu gele hesjes in Parijs zijn, vakbondsstakingen in Brussel, of Democraten die beide kamers van het Congres veroveren in Washington — burgers eisen overal een koerswijziging. De vraag is of regeringen luisteren vóór de druk onbeheersbaar wordt.
+**Ten vierde** zoeken grootmachten voorzichtig toenadering: het telefoongesprek Poetin-Trump over Oekraïne en de geplande ontmoeting Trump-Xi in Shenzhen suggereren dat diplomatieke kanalen openblijven, ook al verharden de economische en militaire posities.
 
----
-*Gegenereerd op $(date '+%Y-%m-%d %H:%M UTC')*
