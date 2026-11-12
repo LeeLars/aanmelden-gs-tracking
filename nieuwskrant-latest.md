@@ -1,73 +1,73 @@
 # MIJN NIEUWSKRANT
-### Woensdag 11 november 2026
+### Donderdag 12 november 2026
 ---
-# Nieuwsoverzicht 2026-11-11
+# Nieuwsoverzicht 2026-11-12
 
-## :belgium: Belgie
-- **Begrotingscrisis: De Wever biedt ontslag aan na mislukking coalitieoverleg** Premier **Bart De Wever** bood op 2 november het ontslag van zijn regering aan nadat de coalitie er niet in slaagde een akkoord te bereiken over de federale begroting 2027. Koning **Filip** accepteerde het ontslag niet en vroeg de partijen verder te onderhandelen; De Wever bevestigde een **noodbegroting** (voorlopige twaalfden) voor 2027 en noemde het resultaat een "verschrikkelijk falen". Het begrotingstekort bedraagt meer dan **5% van het bbp**, met een besparingsdoel van **10 miljard euro** tegen 2029. (Bloomberg, 6 november 2026, https://www.bloomberg.com/news/articles/2026-11-06/belgium-avoids-government-collapse-as-budget-talks-resume)
----
-
-## :netherlands: Nederland
-- **Jetten slaat COP31 over om steun voor belastingplan te zoeken** Premier **Rob Jetten** gaat niet naar de klimaattop in Antalya om zich te richten op parlementaire steun voor de begroting 2027. De minderheidscoalitie mist **10 zetels** voor een meerderheid en biedt **350 miljoen euro** aan koopkrachtmaatregelen om oppositiepartijen over de streep te trekken. De omstreden "tulpenbelasting" is geschrapt en er is een compromis bereikt over de **box 3**-hervorming. (NL Times, 9 november 2026, https://nltimes.nl/2026/11/09/dutch-pm-jetten-skip-climate-summit-turkiye-focus-getting-tax-plan-support)
+## 🇧🇪 België
+- **Begrotingscrisis: Koning Filip weigert ontslag De Wever en eist hervatting onderhandelingen** Premier **Bart De Wever** (N-VA) bood op 2 november zijn ontslag aan nadat de vijfpartijencoalitie er niet in slaagde een akkoord te bereiken over **€10 miljard** aan besparingen voor de begroting 2027. Koning Filip weigerde het ontslag en gaf De Wever opdracht de gesprekken te hervatten; hij moet uiterlijk **16 november** verslag uitbrengen. Het hoofdgeschil draait om een **btw-verhoging** die MR-voorzitter Georges-Louis Bouchez blokkeert. (VRT NWS, 2-8 nov 2026, https://www.vrt.be/vrtnws/en/2026/11/02/king-filip-considers-pm-bart-de-wevers-resignation-commences-co/)
 ---
 
-## :tr: Turkije
-- **Erdogan: nieuwe olievondsten in Gabar-regio met geschatte 135 miljoen vaten** President **Erdogan** maakte twee nieuwe olievondsten bekend in de **Gabar-regio**, met een geschatte **135 miljoen vaten** aan reserves. De regio produceert momenteel **84.000 vaten per dag** uit 184 putten. Tegelijkertijd stijgen de exportcijfers: in oktober bereikte de Turkse export **25,9 miljard dollar**, terwijl het handelstekort kromp. (Daily Sabah / Hurriyet Daily News, november 2026, https://hurriyetdailynews.com/turkiye-announces-new-gabar-oil-finds-plans-output-rise-229222)
+## 🇳🇱 Nederland
+- **Belastingplan splijt coalitie: VVD dreigt met breuk na deal D66-CDA met oppositie** Coalitiepartners **D66 en CDA** sloten een deal met oppositiepartijen **Pro en Volt** over het Belastingplan 2027, zonder instemming van de **VVD**. Het plan verhoogt belastingen op vermogen en verlaagt die op arbeid. VVD-leider **Yesilgöz** eist een 'fundamentele reset' van de samenwerking, maar is nog niet weggelopen. Het kabinet-Jetten staat onder hoogspanning. (NOS, 12 nov 2026, https://nos.nl/artikel/2639001-d66-en-cda-sluiten-deal-met-pro-en-volt-rond-belastingplan-nog-geen-reactie-vvd)
 ---
 
-## :fr: Frankrijk
-- **Massale stakingen tegen kosten van levensonderhoud: tot 1,6 miljoen betogers** Frankrijk wordt al weken getroffen door stakingen en protesten over de kosten van levensonderhoud. Op **5 november** claimden vakbonden **1,6 miljoen** deelnemers, het ministerie telde er **575.000**. Premier **Sebastien Lecornu** trok de geplande minimumloonverhoging van **1,6%** naar voren naar december, maar vakbonden eisen minstens **100 euro** extra. De economie kromp in Q3 en de inflatie versnelde naar **3,4%** op jaarbasis. (France 24, 9 november 2026, https://www.france24.com/en/france/20261109-french-pm-lecornu-announces-increase-minimum-wage-bid-to-calm-protests)
+## 🇹🇷 Turkije
+- **COP31-gastland Turkije tekent $5,1 miljard aan deals met ontwikkelingsbanken** Op de vierde dag van de **COP31**-klimaattop in Antalya tekende Turkije **10 financieringsovereenkomsten** ter waarde van **$5,1 miljard** (256,30 miljard TL) met vier multilaterale ontwikkelingsbanken, aldus minister van Financiën **Mehmet Şimşek**. De inflatie daalde in oktober onder de **30%** voor het eerst in bijna vijf jaar. (Daily Sabah, nov 2026, https://www.dailysabah.com/business/economy/cop31-host-turkiye-inks-51b-in-deals-with-4-development-banks)
 ---
 
-## :de: Duitsland
-- **Merz en Nvidia-CEO Huang kondigen samenwerking industriele AI aan op investeringstop** Bondskanselier **Friedrich Merz** presenteerde op de eerste Duitse investeringstop in Berlijn een samenwerking met **Nvidia-CEO Jensen Huang** op het gebied van industriele AI. Duitsland sluit zich samen met Frankrijk, Finland, Polen en Canada aan bij een internationale AI-alliantie. Ondertussen verlaagde de DIHK de groeiprognose voor 2026 naar **0,3%** en noemt Handelsblatt het Duitse begrotingsbeleid "een nieuw dieptepunt". (Handelsblatt, 11 november 2026, https://www.handelsblatt.com/politik/deutschland/wirtschaftspolitik-wie-der-erste-deutsche-investitionsgipfel-ablaufen-wird/100262607.html)
+## 🇫🇷 Frankrijk
+- **Moody's verlaagt groeiprognose Frankrijk tot 0,2%; massale protesten tegen kosten levensonderhoud** Kredietbeoordelaar **Moody's** verlaagde de groeivoorspelling voor 2026 naar **0,2%**, ruim onder het overheidsdoel van 0,5%. De staatsschuld bedraagt circa **120% van het bbp**. Op 5 november demonstreerden tot **1,6 miljoen Fransen** tegen de stijgende kosten; premier **Lecornu** vervroegde een minimumloonverhoging van **1,6%** naar december, maar vakbonden noemen dit onvoldoende. (France24, 11 nov 2026, https://www.france24.com/en/live-news/20261111-france-2026-growth-forecast-cut-to-0-2-by-moody-s)
 ---
 
-## :ru: Rusland
-- **Driepartijengesprekken Rusland-VS-Oekraine in Abu Dhabi over veiligheidsgaranties** In **Abu Dhabi** vond de tweede dag plaats van trilaterale onderhandelingen tussen Rusland, de VS en Oekraine over veiligheidsgaranties. **Putin** ontvangt regelmatig updates van de Russische delegatie. Parallel werd een **grootschalige gevangenenruil** overeengekomen, aldus de Russische hoofdonderhandelaar. Het Kremlin meldde ook dat Putin openstaat voor contacten met Europese leiders, waaronder bondskanselier **Merz**. (TASS, 11 november 2026, https://tass.com/politics/2216129)
+## 🇩🇪 Duitsland
+- **DAX boven 27.000 punten; Bundesbank-president Nagel eist structurele hervormingen** De **DAX** steeg voor het eerst boven de **27.000 punten**, gesteund door dalende olieprijzen en hoop op de-escalatie rond Iran. Tegelijkertijd waarschuwde **Bundesbank-president Joachim Nagel** dat het herstel geen reden is om te rusten en drong hij aan op **structurele hervormingen**. De Raad van Economische Adviseurs waarschuwt voor een tekort van circa **€300 miljard tot 2040**. (Handelsblatt, nov 2026, https://handelsblatt.com/politik/deutschland/leitindex-optimismus-an-der-boerse-dax-erstmals-ueber-27000-punkten/100269391.html)
 ---
 
-## :gb: Verenigd Koninkrijk
-- **Politieke onrust: Starmer afgetreden, Burnham volgt op als premier** Premier **Keir Starmer** trad af nadat hij het vertrouwen van Labour-parlementariers verloor. **Andy Burnham** wordt genoemd als opvolger, maar details over het exacte tijdstip en de beleidskoers zijn schaars. Investeringsbank Panmure Liberum concludeerde dat het VK er economisch "niet beter aan toe is" dan bij het aantreden van Labour in 2024. De economie groeide **0,6%** in Q1 2026, maar de vooruitzichten blijven zwak. (City AM / Streamline Feed, november 2026, https://www.cityam.com/top-investment-bank-starmer-and-reeves-left-uk-no-better-off-than-they-found-it/)
+## 🇷🇺 Rusland
+- **VS-gezanten Kushner en Witkoff in Kremlin voor overleg met Poetin over Oekraïne** Na twee dagen trilaterale gesprekken in Abu Dhabi arriveerden **Jared Kushner** en **Steve Witkoff** op 12 november in het Kremlin voor hun **10e persoonlijke ontmoeting** met president **Poetin**. Territoriale concessies in de **Donbas** blijven het kerngeschilpunt; Rusland weigerde in Abu Dhabi over een staakt-het-vuren te spreken. Een nieuwe grote **gevangenenuitwisseling** werd wel aangekondigd. (The Moscow Times, 12 nov 2026, https://www.themoscowtimes.com/2026/11/12/us-envoys-arrive-at-kremlin-for-talks-with-putin-on-ukraine-a94236)
 ---
 
-## :us: Verenigde Staten
-- **Democraten winnen tussentijdse verkiezingen; Fed signaleert meer renteverhogingen** De **Democraten** boekten een grote overwinning bij de midterms op **5 november**, gedreven door woede over inflatie en de oorlog in Iran. De **S&P 500** daalde **4,4%** op de dag na de verkiezingen. Dallas Fed-president **Lorie Logan** pleitte voor minstens **twee extra renteverhogingen** van 25 basispunten. De consumentenprijzen stegen sneller dan verwacht, waardoor de **tweejaarstreasuryield** 17 basispunten sprong naar **4,73%**. (Bloomberg, 11 november 2026, https://bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation)
+## 🇬🇧 Verenigd Koninkrijk
+- **Premier Burnham presenteert voorzichtige Herfstbegroting; focus op levenskosten** Premier **Andy Burnham**, in juli 2026 aangetreden als opvolger van Starmer, presenteerde een **Herfstbegroting** gericht op het drukken van energie- en transportkosten. Analisten noemen het een 'steady as we go'-aanpak die moeilijke keuzes uitstelt. De economie groeit rond **1%**, de werkloosheid lag op **4,9%** en markten prijzen mogelijk verdere renteverhogingen in. (ABC News / Edelman, nov 2026, https://abcnews.com/Business/wireStory/britains-new-prime-minister-solve-riddle-reinvigorate-slow-134972547)
 ---
 
-## :india: India
-- **Cabinet verbiedt export van lithium-ion batterij-restmateriaal en verlengt Stand-Up India** Het kabinet verlengde het **Stand-Up India Scheme** (steun voor ondernemerschap onder minderheden) en keurde een museum van **3.230 crore rupee** goed. Belangrijker: er kwam een **exportverbod op lithium-ion battery black mass**, een cruciale grondstof voor de batterijketen. Ondertussen bereikte **New Delhi** gevaarlijke luchtkwaliteitsniveaus vlak voor Diwali en kwamen **drie arbeiders om** bij een Tata iPhone-onderdelenfabriek in Tamil Nadu. (Indian Opinion / Al Jazeera, 11 november 2026, https://indianopinion.org/today-in-india-11-november-2026/)
+## 🇺🇸 Verenigde Staten
+- **Trump zegt Iran-deal af en beveelt Vance binnenlandse focus; Democraten pakken Congres** President **Trump** verklaarde dat de VS geen Iran-deal nodig hebben en droeg vicepresident **Vance** op zich te richten op binnenlandse zaken. De Democraten wonnen op 3 november het **Congres** op een golf van onvrede over inflatie en kosten van voeding, benzine en huisvesting. Er dreigt een krachtmeting over **tarieven**: House-leider **Jeffries** beloofde de "stomme Trump-tarieven" te stoppen. (Bloomberg, 12 nov 2026, https://www.bloomberg.com/news/articles/2026-11-12/trump-says-no-need-for-iran-deal-vance-should-focus-on-us)
 ---
 
-## :cn: China
-- **Communistische Partij breidt anti-corruptiebeleid uit naar techsector en digitale platforms** Het vijfde plenum van de CCP bracht een document uit dat de **techsector en digitale platforms** voor het eerst opneemt in het anti-corruptie- en partijopbouwraamwerk. Het Nationaal Volkscongres nam daarnaast een **wet tegen grensoverschrijdende corruptie** aan. Op economisch vlak daalde de **CSI 300-index** verder en vertraagde de centrale bank de **yuanappreciatie** om exporteurs te steunen. **Xi Jinping** overweegt drieweggesprekken met **Trump** en **Putin** tijdens APEC in **Shenzhen** deze maand. (SCMP, november 2026, https://www.scmp.com/news/china/politics/article/3372899/communist-party-pledges-reach-deeper-chinas-tech-digital-platform-sectors)
+## 🇮🇳 India
+- **Modi prijst 7,7% bbp-groei in FY26; India-VS interimhandelsakkoord in afrondende fase** Premier **Modi** vierde een bbp-groei van **7,7% in boekjaar 2026** en noemde het raamwerk voor een **interim-handelsovereenkomst met de VS** een teken van groeiend vertrouwen. De VS verlaagde tarieven van **25% naar 18%**. India sloot daarnaast in 2026 een **vrijhandelsverdrag met de EU** en werkt aan deals met **Canada** en het **VK**. De deviezenreserves bereikten een record van **$729 miljard**. (IBEF / Business Standard, 2026, https://www.ibef.org/news/prime-minister-mr-narendra-modi-says-framework-for-interim-trade-agreement-between-india-us-reflects-growing-depth-trust-dynamism-between-two-countries)
 ---
 
-## :jp: Japan
-- **Bank of Japan hint op renteverhoging in december; huishouduitgaven dalen 6,8%** Uit het verslag van de vergadering van de **Bank of Japan** blijkt dat meerdere bestuursleden een renteverhoging op korte termijn noodzakelijk achten, met **december** als waarschijnlijk moment. De inflatie-gecorrigeerde huishouduitgaven daalden in september met **6,8%** op jaarbasis. In de politiek liepen **vier LDP-leden** weg voor een stemming over het btw-wetsvoorstel, wat vragen oproept over het leiderschap van premier **Sanae Takaichi**. AI-startup **Sakana AI** overweegt een beursgang in 2027. (Japan Times, 11 november 2026, https://www.japantimes.co.jp/news/2026/11/11/japan/politics/koizumi-obuchi-ldp/)
+## 🇨🇳 China
+- **Vijfde plenum: Communistische Partij verankert toezicht in techsector en digitale platforms** Het **vijfde plenum** (25-29 oktober) van het 20e Centraal Comité verplicht private en gemengde ondernemingen — met name **internetplatforms en tech-innovators** — om partijopbouw op te nemen in hun bedrijfsstatuten. **Xi Jinping** verdedigde het strikte partijbestuur en stelde dat het economische groei niet remt. Het document bestrijdt ook **high-tech corruptie** via blockchain en digitale activa. (SCMP, nov 2026, https://www.scmp.com/news/china/politics/article/3372899/communist-party-pledges-reach-deeper-chinas-tech-digital-platform-sectors)
 ---
 
+## 🇯🇵 Japan
+- **Bank of Japan houdt koers op renteverhoging ondanks AI-terugval; huishouduitgaven dalen 6,8%** De **Bank of Japan** signaleert dat veel bestuursleden een **spoedige renteverhoging** nodig achten, met verwachtingen van verhogingen om de drie maanden. De **AI-terugval** op aandelenmarkten verandert dit plan niet. Tegelijk daalden de reële **huishouduitgaven** in september met **6,8%** op jaarbasis — de scherpste daling sinds de pandemie. Premier **Takaichi** staat onder druk om financiering te vinden voor een **voedselbtwverlaging** en defensie-uitgaven. (Japan Times, 12 nov 2026, https://japantimes.co.jp/business/2026/11/12/economy/boj-rate-hike-ai-demand)
 ---
 
-## Marktoverzicht
+## Marktoverzicht (12 november 2026, circa 15:00 UTC)
 
-| Instrument | Koers | Verandering |
-|---|---|---|
-| Bitcoin (BTC) | $73.938 | -1,2% |
-| Ethereum (ETH) | $2.055 | -1,7% |
-| Goud (spot) | $4.044/oz | -0,2% |
-| Brent crude | $93,49/vat | +2,2% |
-| EUR/USD | 1,1167 | +0,03% |
-| S&P 500 | 7.521 | -0,4% |
-| AEX | 1.136 | +1,3% |
-| DAX | 26.347 | +0,3% |
-| Nikkei 225 | 60.460 | +2,9% |
+| Markt | Koers | Verandering |
+|-------|-------|-------------|
+| Bitcoin (BTC) | $73.200 | -1,8% (24u) |
+| Ethereum (ETH) | $2.310 | -2,1% (24u) |
+| Goud | $3.982/oz | -1,3% |
+| Brent | $92,16/vat | -0,3% |
+| EUR/USD | 1,1222 | -0,1% |
+| S&P 500 | 7.377 | +0,3% |
+| AEX | 1.144,63 | +1,1% |
+| DAX | 27.012 | +1,4% |
+| Nikkei 225 | 65.480 | -0,9% |
 
-*Koersen zijn indicatief, gemeten rond 09:00-15:00 UTC op 11 november 2026.*
+*Crypto onder druk door Fed-rentevrees; Europese beurzen profiteren van dalende olieprijzen en hoop op de-escalatie rond Iran. Goud zakt onder $4.000 voor het eerst sinds juli.*
 
 ---
 
 ## De Grote Lijnen
 
-Begrotingscrises domineren Europa: in België bood De Wever zijn ontslag aan na het mislukken van coalitieoverleg, in Nederland zoekt Jetten wanhopig oppositiesteun voor zijn belastingplan, en in Frankrijk leggen massastakingen over koopkracht het land lam. Tegelijkertijd verschuift het geopolitieke zwaartepunt richting het Midden-Oosten en Azië — trilaterale gesprekken in Abu Dhabi en Xi's beoogde driewegtop op APEC in Shenzhen wijzen op een nieuwe diplomatieke dynamiek rond de oorlog in Oekraïne. Op monetair vlak houden centrale banken de teugels strak: de Fed signaleert verdere renteverhogingen na hotter-than-expected inflatie, terwijl de Bank of Japan een december-verhoging voorbereidt. De strijd om grondstoffen en technologie intensiveert: Turkije ontdekt nieuwe oliereserves, India verbiedt de export van batterijgrondstoffen, en Duitsland smeedt met Nvidia een industrieel AI-pact. Politieke instabiliteit is de rode draad — van Starmers aftreden in het VK tot dissidenten in de Japanse LDP en de Democratische midterm-overwinning in de VS die markten deed schudden.
+Het thema van vandaag is **begrotingspijn in een verdeeld politiek landschap**. Van België tot Nederland, van Frankrijk tot Japan — overal worstelen regeringen met de spanning tussen bezuinigen en kiezers ontzien. In België en Nederland dreigen coalities te scheuren over belastingplannen; in Frankrijk stuurt de straat het beleid bij. Ondertussen biedt de geopolitiek gemengde signalen: de VS-Rusland-gesprekken over Oekraïne in het Kremlin houden de hoop op dialoog levend, terwijl Trump tegelijk de Iran-deal afzegt en de Democraten in het Congres zijn tarievenbeleid willen ontmantelen. De markten kiezen voorlopig voor optimisme — de DAX doorbreekt 27.000 en de AEX nadert een record — maar de fundamenten (krimp in Frankrijk, dalende huishouduitgaven in Japan, Bitcoin onder $74.000) waarschuwen dat het sentiment fragiel is. India springt eruit als groeikampioen met 7,7% bbp-groei, terwijl China's Communistische Partij juist de teugels aanhaalt over tech en digitale platforms.
 
+---
+*Samengesteld op 12 november 2026*
