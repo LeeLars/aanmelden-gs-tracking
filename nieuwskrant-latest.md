@@ -1,73 +1,68 @@
 # MIJN NIEUWSKRANT
-### Donderdag 12 november 2026
+### Vrijdag 13 november 2026
 ---
-# Nieuwsoverzicht 2026-11-12
+# Nieuwsoverzicht 2026-11-13
 
 ## 🇧🇪 België
-- **Begrotingscrisis: Koning Filip weigert ontslag De Wever en eist hervatting onderhandelingen** Premier **Bart De Wever** (N-VA) bood op 2 november zijn ontslag aan nadat de vijfpartijencoalitie er niet in slaagde een akkoord te bereiken over **€10 miljard** aan besparingen voor de begroting 2027. Koning Filip weigerde het ontslag en gaf De Wever opdracht de gesprekken te hervatten; hij moet uiterlijk **16 november** verslag uitbrengen. Het hoofdgeschil draait om een **btw-verhoging** die MR-voorzitter Georges-Louis Bouchez blokkeert. (VRT NWS, 2-8 nov 2026, https://www.vrt.be/vrtnws/en/2026/11/02/king-filip-considers-pm-bart-de-wevers-resignation-commences-co/)
+- **Begrotingscrisis: koning verwacht update van premier De Wever op 16 november** Premier **Bart De Wever** bood het ontslag van zijn vijfpartijencoalitie aan na het mislukken van de begrotingsonderhandelingen over een consolidatie van **€10 miljard tegen 2029**. **Koning Filip** weigerde het ontslag en gaf De Wever **10 dagen** om de gesprekken te hervatten — hij wordt op **16 november** op het paleis verwacht. Belangrijkste twistpunt: **MR-voorzitter Bouchez** verwerpt een btw-verhoging, terwijl **Vooruit** en **Les Engagés** meer bijdragen van vermogens eisen. (VRT NWS, november 2026, https://www.vrt.be/vrtnws/nl/2026/11/06/de-wever-begroting-koning-ontslag/)
 ---
 
 ## 🇳🇱 Nederland
-- **Belastingplan splijt coalitie: VVD dreigt met breuk na deal D66-CDA met oppositie** Coalitiepartners **D66 en CDA** sloten een deal met oppositiepartijen **Pro en Volt** over het Belastingplan 2027, zonder instemming van de **VVD**. Het plan verhoogt belastingen op vermogen en verlaagt die op arbeid. VVD-leider **Yesilgöz** eist een 'fundamentele reset' van de samenwerking, maar is nog niet weggelopen. Het kabinet-Jetten staat onder hoogspanning. (NOS, 12 nov 2026, https://nos.nl/artikel/2639001-d66-en-cda-sluiten-deal-met-pro-en-volt-rond-belastingplan-nog-geen-reactie-vvd)
+- **Kabinetscrisis: VVD overweegt vertrek uit minderheidskabinet na stemming belastingplan** Het belastingplan voor **2027** is met een kleine meerderheid aangenomen zonder steun van de **VVD**. VVD-leider **Yesilgöz** is uitgenodigd op het ministerie van Algemene Zaken voor crisisoverleg met premier **Jetten** en vicepremier **Van den Brink**. Het is nog onzeker of de VVD uit het minderheidskabinet stapt. (NOS, 13 november 2026, https://nos.nl/livestream/2639303-kabinet-in-nood-wachten-op-reacties-uit-het-crisisoverleg)
 ---
 
 ## 🇹🇷 Turkije
-- **COP31-gastland Turkije tekent $5,1 miljard aan deals met ontwikkelingsbanken** Op de vierde dag van de **COP31**-klimaattop in Antalya tekende Turkije **10 financieringsovereenkomsten** ter waarde van **$5,1 miljard** (256,30 miljard TL) met vier multilaterale ontwikkelingsbanken, aldus minister van Financiën **Mehmet Şimşek**. De inflatie daalde in oktober onder de **30%** voor het eerst in bijna vijf jaar. (Daily Sabah, nov 2026, https://www.dailysabah.com/business/economy/cop31-host-turkiye-inks-51b-in-deals-with-4-development-banks)
+- **Erdoğan en Qatarese emir bespreken defensie- en technologiesamenwerking in Istanbul** President **Erdoğan** ontmoette de Qatarese emir **Sheikh Tamim bin Hamad Al Thani** in Istanbul voor de **12e bijeenkomst van het Hoog Strategisch Comité** tussen Turkije en Qatar. De leiders bespraken de uitvoering van het **Badr-defensiepact** en mogelijke samenwerking op het gebied van **kunstmatige intelligentie, technologie en nieuwe investeringen**. (Hürriyet Daily News, 13 november 2026, https://www.hurriyetdailynews.com/erdogan-and-qatari-emir-meet-to-discuss-defense-tech-cooperation-229373)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Moody's verlaagt groeiprognose Frankrijk tot 0,2%; massale protesten tegen kosten levensonderhoud** Kredietbeoordelaar **Moody's** verlaagde de groeivoorspelling voor 2026 naar **0,2%**, ruim onder het overheidsdoel van 0,5%. De staatsschuld bedraagt circa **120% van het bbp**. Op 5 november demonstreerden tot **1,6 miljoen Fransen** tegen de stijgende kosten; premier **Lecornu** vervroegde een minimumloonverhoging van **1,6%** naar december, maar vakbonden noemen dit onvoldoende. (France24, 11 nov 2026, https://www.france24.com/en/live-news/20261111-france-2026-growth-forecast-cut-to-0-2-by-moody-s)
+- **Wereldwijde Microsoft Outlook-storing treft diensten in 74 landen, ook Frankrijk getroffen** Een grote **Microsoft Outlook-storing** verstoorde op **13 november 2026** e-maildiensten in **74 landen**, waaronder Frankrijk. Het gemeentehuis van **Aulnay-sous-Bois** meldde dat hun e-mailsysteem was uitgevallen. Microsoft gaf aan dat er "verbeteringen" waren doorgevoerd in **Noord-Amerika en Europa**. (France 24, 13 november 2026, https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries)
 ---
 
 ## 🇩🇪 Duitsland
-- **DAX boven 27.000 punten; Bundesbank-president Nagel eist structurele hervormingen** De **DAX** steeg voor het eerst boven de **27.000 punten**, gesteund door dalende olieprijzen en hoop op de-escalatie rond Iran. Tegelijkertijd waarschuwde **Bundesbank-president Joachim Nagel** dat het herstel geen reden is om te rusten en drong hij aan op **structurele hervormingen**. De Raad van Economische Adviseurs waarschuwt voor een tekort van circa **€300 miljard tot 2040**. (Handelsblatt, nov 2026, https://handelsblatt.com/politik/deutschland/leitindex-optimismus-an-der-boerse-dax-erstmals-ueber-27000-punkten/100269391.html)
+- **Mercedes-Benz stopt alle investeringen in Duitsland en overweegt sluiting van fabrieken** **Mercedes-Benz** heeft alle investeringen in zijn Duitse vestigingen bevroren en onderzoekt mogelijke sluiting van **twee fabrieken** — een assemblagefabriek en een aandrijflijnfabriek. De raad van bestuur wijst op productiekosten die tot **vijf keer hoger** liggen dan in Oost-Europa, terwijl het bedrijf eerder al zijn **winstprognose voor 2026** verlaagde door zwakke verkoop in China. Vakbond **IG Metall** verzet zich fel. (Handelsblatt, 13 november 2026, https://www.handelsblatt.com/unternehmen/industrie/autobauer-mercedes-stoppt-alle-investitionen-in-deutschland/100269485.html)
 ---
 
 ## 🇷🇺 Rusland
-- **VS-gezanten Kushner en Witkoff in Kremlin voor overleg met Poetin over Oekraïne** Na twee dagen trilaterale gesprekken in Abu Dhabi arriveerden **Jared Kushner** en **Steve Witkoff** op 12 november in het Kremlin voor hun **10e persoonlijke ontmoeting** met president **Poetin**. Territoriale concessies in de **Donbas** blijven het kerngeschilpunt; Rusland weigerde in Abu Dhabi over een staakt-het-vuren te spreken. Een nieuwe grote **gevangenenuitwisseling** werd wel aangekondigd. (The Moscow Times, 12 nov 2026, https://www.themoscowtimes.com/2026/11/12/us-envoys-arrive-at-kremlin-for-talks-with-putin-on-ukraine-a94236)
+- **Russische olie-export stijgt naar 6,82 miljoen vaten per dag in oktober, inkomsten naar $21,15 miljard** Volgens het **Internationaal Energieagentschap (IEA)** steeg de Russische export van olie en aardolieproducten in oktober 2026 met **260.000 vaten per dag** naar **6,82 miljoen vaten per dag**. De totale exportinkomsten bereikten **$21,15 miljard** — het hoogste niveau sinds mei en **$8,33 miljard meer** dan in oktober 2025. De **Urals-olieprijs** klom naar **$101,28 per vat**. (TASS, 13 november 2026, https://tass.com/economy/2217835)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Premier Burnham presenteert voorzichtige Herfstbegroting; focus op levenskosten** Premier **Andy Burnham**, in juli 2026 aangetreden als opvolger van Starmer, presenteerde een **Herfstbegroting** gericht op het drukken van energie- en transportkosten. Analisten noemen het een 'steady as we go'-aanpak die moeilijke keuzes uitstelt. De economie groeit rond **1%**, de werkloosheid lag op **4,9%** en markten prijzen mogelijk verdere renteverhogingen in. (ABC News / Edelman, nov 2026, https://abcnews.com/Business/wireStory/britains-new-prime-minister-solve-riddle-reinvigorate-slow-134972547)
+- **Wereldwijde Microsoft-storing treft Britse publieke diensten** Een **grootschalige Microsoft-storing** heeft op **13 november 2026** miljoenen gebruikers wereldwijd getroffen, met grote gevolgen voor het **VK**. Het **NHS e-mailsysteem** is uitgevallen waardoor patiënten geen recepten ontvangen, **National Rail** meldde problemen met e-tickets, en meerdere **politiekorpsen** vroegen burgers misdaden telefonisch te melden. (CNN, 13 november 2026, https://edition.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Trump zegt Iran-deal af en beveelt Vance binnenlandse focus; Democraten pakken Congres** President **Trump** verklaarde dat de VS geen Iran-deal nodig hebben en droeg vicepresident **Vance** op zich te richten op binnenlandse zaken. De Democraten wonnen op 3 november het **Congres** op een golf van onvrede over inflatie en kosten van voeding, benzine en huisvesting. Er dreigt een krachtmeting over **tarieven**: House-leider **Jeffries** beloofde de "stomme Trump-tarieven" te stoppen. (Bloomberg, 12 nov 2026, https://www.bloomberg.com/news/articles/2026-11-12/trump-says-no-need-for-iran-deal-vance-should-focus-on-us)
+- **Wereldwijde Microsoft-storing legt handel en communicatie plat op tweede dag** Een grootschalige **Microsoft-storing** treft voor de tweede dag op rij diensten als **Outlook, Teams en Copilot** wereldwijd. Grote banken waaronder **Deutsche Bank** hadden beperkte toegang tot e-mail, en Japanse bedrijven moesten handelen via fax. De storing drukt op het sentiment op **Wall Street**, terwijl beleggers ook de gevolgen van het vertrek van **Nvidia-CEO Jensen Huang** verwerken. (Bloomberg, 13 november 2026, https://www.bloomberg.com/news/newsletters/2026-11-13/microsoft-races-to-fix-outage-into-second-day)
 ---
 
 ## 🇮🇳 India
-- **Modi prijst 7,7% bbp-groei in FY26; India-VS interimhandelsakkoord in afrondende fase** Premier **Modi** vierde een bbp-groei van **7,7% in boekjaar 2026** en noemde het raamwerk voor een **interim-handelsovereenkomst met de VS** een teken van groeiend vertrouwen. De VS verlaagde tarieven van **25% naar 18%**. India sloot daarnaast in 2026 een **vrijhandelsverdrag met de EU** en werkt aan deals met **Canada** en het **VK**. De deviezenreserves bereikten een record van **$729 miljard**. (IBEF / Business Standard, 2026, https://www.ibef.org/news/prime-minister-mr-narendra-modi-says-framework-for-interim-trade-agreement-between-india-us-reflects-growing-depth-trust-dynamism-between-two-countries)
+- **Inflatie in India stijgt mogelijk boven de 6%-grens van de RBI** De Indiase **consumentenprijsindex (CPI)** voor oktober 2026 werd op **12 november** gepubliceerd, nadat de inflatie in september al was gestegen naar **5,54%**. Analisten van **ICRA** en **Bank of Baroda** verwachtten een stijging naar circa **6,1%**, waarmee de inflatie voor het eerst in twee jaar boven de bovengrens van het RBI-tolerantiebereik (**2-6%**) zou uitkomen. De stijging wordt gedreven door **voedselprijzen**. (NewsBytes, 13 november 2026, https://www.newsbytesapp.com/news/business/indias-retail-inflation-expected-to-top-6-in-october-2026/tldr)
 ---
 
 ## 🇨🇳 China
-- **Vijfde plenum: Communistische Partij verankert toezicht in techsector en digitale platforms** Het **vijfde plenum** (25-29 oktober) van het 20e Centraal Comité verplicht private en gemengde ondernemingen — met name **internetplatforms en tech-innovators** — om partijopbouw op te nemen in hun bedrijfsstatuten. **Xi Jinping** verdedigde het strikte partijbestuur en stelde dat het economische groei niet remt. Het document bestrijdt ook **high-tech corruptie** via blockchain en digitale activa. (SCMP, nov 2026, https://www.scmp.com/news/china/politics/article/3372899/communist-party-pledges-reach-deeper-chinas-tech-digital-platform-sectors)
+- **Chinese Communistische Partij breidt greep uit op techsector en digitale platforms** Het vijfde plenum van het **20e Centraal Comité** van de Chinese Communistische Partij heeft besloten de partijcontrole over techbedrijven en digitale platforms fors uit te breiden. Internetplatforms en tech-innovators moeten voortaan **partijopbouw opnemen in hun bedrijfsstatuten** en operationeel management. Daarnaast wordt een **digitaal anticorruptieplatform** opgezet dat zich specifiek richt op fraude via crypto en blockchain. (SCMP, 13 november 2026, https://www.scmp.com/news/china/politics/article/3372899/communist-party-pledges-reach-deeper-chinas-tech-digital-platform-sectors)
 ---
 
 ## 🇯🇵 Japan
-- **Bank of Japan houdt koers op renteverhoging ondanks AI-terugval; huishouduitgaven dalen 6,8%** De **Bank of Japan** signaleert dat veel bestuursleden een **spoedige renteverhoging** nodig achten, met verwachtingen van verhogingen om de drie maanden. De **AI-terugval** op aandelenmarkten verandert dit plan niet. Tegelijk daalden de reële **huishouduitgaven** in september met **6,8%** op jaarbasis — de scherpste daling sinds de pandemie. Premier **Takaichi** staat onder druk om financiering te vinden voor een **voedselbtwverlaging** en defensie-uitgaven. (Japan Times, 12 nov 2026, https://japantimes.co.jp/business/2026/11/12/economy/boj-rate-hike-ai-demand)
+- **Japans ministerie van Financiën wil defensiebudget beperken ondanks druk voor meer uitgaven** Het Japanse **ministerie van Financiën** wil de defensie-uitgaven beperken tot **¥50-60 biljoen ($313-375 miljard)** over vijf jaar vanaf april 2027. Dat ligt fors onder de **¥80 biljoen** die sommige defensiefunctionarissen en LDP-parlementsleden eisen, wat gevolgen kan hebben voor geplande aankopen van onder meer **F-35 gevechtsvliegtuigen**. De spanning tussen fiscale voorzichtigheid en militaire ambities neemt toe. (The Japan Times, 13 november 2026, https://www.japantimes.co.jp/news/2026/11/13/japan/defense-buildup-fiscal-constraints/)
 ---
 
-## Marktoverzicht (12 november 2026, circa 15:00 UTC)
-
-| Markt | Koers | Verandering |
-|-------|-------|-------------|
-| Bitcoin (BTC) | $73.200 | -1,8% (24u) |
-| Ethereum (ETH) | $2.310 | -2,1% (24u) |
-| Goud | $3.982/oz | -1,3% |
-| Brent | $92,16/vat | -0,3% |
-| EUR/USD | 1,1222 | -0,1% |
-| S&P 500 | 7.377 | +0,3% |
-| AEX | 1.144,63 | +1,1% |
-| DAX | 27.012 | +1,4% |
-| Nikkei 225 | 65.480 | -0,9% |
-
-*Crypto onder druk door Fed-rentevrees; Europese beurzen profiteren van dalende olieprijzen en hoop op de-escalatie rond Iran. Goud zakt onder $4.000 voor het eerst sinds juli.*
+---
+## Marktoverzicht
+| Markt | Koers | Beweging |
+|-------|-------|----------|
+| Bitcoin (BTC) | $69.135 | -5,6% |
+| Ethereum (ETH) | $1.954 | -5,6% |
+| Goud | $3.894/oz | nabij jaarlaagtepunt |
+| Brent olie | $96,12/vat | — |
+| EUR/USD | 1,1059 | — |
+| S&P 500 | 7.592 | -0,35% |
+| AEX | ~1.130 | +0,84% (9 nov) |
+| DAX | 26.772 | +0,4% |
+| Nikkei 225 | 61.216 | +0,65% |
 
 ---
-
 ## De Grote Lijnen
 
-Het thema van vandaag is **begrotingspijn in een verdeeld politiek landschap**. Van België tot Nederland, van Frankrijk tot Japan — overal worstelen regeringen met de spanning tussen bezuinigen en kiezers ontzien. In België en Nederland dreigen coalities te scheuren over belastingplannen; in Frankrijk stuurt de straat het beleid bij. Ondertussen biedt de geopolitiek gemengde signalen: de VS-Rusland-gesprekken over Oekraïne in het Kremlin houden de hoop op dialoog levend, terwijl Trump tegelijk de Iran-deal afzegt en de Democraten in het Congres zijn tarievenbeleid willen ontmantelen. De markten kiezen voorlopig voor optimisme — de DAX doorbreekt 27.000 en de AEX nadert een record — maar de fundamenten (krimp in Frankrijk, dalende huishouduitgaven in Japan, Bitcoin onder $74.000) waarschuwen dat het sentiment fragiel is. India springt eruit als groeikampioen met 7,7% bbp-groei, terwijl China's Communistische Partij juist de teugels aanhaalt over tech en digitale platforms.
-
+Een mondiale Microsoft-storing domineert het nieuws van vandaag en legt de digitale kwetsbaarheid van overheden en bedrijven in het VK, Frankrijk en de VS pijnlijk bloot — van het NHS tot Wall Street. Tegelijkertijd worstelen Europa's industriële kernlanden met structurele problemen: Mercedes-Benz bevriest Duitse investeringen terwijl zowel België als Nederland in begrotings- en kabinetscrises verkeren die de politieke stabiliteit ondermijnen. De cryptomarkt verliest fors terrein nu Bitcoin onder de $70.000 duikt en goud richting jaarlaagtepunten zakt, terwijl Russische olie-inkomsten juist recordhoogtes bereiken — een scherp contrast dat de geopolitieke spanningen rond energiemarkten onderstreept. China grijpt de teugels van zijn techsector steviger aan en Japan worstelt met de spanning tussen defensieambities en begrotingsdiscipline, wat de bredere mondiale trend weerspiegelt van overheden die balanceren tussen veiligheid en financiële houdbaarheid.
 ---
-*Samengesteld op 12 november 2026*
