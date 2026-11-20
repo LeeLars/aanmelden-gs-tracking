@@ -1,81 +1,72 @@
 # MIJN NIEUWSKRANT
-### Donderdag 19 november 2026
+### Vrijdag 20 november 2026
 ---
-# Nieuwsoverzicht 2026-11-19
+# Nieuwsscan 2026-11-20
 
 ## 🇧🇪 België
-- **Begrotingsonderhandelingen vastgelopen: De Wever praat verder zonder Vooruit** Premier **Bart De Wever** heeft de begrotingsgesprekken hervat, maar socialistische coalitiepartner **Vooruit** weigert zijn voorstellen en zit niet meer aan tafel. Koning Filip gaf De Wever een extra week om tot een akkoord te komen. De **Belgische schuldagentschap** waarschuwt dat het uitblijven van een deal de rentes op Belgisch staatspapier opdrijft. (VRT NWS, 19 nov 2026, https://www.vrt.be/vrtnws/en/2026/11/19/pm-bart-de-wever-talking-with-all-coalition-partners-bar-vooruit/)
+- **De Wever hervat begrotingsgesprekken zonder Vooruit** Premier **Bart De Wever** praat met alle coalitiepartners behalve **Vooruit** over de begroting. De Vlaamse socialisten staan geïsoleerd en moeten kiezen: de regering laten vallen of opnieuw onderhandelen. Het hoofd van het **Federaal Agentschap van de Schuld** waarschuwt dat het uitblijven van een akkoord de **rentevoeten** op Belgische schuld opdrijft. (VRT NWS, 19 november 2026, https://www.vrt.be/vrtnws/en/2026/11/19/pm-bart-de-wever-talking-with-all-coalition-partners-bar-vooruit/)
 ---
 
 ## 🇳🇱 Nederland
-- **D66, VVD en CDA gaan verder als minderheidskabinet** De drie coalitiepartijen maakten maandagavond bekend dat ze samen verder willen als **minderheidskabinet**, na een crisisoverleg op een landgoed in Hilversum. Ondertussen groeit de Nederlandse economie met **2,1%** op jaarbasis, en domineerde de beursgang van AI-bedrijf **Anthropic** – door de ECB aangeduid als potentieel bubbel-risico – het financiële nieuws. (NOS, nov 2026, https://nos.nl/nieuws/laatste)
+- **Sybrand Buma aangesteld als bemiddelaar in coalitiecrisis** Na crisisoverleg tussen **D66, VVD en CDA** in Hilversum is **Sybrand Buma**, vicepresident van de Raad van State, gevraagd een "financieel fundament" te leggen voor begrotingsbeslissingen. Twijfels blijven over de houdbaarheid van het **minderheidskabinet**. (NOS, november 2026, https://nos.nl/artikel/2640289-sybrand-buma-begint-aan-klus-begrijpt-complexiteit-van-minderheidskabinet)
 ---
 
 ## 🇹🇷 Turkije
-- **Istanbulse burgemeester İmamoğlu veroordeeld tot ruim 2 jaar cel en politiek verbod** Een Turkse rechtbank veroordeelde **Ekrem İmamoğlu** op 18 november tot **2 jaar en 1 maand** gevangenisstraf wegens onregelmatigheden bij de CHP-leiderschapsverkiezing van 2023, inclusief een politiek verbod. Turkije host ook **COP31** in Antalya, waar de Wereldbank een klimaat- en werkgelegenheidspakket van meer dan **$17,6 miljard** aankondigde. (Daily Sabah, 18 nov 2026, https://www.dailysabah.com/politics/terror-free-turkiye-to-drive-major-economic-leap-erdogan/news)
+- **Consumentenvertrouwen stijgt 2,4% in november** Het Turkse consumentenvertrouwen herstelde met **2,4%** na een dieptepunt in oktober, terwijl de **jaarinflatie** in oktober op **29,77%** uitkwam. Handelsminister **Ömer Bolat** waarschuwde dat uitsluiting van Turkije uit het EU-plan "Made in Europe" voor auto's banen en export zou schaden. (Daily Sabah, november 2026, https://dailysabah.com/business/economy/turkish-consumer-confidence-rebounds-24-in-november)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Groeiprognose gehalveerd: Moody's verlaagt naar 0,2% voor 2026** **Moody's** halveerde de groeiprognose voor Frankrijk naar **0,2%**, ruim onder de overheidsdoelstelling van 0,5%. De economie kromp in het derde kwartaal, de staatsschuld bedraagt circa **120% van het bbp**, en stakingen houden aan – op 17 november demonstreerden **146.000 mensen** (volgens politie) tegen het uitblijven van loonsverhogingen. (France 24, 11 nov 2026, https://www.france24.com/en/live-news/20261111-france-2026-growth-forecast-cut-to-0-2-by-moody-s)
+- **Mélenchon opent deur voor alliantie met Groenen** Links-radicaal presidentskandidaat **Jean-Luc Mélenchon** zei dat een alliantie met de Groenen "mogelijk moet zijn", nadat Groenen-leider **Marine Tondelier** toenadering zocht. Intussen leidt **Marine Le Pen** de peilingen voor de presidentsverkiezingen van komend voorjaar en belooft de **pensioenhervorming** van Macron terug te draaien. (France 24, 19 november 2026, https://www.france24.com/en/france/20261119-melenchon-opens-door-to-alliance-with-french-greens-after-presidential-rival-overture-tondelier)
 ---
 
 ## 🇩🇪 Duitsland
-- **Coalitie bereikt akkoord over verlaging Stromsteuer; EU verhoogt groeiprognose** Bondskanselier **Friedrich Merz** kondigde een akkoord aan over verlaging van de **Stromsteuer** (elektriciteitsbelasting), die in 2027 voor iedereen ingaat – al is de financiering nog onzeker. De **Europese Commissie** verdubbelde intussen de Duitse groeiprognose naar **1,3%** voor dit jaar, na jaren van stagnatie. (Handelsblatt, nov 2026, https://www.handelsblatt.com/politik/deutschland/konjunktur-eu-kommission-verdoppelt-wachstumsprognose-fuer-deutschland/100270535.html)
+- **Merz kondigt akkoord verlaging stroombelasting aan** Bondskanselier **Friedrich Merz** meldt een doorbraak in de coalitie over verlaging van de **stroombelasting** voor particuliere huishoudens, na wekenlang gesteggel met de SPD. Ondertussen eist **IG Metall** bij **Volkswagen** actie tegen dreigende loonbevriezingen en kortere werkweken — vakbonden dreigen met stakingen. (Handelsblatt, november 2026, https://www.handelsblatt.com/politik/deutschland/bundespolitik-merz-kuendigt-einigung-bei-absenkung-der-stromsteuer-an/100137034.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Putin, Xi en Trump houden historische trilaterale top op APEC in Shenzhen** **Vladimir Putin**, **Xi Jinping** en **Donald Trump** hielden hun eerste driezijdige ontmoeting ooit op de APEC-top in Shenzhen en ondertekenden een **vredesverklaring**. Putin claimde dat Rusland de grootste economie van Europa is geworden ondanks sancties, maar het ministerie van Economische Ontwikkeling voorspelt slechts **0,4% groei** in 2026. (TASS, 19 nov 2026, https://tass.com/politics/2221611)
+- **Putin prijst economische veerkracht op APEC-top in Shenzhen** President **Vladimir Putin** benadrukte op de APEC-top Ruslands economische weerbaarheid en nauwere banden met **China**. De driezijdige ontmoeting **Putin-Xi-Trump** leverde een gezamenlijke vredesverklaring op, maar analisten noemen het resultaat meer symbolisch dan inhoudelijk. BRICS-handel bereikte **$1,2 biljoen**. (The Moscow Times / TASS, 19-20 november 2026, https://tass.com/politics/2222501)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **PM Burnham onder druk na herfstbegroting: beperkte financiële ruimte** Premier **Andy Burnham**, die in juli **Keir Starmer** opvolgde, presenteerde in oktober een herfstbegroting met slechts **£15 miljard** begrotingsruimte tot 2029-30. Kanselier **John Healey** waarschuwde voor departementale bezuinigingen bij de Spending Review van 2027. De staatsschuld staat op **95,1% van het bbp**. (Al Jazeera / Edelman, okt-nov 2026, https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget)
+- **Downing Street sluit troepenuitzending naar Oekraïne niet uit** De Britse regering verklaarde dat "niets van tafel is" wat betreft de inzet van **Britse troepen in Oekraïne**, te midden van aanhoudende Russische agressie. Premier **Keir Starmer** staat onder druk na het verlies van de Makerfield-tussenverkiezing aan rivaal **Andy Burnham**, die een leiderschapsstrijd binnen Labour aanwakkert. (AOL/LBC, november 2026, https://www.aol.com/news/uk-politics-live-rupert-lowe-113330920.html)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Anthropic-beursgang breekt alle records; techfutures schieten omhoog** AI-bedrijf **Anthropic** prijsde de grootste beursgang ooit, en de koers steeg circa **27%** in voorbeurshandel. Banken verdienden **$550 miljoen** aan fees. Tegelijk ontmoetten **Trump, Xi en Putin** elkaar op de APEC-top; Trump suggereerde dat de VS in de toekomst **Nvidia Blackwell-chips** aan China zou kunnen verkopen. (Bloomberg, 19 nov 2026, https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo)
+- **Democraten eisen Nvidia-documenten in chipsmokkelonderzoek** Twee Democratische Congresleden van de Commissie Buitenlandse Zaken vroegen minister van Handel **Howard Lutnick** om documenten over mogelijke beïnvloeding door **Nvidia** van het onderzoek naar chipsmokkel via het Singaporese **Megaspeed**. De **S&P 500** daalde **2,0%** na een teleurstellend debuut van de Anthropic-beursgang. (Bloomberg, 20 november 2026, https://www.bloomberg.com/news/articles/2026-11-20/house-democrats-seek-records-on-nvidia-sway-over-megaspeed-probe)
 ---
 
 ## 🇮🇳 India
-- **Modi eist van bedrijfsleven: 'Waar zijn de banen en hogere lonen?'** Premier **Narendra Modi** sprak op de FICCI-jaarvergadering en vroeg het bedrijfsleven waarom belastingverlagingen niet hebben geleid tot meer banen en hoger loon. India's export bereikte een record van bijna **$50 miljard** in oktober. **Moody's, S&P, Fitch** en de Wereldbank verhoogden allen hun groeiprognoses voor India. (Deccan Herald, 19 nov 2026, https://www.deccanherald.com/india/where-are-the-jobs-narendra-modi-tells-industry-to-respond-to-tax-relief-with-hiring-salary-hikes-4224113)
+- **Derde cycloon in een maand bedreigt kust Andhra Pradesh** Na de verwoestende cyclonen **Arnab** en **Murasu** (samen **₹2.484 crore** schade, **461.000 hectare** gewassen beschadigd) waarschuwde het IMD voor een derde zware cycloon richting de kust van **Andhra Pradesh**. De staat Odisha bereidt de evacuatie voor van meer dan **200.000 mensen**. (Down to Earth / Telangana Today, 15-17 november 2026, https://thesouthfirst.com/andhrapradesh/third-cyclone-in-less-than-a-month-threatens-andhra-coast-as-state-reels-from-₹2484-crore-damage/)
 ---
 
 ## 🇨🇳 China
-- **Xi roept op APEC op tot verlaging tarieven; DeepSeek kampt met rekenkrachtcrisis** President **Xi Jinping** gebruikte de APEC-top in Shenzhen om te pleiten voor **verlaging van handelstarieven** en stelde een mondiale associatie van baai-regio's voor. De Chinese economie groeide **4,6%** in de eerste drie kwartalen. Ondertussen kampt AI-ontwikkelaar **DeepSeek** met een ernstig rekenkrachttekort en beperkt gesprekken op zijn platform. (SCMP / Caixin, 18-19 nov 2026, https://scmp.com/economy/global-economy/article/3374816/chinas-xi-jinping-addresses-global-ceos-apec-summit-shenzhen)
+- **China en Zuid-Korea ronden onderhandelingen upgrade handelsverdrag af** Beide landen hebben de gesprekken over een upgrade van hun **vrijhandelsovereenkomst** grotendeels afgerond, al is ondertekening en ratificatie nog niet ingepland. Op de APEC-top in Shenzhen beloofde president **Xi Jinping** **$20 miljoen** voor Aziatisch-Pacifische samenwerking. Ondertussen worden circa **600.000 Nvidia H200-chips** in Hongkong tegengehouden. (Caixin Global, 20 november 2026, https://www.caixinglobal.com/2026-11-20/china-south-korea-substantially-complete-talks-to-upgrade-trade-pact-102506827.html)
 ---
 
 ## 🇯🇵 Japan
-- **Economie krimpt; PM Takaichi duwt door met verlaging voedselbelasting** De Japanse economie kromp met **0,1% op jaarbasis** in het derde kwartaal, slechter dan verwacht. Premier **Sanae Takaichi** zet in op een verlaging van de **btw op voedsel van 8% naar 1%** en beloofde in het parlement constructief mee te werken aan het wetsvoorstel. **Japan Tobacco** boekte een verlies van **¥1,4 biljoen** ($8,9 mrd) door het verlies van Russische dochterondernemingen. (Japan Times, 19 nov 2026, https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-tax-bill-deliberations/)
+- **Inflatie trekt aan, Bank of Japan koerst af op renteverhoging** De kerninflatie (exclusief verse voeding) steeg in oktober met **2,2%** op jaarbasis — de grootste stijging sinds december. BOJ-gouverneur **Kazuo Ueda** liet doorschemeren dat een renteverhoging in december mogelijk is. Premier **Sanae Takaichi** kreeg op de APEC-top in Shenzhen een **koele ontvangst** van China, Japans grootste handelspartner. (The Japan Times, 20 november 2026, https://www.japantimes.co.jp/business/2026/11/20/economy/cpi-up-boj-rate-hike/)
 ---
 
----
-
-## 📊 Marktoverzicht (19 november 2026)
+## 📊 Marktoverzicht (20 november 2026)
 
 | Markt | Koers | Richting |
 |-------|-------|----------|
-| Bitcoin (BTC) | ~$65.017 | ▼ dalend (-5% vorige week) |
-| Ethereum (ETH) | ~$1.821 | ▼ dalend (-10% vorige week) |
-| Goud (XAU) | $3.734/oz | ▼ dalend (-4% j-o-j) |
-| Brent crude | $92,69/vat | ▼ licht dalend |
-| EUR/USD | 1,099 | ▼ euro op 19-maands dieptepunt |
-| S&P 500 | 7.323 | ▼ vijfde verliesdag op rij |
-| AEX | 1.098 | ▼ -1,0% |
-| DAX | 25.736 | ▼ -1,2% |
-| Nikkei 225 | 59.444 | ▲ +0,7% (Anthropic-IPO-euforie) |
+| **Bitcoin** | $61.800 | ▼ −3,3% |
+| **Ethereum** | ~$2.200 | ▼ dalend |
+| **Goud** | $3.580/oz | ▼ −3,8% |
+| **Brent olie** | $92,90/vat | ▼ dalend |
+| **EUR/USD** | 1,12 | ▼ euro zwak |
+| **S&P 500** | 7.176 | ▼ −2,0% |
+| **AEX** | 1.092 | ▼ −0,6% |
+| **DAX** | 25.464 | ▼ −1,1% |
+| **Nikkei 225** | 59.444 | ▲ +0,7% |
 
-*Bronnen: Fortune, TradingEconomics, CNBC, Investing.com, Ad-hoc-news, JournalArta — richtprijzen, geen slotkoersen.*
+> Brede uitverkoop op markten. Sterke dollar drukt grondstoffen en crypto. Fed-minuten bevestigen hawkish koers. Nikkei is de enige grote index in het groen.
 
 ---
 
 ## 🔗 De Grote Lijnen
 
-**De APEC-top in Shenzhen domineert het wereldtoneel.** De historische driezijdige ontmoeting tussen Trump, Xi en Putin levert een vredesverklaring op, maar de inhoud blijft vaag — terwijl Beijing tegelijk pleit voor lagere tarieven en dreigt met beperkingen op zeldzame aardmetalen. Diplomatie en handelsoorlog lopen naadloos door elkaar.
+Begrotingscrises vormen de rode draad van Brussel tot Den Haag: in België praat De Wever zonder Vooruit, in Nederland moet bemiddelaar Buma een minderheidskabinet zien te redden. Beide coalities worstelen met dezelfde spanning tussen bezuinigingen en politieke haalbaarheid. In Duitsland lukt het Merz om met een stroombelastingverlaging de coalitie bij elkaar te houden, maar bij Volkswagen dreigen vakbondsstakingen — de industriële motor van Europa hapert.
 
-**Politieke instabiliteit treft Europa van noord tot zuid.** België praat verder zonder Vooruit, Nederland gaat door als minderheidskabinet, Frankrijk kampt met stakingen en een gehalveerde groeiprognose, en Turkije veroordeelt zijn populairste oppositieleider. De democratische legitimiteit van begrotingsbeleid staat overal onder druk.
-
-**De Anthropic-beursgang markeert een keerpunt in de AI-economie.** De grootste IPO ooit jaagt techfutures omhoog en tilt de Nikkei op, maar de ECB waarschuwt al voor bubbelrisico's. Ondertussen worstelt DeepSeek met rekenkrachttekorten — een teken dat de AI-boom tegen fysieke grenzen aanloopt.
-
-**Centrale banken blijven verkrappen terwijl groei hapert.** De S&P 500 valt voor de vijfde dag op rij, de euro raakt een 19-maands dieptepunt, en de Fed signaleert meer renteverhogingen. Alleen India en Duitsland tonen voorzichtig herstel, maar zelfs daar zijn de vraagtekens groter dan de antwoorden.
-
----
-*Samengesteld op donderdag 19 november 2026.*
+Geopolitiek verschuift het zwaartepunt naar Azië: de APEC-top in Shenzhen bracht een symbolisch Putin-Xi-Trump-overleg, terwijl China en Zuid-Korea hun handelsverdrag opwaarderen. Tegelijkertijd worden 600.000 Nvidia-chips in Hongkong vastgehouden en eisen Amerikaanse Democraten onderzoek naar chipsmokkel — de technologische koude oorlog verhardt. De markten reageren met een brede uitverkoop: de S&P 500 verloor 2% en goud zakte naar het laagste punt in 14 maanden, terwijl alleen de Nikkei standhield dankzij de verwachting van een Japanse renteverhoging.
