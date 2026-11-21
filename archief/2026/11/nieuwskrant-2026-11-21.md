@@ -1,5 +1,9 @@
 # MIJN NIEUWSKRANT
+<<<<<<<< HEAD:archief/2026/11/nieuwskrant-2026-11-21.md
 ### Zaterdag 21 november 2026
+========
+### Woensdag 18 november 2026
+>>>>>>>> bcef67d510077bb02b28ed868b86065ecec90439:archief/2026/11/nieuwskrant-2026-11-18.md
 ---
 # Nieuwsscan 2026-11-14
 
@@ -47,6 +51,7 @@
 - **Voedselbelasting van 8% naar 1%: wetsvoorstel passeert Lagerhuis maar Hogerhuis verdeeld** Het Japanse Lagerhuis stemde in met een verlaging van de **consumptiebelasting op voedsel van 8% naar 1%** voor twee jaar, vanaf april 2027. In het Hogerhuis zijn de regeringspartijen **LDP en Ishin vier zetels** tekort voor een meerderheid. De **huishouduitgaven** daalden in september met **6,8%** jaar-op-jaar — veel sterker dan de verwachte 3%. De **Bank of Japan** wordt breed verwacht de rente te verhogen op **18 december**. (Japan Times, 13 nov 2026, https://www.japantimes.co.jp/news/2026/11/13/japan/politics/tax-cut-debate-komeito-dpp/)
 ---
 
+<<<<<<<< HEAD:archief/2026/11/nieuwskrant-2026-11-21.md
 ## 📊 Marktoverzicht — 20/21 november 2026
 
 | Markt | Koers | Verandering |
@@ -62,11 +67,41 @@
 | **Nikkei 225** | 56.437 | -5,1% (20 nov); -22% van juni-record |
 
 *Beurzen gesloten op zaterdag. Cryptokoersen zijn doorlopend.*
+========
+---
+
+## 📊 Marktoverzicht (18 november 2026)
+
+| Markt | Koers | Richting |
+|-------|-------|----------|
+| Bitcoin (BTC) | $64.249 | ▼ dalend (-32% j-o-j) |
+| Ethereum (ETH) | $1.805 | ▼ dalend |
+| Goud (XAU) | ~$3.900/oz | ▼ licht dalend |
+| Brent crude | $93,26/vat | ▲ stijgend |
+| EUR/USD | 1,1005 | ▼ euro onder druk |
+| S&P 500 | 7.341 | ▼ -1,9% vorige week |
+| AEX | 1.110 | ▼ -2,1% |
+| DAX | 26.076 | ▼ -2,0% |
+| Nikkei 225 | 59.024 | ▼ -2,4% |
+
+*Bronnen: OKX, Yahoo Finance, Macrotrends, Newsquawk, Bloomberg, CNBC — richtprijzen, geen slotkoersen.*
+>>>>>>>> bcef67d510077bb02b28ed868b86065ecec90439:archief/2026/11/nieuwskrant-2026-11-18.md
 
 ---
 
 ## 🔗 De Grote Lijnen
 
+<<<<<<<< HEAD:archief/2026/11/nieuwskrant-2026-11-21.md
 De AI-zeepbel lijkt leeg te lopen: ondanks Nvidia's sterke kwartaalcijfers en de recordbeursgang van Anthropic deze week, stortten techwaarden wereldwijd in — de Nasdaq verloor zijn jaarwinst, de Nikkei kende de slechtste week sinds 2020 en chipgerelateerde fondsen drukten de AEX naar een driemandsdieptepunt. Centrale banken versterken de druk: de Fed koerst af op een renteverhoging in december, de Bank of England en de RBI verhoogden al, en de verwachte BoJ-verhoging op 18 december maakt de yen-carry-trade riskanter — wat de uitstroom uit risicoactiva zoals crypto en tech versnelt. Politieke instabiliteit vormt een Europese rode draad, met regeringscrisissen in zowel België als Nederland die begrotingsonzekerheid vergroten op een moment dat Moody's de Franse groei halveert en Duitse bedrijven als Mercedes investeringen bevriezen. De grondstoffenmarkt weerspiegelt geopolitieke herschikking: olie daalde 10% door hoop op een Iran-deal en Russische exportstijging, terwijl goud mee-omlaag ging ondanks de onzekerheid — een teken dat liquiditeitsdruk het wint van veilige-havenstromen. De VS-China AI-dialoog en het Oekraïne-vredesproces bieden een sprankje hoop, maar de markten prijzen voorlopig risico in, niet oplossingen.
 
 ---
+========
+**Wereldwijde renteverhogingen en begrotingscrises domineren het beeld.** De Federal Reserve, Bank of England en Reserve Bank of India verhogen allemaal de rente — een teken dat inflatie hardnekkiger blijkt dan verwacht en centrale banken synchronized verkrappen. Tegelijkertijd worstelen regeringen van België tot Frankrijk en Japan met begrotingsonderhandelingen die coalities onder druk zetten.
+
+**Europa zit in de tang tussen stagnatie en bezuinigingen.** Frankrijk krimpt, Duitsland groeit moeizaam, en zowel België als Nederland kampen met coalitiecrises over belastingbeleid. De dalende AEX en DAX weerspiegelen het pessimisme over Europese groeivooruitzichten.
+
+**Geopolitiek blijft een wildcard.** De VS bieden Oekraïne NAVO-lidmaatschap in ruil voor de Donbas, terwijl Poetin waarschuwt dat EU-troepen tot hervatting van de oorlog zouden leiden. Ondertussen proberen de VS en China via een AI-veiligheidsdialoog de spanningen te temperen — maar Beijing dreigt met beperkingen op zeldzame aardmetalen als Washington de chipoorlog opvoert.
+
+---
+*Samengesteld op woensdag 18 november 2026.*
+>>>>>>>> bcef67d510077bb02b28ed868b86065ecec90439:archief/2026/11/nieuwskrant-2026-11-18.md
