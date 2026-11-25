@@ -1,76 +1,75 @@
 # MIJN NIEUWSKRANT
-### Maandag 23 november 2026
+### Dinsdag 24 november 2026
 ---
-# Nieuwsscan 2026-11-23
-
 ## 🇧🇪 België
-- **Vakbonden leiden massaprotest tegen besparingen terwijl coalitie wankelt** Tienduizenden Belgen gingen op **23 november** de straat op tegen het besparingsplan van **€10 miljard** van premier **Bart De Wever**. De vijfpartijencoalitie stortte begin november in na mislukte begrotingsonderhandelingen; koning **Filip** gaf De Wever tot **23 november** om een akkoord te bereiken. Het begrotingstekort bedroeg **5,2% van het bbp** in 2025, ruim boven de EU-norm van 3%. (Euronews, 23 nov 2026, https://www.euronews.com/2026/11/23/belgian-unions-lead-protest-against-austerity-policies-as-governments-future-hangs-in-bala)
+- **Begrotingscrisis: De Wever's zombieregering wankelt** Premier **Bart De Wever** bood op 2 november zijn ontslag aan na het mislukken van het begrotingsakkoord, maar koning Filip aanvaardde dat niet. De vijfpartijencoalitie blijft onderhandelen, maar zonder akkoord voor 1 januari 2027 dreigen **voorlopige twaalfden**. De Europese Commissie waarschuwt dat het begrotingstekort oploopt naar **5,5% van het bbp**. (VRT NWS, 23 november 2026, https://www.vrt.be/vrtnws/nl/2026/11/22/kan-premier-de-wever-zijn-zombieregering-nieuw-leven-inblazen/)
 ---
 
 ## 🇳🇱 Nederland
-- **Coalitie op scherp: VVD weegt reactie op belastingdeal** De minderheidscoalitie van premier **Rob Jetten** (D66) staat opnieuw onder druk nu de **VVD** dreigt steun in te trekken na onenigheid over een belastingakkoord. Het **CBS** meldt dat datacenters inmiddels **5% van het Nederlandse elektriciteitsverbruik** opsouperen. **DNB** waarschuwt dat bijna **1 miljoen huishoudens** hogere hypotheeklasten tegemoet gaan door aflopende rentecontracten. (DutchNews.nl, nov 2026, https://www.dutchnews.nl/)
+- **Minderheidskabinet-Jetten overleeft crisis, Buma bemiddelt** De coalitie van **D66, VVD en CDA** gaat als minderheidskabinet verder nadat de VVD het experiment mislukt noemde. Oud-vicepresident van de Raad van State **Sybrand Buma** is ingeschakeld om structurele afspraken te maken over begrotingssteun met de oppositie. Het belastingplan leverde door amendementen slechts **€1 miljard** op in plaats van €1,5 miljard. (NOS, november 2026, https://nos.nl/artikel/2639883-kabinetscrisis-bezworen-met-leeg-verhaal-coalitie-voorlopig-door-op-wilskracht)
 ---
 
 ## 🇹🇷 Turkije
-- **Energieminister presenteert Nationaal Energie 2040-plan met investering van $500 miljard** Minister **Alparslan Bayraktar** presenteerde op **23 november** in het parlement het programma "National Energy 2040", dat voorziet in **$500 miljard** aan investeringen over 14 jaar om de stroomcapaciteit meer dan te verdubbelen. De werkloosheid steeg naar **8,1%** in het derde kwartaal, terwijl Turkije zich voorbereidt op EU-visumonderhandelingen. (Daily Sabah, 23 nov 2026, https://www.dailysabah.com/business/economy/turkiye-plans-to-more-than-double-power-capacity-eyes-500b-investment)
+- **Pensioenverhoging boven inflatieniveau aangekondigd** Vicepresident **Cevdet Yılmaz** maakte bekend dat de Turkse regering de pensioenen nog dit jaar boven het inflatiecijfer wil verhogen. De jaarlijkse inflatie bedroeg in oktober **29,8%** en de werkloosheid steeg licht naar **8,1%** in het derde kwartaal. (Daily Sabah, november 2026, https://dailysabah.com/business/economy/turkiye-plans-pension-increase-above-inflation-rate-vp-yilmaz)
 ---
 
 ## 🇫🇷 Frankrijk
-- **Senaat buigt zich over begroting na massastaking van 575.000 mensen** De **Senaat** begon op **20 november** de behandeling van de begroting-2027 nadat het parlement die eerder met **458 tegen 0** had verworpen. Op 5 november staakten naar schatting **575.000 Fransen** tegen de besparingen van **€54 miljard** van premier **Sébastien Lecornu**. Een stemming in de Senaat staat gepland voor **9 december**, zes maanden voor de presidentsverkiezingen. (Euronews, 5 nov 2026, https://www.euronews.com/2026/11/05/france-braces-for-nationwide-strike-as-government-backs-austerity-budget-to-rein-in-soarin)
+- **Macron overweegt begrotingsregels in grondwet te verankeren** President **Emmanuel Macron** wil een "gouden regel" voor overheidsfinanciën grondwettelijk vastleggen, naar het voorbeeld van een voorstel uit 2011. Het bbp kromp met **0,1%** in het derde kwartaal, de inflatie steeg naar **3,4%** en Moody's halveerde de groeiprognose voor 2026 naar **0,2%**. (France 24, 24 november 2026, https://france24.com/en/video/20261124-macron-mulls-enshrining-fiscal-rules-in-french-constitution)
 ---
 
 ## 🇩🇪 Duitsland
-- **Merz sluit deal over verlaging elektriciteitsbelasting na coalitiecrisis** Bondskanselier **Friedrich Merz** bereikte op **18 november** een akkoord om de elektriciteitsbelasting voor huishoudens en bedrijven ook in **2027** te verlagen. De deal volgde op een financieringsruzie die de coalitie bijna deed barsten na verkiezingsnederlagen in september. Het Duitse bbp bleef in het derde kwartaal **vlak**, na krimp in zowel 2023 als 2024. (Yahoo News, 18 nov 2026, https://www.yahoo.com/news/politics/articles/merz-clinches-deal-cut-electricity-110352774.html)
+- **Wirtschaftsweise eisen nieuwe belastingtoeslag en harde bezuinigingen** De Duitse economische adviesraad stelt in het jaarrapport een toeslag op inkomsten-, vennootschaps- en vermogenswinstbelasting voor, plus forse bezuinigingen. Defensie-uitgaven zouden geleidelijk buiten de reguliere begroting gefinancierd moeten worden. Bondskanselier **Friedrich Merz** scoort een **recorddieptepunt** in de peilingen met slechts 10% tevredenheid. (Handelsblatt, november 2026, https://www.handelsblatt.com/politik/deutschland/deutschland-wirtschaftsweise-fordert-neue-steuer-und-harte-kuerzungen-01/100267312.html)
 ---
 
 ## 🇷🇺 Rusland
-- **Kremlin zoekt dialoog met Europese landen over vredesproces** Woordvoerder **Dmitri Peskov** verklaarde op **23 november** dat Rusland bereid is tot gesprekken met Europese landen om hun bereidheid tot een vredesbijdrage te peilen. Ondertussen schreef **Dmitri Medvedev** dat grootschalig gebruik van niet-nucleaire wapens grond kan zijn voor een **preventieve nucleaire aanval**. De olieraffinaderij in **Novosjakhtinsk** (regio Rostov) werd stilgelegd na een Oekraïense drone-aanval. (TASS, 23 nov 2026, https://tass.com/politics/2223415)
+- **Doema keurt federale begroting 2027-2029 goed** De Russische Doema heeft in derde lezing de begroting voor **2027-2029** aangenomen met geraamde uitgaven van **48,7 biljoen roebel** tegen **43,3 biljoen** aan inkomsten. Het begrotingstekort wordt geschat op circa **3% van het bbp**. Premier **Misjoesjtin** presenteerde daarnaast een nationaal AI-implementatieplan. (TASS, 24 november 2026, https://tass.com/politics/2223939)
 ---
 
 ## 🇬🇧 Verenigd Koninkrijk
-- **Burnham-regering presenteert eerste begroting: £4,1 miljard voor koopkracht** Minister van Financiën **John Healey** onthulde **98 maatregelen** met **£4,1 miljard** aan koopkrachtverlichting, gefinancierd door heffingen op spaarders, verhuurders en banken. Premier **Andy Burnham** noemde de begrotingsruimte "niet wat ik had gehoopt". De **OBR** waarschuwde dat staatsschuld en inflatie beide op jaarhoogtes stonden voor de begroting. (Bloomberg, 28 okt 2026, https://www.bloomberg.com/news/articles/2026-10-28/burnham-s-budget-hopes-for-the-best-in-turbulent-times-for-uk)
+- **Premier Burnham zet in op defensie-industrialisatie voor economische groei** Premier **Andy Burnham** en kanselier **John Healey** richten het economisch beleid op defensie-investeringen als groeistrategie. Het VK committeert zich aan de **NAVO-norm van 3,5% bbp** voor defensie tegen 2035. Healey dichte een gat van **£4,7 miljard** in het Defence Investment Plan, maar Burnham gaf toe dat zijn eerste begroting minder ambitieus was dan gehoopt. (London Business News, november 2026, https://londonlovesbusiness.com/will-healey-now-resign-as-burnham-admits-budget-was-not-radical-enough/)
 ---
 
 ## 🇺🇸 Verenigde Staten
-- **Democraten winnen Congres; afschaffing Trump-tarieven wordt topprioriteit** Na de **midterms van 3 november** veroverden de Democraten beide kamers van het Congres. Afschaffing van de **Section 301-tarieven** (10-12,5% op importen uit 60 landen) staat bovenaan de agenda; een **Reuters/Ipsos-peiling** toont dat **62%** van de Amerikanen intrekking steunt. De consumentenprijzen stegen in oktober met **0,4%** en de **S&P 500** sloot in correctiegebied. (CNN, 13 nov 2026, https://www.cnn.com/2026/11/13/economy/trumps-tariffs-new-threat)
+- **Trump dwingt Nvidia-bestuur: Jensen Huang terug als CEO, aandeel +31%** President **Donald Trump** heeft samen met vicepresident **JD Vance** het Nvidia-bestuur direct onder druk gezet om **Jensen Huang** te herbenoemen als CEO, minder dan twee weken na diens ontslag. Het Nvidia-aandeel steeg **31,5%** in één dag, de Nasdaq 100 won **6,9%**. Senator **Dave McCormick** (R) waarschuwde voor een "gevaarlijk precedent" van overheidsinmenging in bedrijfsbestuur. (Bloomberg, 24 november 2026, https://www.bloomberg.com/news/newsletters/2026-11-24/trump-s-jensen-huang-snapback-carries-deeper-risks)
 ---
 
 ## 🇮🇳 India
-- **RBI overweegt tweede renteverhoging; PMI blijft sterk op 56,3** De **Reserve Bank of India** verhoogde de repo-rente in oktober naar **5,50%** en analisten verwachten een nieuwe verhoging van **25 basispunten** op de vergadering van **2-4 december**. De **HSBC-PMI** voor november kwam uit op **56,3** (oktober: 56,2). De deviezenreserves daalden licht naar **$719,5 miljard**, terwijl **S&P Global** een groei van **7%** voorspelt voor FY27. (FXStreet, 23 nov 2026, https://www.fxstreet.com/news/indian-rupee-hits-a-pause-after-a-rally-indias-hsbc-pmi-expands-again-202611230559)
+- **RBI naar verwachting naar renteverhoging in december bij inflatie boven 6%** De Reserve Bank of India verhoogde de repo-rente in oktober van **5,25% naar 5,50%** — de eerste verhoging in bijna vier jaar. De detailhandelsinflatie steeg naar **6,09%**, boven de bovengrens van het RBI-mandaat. Economen verwachten een verdere verhoging naar **6,25%** bij de vergadering van **2 tot 4 december**. (JournalArta, 16 november 2026, https://journalarta.com/en/2026/11/16/rbi-raise-interest-rates-6-25-inflation-oil/)
 ---
 
 ## 🇨🇳 China
-- **Beurzen onthullen steunpakket na uitverkoop: margevereiste verlaagd** De beurzen van **Shanghai, Shenzhen en Beijing** verlaagden op **23 november** de margevereiste voor aandelenaankopen op krediet van **100% naar 80%**, ingaand op 30 november. De maatregel volgt op meerdere dagen van koersdalingen. De economische groei dreigt aan de onderkant van de **4,5-5%**-doelstelling uit te komen, terwijl staatsmedia westerse waarschuwingen over een "deflatievalstrik" verwerpen. (Caixin Global, 23 nov 2026, https://caixinglobal.com/2026-11-23/china-unveils-new-stock-market-support-measures-after-selloff-102507843.html)
+- **VS zet Megaspeed op zwarte lijst na Nvidia-chipschandaal** Het Amerikaanse ministerie van Handel plaatste het Singaporese **Megaspeed**, een Nvidia-partner, op de handelszwarte lijst wegens vermoedelijke doorvoer van AI-chips naar China. Tegelijkertijd eisen congresleden van beide partijen strengere chipbeperkingen na de herbenoeming van **Jensen Huang**. Chinese export van zeldzame-aardmagneten naar de VS en EU daalde na een opleving in september. (Global Times / SCMP, november 2026, https://www.globaltimes.cn/page/202611/1374957.shtml)
 ---
 
 ## 🇯🇵 Japan
-- **BOJ-renteverhoging nadert; btw-verlaging op voedsel passeert Lagerhuis** De **Bank of Japan** signaleerde dat meerdere bestuursleden een renteverhoging in **december** noodzakelijk achten. Het parlement keurde eerder een verlaging van de **consumptiebelasting op voedsel** goed, een speerpunt van premier **Sanae Takaichi**, maar de **DPP** eist aanpassingen in het Hogerhuis. De **Nikkei 225** is circa **20% gedaald** ten opzichte van de piek en de economie kromp door lagere consumptie. (Japan Times, nov 2026, https://www.japantimes.co.jp/news/politics/)
+- **Premier Takaichi versnelt ICC-betaling om sanctiedreiging VS voor te zijn** Premier **Sanae Takaichi** heeft de Japanse bijdrage aan het Internationaal Strafhof vervroegd om de financiering voor fiscaal jaar 2027 veilig te stellen vóór mogelijke Amerikaanse sancties. Ondertussen staat onderwijsminister **Yoshihiro Seki** onder druk om af te treden vanwege een fondswervingsschandaal; zes oppositiepartijen dreigen met een **motie van afkeuring**. (Japan Times, 24 november 2026, https://www.japantimes.co.jp/news/2026/11/24/japan/politics/japan-pm-takaichi-icc-akane/)
 ---
 
-## 📊 Marktoverzicht (laatst beschikbare koersen)
+## 📊 Marktoverzicht (24 november 2026)
 
 | Instrument | Koers | Verandering |
 |---|---|---|
-| **Bitcoin (BTC)** | ~$61.000 | Daling van ~$74.000 begin nov. |
-| **Ethereum (ETH)** | ~$1.816 | -20% in Q4; uitstroom ETH-ETF's |
-| **Goud (XAU)** | ~$3.586/oz | Daling van ~$4.031 begin nov. |
-| **Brent crude** | ~$92/vat | Daling van ~$104 begin nov. |
-| **EUR/USD** | ~1,10 | 18-maands laagtepunt; -4,2% ytd |
-| **S&P 500** | ~6.910 (vr 20/11) | -3,7%; AI-uitverkoop |
-| **AEX** | ~1.141 (vr 13/11) | Dicht bij record; chipdruk |
-| **DAX** | ~24.803 (vr 20/11) | -2,6%; herstel ma. verwacht |
-| **Nikkei 225** | ~56.437 (vr 20/11) | -5,1%; AI-correctie |
+| **Bitcoin (BTC)** | $60.459 | ≈ stabiel |
+| **Ethereum (ETH)** | $1.703 | -0,1% |
+| **Goud** | $3.625 | ≈ stabiel |
+| **Brent (olie)** | $90,63 | -2,1% |
+| **EUR/USD** | 1,1016 | ≈ stabiel |
+| **S&P 500** | +4,8% | Sterke rally |
+| **Nasdaq 100** | +6,9% | Nvidia-effect |
+| **DAX** | +2,2% | Meeliftend |
+| **Nikkei 225** | +3,9% | Rally Azië |
+| **AEX** | +1,8%* | Europese winst |
 
-*Koersen indicatief; markten waren vrijdag 20/11 sterk negatief door een wereldwijde AI-uitverkoop.*
+*AEX geschat op basis van Eurostoxx 600 (+1,8%). Bron: Fortune, Trading Economics, ABC News, Bloomberg, 24 nov 2026.
 
 ---
 
 ## 🔗 De Grote Lijnen
 
-Van Brussel tot Tokio staan overheden klem tussen **besparingsdruk en volkswoede**: België zag tienduizenden demonstranten op straat tegen €10 miljard aan bezuinigingen, Frankrijk 575.000 stakers tegen €54 miljard, en in Nederland wankelt de coalitie over belastingverschuivingen — terwijl centrale banken (Fed, BoE, RBI, en binnenkort de BoJ) de rente blijven verhogen tegen hardnekkige inflatie. Die dubbele klem van fiscale verkrapping én monetaire verstrakking voedt de **wereldwijde uitverkoop op aandelenmarkten**, met de S&P 500 in correctiegebied en de Nikkei 20% onder zijn piek.
+Het dominante thema vandaag is de **wereldwijde begrotingscrisis** die van Brussel tot Berlijn, van Den Haag tot Parijs vrijwel ieder land in zijn greep houdt. België (5,5% tekort), Frankrijk (bbp -0,1%), Duitsland (recordlage steun voor Merz) en Nederland (mislukt belastingplan) worstelen allemaal met dezelfde spanning: hoe bezuinig je zonder de economie te verstikken? Rusland kiest met 48,7 biljoen roebel aan uitgaven voor het tegenovergestelde — maximaal uitgeven terwijl het tekort op 3% wordt gehouden.
 
-Op het **geopolitieke schaakbord** tekent zich een voorzichtige ontdooiing af — Rusland biedt dialoog aan, de Democratische Congresmeerderheid wil Trump-tarieven afschaffen, China verlaagt margevereisten om markten te stutten — maar Medvedevs nucleaire dreigementen, Beijings zeldzame-aardmetaalchantage en de onzekere Oekraïne-gesprekken tonen hoe broos die signalen zijn.
+Tegelijkertijd tekent zich een **geopolitiek schisma rond technologie en defensie** af. Trumps directe interventie bij Nvidia — met een koersstijging van 31,5% als gevolg — toont hoe diep de staat inmiddels verstrengeld is met big tech, terwijl diezelfde VS via exportbeperkingen (Megaspeed op de zwarte lijst) de chipoorlog met China opvoert. Het VK zet expliciet in op defensie-industrialisatie als groeimotor en Japan haast zich om het ICC te betalen vóór mogelijke Amerikaanse sancties — beide tekenen van bondgenoten die laveren tussen loyaliteit aan Washington en het beschermen van eigen belangen.
 
-Turkije en Japan laten zien dat de **energietransitie en consumentenbescherming** ieder hun prijs hebben: Ankara pompt $500 miljard in een energieplan terwijl de werkloosheid stijgt naar 8,1%, Tokio verlaagt de voedselbelasting maar de economie krimpt al. Het patroon is universeel: elke regering die burgers ontziet, riskeert de toorn van markten en ratingbureaus, en omgekeerd.
+Op de markten is het beeld gespleten: de **Nvidia-rally** sleept aandelenindices wereldwijd omhoog (S&P +4,8%, Nikkei +3,9%), maar de onderliggende fundamenten — stijgende inflatie in India en Turkije, krimpende groei in Europa, dalende olieprijzen — wijzen op structurele kwetsbaarheid onder het optimisme.
 
 ---
