@@ -1,6 +1,8 @@
 # MIJN NIEUWSKRANT
-### Donderdag 26 november 2026
+### Vrijdag 27 november 2026
 ---
+# Nieuwsoverzicht 2026-11-27
+
 ## 🇧🇪 België
 - **Begrotingsimpasse: België moet mogelijk €1,5 miljard extra per jaar aan EU betalen** Terwijl premier **De Wever** tot **31 december** de tijd heeft om een akkoord te sluiten over **€13 miljard** aan besparingen, stelt de Europese Commissie voor om de douane-inningsvergoeding voor België te verlagen van **25%** naar **10%**. Op 23 november protesteerden **50.000 mensen** in Brussel tegen het besparingsbeleid; alle vluchten vanaf Brussels Airport werden geannuleerd. (VRT NWS, 25 november 2026, https://vrt.be/vrtnws/nl/2026/11/25/moet-belgie-vanaf-2028-per-jaar-1-5-miljard-euro-meer-bijdragen)
 ---
@@ -46,30 +48,27 @@
 ---
 
 ---
-## 📊 Marktoverzicht (indicatief, 26 nov 2026)
 
-| Instrument | Koers | Trend |
+## 📊 Marktoverzicht
+
+| Instrument | Koers | Verandering |
 |---|---|---|
-| Bitcoin (BTC) | ~$84.700 | ▼ Onder ATH ($126k), zijwaarts |
-| Ethereum (ETH) | ~$1.828 | ▼ Fors gedaald in november |
-| Goud (XAU) | ~$4.115/oz | ▲ Nabij recordniveaus |
-| Brent olie | ~$110/vat | ▲ 5-maands hoogtepunt |
-| EUR/USD | ~1,122 | ▼ Euro onder druk |
-| S&P 500 | ~7.382 | ▲ Nabij record |
-| AEX | ~1.116 | ▶ Stabiel |
-| DAX 40 | ~25.687 | ▶ Licht herstel |
-| Nikkei 225 | ~58.280 | ▼ Terug van ATH (68k) |
+| Bitcoin (BTC) | $59.325 | -2,2% |
+| Ethereum (ETH) | $1.656 | -2,5% |
+| Goud (spot) | $3.566/oz | -0,6% |
+| Brent Crude | $93,65/vat | -1,0% |
+| EUR/USD | 1,0964 | +0,01% |
+| S&P 500 | 7.244 | +0,9% |
+| AEX | 1.083 | +1,9% |
+| DAX | 25.327 | +0,4% |
+| Nikkei 225 | 58.711 | +2,1% |
+
+*Bronnen: Investing.com, Yahoo Finance, TradingEconomics, altii.de — 27 november 2026. Koersen zijn indicatief.*
 
 ---
+
 ## 🔗 De Grote Lijnen
 
-**Tarieven als wereldwijd slagveld.** Trumps importtarieven domineren het nieuws van Tokio tot Brussel: Japan protesteert formeel, China dreigt met vergelding, de EU bereidt tegenmaatregelen voor en India onderhandelt over preferentiële toegang. De handelsoorlog versnelt de fragmentatie van de wereldeconomie in rivaliserende blokken.
-
-**Europa spaart zich kapot.** Van België (€13 mrd bezuinigingen), via Nederland (box 3-strijd om €8 mrd) en Duitsland (recordbegroting van €560 mrd bij 0,1% groei) tot Frankrijk (schuld 120% bbp) en het VK (hoogste belastingdruk sinds WOII): het hele continent worstelt met dezelfde spanning tussen begrotingsdiscipline en sociaal ongenoegen — getuige de 50.000 betogers in Brussel.
-
-**Techsector onder geopolitieke druk.** Amerikaanse chiprestricties raken Nederland en China tegelijk: Den Haag verzet zich, terwijl Hongkong-chipbedrijven tot 25% kelderen. Ondertussen positioneren Rusland (AI Journey) en Japan (derde AI-natie) zich in de AI-wapenwedloop.
-
-**Grondstoffen als geopolitieke barometer.** Goud boven $4.100 en Brent boven $110 weerspiegelen de nervositeit: sanctiepakketten tegen Rusland, tariefescalatie met China en politieke instabiliteit in Turkije (onderzoek Kavcıoğlu, arrestatie İmamoğlu) houden de risicopremie hoog, terwijl crypto juist wegzakt als risicobarometer.
+Het dominante thema vandaag is **handelsoorlog en tarieven**: de VS escaleert op alle fronten — China, de EU, Japan en zelfs India worden geconfronteerd met nieuwe of dreigende importheffingen. Dit drukt crypto en olie, maar stuurt Europese en Aziatische aandelenmarkten juist omhoog doordat beleggers hopen op stimuleringsmaatregelen als tegenwicht. De **begrotingskrapte** is het tweede rode draad: van België (€13 mld besparingen) via Frankrijk (120% schuld/bbp) en Duitsland (€560 mld recordbegroting) tot het VK (hoogste belastingdruk sinds WOII) worstelt heel Europa met dezelfde spagaat tussen bezuinigen en investeren. Ondertussen beweegt **geopolitiek** onder de oppervlakte: Turkije en Rusland zoeken eigen koers — Ankara met een anti-corruptieoffensief en PKK-terugtrekking, Moskou met een AI-conferentie ondanks krimpende reserves en aankomende EU-sancties. China's interne zuivering (onderzoek Shanghai-partijchef) gecombineerd met kelderende chipkoersen laat zien dat Peking tegelijk binnenlandse controle en buitenlandse druk moet managen. De trans-Atlantische alliantie kraakt: Nederland en Japan protesteren openlijk tegen Amerikaanse chiprestricties en tarieven, een toonverandering die de diplomatieke verhoudingen in 2027 zal bepalen.
 
 ---
-*Samengesteld op donderdag 26 november 2026.*
